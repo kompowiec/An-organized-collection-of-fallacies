@@ -13,3 +13,6 @@ Number of main branches: 12
 
 # How to edit
 I use Freeplane application, because it uses its own XML format which is not interoperable, I also provide SVG and PNG rendered works for easier display.
+
+# suplement
+![Graham's Hierarchy of Disagreement](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Graham%27s_Hierarchy_of_Disagreement.svg/707px-Graham%27s_Hierarchy_of_Disagreement.svg.png)
