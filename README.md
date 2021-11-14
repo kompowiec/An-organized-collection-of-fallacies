@@ -7,5 +7,5 @@ Total number of nodes: 255
 Total number of leaf nodes: 204
 Number of main branches: 12
 
-== How to edit ==
+# How to edit
 I use Freeplane application, because it uses its own XML format which is not interoperable, I also provide SVG and PNG rendered works for easier display.
