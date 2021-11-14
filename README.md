@@ -4,9 +4,9 @@ This list is inspired by an organized collection of irrational nonsense, but thi
 
 Statistics:
 
-Total number of nodes: 255
+Total number of nodes: 287
 
-Total number of leaf nodes: 204
+Total number of leaf nodes: 226
 
 Number of main branches: 12
 
