@@ -4,9 +4,9 @@ This list is inspired by an organized collection of irrational nonsense, but thi
 
 Statistics:
 
-Total number of nodes: 263
+Total number of fallacies: 285
 
-Total number of leaf nodes: 203
+Total number of leaf nodes: 222
 
 Number of main branches: 12
 
