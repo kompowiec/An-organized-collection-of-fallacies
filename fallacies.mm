@@ -15,7 +15,7 @@
             <node_level_condition VALUE="6" COMPARATION_RESULT="0" SUCCEED="true"/>
         </conditional_style>
     </conditional_styles>
-    <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff"/>
+    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -101,8 +101,8 @@
 </node>
 <node TEXT="Circular cause and consequence" ID="ID_1963372887" CREATED="1635761833896" MODIFIED="1635771881224"/>
 </node>
-<node TEXT="Gambler&apos;s fallacy (inverse)" FOLDED="true" ID="ID_1488609103" CREATED="1618490065327" MODIFIED="1620019416851">
-<node TEXT="Hot hand fallacy (phenomenon)" ID="ID_772146751" CREATED="1635760812621" MODIFIED="1636907151066"/>
+<node TEXT="Gambler&apos;s fallacy (inverse)" ID="ID_1488609103" CREATED="1618490065327" MODIFIED="1636916104300">
+<node TEXT="Hot hand fallacy (phenomenon)" ID="ID_772146751" CREATED="1635760812621" MODIFIED="1636916104295"/>
 <node TEXT="Ludic fallacy" ID="ID_1399433041" CREATED="1636912775000" MODIFIED="1636912777638"/>
 </node>
 <node TEXT="Regression / regressive fallacy" ID="ID_1612487258" CREATED="1618490073579" MODIFIED="1636907191506"/>
@@ -648,7 +648,7 @@
 </node>
 <node TEXT="Recontextualisation" ID="ID_1485255858" CREATED="1635773271556" MODIFIED="1635773272588"/>
 <node TEXT="Argument from fallacy" ID="ID_1704734458" CREATED="1635774294945" MODIFIED="1636914694088">
-<arrowlink COLOR="#ff0000" DESTINATION="ID_480276856"/>
+<arrowlink COLOR="#ff0000" TRANSPARENCY="255" DESTINATION="ID_480276856"/>
 <richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
@@ -689,8 +689,8 @@
 </html></richcontent>
 </node>
 <node TEXT="Wishful thinking" ID="ID_1420024721" CREATED="1618490241592" MODIFIED="1636909748501">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1665697231" STARTINCLINATION="197.24999 pt;0 pt;" ENDINCLINATION="197.24999 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink COLOR="#ff0000" TRANSPARENCY="255" DESTINATION="ID_860419904"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1665697231" STARTINCLINATION="197.24999 pt;0 pt;" ENDINCLINATION="197.24999 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <node TEXT="Magical thinking" ID="ID_1687161475" CREATED="1635771958207" MODIFIED="1635771959549"/>
 </node>
 </node>
@@ -904,10 +904,10 @@
 </node>
 <node TEXT="Nut-picking" ID="ID_1397530959" CREATED="1618499821775" MODIFIED="1618499823354"/>
 <node TEXT="Thought-terminating cliché" ID="ID_349827019" CREATED="1618499854696" MODIFIED="1636877047653">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1706945405" STARTINCLINATION="570.74998 pt;-37.5 pt;" ENDINCLINATION="572.24998 pt;-37.5 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1706945405" STARTINCLINATION="570.74998 pt;-36.75 pt;" ENDINCLINATION="572.24998 pt;-36.75 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 <node TEXT="Base rate fallacy" ID="ID_1595124117" CREATED="1620018868030" MODIFIED="1636914736040">
-<arrowlink COLOR="#ff0000" DESTINATION="ID_480276856"/>
+<arrowlink COLOR="#ff0000" TRANSPARENCY="255" DESTINATION="ID_480276856"/>
 <richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
@@ -921,7 +921,7 @@
 </html></richcontent>
 </node>
 <node TEXT="Appeal to probability (Murphy&apos;s law)" ID="ID_918797613" CREATED="1635776906904" MODIFIED="1636914644403">
-<arrowlink COLOR="#ff0000" DESTINATION="ID_480276856"/>
+<arrowlink COLOR="#ff0000" TRANSPARENCY="255" DESTINATION="ID_480276856"/>
 </node>
 <node TEXT="Availability heuristic" ID="ID_987694648" CREATED="1635776943046" MODIFIED="1636913433600"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
@@ -1245,7 +1245,7 @@
   </body>
 </html>
 </richcontent>
-<arrowlink COLOR="#ff0000" DESTINATION="ID_1429915355"/>
+<arrowlink COLOR="#ff0000" TRANSPARENCY="255" DESTINATION="ID_1429915355"/>
 <edge COLOR="#00007c"/>
 <node TEXT="Existential fallacy" ID="ID_875713648" CREATED="1618488027908" MODIFIED="1636914225657"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
@@ -1283,8 +1283,7 @@
       (also known as: illicit process of the major term)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Illicit minor" ID="ID_717860712" CREATED="1618488112422" MODIFIED="1636914417331"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
@@ -1296,8 +1295,7 @@
       (also known as: illicit process of the minor term)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Fallacy of the undistributed middle (non distributio medii)" ID="ID_1155617988" CREATED="1618488132067" MODIFIED="1635719003395"/>
 <node TEXT="Modal (Scope) Fallacy" ID="ID_133092663" CREATED="1618488139286" MODIFIED="1636914453499"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
@@ -1310,8 +1308,7 @@
       (also known as: fallacy of modal logic, misconditionalization, fallacy of neccessity)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Conjunction fallacy" ID="ID_19391209" CREATED="1618487932836" MODIFIED="1636914472715">
@@ -1326,8 +1323,7 @@
       (also known as: conjunction effect)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Disjunction Fallacy" ID="ID_1402000060" CREATED="1636914555627" MODIFIED="1636914557160"/>
 <node ID="ID_249917460" CREATED="1618487959453" MODIFIED="1618644590473"><richcontent TYPE="NODE">
@@ -1354,8 +1350,7 @@
       (also known as: the fallacy of the alternative disjunct, false exclusionary disjunct, affirming one disjunct, the fallacy of the alternative syllogism, asserting an alternative, improper disjunctive syllogism, fallacy of the disjunctive syllogism)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Affirming the consequent" ID="ID_263658874" CREATED="1618487997134" MODIFIED="1636914786175"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
@@ -1367,8 +1362,7 @@
       (also known as: converse error, fallacy of the consequent, asserting the consequent, affirmation of the consequent)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Affirming the consequent" ID="ID_1157589957" CREATED="1618488004628" MODIFIED="1636914803260"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
@@ -1380,8 +1374,7 @@
       (also known as: converse error, fallacy of the consequent, asserting the consequent, affirmation of the consequent)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Politician&apos;s syllogism" ID="ID_827540519" CREATED="1636881139255" MODIFIED="1636881140189"/>
 </node>
@@ -1397,8 +1390,7 @@
       (also known as: derailment, “that does not follow”, irrelevant reason, invalid inference, non-support, argument by scenario [form of], false premise [form of], questionable premise [form of])
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Anangeon" ID="ID_1639202385" CREATED="1620019687030" MODIFIED="1620019688241"/>
 </node>
 <node TEXT="Masked-man fallacy" ID="ID_1945849240" CREATED="1618487944636" MODIFIED="1618644541018">
@@ -1420,8 +1412,7 @@
       (also known as: illicit negative, drawing an affirmative conclusion from negative premises, fallacy of negative premises)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Affirmative conclusion from a negative premise" ID="ID_1279222755" CREATED="1618488067037" MODIFIED="1636914883211">
 <arrowlink COLOR="#ff0000" TRANSPARENCY="255" DESTINATION="ID_1429915355"/>
@@ -1435,8 +1426,7 @@
       (also known as: illicit negative, drawing an affirmative conclusion from negative premises, fallacy of negative premises)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Exclusive Premises" ID="ID_606470994" CREATED="1618488073585" MODIFIED="1636914905565">
 <arrowlink COLOR="#ff0000" TRANSPARENCY="255" DESTINATION="ID_1429915355"/>
@@ -1450,8 +1440,7 @@
       (also known as: fallacy of exclusive premises)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Vacuous truth" ID="ID_666725942" CREATED="1618501113454" MODIFIED="1618501114972"/>
