@@ -12,7 +12,7 @@ Number of main branches: 13
 
 
 # How to edit
-I use [Freeplane](https://www.freeplane.org/wiki/index.php/Home) application, because it uses its own XML format which is not interoperable, I also provide SVG and PNG rendered works for easier display.
+I use [Freeplane](https://www.freeplane.org/wiki/index.php/Home) application, because it uses its own XML format which is not interoperable, I also provide raw XML + SVG and PNG rendered works for easier display.
 
 # image
 ![An organized collection of fallacies](https://raw.githubusercontent.com/kompowiec/An-organized-collection-of-fallacies/main/fallacies.svg)
