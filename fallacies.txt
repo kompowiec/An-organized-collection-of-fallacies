@@ -38,7 +38,7 @@ DETAILS:
 (also known as: complex cause, fallacy of the single cause, causal oversimplification, reduction fallacy, genuine but insignificant cause)
  (see:False dilemma)1.1.5 Slippery slope
 DETAILS:
-(also known as absurd extrapolation, thin edge of the wedge, camel's nose, domino fallacy)
+(also known as: absurd extrapolation, thin edge of the wedge, camel's nose, domino fallacy)
 1.1.6 Texas sharpshooter
 DETAILS:
 (also known as: clustering illusion, clustering fallacy)
@@ -275,7 +275,7 @@ DETAILS:
 (also known as: appeal to the common man)
 1.3.10.3.5 Appeal to Popularity
 DETAILS:
-(also see: argumentum ad numeram, appeal to common belief)
+(also known as: argumentum ad numeram, appeal to common belief)
 1.3.10.3.6 Nutpicking Fallacy
 1.3.10.3.7 Gadarene Swine Fallacy
 1.3.10.3.8 Imposter Fallacy
@@ -650,7 +650,7 @@ DETAILS:
 1.10.14 Fallacy of Every and All
 1.10.15 Failure to Elucidate
 DETAILS:
-(also known of: obscurum per obscurius, Fallacies of definition)
+(also known as: obscurum per obscurius, Fallacies of definition)
 1.10.15.1 Homunculus Fallacy
 DETAILS:
 (also known as: homunculus argument, infinite regress)
@@ -713,10 +713,7 @@ DETAILS:
 1.12.5.2 Affirming the consequent
 DETAILS:
 (also known as: converse error, fallacy of the consequent, asserting the consequent, affirmation of the consequent)
-1.12.5.3 Affirming the consequent
-DETAILS:
-(also known as: converse error, fallacy of the consequent, asserting the consequent, affirmation of the consequent)
-1.12.5.4 Politician's syllogism
+1.12.5.3 Politician's syllogism
 1.12.6 Non sequitur
 DETAILS:
 (also known as: derailment, “that does not follow”, irrelevant reason, invalid inference, non-support, argument by scenario [form of], false premise [form of], questionable premise [form of])
@@ -726,13 +723,10 @@ DETAILS:
 (also known as: bafflement, argument by [prestigious] jargon)
 1.12.7 Mathematical fallacy
 1.12.8 Improper premise
-1.12.8.1 Affirmative Conclusion from a Negative Premise
+1.12.8.1 Affirmative conclusion from a negative premise
 DETAILS:
 (also known as: illicit negative, drawing an affirmative conclusion from negative premises, fallacy of negative premises)
- (see:)1.12.8.2 Affirmative conclusion from a negative premise
-DETAILS:
-(also known as: illicit negative, drawing an affirmative conclusion from negative premises, fallacy of negative premises)
- (see:)1.12.8.3 Exclusive Premises
+ (see:)1.12.8.2 Exclusive Premises
 DETAILS:
 (also known as: fallacy of exclusive premises)
  (see:)1.12.9 Vacuous truth
@@ -745,7 +739,7 @@ DETAILS:
 1.13 Ad hoc
 1.13.1 Escape hatch
 1.13.2 God of the gaps
-1.13.3 Handwave
+ (see:Argument from Ignorance)1.13.3 Handwave
 1.13.4 PIDOOMA
 DETAILS:
 (also known as:  Pulled It Directly Out Of My Ass, argumentum ex culo)

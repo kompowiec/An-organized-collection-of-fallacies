@@ -4,18 +4,23 @@ This list is inspired by an organized collection of irrational nonsense, but thi
 
 Statistics:
 
-Total number of nodes: 394
+Total number of nodes: 391
 
-Total number of leaf nodes: 327
+Total number of leaf nodes: 322
 
 Number of main branches: 13
 
 
 # How to edit
-I use [Freeplane](https://www.freeplane.org/wiki/index.php/Home) application, because it uses its own XML format which is not interoperable, I also provide raw XML + SVG and PNG rendered works for easier display.
+I use [Freeplane](https://www.freeplane.org/wiki/index.php/Home) application.
+.mm - Own XML format freeplane
+.xml - because Freeplane uses own XML format which is not interoperable, here you have, i hope, more useful, raw XML format.
+.svg - XML render for vector graphic format
+.png - Binary raster graphic format
+.txt - human-readable tracking changes to a file.
 
 # image
-![An organized collection of fallacies](https://raw.githubusercontent.com/kompowiec/An-organized-collection-of-fallacies/main/fallacies.svg)
+![An organized collection of fallacies - SVG](https://raw.githubusercontent.com/kompowiec/An-organized-collection-of-fallacies/main/fallacies.svg)
 
 # suplement
-![Graham's Hierarchy of Disagreement](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Graham%27s_Hierarchy_of_Disagreement.svg/707px-Graham%27s_Hierarchy_of_Disagreement.svg.png)
+![Graham's Hierarchy of Disagreement - SVG](https://upload.wikimedia.org/wikipedia/commons/7/7c/Graham%27s_Hierarchy_of_Disagreement.svg)
