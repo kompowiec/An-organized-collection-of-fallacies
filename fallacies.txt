@@ -1,10 +1,11 @@
 #MindMapExport FreeplaneVersion:freeplane 1.9.8
 
 1 Informal fallacies
-Gish gallop
-    Spreading (debate)
-Argument by Fast Talking
-    The firehose of falsehood
+-Gish gallop
+--Spreading (debate)
+---Argument by Fast Talking
+----The firehose of falsehood
+-Gaslighting
 1.1 Questionable cause
 DETAILS:
 (also known as: butterfly logic, ignoring a common cause, neglecting a common cause, confusing correlation and causation, confusing cause and effect, false cause, third cause, third-cause fallacy, juxtaposition [form of], reversing causality/wrong direction [form of])
@@ -140,6 +141,8 @@ DETAILS:
 1.3.1.28 Prejudicial Language
 DETAILS:
 (also known as: variant imagization)
+1.3.1.29 Love bombing
+1.3.1.29.1 Milieu control
 1.3.2 Genetic fallacies
  (see:red herring)1.3.2.1 argumentum ad hominem
 1.3.2.1.1 Association fallacy
@@ -158,15 +161,15 @@ DETAILS:
  (see:Fallacies of relevance)1.3.2.1.3.1 Political Correctness Fallacy
  (see:)1.3.2.1.4 Tu quoque
 DETAILS:
-(also known as: appeal to hypocrisy, thou too fallacy, you too fallacy, hypocrisy, personal inconsistency)
-1.3.2.1.4.1 I'm not prejudiced, but...
+(also known as: appeal to hypocrisy, thou too fallacy, you too fallacy, hypocrisy, personal inconsistency, Two wrongs don't make a right, Two wrongs make a right)
+ (see:Weak Analogy)1.3.2.1.4.1 I'm not prejudiced, but...
 1.3.2.1.4.1.1 Friend argument
 DETAILS:
 (also known as: I'm not racist, I have black friends, Some of my best friends are black)
 1.3.2.1.4.2 Whataboutism
 DETAILS:
-(also known as: And you are lynching Negroes, The pot calling the kettle black, The Mote and the Beam)
- (see:Tu quoquead hominem (abusive)Argument to moderationred herring)1.3.2.1.4.3 Appeal to Trust
+(also known as: And you are lynching Negroes, The pot calling the kettle black, The Mote and the Beam, clean hands, amoral familism)
+ (see:Association fallacyTu quoquead hominem (abusive)Argument to moderationred herring)1.3.2.1.4.3 Appeal to Trust
 DETAILS:
 (also known as: appeal to distrust [opposite], appeal to trustworthiness)
 1.3.2.1.4.4 Double Standard
@@ -280,14 +283,11 @@ DETAILS:
 1.3.10.3.7 Gadarene Swine Fallacy
 1.3.10.3.8 Imposter Fallacy
 1.3.10.3.9 Oberbelief
-1.3.10.4 Two wrongs don't make a right
-DETAILS:
-(also known as: Two wrongs make a right)
-1.3.10.5 Judgmental language
-1.3.10.6 Logic Chopping
+1.3.10.4 Judgmental language
+1.3.10.5 Logic Chopping
 DETAILS:
 (also known as: quibbling, nit-picking, smokescreen, splitting-hairs, trivial objections)
-1.3.10.7 Truth by consensus
+1.3.10.6 Truth by consensus
 1.3.11 Straw man Fallacy
  (see:Suppressed correlative)1.3.12 special pleading
  (see:Ad hoc)1.3.12.1 Subjectivist Fallacy
@@ -345,6 +345,9 @@ DETAILS:
 1.3.14.19 Notable Effort
 DETAILS:
 (also known as: “E” is for effort)
+1.3.14.20 Just world fallacy
+DETAILS:
+(also known as: Just world hypothesis)
 1.3.15 Argument from fallacy
 DETAILS:
 (also known as: argumentum ad logicam, disproof by fallacy, argument to logic, fallacy fallacy, fallacist's fallacy, bad reasons fallacy [form of])
@@ -371,7 +374,7 @@ DETAILS:
  (see:Appeal to force)1.4.2.1 Magical thinking
 1.5 uncategorized
 1.5.1 Cartesian circle
-1.5.2 argument from the contrary'
+1.5.2 argument from the contrary
 DETAILS:
 (also known as: Argumentum e contrario, Argumentum ex contrario, )
 1.5.3 Attack ad
@@ -384,112 +387,106 @@ DETAILS:
 DETAILS:
 (also known as: bad comparison, false comparison, inconsistent, comparison [form of])
 1.5.10 Hoyle's Fallacy/Junkyard tornado
-1.5.11 Just world fallacy
-DETAILS:
-(also known as: Just world hypothesis)
-1.5.12 Mind projection fallacy
-1.5.12.1 Psychologist's fallacy
-1.5.12.2 Historian's fallacy
+1.5.11 Mind projection fallacy
+1.5.11.1 Psychologist's fallacy
+1.5.11.2 Historian's fallacy
 DETAILS:
 
 (also known as: Presentism (literary and historical analysis))
-1.5.12.3 Historical fallacy
-1.5.12.4 Fantasy Projection
-1.5.13 Misology
-1.5.14 Missing dollar riddle
-1.5.15 Sunday school answer
-1.5.16 Uniqueness bias
-1.5.17 Virtuality fallacy
-1.5.18 Demonizing the enemy
-1.5.18.1 False accusions
-1.5.19 Gaslighting
-1.5.20 Love bombing
-1.5.20.1 Milieu control
-1.5.21 Alphabet Soup
-1.5.22 Alternative Advance
+1.5.11.3 Historical fallacy
+1.5.11.4 Fantasy Projection
+1.5.12 Misology
+1.5.13 Missing dollar riddle
+1.5.14 Sunday school answer
+1.5.15 Uniqueness bias
+1.5.16 Virtuality fallacy
+1.5.17 Demonizing the enemy
+1.5.17.1 False accusions
+1.5.18 Gaslighting
+1.5.19 Alphabet Soup
+1.5.20 Alternative Advance
 DETAILS:
 (also known as: lose-lose situation)
-1.5.23 Amazing Familiarity
+1.5.21 Amazing Familiarity
 DETAILS:
 (also known as: argument from omniscience, “how the hell can you possibly know that?”)
-1.5.24 Anthropomorphism
+1.5.22 Anthropomorphism
 DETAILS:
 (also known as: personification)
-1.5.25 Argument by Selective Reading
-1.5.26 Commutation of Conditionals
+1.5.23 Argument by Selective Reading
+1.5.24 Commutation of Conditionals
 DETAILS:
 (also known as: the fallacy of the consequent, converting a conditional)
-1.5.27 Confusing an Explanation with an Excuse
+1.5.25 Confusing an Explanation with an Excuse
 DETAILS:
 (also known as: confusing and explanation with justification, confusing elucidation with justification)
-1.5.28 Confusing Currently Unexplained with Unexplainable
-1.5.29 Conspiracy Theory
+1.5.26 Confusing Currently Unexplained with Unexplainable
+1.5.27 Conspiracy Theory
 DETAILS:
 (also known as: canceling hypothesis, canceling hypotheses, coverups)
-1.5.30 Distinction Without a Difference
-1.5.31 Fact-to-Fiction Fallacy
-1.5.32 False Conversion
-1.5.33 False Effect
-1.5.34 Gadarene Swine Fallacy
-1.5.35 Having Your Cake
+1.5.28 Distinction Without a Difference
+1.5.29 Fact-to-Fiction Fallacy
+1.5.30 False Conversion
+1.5.31 False Effect
+1.5.32 Gadarene Swine Fallacy
+1.5.33 Having Your Cake
 DETAILS:
 (also known as: failure to assert, diminished claim, failure to choose sides)
-1.5.36 Hedging
-1.5.37 Hypnotic Bait and Switch
-1.5.38 Inconsistency
+1.5.34 Hedging
+1.5.35 Inconsistency
 DETAILS:
 (also known as: internal contradiction, logical inconsistency)
-1.5.39 Inflation of Conflict
-1.5.40 Least Plausible Hypothesis
-1.5.41 Limited Depth
-1.5.42 Limited Scope
-1.5.43 Multiple Comparisons Fallacy
+1.5.36 Inflation of Conflict
+1.5.37 Least Plausible Hypothesis
+1.5.38 Limited Depth
+1.5.39 Limited Scope
+1.5.40 Multiple Comparisons Fallacy
 DETAILS:
 (also known as: multiple comparisons, multiplicity, multiple testing problem, the look-elsewhere effect)
-1.5.44 Overextended Outrage
+1.5.41 Overextended Outrage
 DETAILS:
 (also known as: overextended moral outrage, overextended, political outrage)
-1.5.45 Post-Designation
+1.5.42 Post-Designation
 DETAILS:
 (also known as: fishing for data)
-1.5.46 Proof by Intimidation
+1.5.43 Proof by Intimidation
 DETAILS:
 (also known as: argumentum verbosium, proof by verbosity, fallacy of intimidation)
-1.5.47 Proof Surrogate
-1.5.48 Proving Non-Existence
-1.5.49 Psychogenetic Fallacy
-1.5.50 Quantum Physics Fallacy
+1.5.44 Proof Surrogate
+1.5.45 Proving Non-Existence
+1.5.46 Psychogenetic Fallacy
+1.5.47 Quantum Physics Fallacy
 DETAILS:
 (also known as: appeal to quantum physics)
-1.5.51 Retrogressive Causation
-1.5.52 Righteousness Fallacy
-1.5.53 Rights To Ought Fallacy
+1.5.48 Retrogressive Causation
+1.5.49 Righteousness Fallacy
+1.5.50 Rights To Ought Fallacy
 DETAILS:
 (also known as: constitutional rights fallacy)
-1.5.54 Self-righteousness Fallacy
-1.5.55 Selective Attention
-1.5.56 Self-Sealing Argument
+1.5.51 Self-righteousness Fallacy
+1.5.52 Selective Attention
+1.5.53 Self-Sealing Argument
 DETAILS:
 (also known as: vacuous argument)
-1.5.57 Shifting of the Burden of Proof
+1.5.54 Shifting of the Burden of Proof
 DETAILS:
 (also known as: burden of proof [general concept], burden of proof fallacy, misplaced burden of proof, shifting the burden of proof)
-1.5.58 Shoehorning
-1.5.59 Spiritual Fallacy
-1.5.60 Spin Doctoring
+1.5.55 Shoehorning
+1.5.56 Spiritual Fallacy
+1.5.57 Spin Doctoring
 DETAILS:
 (also known as: spinning)
-1.5.61 Statement of Conversion
-1.5.62 Stereotyping (the fallacy)
-1.5.63 Subverted Support
-1.5.64 Sunk-Cost Fallacy
+1.5.58 Statement of Conversion
+1.5.59 Stereotyping (the fallacy)
+1.5.60 Subverted Support
+1.5.61 Sunk-Cost Fallacy
 DETAILS:
 (also known as: argument from inertia, concorde fallacy, finish the job fallacy)
-1.5.65 Tokenism
-1.5.66 Unwarranted Contrast
+1.5.62 Tokenism
+1.5.63 Unwarranted Contrast
 DETAILS:
 (also known as: some are/some are not)
-1.5.67 Use-Mention Error
+1.5.64 Use-Mention Error
 DETAILS:
 (also known as: UME)
 1.6 Faulty generalization/Inductive fallacies
@@ -613,6 +610,7 @@ DETAILS:
 1.9.8 Avoiding the Issue
 DETAILS:
 (also known as: avoiding the question [form of], missing the point, straying off the subject, digressing, distraction [form of])
+1.9.9 Hypnotic Bait and Switch
 1.10 Equivocation
 DETAILS:
 (also known as: doublespeak)
