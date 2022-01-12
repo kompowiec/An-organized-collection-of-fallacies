@@ -13,11 +13,11 @@ Number of main branches: 13
 
 # How to edit
 I use [Freeplane](https://www.freeplane.org/wiki/index.php/Home) application.
-.mm - Own XML format freeplane
-.xml - because Freeplane uses own XML format which is not interoperable, here you have, i hope, more useful, raw XML format.
-.svg - XML render for vector graphic format
-.png - Binary raster graphic format
-.txt - human-readable tracking changes to a file.
+* .mm - Own XML format freeplane
+* .xml - because Freeplane uses own XML format which is not interoperable, here you have, i hope, more useful, raw XML format.
+* .svg - XML render for vector graphic format
+* .png - Binary raster graphic format
+* .txt - human-readable tracking changes to a file.
 
 # image
 ![An organized collection of fallacies - SVG](https://raw.githubusercontent.com/kompowiec/An-organized-collection-of-fallacies/main/fallacies.svg)
