@@ -24,3 +24,7 @@ I use [Freeplane](https://www.freeplane.org/wiki/index.php/Home) application.
 
 # suplement
 ![Graham's Hierarchy of Disagreement - SVG](https://upload.wikimedia.org/wikipedia/commons/7/7c/Graham%27s_Hierarchy_of_Disagreement.svg)
+
+# External links
+* [logicallyfallacious.com](https://logicallyfallacious.com/logicalfallacies/)
+* [aristotl.io](https://www.aristotl.io/)
