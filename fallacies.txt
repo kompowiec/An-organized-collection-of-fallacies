@@ -1,4 +1,4 @@
-#MindMapExport FreeplaneVersion:freeplane 1.9.8
+#MindMapExport FreeplaneVersion:freeplane 1.8.0
 
 1 Informal fallacies
 -Gish gallop
@@ -64,6 +64,8 @@ DETAILS:
 DETAILS:
 (also known as: argumentum ad speculum,hypothesis contrary to fact "what if" ,wouldchuck)
 1.1.10 Denying the antecedent
+DETAILS:
+(also known as: conclusion which denies premises)
 1.2 Ambiguity fallacy
 DETAILS:
 (also known as: ambiguous assertion, amphiboly, amphibology, semantical ambiguity, vagueness)
@@ -119,13 +121,14 @@ DETAILS:
 1.3.1.14 Parade of horribles
 1.3.1.15 Appeal to spite
 DETAILS:
-also known as: argumentum ad odium
+also known as: argumentum ad adium
 1.3.1.16 Stirring symbols
 1.3.1.17 Wisdom of repugnance
 1.3.1.18 Judgmental language
 1.3.1.19 Argumentum ad captandum
 1.3.1.20 Appeal to gravity
 1.3.1.21 Appeal to shame
+1.3.1.21.1 Every Schoolboy Knows
 1.3.1.22 Argumentum ad fastidium
 DETAILS:
 (also known as: appeal to disgust, "argument from disgust. "wisdom of repugnance", "yuck factor")
@@ -143,14 +146,17 @@ DETAILS:
 (also known as: variant imagization)
 1.3.1.29 Love bombing
 1.3.1.29.1 Milieu control
+1.3.1.30 victim playing
+DETAILS:
+(also known as: victim card, playing the victim, self-victimization, professional victim, victim mentality)
 1.3.2 Genetic fallacies
  (see:red herring)1.3.2.1 argumentum ad hominem
 1.3.2.1.1 Association fallacy
 DETAILS:
-(also known as: guilt by association)
+(also known as: guilt by association, Bad Company Fallacy, The Company that You Keep Fallacy)
  (see:red herring)1.3.2.1.1.1 Godwin law
 DETAILS:
-(also known as: Reductio ad Hitlerum, reductio ad racism, Red-baiting, reductio ad Stalinum, Gore's Law, playing the Nazi card, Hitler card)
+(also known as: Reductio ad Hitlerum, reductio ad racism, Red-baiting, reductio ad Stalinum, Gore's Law, playing the Nazi card, Hitler card, Argumentum ad Nazium)
 1.3.2.1.1.2 Galileo Fallacy
 DETAILS:
 (also known as: Galileo argument, Galileo defense, Galileo gambit, Galileo wannabe)
@@ -231,7 +237,8 @@ DETAILS:
 1.3.2.4.1 Appeal to Tradition
 DETAILS:
 (also known as: argumentum ad antiquitatem, appeal to common practice, appeal to antiquity, appeal to traditional wisdom, proof from tradition, appeal to past practice, traditional wisdom)
- (see:)1.3.2.5 Appeal to nature
+ (see:)1.3.2.4.1.1 Non-anticipation
+1.3.2.5 Appeal to nature
 DETAILS:
 (also known as: Argumentum ad Naturam)
 1.3.3 Argument from repetition
@@ -260,7 +267,7 @@ DETAILS:
 1.3.9 Rationalization (psychology)
 1.3.10 red herring
 DETAILS:
-(also known as: Ignoratio elenchi, beside the point, misdirection [form of], changing the subject, false emphasis, the Chewbacca defense, irrelevant conclusion, irrelevant thesis, clouding the issue, ignorance of refutation, Irrelevant conclusion, ignoring refutation)
+(also known as: Ignoratio elenchi, beside the point, misdirection [form of], changing the subject, false emphasis, the Chewbacca defense, irrelevant conclusion, irrelevant thesis, clouding the issue, ignorance of refutation, Irrelevant conclusion, ignoring refutation, Befogging the Issue, Diversion)
  (see:argumentum ad hominemPhantom distinction)1.3.10.1 argumentum ad antiquitatis
 1.3.10.2 argumentum ad Lazarum
 1.3.10.3 Appeal to Common Belief
@@ -288,6 +295,7 @@ DETAILS:
 DETAILS:
 (also known as: quibbling, nit-picking, smokescreen, splitting-hairs, trivial objections)
 1.3.10.6 Truth by consensus
+1.3.10.7 Irrelevant Humour
 1.3.11 Straw man Fallacy
  (see:Suppressed correlative)1.3.12 special pleading
  (see:Ad hoc)1.3.12.1 Subjectivist Fallacy
@@ -402,93 +410,97 @@ DETAILS:
 1.5.16 Virtuality fallacy
 1.5.17 Demonizing the enemy
 1.5.17.1 False accusions
-1.5.18 Gaslighting
-1.5.19 Alphabet Soup
-1.5.20 Alternative Advance
+1.5.18 Alphabet Soup
+1.5.19 Alternative Advance
 DETAILS:
 (also known as: lose-lose situation)
-1.5.21 Amazing Familiarity
+1.5.20 Amazing Familiarity
 DETAILS:
 (also known as: argument from omniscience, “how the hell can you possibly know that?”)
-1.5.22 Anthropomorphism
+1.5.21 Anthropomorphism
 DETAILS:
 (also known as: personification)
-1.5.23 Argument by Selective Reading
-1.5.24 Commutation of Conditionals
+1.5.22 Argument by Selective Reading
+1.5.23 Commutation of Conditionals
 DETAILS:
 (also known as: the fallacy of the consequent, converting a conditional)
-1.5.25 Confusing an Explanation with an Excuse
+1.5.24 Confusing an Explanation with an Excuse
 DETAILS:
 (also known as: confusing and explanation with justification, confusing elucidation with justification)
-1.5.26 Confusing Currently Unexplained with Unexplainable
-1.5.27 Conspiracy Theory
+1.5.25 Confusing Currently Unexplained with Unexplainable
+1.5.26 Conspiracy Theory
 DETAILS:
 (also known as: canceling hypothesis, canceling hypotheses, coverups)
-1.5.28 Distinction Without a Difference
-1.5.29 Fact-to-Fiction Fallacy
-1.5.30 False Conversion
-1.5.31 False Effect
-1.5.32 Gadarene Swine Fallacy
-1.5.33 Having Your Cake
+1.5.27 Distinction Without a Difference
+1.5.28 Fact-to-Fiction Fallacy
+1.5.29 False Conversion
+1.5.30 False Effect
+1.5.31 Gadarene Swine Fallacy
+1.5.32 Having Your Cake
 DETAILS:
 (also known as: failure to assert, diminished claim, failure to choose sides)
-1.5.34 Hedging
-1.5.35 Inconsistency
+1.5.33 Hedging
+1.5.34 Inconsistency
 DETAILS:
 (also known as: internal contradiction, logical inconsistency)
-1.5.36 Inflation of Conflict
-1.5.37 Least Plausible Hypothesis
-1.5.38 Limited Depth
-1.5.39 Limited Scope
-1.5.40 Multiple Comparisons Fallacy
+1.5.35 Inflation of Conflict
+1.5.36 Least Plausible Hypothesis
+1.5.37 Limited Depth
+1.5.38 Limited Scope
+1.5.39 Multiple Comparisons Fallacy
 DETAILS:
 (also known as: multiple comparisons, multiplicity, multiple testing problem, the look-elsewhere effect)
-1.5.41 Overextended Outrage
+1.5.40 Overextended Outrage
 DETAILS:
 (also known as: overextended moral outrage, overextended, political outrage)
-1.5.42 Post-Designation
+1.5.41 Post-Designation
 DETAILS:
 (also known as: fishing for data)
-1.5.43 Proof by Intimidation
+1.5.42 Proof by Intimidation
 DETAILS:
 (also known as: argumentum verbosium, proof by verbosity, fallacy of intimidation)
-1.5.44 Proof Surrogate
-1.5.45 Proving Non-Existence
-1.5.46 Psychogenetic Fallacy
-1.5.47 Quantum Physics Fallacy
+1.5.43 Proof Surrogate
+1.5.44 Proving Non-Existence
+1.5.45 Psychogenetic Fallacy
+1.5.46 Quantum Physics Fallacy
 DETAILS:
 (also known as: appeal to quantum physics)
-1.5.48 Retrogressive Causation
-1.5.49 Righteousness Fallacy
-1.5.50 Rights To Ought Fallacy
+1.5.47 Retrogressive Causation
+1.5.48 Righteousness Fallacy
+1.5.49 Rights To Ought Fallacy
 DETAILS:
 (also known as: constitutional rights fallacy)
-1.5.51 Self-righteousness Fallacy
-1.5.52 Selective Attention
-1.5.53 Self-Sealing Argument
+1.5.50 Self-righteousness Fallacy
+1.5.51 Selective Attention
+1.5.52 Self-Sealing Argument
 DETAILS:
 (also known as: vacuous argument)
-1.5.54 Shifting of the Burden of Proof
+1.5.53 Shifting of the Burden of Proof
 DETAILS:
 (also known as: burden of proof [general concept], burden of proof fallacy, misplaced burden of proof, shifting the burden of proof)
-1.5.55 Shoehorning
-1.5.56 Spiritual Fallacy
-1.5.57 Spin Doctoring
+1.5.54 Shoehorning
+1.5.55 Spiritual Fallacy
+1.5.56 Spin Doctoring
 DETAILS:
 (also known as: spinning)
-1.5.58 Statement of Conversion
-1.5.59 Stereotyping (the fallacy)
-1.5.60 Subverted Support
-1.5.61 Sunk-Cost Fallacy
+1.5.57 Statement of Conversion
+1.5.58 Stereotyping (the fallacy)
+1.5.59 Subverted Support
+1.5.60 Sunk-Cost Fallacy
 DETAILS:
 (also known as: argument from inertia, concorde fallacy, finish the job fallacy)
-1.5.62 Tokenism
-1.5.63 Unwarranted Contrast
+1.5.61 Tokenism
+1.5.62 Unwarranted Contrast
 DETAILS:
 (also known as: some are/some are not)
-1.5.64 Use-Mention Error
+1.5.63 Use-Mention Error
 DETAILS:
 (also known as: UME)
+1.5.64 Blinding with science
+1.5.65 Runaway train
+1.5.66 Shifting ground
+1.5.67 Thatcher’s blame
+1.5.68 Unaccepted enthyrnemes
 1.6 Faulty generalization/Inductive fallacies
 1.6.1 Argument from Hearsay
 DETAILS:
@@ -531,6 +543,7 @@ DETAILS:
 1.6.9.2.1 Mind reading
 1.6.9.2.2 Fortune telling
 1.6.9.2.3 Labeling
+1.6.9.3 Ex-post-facto Statistics
 1.6.10 Inductive fallacy
 1.6.11 Misleading vividness
  (see:)1.6.12 Nut-picking
@@ -560,6 +573,8 @@ DETAILS:
 1.6.23 Lying with Statistics
 DETAILS:
 (also known as: statistical fallacy/fallacies, misunderstanding the nature of statistics [form of], fallacy of curve fitting, the fallacy of overfitting)
+1.6.24 Damning the Alternatives
+1.6.25 Exception that proves the rule
 1.7 Accident Fallacy
 DETAILS:
 (also known as: a dicto simpliciter ad dictum secundum quid, destroying the exception, dicto secundum quid ad dictum simpliciter, dicto simpliciter, converse accident, reverse accident, fallacy of the general rule, sweeping generalization)
@@ -655,15 +670,17 @@ DETAILS:
 1.10.15.2 Definist fallacy
 DETAILS:
 (also known as: persuasive definition fallacy, redefinition)
+1.10.15.3 Extensional Pruning
 1.10.16 Jingle-jangle fallacies
 1.11 Correlative-based fallacies
 1.11.1 False dilemma
 DETAILS:
-(also known as: all-or-nothing fallacy, false dichotomy [form of], the either-or fallacy, either-or reasoning, fallacy of false choice, fallacy of false alternatives, black-and-white thinking, the fallacy of exhaustive hypotheses, bifurcation, excluded middle, no middle ground, polarization)
+(also known as: all-or-nothing fallacy, false dichotomy [form of], the either-or fallacy, either-or reasoning, fallacy of false choice, fallacy of false alternatives, black-and-white thinking, the fallacy of exhaustive hypotheses, bifurcation, excluded middle, no middle ground, polarization, the bogus dilemma)
 1.11.1.1 Nirvana fallacy
 DETAILS:
 (also known as: perfect solution fallacy, perfectionist fallacy)
  (see:Ad hoc)1.11.1.1.1 You are either with us, or against us
+1.11.1.1.2 Unobtainable perfection fallacy
 1.11.1.2 Oversimplified Cause Fallacy
 1.11.2 denying the correlative
 DETAILS:
@@ -676,6 +693,8 @@ DETAILS:
  (see:)1.12.1.1 Existential fallacy
 DETAILS:
 (also known as: existential instantiation)
+1.12.1.2 Half-Concealed Quantification
+1.12.1.2.1 Concealed Quantification
 1.12.2 Formal syllogistic fallacies
 1.12.2.1 Scope fallacy
 DETAILS:
@@ -699,7 +718,9 @@ DETAILS:
 (also known as: improper transposition)
 1.12.2.9 Negative Conclusion from Affirmative Premises
 DETAILS:
-(also known as: illicit affirmative)
+(also known as: illicit affirmative, Positive conclusion from negative premise)
+1.12.2.10 contradictory premises
+1.12.2.11 Quaternio terminorum
 1.12.3 Conjunction fallacy
 DETAILS:
 (also known as: conjunction effect)

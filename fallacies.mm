@@ -43,7 +43,7 @@
             <node_level_condition VALUE="6" COMPARATION_RESULT="0" SUCCEED="true"/>
         </conditional_style>
     </conditional_styles>
-    <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff"/>
+    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -394,6 +394,18 @@
     </p>
   </body>
 </html></richcontent>
+<node TEXT="Prejudicial Language" ID="ID_1258587065" CREATED="1637152921596" MODIFIED="1637152932820"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (also known as: variant imagization)
+    </p>
+  </body>
+</html></richcontent>
+</node>
 </node>
 <node TEXT="Just In Case Fallacy" ID="ID_1123507951" CREATED="1637061437641" MODIFIED="1637061447446"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
@@ -540,18 +552,6 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Prejudicial Language" ID="ID_1258587065" CREATED="1637152921596" MODIFIED="1637152932820"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (also known as: variant imagization)
-    </p>
-  </body>
-</html></richcontent>
-</node>
 <node TEXT="Love bombing" ID="ID_996954372" CREATED="1636877020058" MODIFIED="1636877020964">
 <node TEXT="Milieu control" ID="ID_18265940" CREATED="1636877026612" MODIFIED="1636877027253"/>
 </node>
@@ -598,8 +598,8 @@
 </html></richcontent>
 </node>
 <node TEXT="Galileo Fallacy" ID="ID_356035664" CREATED="1637060635849" MODIFIED="1637252848142">
-<arrowlink DESTINATION="ID_1002187602"/>
 <arrowlink DESTINATION="ID_499300340"/>
+<arrowlink DESTINATION="ID_1002187602"/>
 <richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
@@ -669,12 +669,12 @@
 </node>
 </node>
 <node TEXT="Whataboutism" ID="ID_1213038793" CREATED="1618499261609" MODIFIED="1639397069619">
-<arrowlink COLOR="#ff0000" TRANSPARENCY="255" DESTINATION="ID_1001664273"/>
 <arrowlink DESTINATION="ID_227775878"/>
-<arrowlink COLOR="#ff0000" TRANSPARENCY="255" DESTINATION="ID_1433906146"/>
-<arrowlink DESTINATION="ID_1231588749"/>
 <arrowlink COLOR="#ff0000" TRANSPARENCY="255" DESTINATION="ID_1085503631"/>
+<arrowlink DESTINATION="ID_1231588749"/>
+<arrowlink COLOR="#ff0000" TRANSPARENCY="255" DESTINATION="ID_1433906146"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff3333" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1001664273" STARTINCLINATION="407.99999 pt;0 pt;" ENDINCLINATION="407.99999 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink COLOR="#ff0000" TRANSPARENCY="255" DESTINATION="ID_1001664273"/>
 <richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
@@ -685,8 +685,7 @@
       (also known as: And you are lynching Negroes, The pot calling the kettle black, The Mote and the Beam, clean hands, amoral familism)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Appeal to Trust" ID="ID_579423839" CREATED="1637057348927" MODIFIED="1637057369904"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
@@ -703,8 +702,8 @@
 <node TEXT="Double Standard" ID="ID_1083899198" CREATED="1637058933401" MODIFIED="1637058934123"/>
 </node>
 <node TEXT="Bulverism" ID="ID_1625368575" CREATED="1618500247024" MODIFIED="1637059090188">
-<arrowlink COLOR="#ff0000" TRANSPARENCY="255" DESTINATION="ID_140214538"/>
 <arrowlink COLOR="#ff0000" TRANSPARENCY="255" DESTINATION="ID_742587298"/>
+<arrowlink COLOR="#ff0000" TRANSPARENCY="255" DESTINATION="ID_140214538"/>
 </node>
 <node TEXT="Argumentum ergo decedo" ID="ID_1492588697" CREATED="1618500305217" MODIFIED="1636961904437"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
@@ -994,8 +993,8 @@
 </node>
 <node TEXT="Rationalization (psychology)" ID="ID_1936906108" CREATED="1618498830303" MODIFIED="1618498831232"/>
 <node TEXT="red herring" ID="ID_1001664273" CREATED="1618498835257" MODIFIED="1637244169618">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_950958965" STARTINCLINATION="320.99999 pt;0 pt;" ENDINCLINATION="353.99999 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink COLOR="#ff0000" TRANSPARENCY="255" DESTINATION="ID_1558928662"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_950958965" STARTINCLINATION="320.99999 pt;0 pt;" ENDINCLINATION="353.99999 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
@@ -1174,8 +1173,8 @@
 <arrowlink COLOR="#ff0000" TRANSPARENCY="255" DESTINATION="ID_1008730775"/>
 </node>
 <node TEXT="Toupée fallacy" ID="ID_887874131" CREATED="1636921355408" MODIFIED="1637058148896">
-<arrowlink COLOR="#ff0000" TRANSPARENCY="255" DESTINATION="ID_1812400184"/>
 <arrowlink COLOR="#ff0000" TRANSPARENCY="255" DESTINATION="ID_1474507658" STARTINCLINATION="1479.74996 pt;0 pt;" ENDINCLINATION="1572.74995 pt;0 pt;"/>
+<arrowlink COLOR="#ff0000" TRANSPARENCY="255" DESTINATION="ID_1812400184"/>
 </node>
 <node TEXT="Appeal to eye" ID="ID_859494781" CREATED="1636964642256" MODIFIED="1636964666038"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
@@ -1372,8 +1371,8 @@
 </html></richcontent>
 </node>
 <node TEXT="Wishful thinking" ID="ID_1420024721" CREATED="1618490241592" MODIFIED="1636919675440">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1665697231" STARTINCLINATION="197.24999 pt;0 pt;" ENDINCLINATION="197.24999 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink COLOR="#ff0000" TRANSPARENCY="255" DESTINATION="ID_860419904" STARTINCLINATION="746.99998 pt;0 pt;" ENDINCLINATION="731.24998 pt;0 pt;"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1665697231" STARTINCLINATION="197.24999 pt;0 pt;" ENDINCLINATION="197.24999 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <node TEXT="Magical thinking" ID="ID_1687161475" CREATED="1635771958207" MODIFIED="1635771959549"/>
 </node>
 </node>
@@ -1387,7 +1386,6 @@
   <body>
   </body>
 </html></richcontent>
-<node TEXT="Cartesian circle" ID="ID_1149533291" CREATED="1635720913709" MODIFIED="1635720914602"/>
 <node TEXT="argument from the contrary" ID="ID_828012295" CREATED="1635720634101" MODIFIED="1638901984804"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
@@ -1864,7 +1862,7 @@
 </node>
 <node TEXT="Nut-picking" ID="ID_1397530959" CREATED="1618499821775" MODIFIED="1618499823354"/>
 <node TEXT="Thought-terminating cliché" ID="ID_349827019" CREATED="1618499854696" MODIFIED="1636877047653">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1706945405" STARTINCLINATION="570.74998 pt;-25.5 pt;" ENDINCLINATION="572.24998 pt;-25.5 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1706945405" STARTINCLINATION="570.74998 pt;-24.75 pt;" ENDINCLINATION="572.24998 pt;-24.75 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 <node TEXT="Base rate fallacy" ID="ID_1595124117" CREATED="1620018868030" MODIFIED="1637059040206">
 <arrowlink COLOR="#ff0000" TRANSPARENCY="255" DESTINATION="ID_480276856"/>
@@ -2048,18 +2046,20 @@
   </body>
 </html></richcontent>
 </node>
+<node TEXT="Cartesian circle" ID="ID_1149533291" CREATED="1635720913709" MODIFIED="1635720914602"/>
 </node>
-<node TEXT="Begging the Question" ID="ID_632582513" CREATED="1636913690539" MODIFIED="1636913711408"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<node TEXT="Begging the Question" ID="ID_632582513" CREATED="1636913690539" MODIFIED="1641380526101"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
     
   </head>
   <body>
     <p>
-      (also known as: petitio principii, assuming the initial point, assuming the answer, chicken and the egg argument, circulus in probando)
+      (also known as: petitio principii, assuming the initial point, assuming the answer, chicken and the egg argument, circulus in probando, assuming the conclusion)
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node TEXT="Loaded language" ID="ID_125436482" CREATED="1618489095056" MODIFIED="1637057407939">
 <arrowlink COLOR="#ff0000" TRANSPARENCY="255" DESTINATION="ID_860419904" STARTINCLINATION="1706.24995 pt;0 pt;" ENDINCLINATION="1661.99995 pt;0 pt;"/>
