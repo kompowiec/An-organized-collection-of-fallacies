@@ -809,6 +809,14 @@
                 
             </node>
             
+            <node TEXT="Sociologist's fallacy" COLOR="#18898b" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_597132226" CREATED="1642504080248" MODIFIED="1642504083250" ICON_SIZE="12.0 pt">
+                
+                <edge STYLE="bezier" COLOR="#808080" WIDTH="thin" DASH="SOLID"/>
+                
+                <font NAME="Liberation Sans" SIZE="10" BOLD="true" STRIKETHROUGH="false" ITALIC="false"/>
+                
+            </node>
+            
         </node>
         
         <node TEXT="Ambiguity fallacy" COLOR="#606060" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" POSITION="right" ID="ID_1844366471" CREATED="1618489766336" MODIFIED="1637054311485" ICON_SIZE="12.0 pt">
@@ -1339,14 +1347,6 @@
                     
                 </node>
                 
-                <node TEXT="Wisdom of repugnance" COLOR="#606060" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_443931885" CREATED="1618499034856" MODIFIED="1618499036020" ICON_SIZE="12.0 pt">
-                    
-                    <edge STYLE="bezier" COLOR="#808080" WIDTH="thin" DASH="SOLID"/>
-                    
-                    <font NAME="Dialog" SIZE="8" BOLD="false" STRIKETHROUGH="false" ITALIC="false"/>
-                    
-                </node>
-                
                 <node TEXT="Judgmental language" COLOR="#606060" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_804639896" CREATED="1618500451687" MODIFIED="1618500453220" ICON_SIZE="12.0 pt">
                     
                     <edge STYLE="bezier" COLOR="#808080" WIDTH="thin" DASH="SOLID"/>
@@ -1599,11 +1599,31 @@
                 
                 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1001664273" STARTINCLINATION="473;0;" ENDINCLINATION="473;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
                 
-                <node TEXT="argumentum ad hominem" COLOR="#606060" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_950958965" CREATED="1618490253499" MODIFIED="1637053907155" ICON_SIZE="12.0 pt">
+                <node TEXT="argumentum ad hominem" COLOR="#606060" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_950958965" CREATED="1618490253499" MODIFIED="1642503585400" ICON_SIZE="12.0 pt">
                     
                     <edge STYLE="bezier" COLOR="#808080" WIDTH="thin" DASH="SOLID"/>
                     
                     <font NAME="Dialog" SIZE="8" BOLD="true" STRIKETHROUGH="false" ITALIC="false"/>
+                    
+                    <richcontent TYPE="DETAILS">
+                        
+                        <html>
+                              
+                            <head>
+    
+  </head>
+                              
+                            <body>
+                                    
+                                <p>
+      (also known as: The Fallacy of Personal Attack
+    </p>
+                                  
+                            </body>
+                            
+                        </html>
+                        
+                    </richcontent>
                     
                     <node TEXT="Association fallacy" COLOR="#cc3300" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_227775878" CREATED="1618499116039" MODIFIED="1642251455184" ICON_SIZE="12.0 pt">
                         
@@ -1830,17 +1850,17 @@
                             
                             <font NAME="Dialog" SIZE="8" BOLD="false" STRIKETHROUGH="false" ITALIC="false"/>
                             
-                            <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1231588749" STARTINCLINATION="1373;0;" ENDINCLINATION="1373;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-                            
-                            <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1001664273" STARTINCLINATION="1815;0;" ENDINCLINATION="1815;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-                            
-                            <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1433906146" STARTINCLINATION="397;0;" ENDINCLINATION="397;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-                            
                             <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff3333" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1001664273" STARTINCLINATION="544;0;" ENDINCLINATION="544;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
                             
                             <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1085503631" STARTINCLINATION="471;0;" ENDINCLINATION="471;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
                             
+                            <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1231588749" STARTINCLINATION="1373;0;" ENDINCLINATION="1373;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+                            
                             <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_227775878" STARTINCLINATION="571;0;" ENDINCLINATION="571;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+                            
+                            <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1001664273" STARTINCLINATION="1815;0;" ENDINCLINATION="1815;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+                            
+                            <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1433906146" STARTINCLINATION="397;0;" ENDINCLINATION="397;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
                             
                             <richcontent TYPE="DETAILS">
                                 
@@ -1908,9 +1928,9 @@
                         
                         <font NAME="Liberation Sans" SIZE="10" BOLD="true" STRIKETHROUGH="false" ITALIC="false"/>
                         
-                        <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_742587298" STARTINCLINATION="396;0;" ENDINCLINATION="396;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-                        
                         <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_140214538" STARTINCLINATION="2551;0;" ENDINCLINATION="2551;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+                        
+                        <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_742587298" STARTINCLINATION="396;0;" ENDINCLINATION="396;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
                         
                     </node>
                     
@@ -2682,7 +2702,7 @@
                 
             </node>
             
-            <node TEXT="red herring" COLOR="#18898b" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_1001664273" CREATED="1618498835257" MODIFIED="1642250877734" ICON_SIZE="12.0 pt">
+            <node TEXT="red herring" COLOR="#18898b" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_1001664273" CREATED="1618498835257" MODIFIED="1642509712442" ICON_SIZE="12.0 pt">
                 
                 <edge STYLE="bezier" COLOR="#808080" WIDTH="thin" DASH="SOLID"/>
                 
@@ -2703,7 +2723,7 @@
                         <body>
                                 
                             <p>
-      (also known as: Ignoratio elenchi, beside the point, misdirection [form of], changing the subject, false emphasis, the Chewbacca defense, irrelevant conclusion, irrelevant thesis, clouding the issue, ignorance of refutation, Irrelevant conclusion, ignoring refutation, Befogging the Issue, Diversion)
+      (also known as: Ignoratio elenchi, beside the point, misdirection [form of], changing the subject, false emphasis, the Chewbacca defense, irrelevant conclusion, irrelevant thesis, clouding the issue, ignorance of refutation, Irrelevant conclusion, ignoring refutation, Befogging the Issue, Diversion, avoiding the question [form of], missing the point, straying off the subject, digressing, distraction [form of], Avoiding the Issue)
     </p>
                               
                         </body>
@@ -2962,7 +2982,7 @@
                 
             </node>
             
-            <node TEXT="Straw man Fallacy" COLOR="#18898b" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_413138777" CREATED="1618498859744" MODIFIED="1637164861803" ICON_SIZE="12.0 pt">
+            <node TEXT="Straw man Fallacy" COLOR="#18898b" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_413138777" CREATED="1618498859744" MODIFIED="1642509717790" ICON_SIZE="12.0 pt">
                 
                 <edge STYLE="bezier" COLOR="#808080" WIDTH="thin" DASH="SOLID"/>
                 
@@ -3915,6 +3935,14 @@
                         
                     </richcontent>
                     
+                    <node TEXT="Baconian fallacy" COLOR="#cc3300" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_614600533" CREATED="1642503913726" MODIFIED="1642503916961" ICON_SIZE="12.0 pt">
+                        
+                        <edge STYLE="bezier" COLOR="#808080" WIDTH="thin" DASH="SOLID"/>
+                        
+                        <font NAME="Liberation Sans" SIZE="10" BOLD="true" STRIKETHROUGH="false" ITALIC="false"/>
+                        
+                    </node>
+                    
                 </node>
                 
                 <node TEXT="Historical fallacy" COLOR="#606060" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_1439199427" CREATED="1635760586581" MODIFIED="1635760703962" ICON_SIZE="12.0 pt">
@@ -4703,34 +4731,6 @@
                 
             </node>
             
-            <node TEXT="Unwarranted Contrast" COLOR="#18898b" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_38866346" CREATED="1637164722582" MODIFIED="1637164731373" ICON_SIZE="12.0 pt">
-                
-                <edge STYLE="bezier" COLOR="#808080" WIDTH="thin" DASH="SOLID"/>
-                
-                <font NAME="Liberation Sans" SIZE="10" BOLD="true" STRIKETHROUGH="false" ITALIC="false"/>
-                
-                <richcontent TYPE="DETAILS">
-                    
-                    <html>
-                          
-                        <head>
-    
-  </head>
-                          
-                        <body>
-                                
-                            <p>
-      (also known as: some are/some are not)
-    </p>
-                              
-                        </body>
-                        
-                    </html>
-                    
-                </richcontent>
-                
-            </node>
-            
             <node TEXT="Use-Mention Error" COLOR="#18898b" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_1006770383" CREATED="1637164739609" MODIFIED="1637164789137" ICON_SIZE="12.0 pt">
                 
                 <edge STYLE="bezier" COLOR="#808080" WIDTH="thin" DASH="SOLID"/>
@@ -4799,6 +4799,38 @@
                 
             </node>
             
+            <node TEXT="Feedback fallacy" COLOR="#18898b" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_768663268" CREATED="1642503760019" MODIFIED="1642503764120" ICON_SIZE="12.0 pt">
+                
+                <edge STYLE="bezier" COLOR="#808080" WIDTH="thin" DASH="SOLID"/>
+                
+                <font NAME="Liberation Sans" SIZE="10" BOLD="true" STRIKETHROUGH="false" ITALIC="false"/>
+                
+            </node>
+            
+            <node TEXT="Lump of labour fallacy" COLOR="#18898b" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_474751865" CREATED="1642503959726" MODIFIED="1642503962590" ICON_SIZE="12.0 pt">
+                
+                <edge STYLE="bezier" COLOR="#808080" WIDTH="thin" DASH="SOLID"/>
+                
+                <font NAME="Liberation Sans" SIZE="10" BOLD="true" STRIKETHROUGH="false" ITALIC="false"/>
+                
+            </node>
+            
+            <node TEXT="Referential fallacy" COLOR="#18898b" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_304305229" CREATED="1642503991878" MODIFIED="1642503994774" ICON_SIZE="12.0 pt">
+                
+                <edge STYLE="bezier" COLOR="#808080" WIDTH="thin" DASH="SOLID"/>
+                
+                <font NAME="Liberation Sans" SIZE="10" BOLD="true" STRIKETHROUGH="false" ITALIC="false"/>
+                
+            </node>
+            
+            <node TEXT="It Could Be Worse Fallacy" COLOR="#18898b" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_992902030" CREATED="1642513990887" MODIFIED="1642513994241" ICON_SIZE="12.0 pt">
+                
+                <edge STYLE="bezier" COLOR="#808080" WIDTH="thin" DASH="SOLID"/>
+                
+                <font NAME="Liberation Sans" SIZE="10" BOLD="true" STRIKETHROUGH="false" ITALIC="false"/>
+                
+            </node>
+            
         </node>
         
         <node TEXT="Faulty generalization/Inductive fallacies" COLOR="#606060" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" POSITION="right" ID="ID_841086237" CREATED="1618489401273" MODIFIED="1635776483188" ICON_SIZE="12.0 pt">
@@ -4807,7 +4839,7 @@
             
             <font NAME="Dialog" SIZE="8" BOLD="true" STRIKETHROUGH="false" ITALIC="false"/>
             
-            <node TEXT="Argument from Hearsay" COLOR="#18898b" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_1576374097" CREATED="1618489423817" MODIFIED="1636913093490" ICON_SIZE="12.0 pt">
+            <node TEXT="Argument from Hearsay" COLOR="#18898b" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_1576374097" CREATED="1618489423817" MODIFIED="1642669424108" ICON_SIZE="12.0 pt">
                 
                 <edge STYLE="bezier" COLOR="#808080" WIDTH="thin" DASH="SOLID"/>
                 
@@ -4841,7 +4873,7 @@
                 
                 <font NAME="Liberation Sans" SIZE="10" BOLD="true" STRIKETHROUGH="false" ITALIC="false"/>
                 
-                <node TEXT="Cherry picking" COLOR="#606060" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_1112345129" CREATED="1618489614084" MODIFIED="1636913115991" ICON_SIZE="12.0 pt">
+                <node TEXT="Cherry picking" COLOR="#606060" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" FOLDED="true" ID="ID_1112345129" CREATED="1618489614084" MODIFIED="1642669416902" ICON_SIZE="12.0 pt">
                     
                     <edge STYLE="bezier" COLOR="#808080" WIDTH="thin" DASH="SOLID"/>
                     
@@ -4930,6 +4962,14 @@
                         <font NAME="Liberation Sans" SIZE="10" BOLD="true" STRIKETHROUGH="false" ITALIC="false"/>
                         
                     </node>
+                    
+                </node>
+                
+                <node TEXT="Nut-picking" COLOR="#606060" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_1397530959" CREATED="1618499821775" MODIFIED="1618499823354" ICON_SIZE="12.0 pt">
+                    
+                    <edge STYLE="bezier" COLOR="#808080" WIDTH="thin" DASH="SOLID"/>
+                    
+                    <font NAME="Dialog" SIZE="8" BOLD="false" STRIKETHROUGH="false" ITALIC="false"/>
                     
                 </node>
                 
@@ -5025,13 +5065,13 @@
                     
                 </node>
                 
-            </node>
-            
-            <node TEXT="Extended Analogy" COLOR="#18898b" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_1458961660" CREATED="1637059079133" MODIFIED="1637059080925" ICON_SIZE="12.0 pt">
-                
-                <edge STYLE="bezier" COLOR="#808080" WIDTH="thin" DASH="SOLID"/>
-                
-                <font NAME="Liberation Sans" SIZE="10" BOLD="true" STRIKETHROUGH="false" ITALIC="false"/>
+                <node TEXT="Extended Analogy" COLOR="#606060" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_1458961660" CREATED="1637059079133" MODIFIED="1637059080925" ICON_SIZE="12.0 pt">
+                    
+                    <edge STYLE="bezier" COLOR="#808080" WIDTH="thin" DASH="SOLID"/>
+                    
+                    <font NAME="Dialog" SIZE="8" BOLD="false" STRIKETHROUGH="false" ITALIC="false"/>
+                    
+                </node>
                 
             </node>
             
@@ -5203,51 +5243,13 @@
                 
             </node>
             
-            <node TEXT="Nut-picking" COLOR="#18898b" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_1397530959" CREATED="1618499821775" MODIFIED="1618499823354" ICON_SIZE="12.0 pt">
-                
-                <edge STYLE="bezier" COLOR="#808080" WIDTH="thin" DASH="SOLID"/>
-                
-                <font NAME="Liberation Sans" SIZE="10" BOLD="true" STRIKETHROUGH="false" ITALIC="false"/>
-                
-            </node>
-            
             <node TEXT="Thought-terminating cliché" COLOR="#18898b" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_349827019" CREATED="1618499854696" MODIFIED="1636877047653" ICON_SIZE="12.0 pt">
                 
                 <edge STYLE="bezier" COLOR="#808080" WIDTH="thin" DASH="SOLID"/>
                 
                 <font NAME="Liberation Sans" SIZE="10" BOLD="true" STRIKETHROUGH="false" ITALIC="false"/>
                 
-                <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1706945405" STARTINCLINATION="761;-30;" ENDINCLINATION="763;-30;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-                
-            </node>
-            
-            <node TEXT="Base rate fallacy" COLOR="#18898b" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_1595124117" CREATED="1620018868030" MODIFIED="1637059040206" ICON_SIZE="12.0 pt">
-                
-                <edge STYLE="bezier" COLOR="#808080" WIDTH="thin" DASH="SOLID"/>
-                
-                <font NAME="Liberation Sans" SIZE="10" BOLD="true" STRIKETHROUGH="false" ITALIC="false"/>
-                
-                <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_480276856" STARTINCLINATION="2188;0;" ENDINCLINATION="2188;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-                
-                <richcontent TYPE="DETAILS">
-                    
-                    <html>
-                          
-                        <head>
-    
-  </head>
-                          
-                        <body>
-                                
-                            <p>
-      (also known as: neglecting base rates, base rate neglect, prosecutor's fallacy [form of])
-    </p>
-                              
-                        </body>
-                        
-                    </html>
-                    
-                </richcontent>
+                <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1706945405" STARTINCLINATION="761;-22;" ENDINCLINATION="763;-22;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
                 
             </node>
             
@@ -5621,13 +5623,13 @@
             
             <font NAME="Dialog" SIZE="8" BOLD="true" STRIKETHROUGH="false" ITALIC="false"/>
             
-            <node TEXT="Circular reasoning" COLOR="#18898b" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_140214538" CREATED="1618489008670" MODIFIED="1636913622774" ICON_SIZE="12.0 pt">
+            <node TEXT="Circular reasoning" COLOR="#18898b" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_140214538" CREATED="1618489008670" MODIFIED="1642506992019" ICON_SIZE="12.0 pt">
                 
                 <edge STYLE="bezier" COLOR="#808080" WIDTH="thin" DASH="SOLID"/>
                 
                 <font NAME="Liberation Sans" SIZE="10" BOLD="true" STRIKETHROUGH="false" ITALIC="false"/>
                 
-                <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1741718067" STARTINCLINATION="2085;0;" ENDINCLINATION="2085;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+                <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1741718067" STARTINCLINATION="2085;0;" ENDINCLINATION="2081;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
                 
                 <richcontent TYPE="DETAILS">
                     
@@ -5740,6 +5742,14 @@
                     </html>
                     
                 </richcontent>
+                
+                <node TEXT="Loaded label" COLOR="#606060" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_1722061556" CREATED="1642509288394" MODIFIED="1642509291323" ICON_SIZE="12.0 pt">
+                    
+                    <edge STYLE="bezier" COLOR="#808080" WIDTH="thin" DASH="SOLID"/>
+                    
+                    <font NAME="Dialog" SIZE="8" BOLD="false" STRIKETHROUGH="false" ITALIC="false"/>
+                    
+                </node>
                 
             </node>
             
@@ -5905,34 +5915,6 @@
                 
             </node>
             
-            <node TEXT="Avoiding the Issue" COLOR="#18898b" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_1635763927" CREATED="1637057839345" MODIFIED="1638975115064" ICON_SIZE="12.0 pt">
-                
-                <edge STYLE="bezier" COLOR="#808080" WIDTH="thin" DASH="SOLID"/>
-                
-                <font NAME="Liberation Sans" SIZE="10" BOLD="true" STRIKETHROUGH="false" ITALIC="false"/>
-                
-                <richcontent TYPE="DETAILS">
-                    
-                    <html>
-                          
-                        <head>
-    
-  </head>
-                          
-                        <body>
-                                
-                            <p>
-      (also known as: avoiding the question [form of], missing the point, straying off the subject, digressing, distraction [form of])
-    </p>
-                              
-                        </body>
-                        
-                    </html>
-                    
-                </richcontent>
-                
-            </node>
-            
             <node TEXT="Hypnotic Bait and Switch" COLOR="#18898b" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_1701148679" CREATED="1637060890977" MODIFIED="1637060891801" ICON_SIZE="12.0 pt">
                 
                 <edge STYLE="bezier" COLOR="#808080" WIDTH="thin" DASH="SOLID"/>
@@ -6005,7 +5987,7 @@
                 
                 <font NAME="Liberation Sans" SIZE="10" BOLD="true" STRIKETHROUGH="false" ITALIC="false"/>
                 
-                <node TEXT="Contextomy" COLOR="#606060" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_815428204" CREATED="1618488807959" MODIFIED="1636963635006" ICON_SIZE="12.0 pt">
+                <node TEXT="Contextomy" COLOR="#606060" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_815428204" CREATED="1618488807959" MODIFIED="1642503870812" ICON_SIZE="12.0 pt">
                     
                     <edge STYLE="bezier" COLOR="#808080" WIDTH="thin" DASH="SOLID"/>
                     
@@ -6024,7 +6006,7 @@
                             <body>
                                     
                                 <p>
-      (also known as: fallacy of quoting out of context, quoting out of context, Quote mining)
+      (also known as: fallacy of quoting out of context, quoting out of context, Quote mining, contextotomy, contextomy)
     </p>
                                   
                             </body>
@@ -6035,13 +6017,13 @@
                     
                 </node>
                 
-                <node TEXT="Recontextualisation" COLOR="#606060" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_1485255858" CREATED="1635773271556" MODIFIED="1642351759071" ICON_SIZE="12.0 pt">
+                <node TEXT="Recontextualisation" COLOR="#606060" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_1485255858" CREATED="1635773271556" MODIFIED="1642508124874" ICON_SIZE="12.0 pt">
                     
                     <edge STYLE="bezier" COLOR="#808080" WIDTH="thin" DASH="SOLID"/>
                     
                     <font NAME="Dialog" SIZE="8" BOLD="false" STRIKETHROUGH="false" ITALIC="false"/>
                     
-                    <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1706945405" STARTINCLINATION="2149;0;" ENDINCLINATION="2149;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+                    <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1706945405" STARTINCLINATION="2149;0;" ENDINCLINATION="2149;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
                     
                 </node>
                 
@@ -6055,7 +6037,7 @@
                 
             </node>
             
-            <node TEXT="No True Scotsman" COLOR="#18898b" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_1871625416" CREATED="1618488911435" MODIFIED="1637245005953" ICON_SIZE="12.0 pt">
+            <node TEXT="No True Scotsman" COLOR="#18898b" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_1871625416" CREATED="1618488911435" MODIFIED="1642504677718" ICON_SIZE="12.0 pt">
                 
                 <edge STYLE="bezier" COLOR="#808080" WIDTH="thin" DASH="SOLID"/>
                 
@@ -6105,34 +6087,6 @@
                                 
                             <p>
       (also known as: abstraction, concretism, fallacy of misplaced concreteness, hypostatisation, pathetic fallacy [form of])
-    </p>
-                              
-                        </body>
-                        
-                    </html>
-                    
-                </richcontent>
-                
-            </node>
-            
-            <node TEXT="Fallacy of Four Terms" COLOR="#18898b" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_1751663458" CREATED="1618499509500" MODIFIED="1636913887830" ICON_SIZE="12.0 pt">
-                
-                <edge STYLE="bezier" COLOR="#808080" WIDTH="thin" DASH="SOLID"/>
-                
-                <font NAME="Liberation Sans" SIZE="10" BOLD="true" STRIKETHROUGH="false" ITALIC="false"/>
-                
-                <richcontent TYPE="DETAILS">
-                    
-                    <html>
-                          
-                        <head>
-    
-  </head>
-                          
-                        <body>
-                                
-                            <p>
-      (also known as: quaternio terminorum, ambiguous middle term)
     </p>
                               
                         </body>
@@ -6585,7 +6539,7 @@
                 
                 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1429915355" STARTINCLINATION="185;0;" ENDINCLINATION="185;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
                 
-                <node TEXT="Existential fallacy" COLOR="#606060" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_875713648" CREATED="1618488027908" MODIFIED="1636914225657" ICON_SIZE="12.0 pt">
+                <node TEXT="Existential fallacy" COLOR="#606060" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_875713648" CREATED="1618488027908" MODIFIED="1642503240620" ICON_SIZE="12.0 pt">
                     
                     <edge STYLE="bezier" COLOR="#00007c" WIDTH="thin" DASH="SOLID"/>
                     
@@ -6600,7 +6554,7 @@
   </head>
                               
                             <body>
-    (also known as: existential instantiation)
+    (also known as: existential instantiation, the Fallacy of Existential Assumption)
   </body>
                             
                         </html>
@@ -6739,14 +6693,6 @@
                     
                 </node>
                 
-                <node TEXT="Fallacy of the undistributed middle (non distributio medii)" COLOR="#606060" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_1155617988" CREATED="1618488132067" MODIFIED="1635719003395" ICON_SIZE="12.0 pt">
-                    
-                    <edge STYLE="bezier" COLOR="#00ffff" WIDTH="thin" DASH="SOLID"/>
-                    
-                    <font NAME="Dialog" SIZE="8" BOLD="false" STRIKETHROUGH="false" ITALIC="false"/>
-                    
-                </node>
-                
                 <node TEXT="Modal (Scope) Fallacy" COLOR="#606060" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_133092663" CREATED="1618488139286" MODIFIED="1636914453499" ICON_SIZE="12.0 pt">
                     
                     <edge STYLE="bezier" COLOR="#00ffff" WIDTH="thin" DASH="SOLID"/>
@@ -6775,7 +6721,7 @@
                     
                 </node>
                 
-                <node TEXT="Fallacy of (the) Undistributed Middle" COLOR="#606060" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_586463789" CREATED="1637059395881" MODIFIED="1637059411766" ICON_SIZE="12.0 pt">
+                <node TEXT="Fallacy of (the) Undistributed Middle" COLOR="#606060" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_586463789" CREATED="1637059395881" MODIFIED="1642506877985" ICON_SIZE="12.0 pt">
                     
                     <edge STYLE="bezier" COLOR="#00ffff" WIDTH="thin" DASH="SOLID"/>
                     
@@ -6792,7 +6738,7 @@
                             <body>
                                     
                                 <p>
-      (also known as: maldistributed middle, undistributed middle term)
+      (also known as: maldistributed middle, undistributed middle term, non distributio medii)
     </p>
                                   
                             </body>
@@ -7005,11 +6951,31 @@
                     
                 </node>
                 
-                <node TEXT="Politician's syllogism" COLOR="#606060" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_827540519" CREATED="1636881139255" MODIFIED="1636881140189" ICON_SIZE="12.0 pt">
+                <node TEXT="Politician's syllogism" COLOR="#606060" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_827540519" CREATED="1636881139255" MODIFIED="1642505175434" ICON_SIZE="12.0 pt">
                     
                     <edge STYLE="bezier" COLOR="#7c0000" WIDTH="thin" DASH="SOLID"/>
                     
                     <font NAME="Dialog" SIZE="8" BOLD="false" STRIKETHROUGH="false" ITALIC="false"/>
+                    
+                    <richcontent TYPE="DETAILS">
+                        
+                        <html>
+                              
+                            <head>
+    
+  </head>
+                              
+                            <body>
+                                    
+                                <p>
+      (also known as: politician's fallacy, politician's logic)
+    </p>
+                                  
+                            </body>
+                            
+                        </html>
+                        
+                    </richcontent>
                     
                 </node>
                 
@@ -7041,11 +7007,31 @@
                     
                 </richcontent>
                 
-                <node TEXT="Anangeon" COLOR="#606060" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_1639202385" CREATED="1620019687030" MODIFIED="1620019688241" ICON_SIZE="12.0 pt">
+                <node TEXT="Anangeon" COLOR="#606060" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_1639202385" CREATED="1620019687030" MODIFIED="1642504941662" ICON_SIZE="12.0 pt">
                     
                     <edge STYLE="bezier" COLOR="#0000ff" WIDTH="thin" DASH="SOLID"/>
                     
                     <font NAME="Dialog" SIZE="8" BOLD="false" STRIKETHROUGH="false" ITALIC="false"/>
+                    
+                    <richcontent TYPE="DETAILS">
+                        
+                        <html>
+                              
+                            <head>
+    
+  </head>
+                              
+                            <body>
+                                    
+                                <p>
+      (also known as: dicaeologia)
+    </p>
+                                  
+                            </body>
+                            
+                        </html>
+                        
+                    </richcontent>
                     
                 </node>
                 
@@ -7191,7 +7177,7 @@
                     
                 </richcontent>
                 
-                <node TEXT="Masked-man fallacy" COLOR="#606060" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_1945849240" CREATED="1618487944636" MODIFIED="1637061163304" ICON_SIZE="12.0 pt">
+                <node TEXT="Masked-man fallacy" COLOR="#606060" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_1945849240" CREATED="1618487944636" MODIFIED="1642508198584" ICON_SIZE="12.0 pt">
                     
                     <edge STYLE="bezier" COLOR="#007c00" WIDTH="thin" DASH="SOLID"/>
                     
@@ -7208,7 +7194,7 @@
                             <body>
                                     
                                 <p>
-      (also known as: Epistemic fallacy, Hooded man fallacy, Illicit substitution (of identicals, intensional fallacy)
+      (also known as: Epistemic fallacy, Hooded man fallacy, Illicit substitution (of identicals, intensional fallacy, illicit substitution of identicals)
     </p>
                                   
                             </body>
@@ -7218,6 +7204,136 @@
                     </richcontent>
                     
                 </node>
+                
+            </node>
+            
+            <node TEXT="" COLOR="#18898b" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_1084060723" CREATED="1642503500997" MODIFIED="1642503500997" ICON_SIZE="12.0 pt">
+                
+                <edge STYLE="bezier" COLOR="#808080" WIDTH="thin" DASH="SOLID"/>
+                
+                <font NAME="Liberation Sans" SIZE="10" BOLD="true" STRIKETHROUGH="false" ITALIC="false"/>
+                
+            </node>
+            
+            <node TEXT="Unwarranted Contrast" COLOR="#18898b" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_38866346" CREATED="1637164722582" MODIFIED="1637164731373" ICON_SIZE="12.0 pt">
+                
+                <edge STYLE="bezier" COLOR="#808080" WIDTH="thin" DASH="SOLID"/>
+                
+                <font NAME="Liberation Sans" SIZE="10" BOLD="true" STRIKETHROUGH="false" ITALIC="false"/>
+                
+                <richcontent TYPE="DETAILS">
+                    
+                    <html>
+                          
+                        <head>
+    
+  </head>
+                          
+                        <body>
+                                
+                            <p>
+      (also known as: some are/some are not)
+    </p>
+                              
+                        </body>
+                        
+                    </html>
+                    
+                </richcontent>
+                
+            </node>
+            
+            <node TEXT="quantificational fallacy" COLOR="#18898b" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_1815757124" CREATED="1642503311456" MODIFIED="1642503447986" ICON_SIZE="12.0 pt">
+                
+                <edge STYLE="bezier" COLOR="#808080" WIDTH="thin" DASH="SOLID"/>
+                
+                <font NAME="Liberation Sans" SIZE="10" BOLD="true" STRIKETHROUGH="false" ITALIC="false"/>
+                
+                <richcontent TYPE="DETAILS">
+                    
+                    <html>
+                          
+                        <head>
+    
+  </head>
+                          
+                        <body>
+                                
+                            <ul style="border-top-style: none; border-top-width: medium; border-right-style: none; border-right-width: medium; border-bottom-style: none; border-bottom-width: medium; border-left-style: none; border-left-width: medium; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; font-weight: 400; line-height: normal; text-decoration: none; display: flex; width: 505px; list-style: square; color: rgb(0, 0, 0); font-family: RobotoMono, monospace; font-size: 14px; font-style: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255)">
+                                      
+                                <li style="margin-left: 0; margin-bottom: 0">
+                                            
+                                    <font size="2" face="Dialog">(also known as: Fallacy of Predicate Logic, Fallacy of Quantificational Logic)</font>
+                                          
+                                </li>
+                                    
+                            </ul>
+                              
+                        </body>
+                        
+                    </html>
+                    
+                </richcontent>
+                
+            </node>
+            
+            <node TEXT="Fallacy of Four Terms" COLOR="#18898b" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_1751663458" CREATED="1618499509500" MODIFIED="1636913887830" ICON_SIZE="12.0 pt">
+                
+                <edge STYLE="bezier" COLOR="#808080" WIDTH="thin" DASH="SOLID"/>
+                
+                <font NAME="Liberation Sans" SIZE="10" BOLD="true" STRIKETHROUGH="false" ITALIC="false"/>
+                
+                <richcontent TYPE="DETAILS">
+                    
+                    <html>
+                          
+                        <head>
+    
+  </head>
+                          
+                        <body>
+                                
+                            <p>
+      (also known as: quaternio terminorum, ambiguous middle term)
+    </p>
+                              
+                        </body>
+                        
+                    </html>
+                    
+                </richcontent>
+                
+            </node>
+            
+            <node TEXT="Base rate fallacy" COLOR="#18898b" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_1595124117" CREATED="1620018868030" MODIFIED="1642508115688" ICON_SIZE="12.0 pt">
+                
+                <edge STYLE="bezier" COLOR="#808080" WIDTH="thin" DASH="SOLID"/>
+                
+                <font NAME="Liberation Sans" SIZE="10" BOLD="true" STRIKETHROUGH="false" ITALIC="false"/>
+                
+                <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_480276856" STARTINCLINATION="2188;0;" ENDINCLINATION="2188;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+                
+                <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_841086237" STARTINCLINATION="2829;0;" ENDINCLINATION="2829;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+                
+                <richcontent TYPE="DETAILS">
+                    
+                    <html>
+                          
+                        <head>
+    
+  </head>
+                          
+                        <body>
+                                
+                            <p>
+      (also known as: neglecting base rates, base rate neglect, prosecutor's fallacy [form of])
+    </p>
+                              
+                        </body>
+                        
+                    </html>
+                    
+                </richcontent>
                 
             </node>
             
