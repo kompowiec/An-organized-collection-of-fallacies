@@ -4,11 +4,11 @@ This list is inspired by an organized collection of irrational nonsense, but thi
 
 Statistics:
 
-Total number of nodes: 407
+Total number of nodes: 419
 
-Total number of leaf nodes: 335
+Total number of leaf nodes: 341
 
-Number of main branches: 13
+Number of main branches: 11
 
 
 # How to edit
@@ -28,3 +28,4 @@ I use [Freeplane](https://www.freeplane.org/wiki/index.php/Home) application.
 # External links
 * [logicallyfallacious.com](https://logicallyfallacious.com/logicalfallacies/)
 * [aristotl.io](https://www.aristotl.io/)
+* [mylogicalfallacy.com](https://mylogicalfallacy.com/) 
