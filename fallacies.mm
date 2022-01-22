@@ -722,6 +722,7 @@
 </html>
 </richcontent>
 </node>
+<node TEXT="Drought fallacy" ID="ID_878191845" CREATED="1642868051963" MODIFIED="1642868054677"/>
 </node>
 <node TEXT="Regression fallacy" ID="ID_1612487258" CREATED="1618490073579" MODIFIED="1642755032660"><richcontent TYPE="DETAILS">
 
@@ -1327,7 +1328,7 @@
 </node>
 <node TEXT="Fallacies of relevance" POSITION="left" ID="ID_1706945405" CREATED="1618490196997" MODIFIED="1618490198815">
 <font BOLD="true"/>
-<node ID="ID_860419904" CREATED="1618490206228" MODIFIED="1642686135367"><richcontent TYPE="NODE">
+<node ID="ID_860419904" CREATED="1618490206228" MODIFIED="1642865826667"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -1348,10 +1349,11 @@
   </head>
   <body>
     <p>
-      (also known as: Argumentum ad passiones, Emotional Appeal, appeal to pathos, argument by vehemence, playing on emotions, emotional appeal, for the children)
+      (also known as: Argumentum ad passiones, Emotional appeals, appeal to pathos, argument by vehemence, playing on emotions, emotional appeal, for the children)
     </p>
   </body>
 </html>
+
 </richcontent>
 <richcontent TYPE="NOTE">
 
@@ -1758,7 +1760,7 @@
 </richcontent>
 </node>
 <node TEXT="Appeal to hate" ID="ID_684311355" CREATED="1636919552714" MODIFIED="1636919553840"/>
-<node TEXT="Appeal to ridicule" ID="ID_1245976659" CREATED="1618498941600" MODIFIED="1642754946388">
+<node TEXT="reductio ad ridiculum" ID="ID_1245976659" CREATED="1618498941600" MODIFIED="1642867061671">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1915454335" STARTINCLINATION="917;0;" ENDINCLINATION="917;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
 
@@ -1768,10 +1770,11 @@
   </head>
   <body>
     <p>
-      (also known as: reductio ad ridiculum, appeal to mockery, the horse laugh, reduce to absurdity)
+      (also known as: argumentum ad absurdum, apagogical arguments, reduce to absurdity)
     </p>
   </body>
 </html>
+
 </richcontent>
 <richcontent TYPE="NOTE">
 
@@ -2040,7 +2043,20 @@
 <node TEXT="Judgmental language" ID="ID_804639896" CREATED="1618500451687" MODIFIED="1618500453220"/>
 <node TEXT="Argumentum ad captandum" ID="ID_339132491" CREATED="1635720525223" MODIFIED="1635720526276"/>
 <node TEXT="Appeal to gravity" ID="ID_39961244" CREATED="1636919513743" MODIFIED="1636919514656"/>
-<node TEXT="Appeal to shame" ID="ID_24551887" CREATED="1636919653419" MODIFIED="1636919654295">
+<node TEXT="Appeal to shame" ID="ID_24551887" CREATED="1636919653419" MODIFIED="1642867027705"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (also known as: appeal to mockery, the horse laugh, appeal to guilt, appeal to pride, argumentum ad superbium, ad hominem ridicule, appeal to humor, appeal to mockery, appeal to ridicule, horse laugh, refutation by caricature)
+    </p>
+  </body>
+</html>
+
+</richcontent>
 <node TEXT="Every Schoolboy Knows" ID="ID_877519680" CREATED="1642351603796" MODIFIED="1642853188857"><richcontent TYPE="NOTE">
 
 <html>
@@ -2397,58 +2413,6 @@
 </html>
 </richcontent>
 </node>
-<node TEXT="Appeal to Extremes" ID="ID_256652115" CREATED="1637055015910" MODIFIED="1642686206497"><richcontent TYPE="NOTE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&nbsp;Erroneously attempting to make a reasonable argument into an absurd one, by taking the argument to the extremes. Note that this is not a valid <i>reductio ad absurdum</i>.
-
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      If X is true, then Y must also be true (where Y is the extreme of X).
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      There is no way those Girl Scouts could have sold all those cases of cookies in one hour.&nbsp;&nbsp;If they did, they would have to make $500 in one hour, which, based on an 8 hour day is over a million dollars a year.&nbsp;&nbsp;That is more than most lawyers, doctors, and successful business people make!
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;The Girl Scouts worked just for one hour -- not 40 per week for a year.&nbsp;&nbsp;Suggesting the extreme leads to an absurd conclusion; that Girl Scouts are among the highest paid people in the world.&nbsp;&nbsp;&nbsp;Not to mention, there is a whole troop of them doing the work, not just one girl.
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Don’t forget God’s commandment, “thou shall not kill”.&nbsp;&nbsp;By using mouthwash, you are killing 99.9% of the germs that cause bad breath.&nbsp;&nbsp;Prepare for Hell.
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;It is unlikely that God had mouthwash on his mind when issuing that commandment, but if he did, we’re all screwed (at least those of us with fresh breath).
-    </p>
-    <p class="Body">
-      <strong>Exception:</strong>&nbsp;This fallacy is a misuse of one of the greatest techniques in argumentation, <i>reductio ad absurdum</i>, or reducing the argument to the absurd.&nbsp;&nbsp;The difference is where the absurdity actually is in the argument or in the reasoning of the one trying to show the argument is absurd.
-    </p>
-    <p class="Body">
-      Here is an example of an argument that is proven false by reducing to the absurd, legitimately.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Big Tony: The more you exercise, the stronger you will get!
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Nerdy Ned: Actually, if you just kept exercising and never stopped, you would drop dead. There is a limit to how much exercise you should get. At some point, the exercise becomes excessive and causes more harm than good.
-    </p>
-    <p class="Body">
-      <strong>Tip:</strong>&nbsp;People very often say stupid things.&nbsp;&nbsp;Sometimes it is easy to reduce their arguments to absurdity, but remember, in most cases, your goal should be diplomacy, not making the other person look foolish.&nbsp;&nbsp;Especially when dealing with your spouse—unless you really like sleeping on the couch.
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
 <node TEXT="Appeal to Intuition" ID="ID_855474090" CREATED="1637056844270" MODIFIED="1642686600058"><richcontent TYPE="DETAILS">
 
 <html>
@@ -2624,6 +2588,7 @@
 </html>
 </richcontent>
 </node>
+<node TEXT="What&apos;s the harm" ID="ID_1388927450" CREATED="1642865866558" MODIFIED="1642865869124"/>
 </node>
 <node ID="ID_742587298" CREATED="1618490216049" MODIFIED="1642853377040"><richcontent TYPE="NODE">
 
@@ -3178,7 +3143,7 @@
 </html>
 </richcontent>
 </node>
-<node TEXT="Appeal to Trust" ID="ID_579423839" CREATED="1637057348927" MODIFIED="1642687129329"><richcontent TYPE="DETAILS">
+<node TEXT="Appeal to Trust" ID="ID_579423839" CREATED="1637057348927" MODIFIED="1642866613259"><richcontent TYPE="DETAILS">
 
 <html>
   <head>
@@ -3186,10 +3151,11 @@
   </head>
   <body>
     <p>
-      (also known as: appeal to distrust [opposite], appeal to trustworthiness)
+      (also known as: appeal to distrust [opposite], appeal to trustworthiness, Appeal to confidence)
     </p>
   </body>
 </html>
+
 </richcontent>
 <richcontent TYPE="NOTE">
 
@@ -4158,7 +4124,9 @@
 </node>
 <node TEXT="bare assertion fallacy" ID="ID_580337253" CREATED="1618500826042" MODIFIED="1636908372324"/>
 <node TEXT="Courtier&apos;s reply" ID="ID_319317564" CREATED="1618500378450" MODIFIED="1618500380227"/>
-<node TEXT="Argument to the Purse" ID="ID_1468052889" CREATED="1635717225598" MODIFIED="1642688709168"><richcontent TYPE="DETAILS">
+<node TEXT="Argument to the Purse" ID="ID_1468052889" CREATED="1635717225598" MODIFIED="1642866442086">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_860419904" STARTINCLINATION="1549;0;" ENDINCLINATION="1549;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<richcontent TYPE="DETAILS">
 
 <html>
   <head>
@@ -4166,10 +4134,11 @@
   </head>
   <body>
     <p>
-      (also known as: argumentum ad crumenam, appeal to poverty or argumentum ad lazarum, appeal to wealth, appeal to money)
+      (also known as: appeal to money)
     </p>
   </body>
 </html>
+
 </richcontent>
 <richcontent TYPE="NOTE">
 
@@ -4237,6 +4206,35 @@
   </body>
 </html>
 </richcontent>
+<node TEXT="argumentum ad Lazarum" ID="ID_589545598" CREATED="1618500650764" MODIFIED="1642866284781"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (also known as: Appeal to poverty)
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="Argumentum ad crumenam" ID="ID_752222317" CREATED="1642866377086" MODIFIED="1642866402568"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (also known as: appeal to wealth)
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
 </node>
 <node TEXT="Name-dropping" ID="ID_903997063" CREATED="1635775276438" MODIFIED="1635775277453"/>
 <node TEXT="Dictat (propaganda)" ID="ID_1501893042" CREATED="1636876902691" MODIFIED="1636876961503"/>
@@ -4555,7 +4553,7 @@
 </node>
 <node TEXT="Appeal to the minority" ID="ID_1002187602" CREATED="1637252806906" MODIFIED="1637252826579"/>
 </node>
-<node TEXT="Appeal to Definition" ID="ID_854672630" CREATED="1635717293142" MODIFIED="1642686042692"><richcontent TYPE="DETAILS">
+<node TEXT="Appeal to Definition" ID="ID_854672630" CREATED="1635717293142" MODIFIED="1642871458677"><richcontent TYPE="DETAILS">
 
 <html>
   <head>
@@ -4563,10 +4561,11 @@
   </head>
   <body>
     <p>
-      (also known as: Argumentum ad dictionarium,&nbsp;appeal to the dictionary, victory by definition)
+      (also known as: Argumentum ad dictionarium,&nbsp;appeal to the dictionary, victory by definition, Fallacy of definition)
     </p>
   </body>
 </html>
+
 </richcontent>
 <richcontent TYPE="NOTE">
 
@@ -4909,6 +4908,9 @@
 
 </richcontent>
 </node>
+<node TEXT="Appeal to ancient wisdom" ID="ID_1362330731" CREATED="1642866041186" MODIFIED="1642866109066">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_499300340" STARTINCLINATION="657;0;" ENDINCLINATION="657;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
 </node>
 </node>
 <node TEXT="Appeal to nature" ID="ID_1150192610" CREATED="1618500532554" MODIFIED="1642686680081"><richcontent TYPE="DETAILS">
@@ -4995,81 +4997,6 @@
   </body>
 </html>
 </richcontent>
-</node>
-</node>
-<node TEXT="Argument from repetition" ID="ID_161369247" CREATED="1618490308991" MODIFIED="1642687511900"><richcontent TYPE="DETAILS">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (also known as: argumentum ad nauseam, argument from nagging, proof by assertion)
-    </p>
-  </body>
-</html>
-</richcontent>
-<richcontent TYPE="NOTE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&nbsp;Repeating an argument or a premise over and over again in place of better supporting evidence.
-
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      X is true. X is true. X is true. X is true. X is true. X is true... etc.
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      That movie, “Kill, Blood, Gore” deserves the Oscar for best picture.&nbsp;&nbsp;There are other good movies, but not like that one.&nbsp;&nbsp;Others may deserve an honorable mention, but not the Oscar, because “Kill, Blood, Gore” deserves the Oscar.
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;There are no reasons given for why, <i>Kill, Blood, Gore</i>&nbsp;deserves the Oscar, not even any opinion shared.&nbsp;&nbsp;All we have is a repeated claim stated slightly differently each time.
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Saul: At one time, all humans spoke the same language.&nbsp;&nbsp;Then because of the Tower of Babel, God got angry and created all the different languages we have today -- or at least some form of them.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Kevin: I studied linguistics in college, and I can pretty much guarantee you that’s not what happened.&nbsp;&nbsp;Besides the short story in the Bible, what other evidence do you have to support this theory?
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Saul: We know, because of the Word of God, that God got angry and created all the different languages we have today -- or at least some form of them.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Kevin: You said that already.&nbsp;&nbsp;What other evidence do you have to support this theory?
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Saul: In the Bible, it says that all humans once spoke the same language.&nbsp;&nbsp;Then because of the Tower of Babel, God got angry and created all the different languages we have today -- or at least some form of them.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Kevin: (nauseated from the repetition, hurls all over Saul’s slacks)
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;Restating the same claims, even rearranging the words or substituting words, is not the same as making new claims, and certainly does not make the claims any more true.
-    </p>
-    <p class="Body">
-      <strong>Exception:</strong>&nbsp;When an opponent is attempting to misdirect the argument, repeating the argument to get back on track is a wise play.
-    </p>
-    <p class="Body">
-      <strong>Tip:</strong>&nbsp;Repetition can be a good strategy when your interlocutor does not seem to be acknowledging your point. Rather than repeat yourself, rephrase and repeat. Make your same point but in a different way.
-    </p>
-  </body>
-</html>
-</richcontent>
-<node TEXT="Sealioning" ID="ID_958533109" CREATED="1635719051053" MODIFIED="1635719052156"/>
-<node TEXT="Proof by assertion" ID="ID_14100292" CREATED="1635775372312" MODIFIED="1635775443468">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1881670342" STARTINCLINATION="605;0;" ENDINCLINATION="605;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 </node>
 <node TEXT="Argument to moderation" ID="ID_1231588749" CREATED="1618498743122" MODIFIED="1642688681439"><richcontent TYPE="DETAILS">
@@ -5231,213 +5158,6 @@
   </body>
 </html>
 </richcontent>
-</node>
-<node TEXT="Moralistic fallacy" ID="ID_1119964208" CREATED="1635719204366" MODIFIED="1642751127970">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1001664273" STARTINCLINATION="335;0;" ENDINCLINATION="335;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-<richcontent TYPE="DETAILS">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (also known as: moral fallacy)
-    </p>
-  </body>
-</html>
-</richcontent>
-<richcontent TYPE="NOTE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&nbsp;When the conclusion expresses what is, based only on what one believes ought to be, or what isn’t is based on what one believes ought not to be.
-
-    <p class="Body">
-      This is the opposite of the <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Naturalistic-Fallacy" target="fallacy" data-toggle="tooltip" title="" data-original-title="When the conclusion expresses what ought to be, based only on what is, or what ought not to be, based on what is not.">naturalistic fallacy</a></i>.
-    </p>
-    <p class="Body">
-      In his 1957 paper, Edward C. Moore defined the <i>moralistic fallacy</i>&nbsp;&nbsp;as the assertion that moral judgments are of a different order from factual judgements. Over the years, this concept has been simplified to deriving an “is” from an “ought.”
-    </p>
-    <p class="Body">
-      <strong>Logical Forms:</strong>
-    </p>
-    <p class="Body uk-margin-remove uk-text-primary" style="display: block; padding-left: 20px; font-style: italic">
-      X ought to be.<br/>Therefore, X is.<br/><br/>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="display: block; padding-left: 20px; font-style: italic">
-      X ought not to be.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="display: block; padding-left: 20px; font-style: italic">
-      Therefore, X is not.
-    </p>
-    <div class="content clearfix">
-      <strong><br/>
-      Example #1:<br/><br/></strong>
-
-      <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-        Adultery, as well as philandering, is wrong.
-      </p>
-      <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-        Therefore, we have no biological tendency for multiple sex partners.
-      </p>
-      <p class="Body">
-        <strong>Explanation:</strong>&nbsp;While, morally speaking, adultery and philandering may be wrong, this has no bearing on the biological aspect of the desire or need. In other words, what we shouldn’t do (according to moral norms), is not necessarily the same as what we are biologically influenced to do. Also note that moral judgments are more commonly stated as facts (e.g., “philandering is wrong”) than expressed as “oughts” (e.g., “philandering ought to be wrong”). This causes people to confuse the naturalistic and moralistic fallacies.
-      </p>
-      <p class="Body">
-        <strong>Example #2:</strong>
-      </p>
-      <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-        Being mean to others is wrong.
-      </p>
-      <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-        Therefore, it cannot possibly be part of our nature.
-      </p>
-      <p class="Body">
-        <strong>Explanation:</strong>&nbsp;While, morally speaking, being mean to others may be wrong, this has no bearing on the biological aspect of the desire or need. Again, what we shouldn’t do (according to moral norms), is not necessarily the same as what we are biologically influenced to do.
-      </p>
-      <p class="Body">
-        <strong>Exception:</strong>&nbsp;An argument can certainly be made that an ought is the same as an is, but it just cannot be assumed.
-      </p>
-      <p class="Body">
-        <strong>Fun Fact:</strong>&nbsp;The <i>naturalistic</i>&nbsp;and the <i>moralistic</i>&nbsp;&nbsp;fallacies are often confused with the <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Nature" target="fallacy" data-toggle="tooltip" title="" data-original-title="When used as a fallacy, the belief or suggestion that “natural” is better than “unnatural” based on its naturalness. Many people adopt this as a default belief. It is the belief that is what is natural must be good (or any other positive, evaluative judgment) and that which is unnatural must be bad (or any other negative, evaluative judgment).">appeal to nature</a></i>&nbsp;&nbsp;fallacy. One reason, perhaps, is because what is “natural” is another way of saying what is, is. But with the <i>naturalistic</i>&nbsp;and the <i>moralistic</i>&nbsp;&nbsp;fallacies, the conclusion does not have to be based on what is “natural;” it just has to be based on what is. For example,
-      </p>
-      <p class="Body uk-margin-remove uk-text-primary" style="display: block; padding-left: 20px; font-style: italic">
-        Men and women ought to be equal. Therefore, women are just as strong as men and men are just as empathetic as women.
-      </p>
-      <p class="Body">
-        This is another example of the <i>moralistic fallacy</i>&nbsp;but not an <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Nature" target="fallacy" data-toggle="tooltip" title="" data-original-title="When used as a fallacy, the belief or suggestion that “natural” is better than “unnatural” based on its naturalness. Many people adopt this as a default belief. It is the belief that is what is natural must be good (or any other positive, evaluative judgment) and that which is unnatural must be bad (or any other negative, evaluative judgment).">appeal to nature</a></i>.
-      </p>
-    </div>
-    <strong>References:</strong>
-
-    <div class="small" style="padding-left: 22px; text-indent: -22px">
-      <p>
-        
-      </p>
-      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
-        <div class="csl-entry">
-          Moore, E. C. (1957). The Moralistic Fallacy. <i>The Journal of Philosophy</i>, 54(2), 29–42. https://doi.org/10.2307/2022356
-        </div>
-        <div class="csl-entry">
-          Pinker, S. (2003). <i>The Blank Slate: The Modern Denial of Human Nature</i>. Penguin.
-        </div>
-      </div>
-    </div>
-  </body>
-</html>
-</richcontent>
-<node TEXT="Naturalistic fallacy" ID="ID_21542385" CREATED="1618501000820" MODIFIED="1642751441269"><richcontent TYPE="DETAILS">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (also known as: is-ought fallacy, arguing from is to ought, is-should fallacy)
-    </p>
-  </body>
-</html>
-</richcontent>
-<richcontent TYPE="NOTE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&nbsp;When the conclusion expresses what ought to be, based only on what is, or what ought not to be, based on what is not. This is very common, and most people never see the problem with these kinds of assertions due to accepted social and moral norms. This bypasses reason and we fail to ask why something that is,<i>&nbsp;ought</i>&nbsp;to be that way.
-
-    <p class="Body">
-      This is the opposite of the <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Moralistic-Fallacy" target="fallacy" data-toggle="tooltip" title="" data-original-title="When the conclusion expresses what is, based only on what one believes ought to be, or what isn’t is based on what one believes ought not to be.">moralistic fallacy</a></i>.
-    </p>
-    <p class="Body">
-      A more traditional use of the <i>naturalistic fallacy</i>&nbsp;is committed when one attempts to define “good” as anything other than itself. The philosopher G. E. Moore (1873-1958) argued that it is a mistake to try to define the concept “good” in terms of some natural property (thus, the name “naturalistic”). Defining the concept “good,” Moore argued, is impossible since it is a simple concept; a concept that cannot be defined in terms of any other concept. Not all philosophers agree that this is a fallacy. Some have argued that ethical terms, such as “good” can be defined in nonethical natural terms. They believe that ethical judgments directly follow from facts, i.e., it is possible to argue from a fact to a value.
-    </p>
-    <p class="Body">
-      <strong>Logical Forms:</strong>
-    </p>
-    <p class="Body uk-margin-remove uk-text-primary" style="display: block; padding-left: 20px; font-style: italic">
-      X is.<br/>Therefore, X ought to be.<br/><br/>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="display: block; padding-left: 20px; font-style: italic">
-      X is not.
-    </p>
-    <p class="content clearfix uk-margin-remove uk-text-primary" style="display: block; padding-left: 20px; font-style: italic">
-      Therefore, X ought not to be.
-    </p>
-    <div class="content clearfix">
-      &nbsp;
-    </div>
-    <div class="content clearfix">
-      <strong>Example #1:</strong>
-    </div>
-    <div class="content clearfix">
-      &nbsp;
-    </div>
-    <p class="content clearfix uk-margin-remove uk-text-primary" style="display: block; padding-left: 20px; font-style: italic">
-      Homosexuality is / ought to be morally wrong (moral property) because it is not normal (natural property).<br/>or<br/>Homosexuality is not normal (natural property); therefore, it is / ought to be morally wrong (moral property).
-    </p>
-    <p class="content clearfix uk-margin-remove uk-text-primary" style="display: block; padding-left: 20px; font-style: italic">
-      &nbsp;
-    </p>
-    <div class="content clearfix">
-      <p class="Body">
-        <strong>Explanation:</strong>&nbsp;If we break this down, we can say the claim is that homosexuality (X) is not normal (X is not). We are arguing that homosexuality is morally wrong (X ought not to be) because it is not normal (X is not). The claim that homosexuality is not normal is based on defining normality as “commonly occurring.” We can see the flaw in this argumentation through a simple analogy: lying, cheating, and stealing are normal (in that most people do it at some time in their lives), but this doesn’t make those actions morally good.
-      </p>
-      <p class="Body">
-        <strong>Example #2:</strong>
-      </p>
-      <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-        Nature gives people diseases and sickness; therefore, it is morally wrong to interfere with nature and treat sick people with medicine.
-      </p>
-      <p class="Body">
-        <strong>Explanation:</strong>&nbsp;If we break this down, we can say that the claim that nature gives people diseases and sickness is a declaration of what is (i.e., a natural property of the world). From this, we are deriving an ought (i.e., we ought not interfere...). The wording and order of these arguments can be confusing, but remember that the underlying fallacy here is the deduction of an ought from an is.
-      </p>
-      <p class="Body">
-        We go against nature (or what is) all the time. We cannot sometimes use nature as a moral baseline and at other times condemn her for her careless attitude and indifference toward the human race.
-      </p>
-      <p class="Body">
-        <strong>Exception:</strong>&nbsp;At times, our morality will be in line with what is—but if we are justifying a moral action, we need to use something besides simply what is.
-      </p>
-      <p class="Body">
-        <strong>Fun Fact:</strong>&nbsp;The <i>naturalistic</i>&nbsp;and the <i>moralistic</i>&nbsp;&nbsp;fallacies are often confused with the appeal to nature fallacy. One reason, perhaps, is because what is “natural” is another way of saying what is, is. But with the <i>naturalistic</i>&nbsp;and the <i>moralistic</i>&nbsp;&nbsp;fallacies, the conclusion does not have to be based on what is “natural;” it just has to be based on what is. For example,
-      </p>
-      <p class="Body uk-margin-remove uk-text-primary" style="display: block; padding-left: 20px; font-style: italic">
-        Since wars have taken place since the beginning of recorded history, then they can’t be morally wrong.
-      </p>
-      <p class="Body">
-        This is another example of the <i>naturalistic fallacy</i>&nbsp;but not an <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Nature" target="fallacy" data-toggle="tooltip" title="" data-original-title="When used as a fallacy, the belief or suggestion that “natural” is better than “unnatural” based on its naturalness. Many people adopt this as a default belief. It is the belief that is what is natural must be good (or any other positive, evaluative judgment) and that which is unnatural must be bad (or any other negative, evaluative judgment).">appeal to nature</a></i>.
-      </p>
-      <p class="Body">
-        <strong>Social Media Share Image:</strong>&nbsp;Drag and drop this to your desktop to use freely in social media or just share this page.
-      </p>
-    </div>
-    <strong>References:</strong>
-
-    <div class="small" style="padding-left: 22px; text-indent: -22px">
-      <p>
-        
-      </p>
-      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
-        <div class="csl-entry">
-          Pinker, S. (2003). <i>The Blank Slate: The Modern Denial of Human Nature</i>. Penguin.
-        </div>
-        <div class="csl-entry">
-          Tanner, J. (2006). The naturalistic fallacy. The Richmond Journal of Philosophy, 13, 1–6.
-        </div>
-      </div>
-    </div>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="Demoralization" ID="ID_272391716" CREATED="1636877385194" MODIFIED="1636877386097"/>
-<node TEXT="Virtue signalling" ID="ID_449650019" CREATED="1636879614076" MODIFIED="1636879615015"/>
 </node>
 <node TEXT="Rationalization (psychology)" ID="ID_1936906108" CREATED="1618498830303" MODIFIED="1642754627894"><richcontent TYPE="DETAILS">
 
@@ -5681,7 +5401,6 @@
 </html>
 </richcontent>
 <node TEXT="argumentum ad antiquitatis" ID="ID_1881355032" CREATED="1618500629222" MODIFIED="1618500630236"/>
-<node TEXT="argumentum ad Lazarum" ID="ID_589545598" CREATED="1618500650764" MODIFIED="1618500651806"/>
 <node TEXT="Appeal to Common Belief" ID="ID_1881670342" CREATED="1618498750997" MODIFIED="1642685420109"><richcontent TYPE="DETAILS">
 
 <html>
@@ -7299,7 +7018,9 @@
   </body>
 </html>
 </richcontent>
-<node TEXT="Appeal to Equality" ID="ID_349860753" CREATED="1637054933989" MODIFIED="1642686173561"><richcontent TYPE="DETAILS">
+<node TEXT="Appeal to Equality" ID="ID_349860753" CREATED="1637054933989" MODIFIED="1642871748482">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_860419904" STARTINCLINATION="3509;0;" ENDINCLINATION="3509;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<richcontent TYPE="DETAILS">
 
 <html>
   <head>
@@ -7416,6 +7137,66 @@
   </body>
 </html>
 </richcontent>
+<node TEXT="Apex fallacy" ID="ID_412568821" CREATED="1642868367744" MODIFIED="1642868372506"/>
+<node TEXT="Lack of proportion" ID="ID_313239868" CREATED="1642868389422" MODIFIED="1642868398127">
+<node TEXT="Disregarding known science" ID="ID_1608033940" CREATED="1642868404653" MODIFIED="1642868407542"/>
+<node TEXT="Exaggeration" ID="ID_29723665" CREATED="1642868415221" MODIFIED="1642868417658"/>
+</node>
+<node TEXT="Argument by Selective Reading" ID="ID_240064448" CREATED="1637057588524" MODIFIED="1642687548152"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description:</strong>&nbsp;When a series of arguments or claims is made and the opponent acts as if the weakest argument was the best one made. This is a form of<i>&nbsp;<a href="https://www.logicallyfallacious.com/logicalfallacies/Cherry-Picking" target="fallacy" data-toggle="tooltip" title="" data-original-title="When only select evidence is presented in order to persuade the audience to accept a position, and evidence that would go against the position is withheld.  The stronger the withheld evidence, the more fallacious the argument.  Logical Form:">cherry picking</a>&nbsp;</i>and very similar to the <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Selective-Attention" target="fallacy" data-toggle="tooltip" title="" data-original-title="Focusing your attention on certain aspects of the argument while completely ignoring or missing other parts.  This usually results in irrelevant rebuttals, strawman fallacies, and unnecessarily drawn-out arguments.">selective attention</a>&nbsp;</i>fallacy.
+
+    <p class="Body">
+      <strong>Logical Form:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Person 1 makes arguments X, Y, and Z.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Argument Z is the weakest.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Person 2 responds as if argument Z was the best person 1 has made.
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Kevin: I think there is good evidence that God exists because of the fine-tuning argument, the teleological argument, and perhaps because over 2 billion believe it as well.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Sydney: It is ridiculous to believe in God just because a lot of other people do too!
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;Kevin gave three reasons for his belief in God, two are worthy of debate, and one is not. Sydney focused on the one that is not and responded as if that were the only one he made.
+    </p>
+    <p class="Body">
+      <strong>Example #2:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Jona: Yes, man did walk on the moon. There is <a href="https://en.wikipedia.org/wiki/Third-party_evidence_for_Apollo_Moon_landings" target="_blank" rel="noopener">overwhelming evidence that does not come from either NASA or the United States government</a>. Besides, I personally know one of the astronauts involved in one of the Apollo missions, and he confirms that they really did send men to the moon.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Biff: Your friend is just being paid to perpetuate the lie.
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;Biff focused on the weaker of the two arguments and ignored the other.
+    </p>
+    <p class="Body">
+      <strong>Exception:</strong>&nbsp;One can start by dismissing the weakest arguments first, as long as they get to the strongest one.
+    </p>
+    <p class="Body">
+      <strong>Tip:</strong>&nbsp;If your interlocutor begins rattling off several arguments, &nbsp;politely interrupt them and request that they begin with their strongest argument, and allow you to address that one before proceeding to the next argument.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node TEXT="Willed Ignorance" ID="ID_740188700" CREATED="1637164820330" MODIFIED="1642767532830"><richcontent TYPE="DETAILS">
 
@@ -8020,6 +7801,427 @@
 </richcontent>
 </node>
 </node>
+<node TEXT="Argument by assertion" ID="ID_1361955756" CREATED="1642867661748" MODIFIED="1642867664996">
+<node TEXT="Argument from repetition" ID="ID_161369247" CREATED="1618490308991" MODIFIED="1642687511900"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (also known as: argumentum ad nauseam, argument from nagging, proof by assertion)
+    </p>
+  </body>
+</html>
+</richcontent>
+<richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description:</strong>&nbsp;Repeating an argument or a premise over and over again in place of better supporting evidence.
+
+    <p class="Body">
+      <strong>Logical Form:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      X is true. X is true. X is true. X is true. X is true. X is true... etc.
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      That movie, “Kill, Blood, Gore” deserves the Oscar for best picture.&nbsp;&nbsp;There are other good movies, but not like that one.&nbsp;&nbsp;Others may deserve an honorable mention, but not the Oscar, because “Kill, Blood, Gore” deserves the Oscar.
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;There are no reasons given for why, <i>Kill, Blood, Gore</i>&nbsp;deserves the Oscar, not even any opinion shared.&nbsp;&nbsp;All we have is a repeated claim stated slightly differently each time.
+    </p>
+    <p class="Body">
+      <strong>Example #2:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Saul: At one time, all humans spoke the same language.&nbsp;&nbsp;Then because of the Tower of Babel, God got angry and created all the different languages we have today -- or at least some form of them.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Kevin: I studied linguistics in college, and I can pretty much guarantee you that’s not what happened.&nbsp;&nbsp;Besides the short story in the Bible, what other evidence do you have to support this theory?
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Saul: We know, because of the Word of God, that God got angry and created all the different languages we have today -- or at least some form of them.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Kevin: You said that already.&nbsp;&nbsp;What other evidence do you have to support this theory?
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Saul: In the Bible, it says that all humans once spoke the same language.&nbsp;&nbsp;Then because of the Tower of Babel, God got angry and created all the different languages we have today -- or at least some form of them.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Kevin: (nauseated from the repetition, hurls all over Saul’s slacks)
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;Restating the same claims, even rearranging the words or substituting words, is not the same as making new claims, and certainly does not make the claims any more true.
+    </p>
+    <p class="Body">
+      <strong>Exception:</strong>&nbsp;When an opponent is attempting to misdirect the argument, repeating the argument to get back on track is a wise play.
+    </p>
+    <p class="Body">
+      <strong>Tip:</strong>&nbsp;Repetition can be a good strategy when your interlocutor does not seem to be acknowledging your point. Rather than repeat yourself, rephrase and repeat. Make your same point but in a different way.
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="Sealioning" ID="ID_958533109" CREATED="1635719051053" MODIFIED="1635719052156"/>
+<node TEXT="Proof by assertion" ID="ID_14100292" CREATED="1635775372312" MODIFIED="1635775443468">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1881670342" STARTINCLINATION="605;0;" ENDINCLINATION="605;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+</node>
+</node>
+<node TEXT=" is–ought problem" ID="ID_21542385" CREATED="1618501000820" MODIFIED="1642876071323"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (also known as: is-ought fallacy, arguing from is to ought, is-should fallacy, Hume's law)
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description:</strong>&nbsp;When the conclusion expresses what ought to be, based only on what is, or what ought not to be, based on what is not. This is very common, and most people never see the problem with these kinds of assertions due to accepted social and moral norms. This bypasses reason and we fail to ask why something that is,<i>&nbsp;ought</i>&nbsp;to be that way.
+
+    <p class="Body">
+      This is the opposite of the <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Moralistic-Fallacy" target="fallacy" data-toggle="tooltip" title="" data-original-title="When the conclusion expresses what is, based only on what one believes ought to be, or what isn’t is based on what one believes ought not to be.">moralistic fallacy</a></i>.
+    </p>
+    <p class="Body">
+      A more traditional use of the <i>naturalistic fallacy</i>&nbsp;is committed when one attempts to define “good” as anything other than itself. The philosopher G. E. Moore (1873-1958) argued that it is a mistake to try to define the concept “good” in terms of some natural property (thus, the name “naturalistic”). Defining the concept “good,” Moore argued, is impossible since it is a simple concept; a concept that cannot be defined in terms of any other concept. Not all philosophers agree that this is a fallacy. Some have argued that ethical terms, such as “good” can be defined in nonethical natural terms. They believe that ethical judgments directly follow from facts, i.e., it is possible to argue from a fact to a value.
+    </p>
+    <p class="Body">
+      <strong>Logical Forms:</strong>
+    </p>
+    <p class="Body uk-margin-remove uk-text-primary" style="display: block; padding-left: 20px; font-style: italic">
+      X is.<br/>Therefore, X ought to be.<br/><br/>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="display: block; padding-left: 20px; font-style: italic">
+      X is not.
+    </p>
+    <p class="content clearfix uk-margin-remove uk-text-primary" style="display: block; padding-left: 20px; font-style: italic">
+      Therefore, X ought not to be.
+    </p>
+    <div class="content clearfix">
+      &nbsp;
+    </div>
+    <div class="content clearfix">
+      <strong>Example #1:</strong>
+    </div>
+    <div class="content clearfix">
+      &nbsp;
+    </div>
+    <p class="content clearfix uk-margin-remove uk-text-primary" style="display: block; padding-left: 20px; font-style: italic">
+      Homosexuality is / ought to be morally wrong (moral property) because it is not normal (natural property).<br/>or<br/>Homosexuality is not normal (natural property); therefore, it is / ought to be morally wrong (moral property).
+    </p>
+    <p class="content clearfix uk-margin-remove uk-text-primary" style="display: block; padding-left: 20px; font-style: italic">
+      &nbsp;
+    </p>
+    <div class="content clearfix">
+      <p class="Body">
+        <strong>Explanation:</strong>&nbsp;If we break this down, we can say the claim is that homosexuality (X) is not normal (X is not). We are arguing that homosexuality is morally wrong (X ought not to be) because it is not normal (X is not). The claim that homosexuality is not normal is based on defining normality as “commonly occurring.” We can see the flaw in this argumentation through a simple analogy: lying, cheating, and stealing are normal (in that most people do it at some time in their lives), but this doesn’t make those actions morally good.
+      </p>
+      <p class="Body">
+        <strong>Example #2:</strong>
+      </p>
+      <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+        Nature gives people diseases and sickness; therefore, it is morally wrong to interfere with nature and treat sick people with medicine.
+      </p>
+      <p class="Body">
+        <strong>Explanation:</strong>&nbsp;If we break this down, we can say that the claim that nature gives people diseases and sickness is a declaration of what is (i.e., a natural property of the world). From this, we are deriving an ought (i.e., we ought not interfere...). The wording and order of these arguments can be confusing, but remember that the underlying fallacy here is the deduction of an ought from an is.
+      </p>
+      <p class="Body">
+        We go against nature (or what is) all the time. We cannot sometimes use nature as a moral baseline and at other times condemn her for her careless attitude and indifference toward the human race.
+      </p>
+      <p class="Body">
+        <strong>Exception:</strong>&nbsp;At times, our morality will be in line with what is—but if we are justifying a moral action, we need to use something besides simply what is.
+      </p>
+      <p class="Body">
+        <strong>Fun Fact:</strong>&nbsp;The <i>naturalistic</i>&nbsp;and the <i>moralistic</i>&nbsp;&nbsp;fallacies are often confused with the appeal to nature fallacy. One reason, perhaps, is because what is “natural” is another way of saying what is, is. But with the <i>naturalistic</i>&nbsp;and the <i>moralistic</i>&nbsp;&nbsp;fallacies, the conclusion does not have to be based on what is “natural;” it just has to be based on what is. For example,
+      </p>
+      <p class="Body uk-margin-remove uk-text-primary" style="display: block; padding-left: 20px; font-style: italic">
+        Since wars have taken place since the beginning of recorded history, then they can’t be morally wrong.
+      </p>
+      <p class="Body">
+        This is another example of the <i>naturalistic fallacy</i>&nbsp;but not an <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Nature" target="fallacy" data-toggle="tooltip" title="" data-original-title="When used as a fallacy, the belief or suggestion that “natural” is better than “unnatural” based on its naturalness. Many people adopt this as a default belief. It is the belief that is what is natural must be good (or any other positive, evaluative judgment) and that which is unnatural must be bad (or any other negative, evaluative judgment).">appeal to nature</a></i>.
+      </p>
+      <p class="Body">
+        <strong>Social Media Share Image:</strong>&nbsp;Drag and drop this to your desktop to use freely in social media or just share this page.
+      </p>
+    </div>
+    <strong>References:</strong>
+
+    <div class="small" style="padding-left: 22px; text-indent: -22px">
+      <p>
+        
+      </p>
+      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
+        <div class="csl-entry">
+          Pinker, S. (2003). <i>The Blank Slate: The Modern Denial of Human Nature</i>. Penguin.
+        </div>
+        <div class="csl-entry">
+          Tanner, J. (2006). The naturalistic fallacy. The Richmond Journal of Philosophy, 13, 1–6.
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+</richcontent>
+<node TEXT="Moralistic fallacy" ID="ID_1119964208" CREATED="1635719204366" MODIFIED="1642751127970">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1001664273" STARTINCLINATION="335;0;" ENDINCLINATION="335;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (also known as: moral fallacy)
+    </p>
+  </body>
+</html>
+</richcontent>
+<richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description:</strong>&nbsp;When the conclusion expresses what is, based only on what one believes ought to be, or what isn’t is based on what one believes ought not to be.
+
+    <p class="Body">
+      This is the opposite of the <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Naturalistic-Fallacy" target="fallacy" data-toggle="tooltip" title="" data-original-title="When the conclusion expresses what ought to be, based only on what is, or what ought not to be, based on what is not.">naturalistic fallacy</a></i>.
+    </p>
+    <p class="Body">
+      In his 1957 paper, Edward C. Moore defined the <i>moralistic fallacy</i>&nbsp;&nbsp;as the assertion that moral judgments are of a different order from factual judgements. Over the years, this concept has been simplified to deriving an “is” from an “ought.”
+    </p>
+    <p class="Body">
+      <strong>Logical Forms:</strong>
+    </p>
+    <p class="Body uk-margin-remove uk-text-primary" style="display: block; padding-left: 20px; font-style: italic">
+      X ought to be.<br/>Therefore, X is.<br/><br/>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="display: block; padding-left: 20px; font-style: italic">
+      X ought not to be.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="display: block; padding-left: 20px; font-style: italic">
+      Therefore, X is not.
+    </p>
+    <div class="content clearfix">
+      <strong><br/>
+      Example #1:<br/><br/></strong>
+
+      <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+        Adultery, as well as philandering, is wrong.
+      </p>
+      <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+        Therefore, we have no biological tendency for multiple sex partners.
+      </p>
+      <p class="Body">
+        <strong>Explanation:</strong>&nbsp;While, morally speaking, adultery and philandering may be wrong, this has no bearing on the biological aspect of the desire or need. In other words, what we shouldn’t do (according to moral norms), is not necessarily the same as what we are biologically influenced to do. Also note that moral judgments are more commonly stated as facts (e.g., “philandering is wrong”) than expressed as “oughts” (e.g., “philandering ought to be wrong”). This causes people to confuse the naturalistic and moralistic fallacies.
+      </p>
+      <p class="Body">
+        <strong>Example #2:</strong>
+      </p>
+      <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+        Being mean to others is wrong.
+      </p>
+      <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+        Therefore, it cannot possibly be part of our nature.
+      </p>
+      <p class="Body">
+        <strong>Explanation:</strong>&nbsp;While, morally speaking, being mean to others may be wrong, this has no bearing on the biological aspect of the desire or need. Again, what we shouldn’t do (according to moral norms), is not necessarily the same as what we are biologically influenced to do.
+      </p>
+      <p class="Body">
+        <strong>Exception:</strong>&nbsp;An argument can certainly be made that an ought is the same as an is, but it just cannot be assumed.
+      </p>
+      <p class="Body">
+        <strong>Fun Fact:</strong>&nbsp;The <i>naturalistic</i>&nbsp;and the <i>moralistic</i>&nbsp;&nbsp;fallacies are often confused with the <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Nature" target="fallacy" data-toggle="tooltip" title="" data-original-title="When used as a fallacy, the belief or suggestion that “natural” is better than “unnatural” based on its naturalness. Many people adopt this as a default belief. It is the belief that is what is natural must be good (or any other positive, evaluative judgment) and that which is unnatural must be bad (or any other negative, evaluative judgment).">appeal to nature</a></i>&nbsp;&nbsp;fallacy. One reason, perhaps, is because what is “natural” is another way of saying what is, is. But with the <i>naturalistic</i>&nbsp;and the <i>moralistic</i>&nbsp;&nbsp;fallacies, the conclusion does not have to be based on what is “natural;” it just has to be based on what is. For example,
+      </p>
+      <p class="Body uk-margin-remove uk-text-primary" style="display: block; padding-left: 20px; font-style: italic">
+        Men and women ought to be equal. Therefore, women are just as strong as men and men are just as empathetic as women.
+      </p>
+      <p class="Body">
+        This is another example of the <i>moralistic fallacy</i>&nbsp;but not an <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Nature" target="fallacy" data-toggle="tooltip" title="" data-original-title="When used as a fallacy, the belief or suggestion that “natural” is better than “unnatural” based on its naturalness. Many people adopt this as a default belief. It is the belief that is what is natural must be good (or any other positive, evaluative judgment) and that which is unnatural must be bad (or any other negative, evaluative judgment).">appeal to nature</a></i>.
+      </p>
+    </div>
+    <strong>References:</strong>
+
+    <div class="small" style="padding-left: 22px; text-indent: -22px">
+      <p>
+        
+      </p>
+      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
+        <div class="csl-entry">
+          Moore, E. C. (1957). The Moralistic Fallacy. <i>The Journal of Philosophy</i>, 54(2), 29–42. https://doi.org/10.2307/2022356
+        </div>
+        <div class="csl-entry">
+          Pinker, S. (2003). <i>The Blank Slate: The Modern Denial of Human Nature</i>. Penguin.
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+</richcontent>
+<node TEXT="Demoralization" ID="ID_272391716" CREATED="1636877385194" MODIFIED="1636877386097"/>
+<node TEXT="Virtue signalling" ID="ID_449650019" CREATED="1636879614076" MODIFIED="1636879615015"/>
+</node>
+<node TEXT="Economic fallacies" ID="ID_261208886" CREATED="1642876373328" MODIFIED="1642876394763">
+<node TEXT="Hyperbolic discounting" ID="ID_416323263" CREATED="1642876392216" MODIFIED="1642876396312"/>
+<node TEXT="Sunk-Cost Fallacy" ID="ID_850354237" CREATED="1637156589535" MODIFIED="1642766268289"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (also known as: argument from inertia, concorde fallacy, finish the job fallacy)
+    </p>
+  </body>
+</html>
+</richcontent>
+<richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description:</strong>&nbsp;Reasoning that further investment is warranted on the fact that the resources already invested will be lost otherwise, not taking into consideration the overall losses involved in the further investment.
+
+    <p class="Body">
+      <strong>Logical Form:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      X has already been invested in project Y.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Z more investment would be needed to complete project Y, otherwise X will be lost.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Therefore, Z is justified.
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      I have already paid a consultant $1000 to look into the pros and cons of starting that new business division.&nbsp;&nbsp;He advised that I shouldn’t move forward with it because it is a declining market.&nbsp;&nbsp;However, if I don’t move forward, that $1000 would have been wasted, so I better move forward anyway.
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;What this person does not realize is that moving forward will most likely result in the loss of much more time and money.&nbsp;&nbsp;This person is thinking short-term, not long-term, and is simply trying to avoid the loss of the $1000, which is fallacious thinking.
+    </p>
+    <p class="Body">
+      <strong>Example #2:</strong>&nbsp;There are ministers, priests, pastors, and other clergy all around the world who have invested a significant portion of their lives in theology, who can no longer manage to hold supernatural beliefs -- who have moved beyond faith.&nbsp;&nbsp;Hundreds of them recognize those sunk costs and are searching for the best way to move on (see <a href="http://www.clergyproject.org/">http://www.clergyproject.org</a>) whereas many others cannot accept the loss of their religious investment, and continue to practice a profession inconsistent with their beliefs.
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;Of course, the clergy who have not moved beyond faith and are living consistently with their beliefs have not committed this fallacy.
+    </p>
+    <p class="Body">
+      <strong>Exception:</strong>&nbsp;If a careful evaluation of the hypothetical outcomes of continued investment versus accepting current losses and ceasing all further investment have been made, then choosing the former would not be fallacious.
+    </p>
+    <p class="Body">
+      <strong>Tip:</strong>&nbsp;Is there any part of your life where you continue to make bad investments because you fear to lose what was already invested? Do something about it.
+    </p>
+    <strong>References:</strong>
+
+    <div class="small" style="padding-left: 22px; text-indent: -22px">
+      <p>
+        
+      </p>
+      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
+        <div class="csl-entry">
+          Besanko, D., &amp; Braeutigam, R. (2010). <i>Microeconomics</i>. John Wiley &amp; Sons.
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="Broken window fallacy" ID="ID_1806567158" CREATED="1635720845809" MODIFIED="1642689108002"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (also known as: glazier's fallacy)
+    </p>
+  </body>
+</html>
+</richcontent>
+<richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description:</strong>&nbsp;The illusion that destruction and money spent in recovery from destruction, is a net-benefit to society.&nbsp;&nbsp;A broader application of this fallacy is the general tendency to overlook opportunity costs or that which is unseen, either in a financial sense or other.
+
+    <p class="Body">
+      This fallacy goes far beyond just looking for the silver lining, thinking positive, or making the best of a bad situation.&nbsp;&nbsp;It is the incorrect assumption that the net benefit is positive.
+    </p>
+    <p class="Body">
+      <strong>Logical Form:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Disaster X occurred, but this is a good thing because Y will come, as a result.
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Dad, I actually did America a favor by crashing your car.&nbsp;&nbsp;Now, some auto shop will have more work, their employees will make more money, those employees will spend their money, and who knows, they might just come to your store and buy some of your products!
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;I actually tried a variation of this argument when I was a kid -- it didn’t work, but not only did it not work, it is fallacious reasoning, and here is why: by crashing the car, a produced good is destroyed, and resources have to go into replacing that good as opposed to creating new goods.
+    </p>
+    <p class="Body">
+      <strong>Example #2:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      The Holocaust was a good thing overall.&nbsp;&nbsp;It educated future generations about the evils of genocide.
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;This is a real argument, I kid you not.&nbsp;&nbsp;People tend to overvalue their own gain (the education) and devalue the losses that are unseen (the unimaginable suffering of the victims and their families).&nbsp;
+    </p>
+    <p class="Body">
+      <strong>Exception:</strong>&nbsp;It might be the case when some kind of destruction actually can benefit society -- like in lightning striking the local crack house, and a soup kitchen being reconstructed in its place.
+    </p>
+    <p class="Body">
+      <strong>Tip</strong>: Be sensitive when looking for the best of a bad situation, keeping in mind all those who may have suffered. In your statement of optimism or hope, be sure to show compassion as well.
+    </p>
+    <p class="Body" style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>The Holocaust was a horrible event in human history, and the damage that resulted will never be forgotten. As with most tragedies, they can be used to educate us, helping us to prevent similar future events.</em></font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
 </node>
 <node TEXT="uncategorized" POSITION="right" ID="ID_1427653948" CREATED="1635759812221" MODIFIED="1637054221127"><richcontent TYPE="DETAILS">
 
@@ -8052,140 +8254,11 @@
 <node TEXT="Failure bias" ID="ID_1656942298" CREATED="1635760056544" MODIFIED="1635760057306"/>
 <node TEXT="Falsism" ID="ID_513036637" CREATED="1635760193468" MODIFIED="1635760194194"/>
 <node TEXT="Greedy reductionism" ID="ID_1114983696" CREATED="1635760572898" MODIFIED="1635760573787"/>
-<node TEXT="Incomplete comparison" ID="ID_1002975029" CREATED="1635760839509" MODIFIED="1642700008488"><richcontent TYPE="NOTE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&nbsp;An incomplete assertion that cannot possibly be refuted. This is popular in advertising.
-
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      X is said to be superior, but to nothing specifically.
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p class="Body">
-      One of my favorite candies, <i>Raisinets</i>, advertises on their package that the product contains 40% less fat. In fairness, they do have an asterisk then in much smaller writing, &quot;than the leading candy bar.&quot;
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;The question is, &quot;40% less fat than what?&quot; The hope is that most people won't read the fine print and make their own assumptions. &quot;Oh, this candy bar has 40% less fat than this apple!&quot;
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>
-    </p>
-    <p class="Body uk-margin-remove uk-text-primary" style="display: block; padding-left: 20px; font-style: italic">
-      Our widgets cost less and last longer!
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;Cost less than what? Last longer than what? By not specifically saying &quot;our competition&quot; they cannot get in trouble when a competitor shows that their product actually costs less and last longer.
-    </p>
-    <p class="Body">
-      <strong>Exception:</strong>&nbsp;The terminology used has to be a comparison word or phrase. For example, saying &quot;Bo Rocks!&quot; is great. Not just because I do rock (not musically), but because &quot;rocks&quot; is not a comparison word. There is a complete assertion. Another exception is when the object of comparison is assumed. For example, &quot;Johnny, you need to better in school.&quot; Clearly, the implication here is that Johnny needs to <i>improve</i>, that is, do better than he did in the past.
-    </p>
-    <p class="Body">
-      <strong>Tip:</strong>&nbsp;When possible, read the fine print.
-    </p>
-    <strong>References:</strong>
-
-    <div class="small" style="padding-left: 22px; text-indent: -22px">
-      <p>
-        
-      </p>
-      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
-        <div class="csl-entry">
-          Incomplete Comparisons. (n.d.). Retrieved from http://www.mhhe.com/mayfieldpub/tsw/comp-i.htm
-        </div>
-      </div>
-    </div>
-  </body>
-</html>
-</richcontent>
-</node>
 <node TEXT="Inconsistent comparison" ID="ID_813985019" CREATED="1635760845691" MODIFIED="1635760846251"/>
-<node TEXT="Faulty Comparison" ID="ID_1723105233" CREATED="1637060527183" MODIFIED="1642696146506"><richcontent TYPE="DETAILS">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (also known as: bad comparison, false comparison, inconsistent, comparison [form of])
-    </p>
-  </body>
-</html>
-</richcontent>
-<richcontent TYPE="NOTE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&nbsp;Comparing one thing to another that is really not related, in order to make one thing look more or less desirable than it really is.
-
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p class="Body" style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>X is different from Y in way Z.</em></font><br/><font color="rgb(52, 73, 94)"><em>It is unreasonable to compare X to Y in way Z.</em></font><br/><font color="rgb(52, 73, 94)"><em>Therefore, X is seen as more/less favorable.</em></font>
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>Broccoli has significantly less fat than the leading candy bar!</em></font>
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;While both broccoli and candy bars can be considered snacks, comparing the two in terms of fat content and ignoring the significant difference in taste, leads to the false comparison.
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>
-    </p>
-    <p style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>Religion may have been wrong about a few things, but science has been wrong about many more things!</em></font>
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;We are comparing a <i>method of knowledge</i>&nbsp;&nbsp;(science) to a <i>system of belief</i>&nbsp;(faith), which is not known for revising itself based on new evidence.&nbsp;&nbsp;Even when it does, the “wrongs” are blamed on human interpretation.&nbsp;&nbsp;Science is all about improving ideas to get closer to the truth, and, in some cases, completely throwing out theories that have been proven wrong.&nbsp;&nbsp;Furthermore, the claims of religion are virtually all <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Unfalsifiability" target="fallacy" data-toggle="tooltip" title="" data-original-title="Confidently asserting that a theory or hypothesis is true or false even though the theory or hypothesis cannot possibly be contradicted by an observation or the outcome of any physical experiment, usually without strong evidence or good reasons.">unfalsifiable</a></i>, thus cannot be proven wrong.&nbsp;&nbsp;Therefore, comparing religion and science on the basis of falsifiability is a faulty comparison.
-    </p>
-    <p class="Body">
-      <strong>Exception:</strong>&nbsp;One can argue what exactly is “really not related”.
-    </p>
-    <p class="Body">
-      <strong>Variation:</strong>&nbsp;An <em>inconsistent comparison</em>&nbsp;is when something is compared to multiple things in different ways, giving the impression that what is being compared is far better or worse than it actually is. For example,
-    </p>
-    <p class="Body" style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>Serial killer Ted Bundy wasn’t so bad. He didn’t kill children like Luis Garavito, he didn’t kill nearly as many people as Hitler, and he is much kinder than Satan.</em></font>
-    </p>
-    <p>
-      <strong>Tip:</strong>&nbsp;Comparisons of any kind almost always are flawed.&nbsp;&nbsp;Think carefully before you accept any kind of comparison as evidence.
-    </p>
-    <strong>References:</strong>
-
-    <div class="small" style="padding-left: 22px; text-indent: -22px">
-      <p>
-        
-      </p>
-      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
-        <div class="csl-entry">
-          Dowden, B. H. (1993). <i>Logical Reasoning</i>. Bradley Dowden.
-        </div>
-      </div>
-    </div>
-  </body>
-</html>
-</richcontent>
-</node>
 <node TEXT="Hoyle&apos;s Fallacy/Junkyard tornado" ID="ID_1544337902" CREATED="1635762414825" MODIFIED="1635762422179"/>
 <node TEXT="Mind projection fallacy" ID="ID_483314699" CREATED="1635762775842" MODIFIED="1635762776272">
 <node TEXT="Psychologist&apos;s fallacy" ID="ID_838119592" CREATED="1635766590797" MODIFIED="1635766591749"/>
-<node TEXT="Historian&apos;s fallacy" ID="ID_1347056827" CREATED="1635760580540" MODIFIED="1642698330088"><richcontent TYPE="DETAILS">
+<node TEXT="Historian&apos;s fallacy" ID="ID_1347056827" CREATED="1635760580540" MODIFIED="1642868560088"><richcontent TYPE="DETAILS">
 
 <html>
   <head>
@@ -8265,6 +8338,7 @@
 </html>
 </richcontent>
 <node TEXT="Baconian fallacy" ID="ID_614600533" CREATED="1642503913726" MODIFIED="1642503916961"/>
+<node TEXT="Dixiecrat fallacy" ID="ID_1476021934" CREATED="1642868558733" MODIFIED="1642868562113"/>
 </node>
 <node TEXT="Historical fallacy" ID="ID_1439199427" CREATED="1635760586581" MODIFIED="1635760703962"/>
 <node TEXT="Fantasy Projection" ID="ID_1510621991" CREATED="1637059916593" MODIFIED="1642696027182"><richcontent TYPE="NOTE">
@@ -8484,135 +8558,6 @@
     </p>
     <p class="Body">
       <strong>Tip:</strong>&nbsp;By simply adding an “I believe” to non-factual arguments and claims, you can avoid many fallacies and be more honest while exercising more humility.
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="Anthropomorphism" ID="ID_978255604" CREATED="1637054370831" MODIFIED="1642680196391"><richcontent TYPE="DETAILS">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (also known as: personification)
-    </p>
-  </body>
-</html>
-</richcontent>
-<richcontent TYPE="NOTE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&nbsp;The attributing of human characteristics and purposes to inanimate objects, animals, plants, or other natural phenomena, or to gods. This becomes a logical fallacy when used within the context of an argument.
-
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Non-human thing is described with human characteristics.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Claim X is made that requires the human characteristics of the thing.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Therefore, claim X is true.
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      How dare you murder those carrots!
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;Murder applies to humans, not carrots. By definition, one cannot murder carrots. In this example, the carrots are assumed to have the human characteristics that make murder “murder” and not just “killing” or “eating.”
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Akoni: The Polynesian fire goddess, Pele, sacrificed her own daughter in the volcano to bring peace to the islands. This is how I know she loves us.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Ubon: Aren't the gods and goddesses immortal?
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Akoni: Err, yes.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Ubon: Then what happened to Pele's daughter after she was thrown in the volcano?
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Akoni: She was reunited with Pele in the heavens.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Ubon: So why was this a sacrifice?
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;The goddess, Pele, and her daughter are given the human quality of the frailty of life in order for the concept of “sacrifice” to be meaningful.
-    </p>
-    <p class="Body">
-      <strong>Tip:</strong>&nbsp;If you want to make people laugh, give objects and small animals human qualities. Anthropomorphism is a comedy goldmine for stand-up comedians.
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="Argument by Selective Reading" ID="ID_240064448" CREATED="1637057588524" MODIFIED="1642687548152"><richcontent TYPE="NOTE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&nbsp;When a series of arguments or claims is made and the opponent acts as if the weakest argument was the best one made. This is a form of<i>&nbsp;<a href="https://www.logicallyfallacious.com/logicalfallacies/Cherry-Picking" target="fallacy" data-toggle="tooltip" title="" data-original-title="When only select evidence is presented in order to persuade the audience to accept a position, and evidence that would go against the position is withheld.  The stronger the withheld evidence, the more fallacious the argument.  Logical Form:">cherry picking</a>&nbsp;</i>and very similar to the <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Selective-Attention" target="fallacy" data-toggle="tooltip" title="" data-original-title="Focusing your attention on certain aspects of the argument while completely ignoring or missing other parts.  This usually results in irrelevant rebuttals, strawman fallacies, and unnecessarily drawn-out arguments.">selective attention</a>&nbsp;</i>fallacy.
-
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Person 1 makes arguments X, Y, and Z.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Argument Z is the weakest.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Person 2 responds as if argument Z was the best person 1 has made.
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Kevin: I think there is good evidence that God exists because of the fine-tuning argument, the teleological argument, and perhaps because over 2 billion believe it as well.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Sydney: It is ridiculous to believe in God just because a lot of other people do too!
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;Kevin gave three reasons for his belief in God, two are worthy of debate, and one is not. Sydney focused on the one that is not and responded as if that were the only one he made.
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Jona: Yes, man did walk on the moon. There is <a href="https://en.wikipedia.org/wiki/Third-party_evidence_for_Apollo_Moon_landings" target="_blank" rel="noopener">overwhelming evidence that does not come from either NASA or the United States government</a>. Besides, I personally know one of the astronauts involved in one of the Apollo missions, and he confirms that they really did send men to the moon.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Biff: Your friend is just being paid to perpetuate the lie.
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;Biff focused on the weaker of the two arguments and ignored the other.
-    </p>
-    <p class="Body">
-      <strong>Exception:</strong>&nbsp;One can start by dismissing the weakest arguments first, as long as they get to the strongest one.
-    </p>
-    <p class="Body">
-      <strong>Tip:</strong>&nbsp;If your interlocutor begins rattling off several arguments, &nbsp;politely interrupt them and request that they begin with their strongest argument, and allow you to address that one before proceeding to the next argument.
     </p>
   </body>
 </html>
@@ -10894,206 +10839,6 @@
 </html>
 </richcontent>
 </node>
-<node TEXT="Sunk-Cost Fallacy" ID="ID_850354237" CREATED="1637156589535" MODIFIED="1642766268289"><richcontent TYPE="DETAILS">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (also known as: argument from inertia, concorde fallacy, finish the job fallacy)
-    </p>
-  </body>
-</html>
-</richcontent>
-<richcontent TYPE="NOTE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&nbsp;Reasoning that further investment is warranted on the fact that the resources already invested will be lost otherwise, not taking into consideration the overall losses involved in the further investment.
-
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      X has already been invested in project Y.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Z more investment would be needed to complete project Y, otherwise X will be lost.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Therefore, Z is justified.
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      I have already paid a consultant $1000 to look into the pros and cons of starting that new business division.&nbsp;&nbsp;He advised that I shouldn’t move forward with it because it is a declining market.&nbsp;&nbsp;However, if I don’t move forward, that $1000 would have been wasted, so I better move forward anyway.
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;What this person does not realize is that moving forward will most likely result in the loss of much more time and money.&nbsp;&nbsp;This person is thinking short-term, not long-term, and is simply trying to avoid the loss of the $1000, which is fallacious thinking.
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>&nbsp;There are ministers, priests, pastors, and other clergy all around the world who have invested a significant portion of their lives in theology, who can no longer manage to hold supernatural beliefs -- who have moved beyond faith.&nbsp;&nbsp;Hundreds of them recognize those sunk costs and are searching for the best way to move on (see <a href="http://www.clergyproject.org/">http://www.clergyproject.org</a>) whereas many others cannot accept the loss of their religious investment, and continue to practice a profession inconsistent with their beliefs.
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;Of course, the clergy who have not moved beyond faith and are living consistently with their beliefs have not committed this fallacy.
-    </p>
-    <p class="Body">
-      <strong>Exception:</strong>&nbsp;If a careful evaluation of the hypothetical outcomes of continued investment versus accepting current losses and ceasing all further investment have been made, then choosing the former would not be fallacious.
-    </p>
-    <p class="Body">
-      <strong>Tip:</strong>&nbsp;Is there any part of your life where you continue to make bad investments because you fear to lose what was already invested? Do something about it.
-    </p>
-    <strong>References:</strong>
-
-    <div class="small" style="padding-left: 22px; text-indent: -22px">
-      <p>
-        
-      </p>
-      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
-        <div class="csl-entry">
-          Besanko, D., &amp; Braeutigam, R. (2010). <i>Microeconomics</i>. John Wiley &amp; Sons.
-        </div>
-      </div>
-    </div>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="Tokenism" ID="ID_1143489927" CREATED="1637156630426" MODIFIED="1642766698297"><richcontent TYPE="NOTE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <div class="content clearfix">
-      <p class="Body">
-        <strong>Description:</strong>&nbsp;Interpreting a token gesture as an adequate substitute for the real thing.
-      </p>
-      <p class="Body">
-        <strong>Logical Form:</strong>
-      </p>
-      <p class="Body" style="padding-left: 40px">
-        <font color="rgb(52, 73, 94)"><em>Problem X exists.</em></font><br/><font color="rgb(52, 73, 94)"><em>Solution Y is offered.</em></font><br/><font color="rgb(52, 73, 94)"><em>Solution Y is inadequate to solve problem X but accepted as adequate.</em></font>
-      </p>
-      <p class="Body">
-        <strong>Example #1:</strong>
-      </p>
-      <p style="padding-left: 40px">
-        <font color="rgb(52, 73, 94)"><em>The presidential nominee has been accused of being racist.&nbsp;&nbsp;But he recently stated that he really liked the movie, “Roots,” so I guess he isn’t racist.</em></font>
-      </p>
-      <p class="Body">
-        <strong>Explanation:</strong>&nbsp;Liking one movie that exposes racism and encourages equality, is far from the same as not being a racist.
-      </p>
-      <p class="Body">
-        <strong>Example #2:</strong>
-      </p>
-      <p style="padding-left: 40px">
-        <font color="rgb(52, 73, 94)"><em>Mr. McBoss' company consists of 50 executives who are all men, and 50 secretaries who are all women.&nbsp;&nbsp;To show he is all about equal opportunity, he has agreed to hire a woman executive.</em></font>
-      </p>
-      <p class="Body">
-        <strong>Explanation:</strong>&nbsp;This &quot;token&quot; gesture does not come close to making up for the disproportionate hiring practices of Mr. McBoss' company.
-      </p>
-      <p class="Body">
-        <strong>Example #3:</strong>&nbsp;In the summer of 2020 when racial tensions were high, many media sources did their part to solve racism by capitalizing the “B” when referring to black people while keeping the “w” lowercase when referring to white people. Some sources that picked up this story saw this as a token gesture to help shield them from public claims of racism.
-      </p>
-      <p class="Body">
-        <strong>Exception:</strong>&nbsp;If a token gesture is seen as a token, and not as an adequate substitute, it is not a fallacy.
-      </p>
-      <p style="padding-left: 40px">
-        <font color="rgb(52, 73, 94)"><em>I know I have a weight problem, and I am trying.&nbsp;&nbsp;So far, I have replaced my usual breakfast of doughnuts with a single grapefruit.</em></font>
-      </p>
-      <p>
-        <strong>Fun Fact: </strong>Some attempts to solve racism are Stupid with a capital “S.”
-      </p>
-    </div>
-    References: Cogan, R. (1998). Critical Thinking: Step by Step. University Press of America.
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="Use-Mention Error" ID="ID_1006770383" CREATED="1637164739609" MODIFIED="1642767455867"><richcontent TYPE="DETAILS">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (also known as: UME)
-    </p>
-  </body>
-</html>
-</richcontent>
-<richcontent TYPE="NOTE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p class="Body">
-      <strong>Description:</strong>&nbsp;&nbsp;Confusing the word used to describe a thing, with the thing itself.&nbsp;&nbsp;To avoid this error, it is customary to put the word used to describe the thing in quotes.
-    </p>
-    <p class="Body">
-      This fallacy is most common when used as an <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Equivocation" target="fallacy" data-toggle="tooltip" title="" data-original-title="Using an ambiguous term in more than one sense, thus making an argument misleading.">equivocation</a></i>.
-    </p>
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      “X” is the same as X.
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      My son is made up of five letters.
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Tyrone: I am a sophisticated word genius.<br/>Suzie: Prove it. Define some.<br/>Tyrone: An unspecified amount or number of. Proven!
-    </p>
-    <p class="Body">
-      <strong>Example #3: </strong>Many podcast hosts, journalists, and other public figures who discuss issues of race have got themselves in serious trouble by reporting on people who use the “N-word,” by actually using the word themselves (I won’t use it here because I don’t want to be one of those casualties). This is because a small, but vocal, group view the mention of the word as nefarious as the use of the word, when the two are substantially different.
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;Suzie meant to “define some words” but Tyrone defined the word “some.” Tyrone thinks he won the exchange but he did not really define any sophisticated words.
-    </p>
-    <p class="Body">
-      <strong>Exception:</strong>&nbsp;When this “fallacy” is used in humor and riddles.
-    </p>
-    <p class="Body">
-      <strong>Fun Fact:</strong>&nbsp;What part of London is in France? The letter “n.”&nbsp;
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;The words (mention), “my son”, are made up of five letters.&nbsp;&nbsp;My son (use) is made up of molecules.
-    </p>
-    <p class="Body">
-      <strong>References:</strong>
-    </p>
-    <div class="small" style="padding-left: 22px; text-indent: -22px">
-      <p>
-        
-      </p>
-      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
-        <div class="csl-entry">
-          Azzouni, J. (2010). <i>Talking About Nothing: Numbers, Hallucinations and Fictions</i>. Oxford University Press.
-        </div>
-      </div>
-    </div>
-  </body>
-</html>
-</richcontent>
-</node>
 <node TEXT="Blinding with science" ID="ID_1514720926" CREATED="1642350717782" MODIFIED="1642852935911"><richcontent TYPE="NOTE">
 
 <html>
@@ -11921,7 +11666,7 @@
 </richcontent>
 </node>
 <node TEXT="Sampling bias" ID="ID_491292843" CREATED="1618489558326" MODIFIED="1618489559496">
-<node TEXT="Cherry picking" FOLDED="true" ID="ID_1112345129" CREATED="1618489614084" MODIFIED="1642689200373"><richcontent TYPE="DETAILS">
+<node TEXT="Cherry picking" ID="ID_1112345129" CREATED="1618489614084" MODIFIED="1642689200373"><richcontent TYPE="DETAILS">
 
 <html>
   <head>
@@ -12054,6 +11799,20 @@
 </html>
 </richcontent>
 </node>
+<node TEXT="Casualty fallacy" ID="ID_474749661" CREATED="1642868271003" MODIFIED="1642868287161"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (also known as: Reverse survivorship)
+    </p>
+  </body>
+</html>
+
+</richcontent>
 </node>
 <node TEXT="McNamara Fallacy" ID="ID_527996224" CREATED="1618489625712" MODIFIED="1642750790122"><richcontent TYPE="DETAILS">
 
@@ -12121,6 +11880,7 @@
 </html>
 </richcontent>
 <node TEXT="Managing the news" ID="ID_303499533" CREATED="1636876846036" MODIFIED="1636876847609"/>
+</node>
 </node>
 <node TEXT="Nut-picking" ID="ID_1397530959" CREATED="1618499821775" MODIFIED="1618499823354"/>
 </node>
@@ -12199,7 +11959,6 @@
 </html>
 </richcontent>
 </node>
-<node TEXT="Double counting (fallacy)" ID="ID_1326132903" CREATED="1618489666615" MODIFIED="1637059023154"/>
 <node TEXT="Weak Analogy" ID="ID_1445512070" CREATED="1618489731854" MODIFIED="1642845710239"><richcontent TYPE="DETAILS">
 
 <html>
@@ -12430,6 +12189,187 @@
     </p>
     <p class="Body">
       <strong>Tip:</strong>&nbsp;Don’t call people crazy -- leave that kind of psychological assessment for the licensed professionals.&nbsp;&nbsp;You can call them, “nutjobs”.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="Faulty Comparison" ID="ID_1723105233" CREATED="1637060527183" MODIFIED="1642696146506"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (also known as: bad comparison, false comparison, inconsistent, comparison [form of])
+    </p>
+  </body>
+</html>
+</richcontent>
+<richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description:</strong>&nbsp;Comparing one thing to another that is really not related, in order to make one thing look more or less desirable than it really is.
+
+    <p class="Body">
+      <strong>Logical Form:</strong>
+    </p>
+    <p class="Body" style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>X is different from Y in way Z.</em></font><br/><font color="rgb(52, 73, 94)"><em>It is unreasonable to compare X to Y in way Z.</em></font><br/><font color="rgb(52, 73, 94)"><em>Therefore, X is seen as more/less favorable.</em></font>
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>Broccoli has significantly less fat than the leading candy bar!</em></font>
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;While both broccoli and candy bars can be considered snacks, comparing the two in terms of fat content and ignoring the significant difference in taste, leads to the false comparison.
+    </p>
+    <p class="Body">
+      <strong>Example #2:</strong>
+    </p>
+    <p style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>Religion may have been wrong about a few things, but science has been wrong about many more things!</em></font>
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;We are comparing a <i>method of knowledge</i>&nbsp;&nbsp;(science) to a <i>system of belief</i>&nbsp;(faith), which is not known for revising itself based on new evidence.&nbsp;&nbsp;Even when it does, the “wrongs” are blamed on human interpretation.&nbsp;&nbsp;Science is all about improving ideas to get closer to the truth, and, in some cases, completely throwing out theories that have been proven wrong.&nbsp;&nbsp;Furthermore, the claims of religion are virtually all <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Unfalsifiability" target="fallacy" data-toggle="tooltip" title="" data-original-title="Confidently asserting that a theory or hypothesis is true or false even though the theory or hypothesis cannot possibly be contradicted by an observation or the outcome of any physical experiment, usually without strong evidence or good reasons.">unfalsifiable</a></i>, thus cannot be proven wrong.&nbsp;&nbsp;Therefore, comparing religion and science on the basis of falsifiability is a faulty comparison.
+    </p>
+    <p class="Body">
+      <strong>Exception:</strong>&nbsp;One can argue what exactly is “really not related”.
+    </p>
+    <p class="Body">
+      <strong>Variation:</strong>&nbsp;An <em>inconsistent comparison</em>&nbsp;is when something is compared to multiple things in different ways, giving the impression that what is being compared is far better or worse than it actually is. For example,
+    </p>
+    <p class="Body" style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>Serial killer Ted Bundy wasn’t so bad. He didn’t kill children like Luis Garavito, he didn’t kill nearly as many people as Hitler, and he is much kinder than Satan.</em></font>
+    </p>
+    <p>
+      <strong>Tip:</strong>&nbsp;Comparisons of any kind almost always are flawed.&nbsp;&nbsp;Think carefully before you accept any kind of comparison as evidence.
+    </p>
+    <strong>References:</strong>
+
+    <div class="small" style="padding-left: 22px; text-indent: -22px">
+      <p>
+        
+      </p>
+      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
+        <div class="csl-entry">
+          Dowden, B. H. (1993). <i>Logical Reasoning</i>. Bradley Dowden.
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="Incomplete comparison" ID="ID_1002975029" CREATED="1635760839509" MODIFIED="1642700008488"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description:</strong>&nbsp;An incomplete assertion that cannot possibly be refuted. This is popular in advertising.
+
+    <p class="Body">
+      <strong>Logical Form:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      X is said to be superior, but to nothing specifically.
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p class="Body">
+      One of my favorite candies, <i>Raisinets</i>, advertises on their package that the product contains 40% less fat. In fairness, they do have an asterisk then in much smaller writing, &quot;than the leading candy bar.&quot;
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;The question is, &quot;40% less fat than what?&quot; The hope is that most people won't read the fine print and make their own assumptions. &quot;Oh, this candy bar has 40% less fat than this apple!&quot;
+    </p>
+    <p class="Body">
+      <strong>Example #2:</strong>
+    </p>
+    <p class="Body uk-margin-remove uk-text-primary" style="display: block; padding-left: 20px; font-style: italic">
+      Our widgets cost less and last longer!
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;Cost less than what? Last longer than what? By not specifically saying &quot;our competition&quot; they cannot get in trouble when a competitor shows that their product actually costs less and last longer.
+    </p>
+    <p class="Body">
+      <strong>Exception:</strong>&nbsp;The terminology used has to be a comparison word or phrase. For example, saying &quot;Bo Rocks!&quot; is great. Not just because I do rock (not musically), but because &quot;rocks&quot; is not a comparison word. There is a complete assertion. Another exception is when the object of comparison is assumed. For example, &quot;Johnny, you need to better in school.&quot; Clearly, the implication here is that Johnny needs to <i>improve</i>, that is, do better than he did in the past.
+    </p>
+    <p class="Body">
+      <strong>Tip:</strong>&nbsp;When possible, read the fine print.
+    </p>
+    <strong>References:</strong>
+
+    <div class="small" style="padding-left: 22px; text-indent: -22px">
+      <p>
+        
+      </p>
+      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
+        <div class="csl-entry">
+          Incomplete Comparisons. (n.d.). Retrieved from http://www.mhhe.com/mayfieldpub/tsw/comp-i.htm
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="Appeal to Extremes" ID="ID_256652115" CREATED="1637055015910" MODIFIED="1642686206497"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description:</strong>&nbsp;Erroneously attempting to make a reasonable argument into an absurd one, by taking the argument to the extremes. Note that this is not a valid <i>reductio ad absurdum</i>.
+
+    <p class="Body">
+      <strong>Logical Form:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      If X is true, then Y must also be true (where Y is the extreme of X).
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      There is no way those Girl Scouts could have sold all those cases of cookies in one hour.&nbsp;&nbsp;If they did, they would have to make $500 in one hour, which, based on an 8 hour day is over a million dollars a year.&nbsp;&nbsp;That is more than most lawyers, doctors, and successful business people make!
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;The Girl Scouts worked just for one hour -- not 40 per week for a year.&nbsp;&nbsp;Suggesting the extreme leads to an absurd conclusion; that Girl Scouts are among the highest paid people in the world.&nbsp;&nbsp;&nbsp;Not to mention, there is a whole troop of them doing the work, not just one girl.
+    </p>
+    <p class="Body">
+      <strong>Example #2:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Don’t forget God’s commandment, “thou shall not kill”.&nbsp;&nbsp;By using mouthwash, you are killing 99.9% of the germs that cause bad breath.&nbsp;&nbsp;Prepare for Hell.
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;It is unlikely that God had mouthwash on his mind when issuing that commandment, but if he did, we’re all screwed (at least those of us with fresh breath).
+    </p>
+    <p class="Body">
+      <strong>Exception:</strong>&nbsp;This fallacy is a misuse of one of the greatest techniques in argumentation, <i>reductio ad absurdum</i>, or reducing the argument to the absurd.&nbsp;&nbsp;The difference is where the absurdity actually is in the argument or in the reasoning of the one trying to show the argument is absurd.
+    </p>
+    <p class="Body">
+      Here is an example of an argument that is proven false by reducing to the absurd, legitimately.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Big Tony: The more you exercise, the stronger you will get!
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Nerdy Ned: Actually, if you just kept exercising and never stopped, you would drop dead. There is a limit to how much exercise you should get. At some point, the exercise becomes excessive and causes more harm than good.
+    </p>
+    <p class="Body">
+      <strong>Tip:</strong>&nbsp;People very often say stupid things.&nbsp;&nbsp;Sometimes it is easy to reduce their arguments to absurdity, but remember, in most cases, your goal should be diplomacy, not making the other person look foolish.&nbsp;&nbsp;Especially when dealing with your spouse—unless you really like sleeping on the couch.
     </p>
   </body>
 </html>
@@ -12884,6 +12824,8 @@
 
 </richcontent>
 </node>
+<node TEXT="Self–selection" ID="ID_111876713" CREATED="1642868169781" MODIFIED="1642868172500"/>
+<node TEXT="Double counting (fallacy)" ID="ID_1326132903" CREATED="1618489666615" MODIFIED="1637059023154"/>
 </node>
 <node TEXT="Inductive fallacy" ID="ID_696361387" CREATED="1618499798195" MODIFIED="1618499799198"/>
 <node TEXT="Misleading vividness" ID="ID_1456707992" CREATED="1618499806406" MODIFIED="1642750895672">
@@ -13441,6 +13383,7 @@
 </html>
 </richcontent>
 <node TEXT="Converse accident" ID="ID_1917903341" CREATED="1618489393162" MODIFIED="1618489394021"/>
+<node TEXT="Stereotyping fallacy" ID="ID_988735781" CREATED="1642868131971" MODIFIED="1642868134933"/>
 </node>
 <node POSITION="left" ID="ID_1609643158" CREATED="1618489316813" MODIFIED="1618489319175"><richcontent TYPE="NODE">
 
@@ -14104,6 +14047,7 @@
 </html>
 </richcontent>
 </node>
+<node TEXT="Tautology" ID="ID_1496466675" CREATED="1642867513633" MODIFIED="1642867518555"/>
 </node>
 <node TEXT="Begging the Question" ID="ID_632582513" CREATED="1636913690539" MODIFIED="1642688989804"><richcontent TYPE="DETAILS">
 
@@ -14838,83 +14782,6 @@
 </html>
 </richcontent>
 </node>
-<node TEXT="Reification (fallacy)" ID="ID_1692100781" CREATED="1618488921424" MODIFIED="1642755171096"><richcontent TYPE="DETAILS">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (also known as: abstraction, concretism, fallacy of misplaced concreteness, hypostatisation, pathetic fallacy [form of])
-    </p>
-  </body>
-</html>
-</richcontent>
-<richcontent TYPE="NOTE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&nbsp;When an abstraction (abstract belief or hypothetical construct) is treated as if it were a concrete, real event or physical entity -- when an idea is treated as if had a real existence.
-
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p class="Body" style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>Abstraction X is treated as if it were concrete, a real event, or a physical entity.<br/>Because the abstraction is seen as if it were concrete, a real event, or a physical entity, the conclusion is true.</em></font>
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>Dr. Simmons: I am working on a way to lengthen the human lifespan to about 200 years.<br/>Misty: You are declaring war on Mother Nature, and Mother Nature always wins!</em></font>
-    </p>
-    <p class="Body">
-      <strong>Explanation:&nbsp;</strong>Here, “Mother Nature” is being portrayed as an autonomous being capable of going to war with humanity. If this were the case, it would seem that messing with Mother Nature is futile. In reality, we are part of nature and can and always have changed nature, sometimes for the worse, but often for the better.
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>
-    </p>
-    <p style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>If you are open to it, love will find you.</em></font>
-    </p>
-    <p class="Body">
-      <strong>Explanation:&nbsp; </strong>Love is an abstraction, not a little fat flying baby with a bow and arrow that searches for victims.&nbsp;&nbsp;Cute sayings such as this one can serve as bad advice for people who would otherwise make an effort to find a romantic partner, but choose not to, believing that this &quot;love entity&quot; is busy searching for his or her ideal mate.
-    </p>
-    <p class="Body">
-      <strong>Exception:</strong>&nbsp;In most cases, even in the above examples, these are used as rhetorical devices. When the reification is deliberate and harmless, and not used as evidence to support a claim or conclusion, then it is not fallacious.
-    </p>
-    <p style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>It’s time to grab my future by the balls.</em></font>
-    </p>
-    <p class="Body">
-      The future is an abstraction. It does not have testicles. If it did, you probably wouldn’t want to grab them because your future might sue you for sexual misconduct.
-    </p>
-    <p class="Body">
-      <strong>Variation:</strong>&nbsp;The <i>pathetic fallacy</i>&nbsp;is the treatment of inanimate objects as if they had human feelings, thought, or sensations.&nbsp;&nbsp;Think of cursing at your computer when it does not give you the results you expect.
-    </p>
-    <p class="Body">
-      <strong>Fun Fact:</strong>&nbsp;<em>Reification</em>&nbsp;is similar to <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Anthropomorphism" target="fallacy" data-toggle="tooltip" title="" data-original-title="The attributing of human characteristics and purposes to inanimate objects, animals, plants, or other natural phenomena, or to gods. This becomes a logical fallacy when used within the context of an argument.">anthropomorphism</a></i><em>,</em>&nbsp;&nbsp;except that <em>reification</em>&nbsp;does not have to deal with human qualities.
-    </p>
-    <strong>References:</strong>
-
-    <div class="small" style="padding-left: 22px; text-indent: -22px">
-      <p>
-        
-      </p>
-      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
-        <div class="csl-entry">
-          reification | literature | Britannica.com. (n.d.). Retrieved from https://www.britannica.com/topic/reification
-        </div>
-      </div>
-    </div>
-  </body>
-</html>
-</richcontent>
-</node>
 <node TEXT="Definitional Retreat" ID="ID_1010027935" CREATED="1618499517947" MODIFIED="1636913926153"/>
 <node TEXT="motte-and-bailey fallacy" ID="ID_238965292" CREATED="1618499555292" MODIFIED="1636920602671">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1706945405" STARTINCLINATION="1206;0;" ENDINCLINATION="1179;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
@@ -15486,6 +15353,8 @@
 
 </richcontent>
 </node>
+<node TEXT="Proof by Intimidation" ID="ID_802899348" CREATED="1642871506911" MODIFIED="1642871509456"/>
+<node TEXT="Deepity" ID="ID_1680851398" CREATED="1642871519798" MODIFIED="1642871523890"/>
 </node>
 <node TEXT="Jingle-jangle fallacies" ID="ID_1880508881" CREATED="1635761044991" MODIFIED="1635761045754"/>
 <node TEXT="Ambiguity fallacy" ID="ID_1844366471" CREATED="1618489766336" MODIFIED="1642680041492">
@@ -15503,6 +15372,7 @@
     </p>
   </body>
 </html>
+
 </richcontent>
 <richcontent TYPE="NOTE">
 
@@ -15558,7 +15428,7 @@
   </body>
 </html>
 </richcontent>
-<node TEXT="Fake precision" ID="ID_1593495069" CREATED="1618489787328" MODIFIED="1642694403865"><richcontent TYPE="DETAILS">
+<node TEXT="Fake precision" ID="ID_1593495069" CREATED="1618489787328" MODIFIED="1642868338378"><richcontent TYPE="DETAILS">
 
 <html>
   <head>
@@ -15566,10 +15436,11 @@
   </head>
   <body>
     <p>
-      (also known as: over-precision, false precision, misplaced precision, spurious accuracy)
+      (also known as: overprecision, false precision, misplaced precision, spurious accuracy)
     </p>
   </body>
 </html>
+
 </richcontent>
 <richcontent TYPE="NOTE">
 
@@ -15761,6 +15632,302 @@
 </richcontent>
 </node>
 </node>
+<node TEXT="Mistaking the map for the territory" ID="ID_69067540" CREATED="1642871591047" MODIFIED="1642871595107">
+<node TEXT="Reification (fallacy)" ID="ID_1692100781" CREATED="1618488921424" MODIFIED="1642871631982"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (also known as: abstraction, concretism, fallacy of misplaced concreteness, hypostatisation, pathetic fallacy [form of], hypostatisation)
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description:</strong>&nbsp;When an abstraction (abstract belief or hypothetical construct) is treated as if it were a concrete, real event or physical entity -- when an idea is treated as if had a real existence.
+
+    <p class="Body">
+      <strong>Logical Form:</strong>
+    </p>
+    <p class="Body" style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>Abstraction X is treated as if it were concrete, a real event, or a physical entity.<br/>Because the abstraction is seen as if it were concrete, a real event, or a physical entity, the conclusion is true.</em></font>
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>Dr. Simmons: I am working on a way to lengthen the human lifespan to about 200 years.<br/>Misty: You are declaring war on Mother Nature, and Mother Nature always wins!</em></font>
+    </p>
+    <p class="Body">
+      <strong>Explanation:&nbsp;</strong>Here, “Mother Nature” is being portrayed as an autonomous being capable of going to war with humanity. If this were the case, it would seem that messing with Mother Nature is futile. In reality, we are part of nature and can and always have changed nature, sometimes for the worse, but often for the better.
+    </p>
+    <p class="Body">
+      <strong>Example #2:</strong>
+    </p>
+    <p style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>If you are open to it, love will find you.</em></font>
+    </p>
+    <p class="Body">
+      <strong>Explanation:&nbsp; </strong>Love is an abstraction, not a little fat flying baby with a bow and arrow that searches for victims.&nbsp;&nbsp;Cute sayings such as this one can serve as bad advice for people who would otherwise make an effort to find a romantic partner, but choose not to, believing that this &quot;love entity&quot; is busy searching for his or her ideal mate.
+    </p>
+    <p class="Body">
+      <strong>Exception:</strong>&nbsp;In most cases, even in the above examples, these are used as rhetorical devices. When the reification is deliberate and harmless, and not used as evidence to support a claim or conclusion, then it is not fallacious.
+    </p>
+    <p style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>It’s time to grab my future by the balls.</em></font>
+    </p>
+    <p class="Body">
+      The future is an abstraction. It does not have testicles. If it did, you probably wouldn’t want to grab them because your future might sue you for sexual misconduct.
+    </p>
+    <p class="Body">
+      <strong>Variation:</strong>&nbsp;The <i>pathetic fallacy</i>&nbsp;is the treatment of inanimate objects as if they had human feelings, thought, or sensations.&nbsp;&nbsp;Think of cursing at your computer when it does not give you the results you expect.
+    </p>
+    <p class="Body">
+      <strong>Fun Fact:</strong>&nbsp;<em>Reification</em>&nbsp;is similar to <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Anthropomorphism" target="fallacy" data-toggle="tooltip" title="" data-original-title="The attributing of human characteristics and purposes to inanimate objects, animals, plants, or other natural phenomena, or to gods. This becomes a logical fallacy when used within the context of an argument.">anthropomorphism</a></i><em>,</em>&nbsp;&nbsp;except that <em>reification</em>&nbsp;does not have to deal with human qualities.
+    </p>
+    <strong>References:</strong>
+
+    <div class="small" style="padding-left: 22px; text-indent: -22px">
+      <p>
+        
+      </p>
+      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
+        <div class="csl-entry">
+          reification | literature | Britannica.com. (n.d.). Retrieved from https://www.britannica.com/topic/reification
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="Anthropomorphism" ID="ID_978255604" CREATED="1637054370831" MODIFIED="1642680196391"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (also known as: personification)
+    </p>
+  </body>
+</html>
+</richcontent>
+<richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description:</strong>&nbsp;The attributing of human characteristics and purposes to inanimate objects, animals, plants, or other natural phenomena, or to gods. This becomes a logical fallacy when used within the context of an argument.
+
+    <p class="Body">
+      <strong>Logical Form:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Non-human thing is described with human characteristics.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Claim X is made that requires the human characteristics of the thing.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Therefore, claim X is true.
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      How dare you murder those carrots!
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;Murder applies to humans, not carrots. By definition, one cannot murder carrots. In this example, the carrots are assumed to have the human characteristics that make murder “murder” and not just “killing” or “eating.”
+    </p>
+    <p class="Body">
+      <strong>Example #2:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Akoni: The Polynesian fire goddess, Pele, sacrificed her own daughter in the volcano to bring peace to the islands. This is how I know she loves us.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Ubon: Aren't the gods and goddesses immortal?
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Akoni: Err, yes.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Ubon: Then what happened to Pele's daughter after she was thrown in the volcano?
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Akoni: She was reunited with Pele in the heavens.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Ubon: So why was this a sacrifice?
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;The goddess, Pele, and her daughter are given the human quality of the frailty of life in order for the concept of “sacrifice” to be meaningful.
+    </p>
+    <p class="Body">
+      <strong>Tip:</strong>&nbsp;If you want to make people laugh, give objects and small animals human qualities. Anthropomorphism is a comedy goldmine for stand-up comedians.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="Tokenism" ID="ID_1143489927" CREATED="1637156630426" MODIFIED="1642871832106"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <div class="content clearfix">
+      <p class="Body">
+        <strong>Description:</strong>&nbsp;Interpreting a token gesture as an adequate substitute for the real thing.
+      </p>
+      <p class="Body">
+        <strong>Logical Form:</strong>
+      </p>
+      <p class="Body" style="padding-left: 40px">
+        <font color="rgb(52, 73, 94)"><em>Problem X exists.</em></font><br/><font color="rgb(52, 73, 94)"><em>Solution Y is offered.</em></font><br/><font color="rgb(52, 73, 94)"><em>Solution Y is inadequate to solve problem X but accepted as adequate.</em></font>
+      </p>
+      <p class="Body">
+        <strong>Example #1:</strong>
+      </p>
+      <p style="padding-left: 40px">
+        <font color="rgb(52, 73, 94)"><em>The presidential nominee has been accused of being racist.&nbsp;&nbsp;But he recently stated that he really liked the movie, “Roots,” so I guess he isn’t racist.</em></font>
+      </p>
+      <p class="Body">
+        <strong>Explanation:</strong>&nbsp;Liking one movie that exposes racism and encourages equality, is far from the same as not being a racist.
+      </p>
+      <p class="Body">
+        <strong>Example #2:</strong>
+      </p>
+      <p style="padding-left: 40px">
+        <font color="rgb(52, 73, 94)"><em>Mr. McBoss' company consists of 50 executives who are all men, and 50 secretaries who are all women.&nbsp;&nbsp;To show he is all about equal opportunity, he has agreed to hire a woman executive.</em></font>
+      </p>
+      <p class="Body">
+        <strong>Explanation:</strong>&nbsp;This &quot;token&quot; gesture does not come close to making up for the disproportionate hiring practices of Mr. McBoss' company.
+      </p>
+      <p class="Body">
+        <strong>Example #3:</strong>&nbsp;In the summer of 2020 when racial tensions were high, many media sources did their part to solve racism by capitalizing the “B” when referring to black people while keeping the “w” lowercase when referring to white people. Some sources that picked up this story saw this as a token gesture to help shield them from public claims of racism.
+      </p>
+      <p class="Body">
+        <strong>Exception:</strong>&nbsp;If a token gesture is seen as a token, and not as an adequate substitute, it is not a fallacy.
+      </p>
+      <p style="padding-left: 40px">
+        <font color="rgb(52, 73, 94)"><em>I know I have a weight problem, and I am trying.&nbsp;&nbsp;So far, I have replaced my usual breakfast of doughnuts with a single grapefruit.</em></font>
+      </p>
+      <p>
+        <strong>Fun Fact: </strong>Some attempts to solve racism are Stupid with a capital “S.”
+      </p>
+    </div>
+    References: Cogan, R. (1998). Critical Thinking: Step by Step. University Press of America.
+  </body>
+</html>
+</richcontent>
+<richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (also known as: Type-token fallacy)
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="Use-Mention Error" ID="ID_1006770383" CREATED="1637164739609" MODIFIED="1642767455867"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (also known as: UME)
+    </p>
+  </body>
+</html>
+</richcontent>
+<richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p class="Body">
+      <strong>Description:</strong>&nbsp;&nbsp;Confusing the word used to describe a thing, with the thing itself.&nbsp;&nbsp;To avoid this error, it is customary to put the word used to describe the thing in quotes.
+    </p>
+    <p class="Body">
+      This fallacy is most common when used as an <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Equivocation" target="fallacy" data-toggle="tooltip" title="" data-original-title="Using an ambiguous term in more than one sense, thus making an argument misleading.">equivocation</a></i>.
+    </p>
+    <p class="Body">
+      <strong>Logical Form:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      “X” is the same as X.
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      My son is made up of five letters.
+    </p>
+    <p class="Body">
+      <strong>Example #2:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Tyrone: I am a sophisticated word genius.<br/>Suzie: Prove it. Define some.<br/>Tyrone: An unspecified amount or number of. Proven!
+    </p>
+    <p class="Body">
+      <strong>Example #3: </strong>Many podcast hosts, journalists, and other public figures who discuss issues of race have got themselves in serious trouble by reporting on people who use the “N-word,” by actually using the word themselves (I won’t use it here because I don’t want to be one of those casualties). This is because a small, but vocal, group view the mention of the word as nefarious as the use of the word, when the two are substantially different.
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;Suzie meant to “define some words” but Tyrone defined the word “some.” Tyrone thinks he won the exchange but he did not really define any sophisticated words.
+    </p>
+    <p class="Body">
+      <strong>Exception:</strong>&nbsp;When this “fallacy” is used in humor and riddles.
+    </p>
+    <p class="Body">
+      <strong>Fun Fact:</strong>&nbsp;What part of London is in France? The letter “n.”&nbsp;
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;The words (mention), “my son”, are made up of five letters.&nbsp;&nbsp;My son (use) is made up of molecules.
+    </p>
+    <p class="Body">
+      <strong>References:</strong>
+    </p>
+    <div class="small" style="padding-left: 22px; text-indent: -22px">
+      <p>
+        
+      </p>
+      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
+        <div class="csl-entry">
+          Azzouni, J. (2010). <i>Talking About Nothing: Numbers, Hallucinations and Fictions</i>. Oxford University Press.
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node POSITION="right" ID="ID_977113259" CREATED="1618489186347" MODIFIED="1618489188293"><richcontent TYPE="NODE">
 
@@ -15873,8 +16040,9 @@
   </body>
 </html>
 </richcontent>
-<node TEXT="Nirvana fallacy" ID="ID_1829533441" CREATED="1618501803321" MODIFIED="1642751781139">
+<node TEXT="Nirvana fallacy" ID="ID_1829533441" CREATED="1618501803321" MODIFIED="1642871395343">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_22427007" STARTINCLINATION="1509;0;" ENDINCLINATION="1479;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1008730775" STARTINCLINATION="5613;0;" ENDINCLINATION="5613;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
 
 <html>
@@ -17453,119 +17621,6 @@
 
 </richcontent>
 </node>
-<node TEXT="Quaternio terminorum" ID="ID_62140765" CREATED="1642352552130" MODIFIED="1642858205147"><richcontent TYPE="NOTE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      Quaternio terminorum is the fallacy of four terms. The standard three-line argument requires that one term be repeated in the first two lines, and eliminated from the conclusion. This is because it works by relating two things to each other by first relating each of them to a third thing. This ‘syllogistic’ reasoning depends on one term, the ‘middle term’, being repeated in the premises but disappearing from the conclusion. Where there are instead four separate terms, we cannot validly draw the conclusion, and the quaternio terminorum is committed.
-    </p>
-    <p>
-      &nbsp;
-    </p>
-    <p data-amp-original-style="padding-left: 40px;" class="amp-wp-fe4704d">
-      <em>John is to the right of Peter, and Peter is to the right of Paul, so John is to the right of Paul.</em>
-    </p>
-    <p data-amp-original-style="padding-left: 40px;" class="amp-wp-fe4704d">
-      (This looks reasonable, but one line has ‘to the right of Peter’ where the other one simply has ‘Peter’. These are two separate terms, and the four-terms fallacy is involved. The conclusion is not validly established. After all, they could be sitting round a table.)
-    </p>
-    <p>
-      &nbsp;
-    </p>
-    <p>
-      We might just as easily have said:
-    </p>
-    <p>
-      &nbsp;
-    </p>
-    <p data-amp-original-style="padding-left: 40px;" class="amp-wp-fe4704d">
-      <em>John is in awe of Peter, and Peter is in awe of Paul, so John is in awe of Paul.</em>
-    </p>
-    <p data-amp-original-style="padding-left: 40px;" class="amp-wp-fe4704d">
-      (The error is more obvious. John might respect Peter for his intellect, and Peter could respect Paul for his Mercedes. Since John has a Bentley, he might not transfer his awe from Peter to the other cheap upstart.)
-    </p>
-    <p>
-      &nbsp;
-    </p>
-    <p>
-      The fallacy arises because, strictly speaking, the terms in this type of argument are separated by the verb ‘to be’. Whatever comes after it is the term. It can be ‘the father of, or ‘in debt to’, or many other things. Unless the whole term appears in the next line, there is a quaternio terminorum. Of course, with four terms we cannot deduce new relationships between terms by using a middle term common to both – there isn’t one.
-    </p>
-    <div data-amp-original-style="clear:both; margin-top:0em; margin-bottom:1em;" class="amp-wp-a48e09f">
-      <a href="https://mylogicalfallacy.com/unqualified-generalization/" target="_blank" rel="dofollow" class="u4f338a0265e5a7940728a62527601eb0">
-</a>
-      <div data-amp-original-style="padding-left:1em; padding-right:1em;" class="amp-wp-6212941">
-        <span class="ctaText">Also Read</span>&nbsp; <span class="postTitle">What is Dicto Simpliciter?</span>
-      </div>
-    </div>
-    <p data-amp-original-style="padding-left: 40px;" class="amp-wp-fe4704d">
-      <em>John is the father of Peter, and Peter is the father of Paul, so John is the father of Paul.</em>
-    </p>
-    <p data-amp-original-style="padding-left: 40px;" class="amp-wp-fe4704d">
-      (Even your grandfather can see this is wrong.)
-    </p>
-    <p>
-      &nbsp;
-    </p>
-    <p>
-      Now look at the example where there is a middle term repeated:
-    </p>
-    <p>
-      &nbsp;
-    </p>
-    <p data-amp-original-style="padding-left: 40px;" class="amp-wp-fe4704d">
-      <em>John is the father of Peter, and the father of Peter is the father of Paul, so John is the father of Paul.</em>
-    </p>
-    <p data-amp-original-style="padding-left: 40px;" class="amp-wp-fe4704d">
-      (There are three terms, and this is valid.)
-    </p>
-    <p>
-      &nbsp;
-    </p>
-    <p>
-      Quaternio terminorum can result is endless confusion in daily relationships. If John is in debt to Peter to the tune of 45 dollars, and Peter is in debt to Paul (who saved him from drowning), John might be very surprised to find Paul on his doorstep demanding money with menaces. On the other hand, if John is in love with Mary, and Mary is in love with Paul, no one except a theatre dramatist would attempt to complete the fallacious deduction.
-    </p>
-    <p>
-      The four-terms fallacy is more likely to appear as a source of genuine error than of deliberate deception. People may fool themselves with arguments constructed around it, but they are unlikely to fool others. There is something about the odd look of it which alerts the unwary; it is like a cheque without the amount filled in. No date perhaps; maybe even no signature; but everyone looks at the amount.
-    </p>
-    <p>
-      &nbsp;
-    </p>
-    <p data-amp-original-style="padding-left: 40px;" class="amp-wp-fe4704d">
-      <em>China is peaceful towards France, and France is peaceful towards the USA, so China must be peaceful towards the USA.</em>
-    </p>
-    <p data-amp-original-style="padding-left: 40px;" class="amp-wp-fe4704d">
-      (You do not even need to know anything about China to know this is wrong. Just remember not to trust any relationship with France in it.)
-    </p>
-    <div data-amp-original-style="clear:both; margin-top:0em; margin-bottom:1em;" class="amp-wp-a48e09f">
-      <a href="https://mylogicalfallacy.com/non-anticipation/" target="_blank" rel="dofollow" class="u6da3ceb54f605a992e89958a6bd1be53">
-</a>
-      <div data-amp-original-style="padding-left:1em; padding-right:1em;" class="amp-wp-6212941">
-        <span class="ctaText">Also Read</span>&nbsp; <span class="postTitle">What is Non-anticipation?</span>
-      </div>
-    </div>
-    <p>
-      &nbsp;
-    </p>
-    <p>
-      One way to use the fallacy with a fair chance of success is to smuggle it in amongst a group of comparatives. Comparatives, such as ‘bigger than’, ‘better than’, ‘stronger than’, or ‘fatter than’, do work because they are transitive, despite the four terms. After a few of these, slip in the non-transitive relationship and it might get by.
-    </p>
-    <p>
-      &nbsp;
-    </p>
-    <p data-amp-original-style="padding-left: 40px;" class="amp-wp-fe4704d">
-      <em>Darling, I’m bigger than you are, stronger, and richer; yet I respect you. You stand in the same relationship to your mother, so I, in turn must respect your mother.</em>
-    </p>
-    <p data-amp-original-style="padding-left: 40px;" class="amp-wp-fe4704d">
-      (I just don’t want her in the house.)
-    </p>
-  </body>
-</html>
-
-</richcontent>
-</node>
 </node>
 <node TEXT="Conjunction fallacy" ID="ID_19391209" CREATED="1618487932836" MODIFIED="1642689721691">
 <edge COLOR="#7c007c"/>
@@ -18617,7 +18672,7 @@
 </html>
 </richcontent>
 </node>
-<node TEXT="Fallacy of Four Terms" ID="ID_1751663458" CREATED="1618499509500" MODIFIED="1642695519618"><richcontent TYPE="DETAILS">
+<node TEXT="Fallacy of Four Terms" ID="ID_1751663458" CREATED="1618499509500" MODIFIED="1642865743749"><richcontent TYPE="DETAILS">
 
 <html>
   <head>
@@ -18625,10 +18680,11 @@
   </head>
   <body>
     <p>
-      (also known as: quaternio terminorum, ambiguous middle term)
+      (also known as: quaternio terminorum, ambiguous middle term, fallacy of four terms, Four-term fallacy)
     </p>
   </body>
 </html>
+
 </richcontent>
 <richcontent TYPE="NOTE">
 
@@ -18761,6 +18817,8 @@
   </body>
 </html>
 </richcontent>
+<node TEXT="Prosecutor&apos;s fallacy" ID="ID_1989538828" CREATED="1642867769576" MODIFIED="1642867774403"/>
+<node TEXT="Defense attorney&apos;s Fallacy" ID="ID_1473030038" CREATED="1642867782237" MODIFIED="1642867785065"/>
 </node>
 <node TEXT="Denying the antecedent" ID="ID_142075793" CREATED="1636960683543" MODIFIED="1642690698511"><richcontent TYPE="DETAILS">
 
@@ -19014,7 +19072,9 @@
   </body>
 </html>
 </richcontent>
-<node TEXT="Escape hatch" ID="ID_1078619568" CREATED="1636979953368" MODIFIED="1636979954917"/>
+<node TEXT="Escape hatch" ID="ID_1078619568" CREATED="1636979953368" MODIFIED="1642865946417">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1388927450" STARTINCLINATION="5092;0;" ENDINCLINATION="5092;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
 <node TEXT="God of the gaps" ID="ID_1192998804" CREATED="1636979959592" MODIFIED="1637403493910">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1425407978" STARTINCLINATION="1847;0;" ENDINCLINATION="1847;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
@@ -19033,68 +19093,7 @@
 </html>
 </richcontent>
 </node>
-<node TEXT="Broken window fallacy" ID="ID_1806567158" CREATED="1635720845809" MODIFIED="1642689108002"><richcontent TYPE="DETAILS">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (also known as: glazier's fallacy)
-    </p>
-  </body>
-</html>
-</richcontent>
-<richcontent TYPE="NOTE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&nbsp;The illusion that destruction and money spent in recovery from destruction, is a net-benefit to society.&nbsp;&nbsp;A broader application of this fallacy is the general tendency to overlook opportunity costs or that which is unseen, either in a financial sense or other.
-
-    <p class="Body">
-      This fallacy goes far beyond just looking for the silver lining, thinking positive, or making the best of a bad situation.&nbsp;&nbsp;It is the incorrect assumption that the net benefit is positive.
-    </p>
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Disaster X occurred, but this is a good thing because Y will come, as a result.
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Dad, I actually did America a favor by crashing your car.&nbsp;&nbsp;Now, some auto shop will have more work, their employees will make more money, those employees will spend their money, and who knows, they might just come to your store and buy some of your products!
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;I actually tried a variation of this argument when I was a kid -- it didn’t work, but not only did it not work, it is fallacious reasoning, and here is why: by crashing the car, a produced good is destroyed, and resources have to go into replacing that good as opposed to creating new goods.
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      The Holocaust was a good thing overall.&nbsp;&nbsp;It educated future generations about the evils of genocide.
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;This is a real argument, I kid you not.&nbsp;&nbsp;People tend to overvalue their own gain (the education) and devalue the losses that are unseen (the unimaginable suffering of the victims and their families).&nbsp;
-    </p>
-    <p class="Body">
-      <strong>Exception:</strong>&nbsp;It might be the case when some kind of destruction actually can benefit society -- like in lightning striking the local crack house, and a soup kitchen being reconstructed in its place.
-    </p>
-    <p class="Body">
-      <strong>Tip</strong>: Be sensitive when looking for the best of a bad situation, keeping in mind all those who may have suffered. In your statement of optimism or hope, be sure to show compassion as well.
-    </p>
-    <p class="Body" style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>The Holocaust was a horrible event in human history, and the damage that resulted will never be forgotten. As with most tragedies, they can be used to educate us, helping us to prevent similar future events.</em></font>
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
+<node TEXT="Game theory fallacies" ID="ID_1677102716" CREATED="1642876516152" MODIFIED="1642876521563"/>
 </node>
 </node>
 </map>
