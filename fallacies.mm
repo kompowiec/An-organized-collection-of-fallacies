@@ -279,7 +279,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="Correlation does not imply causation" ID="ID_28882714" CREATED="1618490032304" MODIFIED="1636960225329"><richcontent TYPE="DETAILS">
 
@@ -359,7 +358,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Circular cause and consequence" ID="ID_1963372887" CREATED="1635761833896" MODIFIED="1635771881224"/>
@@ -616,7 +614,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -692,7 +689,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Causal Reductionism" ID="ID_1256454212" CREATED="1618490078407" MODIFIED="1642700303624">
@@ -897,7 +893,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Texas Sharpshooter Fallacy" ID="ID_1553310480" CREATED="1618490107108" MODIFIED="1642766646214">
@@ -975,7 +970,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Magical thinking" ID="ID_1339388695" CREATED="1618499950224" MODIFIED="1642750595336"><richcontent TYPE="DETAILS">
@@ -1053,7 +1047,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="Folk religion" ID="ID_125871301" CREATED="1636959920723" MODIFIED="1636959924187"/>
 <node TEXT="Illusion of control" ID="ID_1347681919" CREATED="1636959929756" MODIFIED="1636959930583"/>
@@ -1673,7 +1666,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <richcontent TYPE="NOTE">
 
@@ -1791,7 +1783,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="Proving too much" ID="ID_1125763649" CREATED="1635766543928" MODIFIED="1635766547964"/>
 <node TEXT="Pooh-pooh" ID="ID_1189588311" CREATED="1636877569162" MODIFIED="1636877573767">
@@ -1972,7 +1963,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <richcontent TYPE="NOTE">
 
@@ -2043,7 +2033,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="argumentum ad fidentia" ID="ID_777416195" CREATED="1636979624905" MODIFIED="1642678532168"><richcontent TYPE="DETAILS">
@@ -2392,7 +2381,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Love bombing" ID="ID_996954372" CREATED="1636877020058" MODIFIED="1636877020964">
@@ -2605,8 +2593,8 @@
 </richcontent>
 </node>
 <node TEXT="Galileo Fallacy" ID="ID_356035664" CREATED="1637060635849" MODIFIED="1642696256846">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1002187602" STARTINCLINATION="1093;0;" ENDINCLINATION="1093;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_499300340" STARTINCLINATION="951;0;" ENDINCLINATION="951;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1002187602" STARTINCLINATION="1093;0;" ENDINCLINATION="1093;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
 
 <html>
@@ -2691,7 +2679,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <richcontent TYPE="NOTE">
 
@@ -2758,7 +2745,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Tone policing" ID="ID_27169161" CREATED="1618499244640" MODIFIED="1639313567351">
@@ -2858,7 +2844,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -2876,7 +2861,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <richcontent TYPE="NOTE">
 
@@ -2949,12 +2933,12 @@
 </node>
 </node>
 <node TEXT="Whataboutism" ID="ID_1213038793" CREATED="1618499261609" MODIFIED="1639397069619">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1085503631" STARTINCLINATION="471;0;" ENDINCLINATION="471;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_227775878" STARTINCLINATION="571;0;" ENDINCLINATION="571;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1231588749" STARTINCLINATION="1373;0;" ENDINCLINATION="1373;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1433906146" STARTINCLINATION="397;0;" ENDINCLINATION="397;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff3333" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1001664273" STARTINCLINATION="544;0;" ENDINCLINATION="544;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_227775878" STARTINCLINATION="571;0;" ENDINCLINATION="571;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1085503631" STARTINCLINATION="471;0;" ENDINCLINATION="471;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1231588749" STARTINCLINATION="1373;0;" ENDINCLINATION="1373;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1001664273" STARTINCLINATION="1815;0;" ENDINCLINATION="1815;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1433906146" STARTINCLINATION="397;0;" ENDINCLINATION="397;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
 
 <html>
@@ -3125,7 +3109,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <richcontent TYPE="NOTE">
 
@@ -3183,13 +3166,12 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
 <node TEXT="Bulverism" ID="ID_1625368575" CREATED="1618500247024" MODIFIED="1642689144137">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_742587298" STARTINCLINATION="396;0;" ENDINCLINATION="396;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_140214538" STARTINCLINATION="2551;0;" ENDINCLINATION="2551;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_742587298" STARTINCLINATION="396;0;" ENDINCLINATION="396;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="NOTE">
 
 <html>
@@ -3312,7 +3294,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="ad hominem (abusive)" ID="ID_1085503631" CREATED="1635720076070" MODIFIED="1642678641348"><richcontent TYPE="DETAILS">
@@ -3686,7 +3667,7 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="argumentum ad hominem (Circumstantial)" ID="ID_177427390" CREATED="1637053919847" MODIFIED="1642678774072">
+<node TEXT="argumentum ad hominem (Circumstantial)" ID="ID_177427390" CREATED="1637053919847" MODIFIED="1642841938870">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1001664273" STARTINCLINATION="1359;0;" ENDINCLINATION="1359;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
 
@@ -3700,6 +3681,103 @@
     </p>
   </body>
 </html>
+</richcontent>
+<richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description:</strong>&nbsp;Suggesting that the person who is making the argument is biased or predisposed to take a particular stance, and therefore, the argument is <i>necessarily</i>&nbsp;invalid.
+
+    <p class="Body">
+      <strong>Logical Form:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Person 1 is claiming Y.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Person 1 has a vested interest in Y being true.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Therefore, Y is false.
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Salesman: This car gets better than average gas mileage and is one of the most reliable cars according to Consumer Reports.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Will: I doubt it—you obviously just want to sell me that car.
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;The fact that the salesman has a vested interest in selling Will the car does not mean that he is lying.&nbsp;&nbsp;He may be, but this is not something you can conclude solely on his interests.&nbsp;&nbsp;It is reasonable to assume that salespeople sell the products and services they do because they believe in them.
+    </p>
+    <p class="Body">
+      <strong>Example #2:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Of course, your minister says he believes in God.&nbsp;&nbsp;He would be unemployed otherwise.
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;The fact that atheist ministers are about as in demand as hookers who, “just want to be friends”, does not mean that ministers believe in God just because they need a job.
+    </p>
+    <p class="Body">
+      <strong>Exception:</strong>&nbsp;As the bias or conflict of interest becomes more relevant to the argument, usually signified by a lack of other evidence, the argument is seen as less of a fallacy and more as a legitimate motive.&nbsp;&nbsp;For example, courtesy of Meat Loaf...
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Girl: Will you love me forever?
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Boy: Let me sleep on it!!!
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Girl: Will you love me forever!!!
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Boy: I couldn't take it any longer
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Lord, I was crazed
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      And when the feeling came upon me
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Like a tidal wave
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      I started swearing to my god and on my mother's grave
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      That I would love you to the end of time
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      I swore that I would love you to the end of time!
+    </p>
+    <p class="Body">
+      <strong>Tip:</strong>&nbsp;When you know you have something to gain from a position you hold (assuming, of course, you are not guilty of this fallacy for holding the position), be upfront about it and bring it up before someone else does.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Supporting this cause is the right thing to do.&nbsp;&nbsp;Yes, as the baseball coach, I will benefit from the new field, but my benefit is negligible compared to the benefit the kids of this town will receive.&nbsp;&nbsp;After all, they are the ones who really matter here.
+    </p>
+    <strong>References:</strong>
+
+    <div class="small" style="padding-left: 22px; text-indent: -22px">
+      <p>
+        
+      </p>
+      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
+        <div class="csl-entry">
+          Walton, D. (1998). <i>Ad hominem arguments</i>. University of Alabama Press.
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+
 </richcontent>
 </node>
 </node>
@@ -4410,8 +4488,8 @@
 </html>
 </richcontent>
 <node TEXT="Appeal to Tradition" ID="ID_642086821" CREATED="1635717323044" MODIFIED="1642755094251">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_860419904" STARTINCLINATION="1759;0;" ENDINCLINATION="1759;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1612487258" STARTINCLINATION="2814;0;" ENDINCLINATION="2814;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_860419904" STARTINCLINATION="1759;0;" ENDINCLINATION="1759;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
 
 <html>
@@ -4906,7 +4984,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="Naturalistic fallacy" ID="ID_21542385" CREATED="1618501000820" MODIFIED="1642751441269"><richcontent TYPE="DETAILS">
 
@@ -4920,7 +4997,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <richcontent TYPE="NOTE">
 
@@ -5013,7 +5089,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Demoralization" ID="ID_272391716" CREATED="1636877385194" MODIFIED="1636877386097"/>
@@ -5031,7 +5106,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <richcontent TYPE="NOTE">
 
@@ -5086,7 +5160,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="red herring" ID="ID_1001664273" CREATED="1618498835257" MODIFIED="1642754715988">
@@ -5261,7 +5334,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="argumentum ad antiquitatis" ID="ID_1881355032" CREATED="1618500629222" MODIFIED="1618500630236"/>
 <node TEXT="argumentum ad Lazarum" ID="ID_589545598" CREATED="1618500650764" MODIFIED="1618500651806"/>
@@ -5622,7 +5694,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Gadarene Swine Fallacy" ID="ID_1887679643" CREATED="1637060577042" MODIFIED="1637060577787"/>
@@ -5796,7 +5867,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <richcontent TYPE="NOTE">
 
@@ -5879,7 +5949,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="special pleading" ID="ID_1991253856" CREATED="1618498852842" MODIFIED="1642756015842">
@@ -5937,7 +6006,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="Subjectivist Fallacy" ID="ID_883864730" CREATED="1635773164310" MODIFIED="1642763619767"><richcontent TYPE="DETAILS">
 
@@ -6017,7 +6085,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="Well, then you can ask them to send you the answers by e-mail anyway, they will see" ID="ID_1393895741" CREATED="1642763793117" MODIFIED="1642763793117"/>
 </node>
@@ -6098,7 +6165,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="Evidence of absence" ID="ID_987260645" CREATED="1635775099135" MODIFIED="1635775100726"/>
 <node TEXT="Appeal to censorship" ID="ID_48305228" CREATED="1636920580615" MODIFIED="1636920582043"/>
@@ -6404,8 +6470,8 @@
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1008730775" STARTINCLINATION="3477;0;" ENDINCLINATION="3477;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 <node TEXT="Toupée fallacy" ID="ID_887874131" CREATED="1636921355408" MODIFIED="1637058148896">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1812400184" STARTINCLINATION="1971;0;" ENDINCLINATION="1971;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1474507658" STARTINCLINATION="1973;0;" ENDINCLINATION="2097;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1812400184" STARTINCLINATION="1971;0;" ENDINCLINATION="1971;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 <node TEXT="Appeal to eye" ID="ID_859494781" CREATED="1636964642256" MODIFIED="1636964666038"><richcontent TYPE="DETAILS">
 
@@ -6889,7 +6955,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Willed Ignorance" ID="ID_740188700" CREATED="1637164820330" MODIFIED="1642767532830"><richcontent TYPE="DETAILS">
@@ -6918,7 +6983,6 @@
 </a>&quot;&gt;&lt;</span><span class="start-tag">em</span><span>&gt;Carl: You keep your exercise propaganda to yourself. I know what I know. Now if you will excuse me, I have to binge watch Baywatch.&lt;/</span><span class="end-tag">em</span><span>&gt;&lt;/</span><span class="end-tag">span</span><span>&gt;&lt;/</span><span class="end-tag">div</span><span>&gt;&lt;</span><span class="start-tag">div</span><span> </span><span class="attribute-name">class</span><span>=&quot;<a class="attribute-value">content clearfix</a>&quot;&gt;&lt;/</span><span class="end-tag">div</span><span>&gt;&lt;</span><span class="start-tag">div</span><span> </span><span class="attribute-name">class</span><span>=&quot;<a class="attribute-value">content clearfix</a>&quot;&gt;&lt;</span><span class="start-tag">strong</span><span>&gt;Explanation:&lt;/</span><span class="end-tag">strong</span><span>&gt; Carl is blissfully ignorant in his belief that allows him to avoid the wonderful pain of exercise. Perhaps Carl does suspect that he is wrong, but feels he does not have to change his belief until he is proven wrong. Thus, he will not allow Janet the opportunity to prove him wrong.&lt;/</span><span class="end-tag">div</span><span>&gt;&lt;</span><span class="start-tag">div</span><span> </span><span class="attribute-name">class</span><span>=&quot;<a class="attribute-value">content clearfix</a>&quot;&gt;&lt;</span><span class="start-tag">strong</span><span>&gt;&lt;/</span><span class="end-tag">strong</span><span>&gt;&lt;/</span><span class="end-tag">div</span><span>&gt;&lt;</span><span class="start-tag">div</span><span> </span><span class="attribute-name">class</span><span>=&quot;<a class="attribute-value">content clearfix</a>&quot;&gt;&lt;</span><span class="start-tag">strong</span><span>&gt;Exception:&lt;/</span><span class="end-tag">strong</span><span>&gt; There may be circumstances where ignorance is truly bliss, and it is better to maintain a positive illusion than to be exposed to a hard truth that one is not psychologically prepared to accept.&lt;/</span><span class="end-tag">div</span><span>&gt;&lt;</span><span class="start-tag">div</span><span> </span><span class="attribute-name">class</span><span>=&quot;<a class="attribute-value">content clearfix</a>&quot;&gt;&lt;/</span><span class="end-tag">div</span><span>&gt;&lt;</span><span class="start-tag">div</span><span> </span><span class="attribute-name">class</span><span>=&quot;<a class="attribute-value">content clearfix</a>&quot;&gt;&lt;</span><span class="start-tag">strong</span><span>&gt;Fun Fact:&lt;/</span><span class="end-tag">strong</span><span>&gt; This fallacy is similar to the &lt;</span><span class="start-tag">em</span><span>&gt;confirmation bias&lt;/</span><span class="end-tag">em</span><span>&gt;, but as a fallacy, it is used in argumentation.&lt;/</span><span class="end-tag">div</span><span>&gt;</span></pre>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Missing Data Fallacy" ID="ID_196507232" CREATED="1637061594297" MODIFIED="1642750955390"><richcontent TYPE="DETAILS">
@@ -7011,7 +7075,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Notable Effort" ID="ID_338270486" CREATED="1637061823852" MODIFIED="1642751906712"><richcontent TYPE="DETAILS">
@@ -7071,7 +7134,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Just world fallacy" ID="ID_1246642564" CREATED="1635762433430" MODIFIED="1637337232036"><richcontent TYPE="DETAILS">
@@ -7146,7 +7208,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <richcontent TYPE="NOTE">
 
@@ -7200,7 +7261,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -7348,7 +7408,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -9062,7 +9121,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Overextended Outrage" ID="ID_1883529473" CREATED="1637084359028" MODIFIED="1642752047502"><richcontent TYPE="DETAILS">
@@ -9137,7 +9195,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Post-Designation" ID="ID_721778483" CREATED="1637152810953" MODIFIED="1642753980879"><richcontent TYPE="DETAILS">
@@ -9194,7 +9251,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Proof by Intimidation" ID="ID_651523298" CREATED="1637152942849" MODIFIED="1642754209146"><richcontent TYPE="DETAILS">
@@ -9269,7 +9325,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Proof Surrogate" ID="ID_1064260554" CREATED="1637152971248" MODIFIED="1642754150068"><richcontent TYPE="NOTE">
@@ -9334,7 +9389,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Proving Non-Existence" ID="ID_1973754334" CREATED="1637152981514" MODIFIED="1642754253378"><richcontent TYPE="NOTE">
@@ -9429,7 +9483,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Psychogenetic Fallacy" ID="ID_26746591" CREATED="1637152990680" MODIFIED="1642754314874"><richcontent TYPE="NOTE">
@@ -9504,7 +9557,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Quantum Physics Fallacy" ID="ID_1267654295" CREATED="1637153096935" MODIFIED="1642754499460"><richcontent TYPE="DETAILS">
@@ -9582,7 +9634,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Retrogressive Causation" ID="ID_1971965048" CREATED="1637153250098" MODIFIED="1642755404168"><richcontent TYPE="NOTE">
@@ -9649,7 +9700,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Righteousness Fallacy" ID="ID_42938614" CREATED="1637153272372" MODIFIED="1642755452573"><richcontent TYPE="NOTE">
@@ -9702,7 +9752,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="Self-righteousness Fallacy" ID="ID_1638121446" CREATED="1637153328539" MODIFIED="1642755731411"><richcontent TYPE="NOTE">
 
@@ -9754,7 +9803,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -9828,7 +9876,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Selective Attention" ID="ID_1682082210" CREATED="1637153339758" MODIFIED="1642755687277"><richcontent TYPE="NOTE">
@@ -9866,7 +9913,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Self-Sealing Argument" ID="ID_1019850810" CREATED="1637153357212" MODIFIED="1642755779851"><richcontent TYPE="DETAILS">
@@ -9941,7 +9987,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Shifting of the Burden of Proof" ID="ID_1583295581" CREATED="1637155266086" MODIFIED="1642755855450"><richcontent TYPE="DETAILS">
@@ -9956,7 +10001,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <richcontent TYPE="NOTE">
 
@@ -10038,7 +10082,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Shoehorning" ID="ID_914830255" CREATED="1637155283736" MODIFIED="1642755903275"><richcontent TYPE="NOTE">
@@ -10097,7 +10140,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Spiritual Fallacy" ID="ID_1467323539" CREATED="1637155408544" MODIFIED="1642756210491"><richcontent TYPE="DETAILS">
@@ -10112,7 +10154,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <richcontent TYPE="NOTE">
 
@@ -10158,7 +10199,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Spin Doctoring" ID="ID_1788983768" CREATED="1637155421077" MODIFIED="1642756165144"><richcontent TYPE="DETAILS">
@@ -10233,7 +10273,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Statement of Conversion" ID="ID_1026140123" CREATED="1637156489843" MODIFIED="1642756361483"><richcontent TYPE="NOTE">
@@ -10295,7 +10334,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Stereotyping (the fallacy)" ID="ID_1818777462" CREATED="1637156497523" MODIFIED="1642756327031"><richcontent TYPE="NOTE">
@@ -10348,7 +10386,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Subverted Support" ID="ID_1850408456" CREATED="1637156576588" MODIFIED="1642765803383"><richcontent TYPE="NOTE">
@@ -10395,7 +10432,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Sunk-Cost Fallacy" ID="ID_850354237" CREATED="1637156589535" MODIFIED="1642766268289"><richcontent TYPE="DETAILS">
@@ -10467,7 +10503,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Tokenism" ID="ID_1143489927" CREATED="1637156630426" MODIFIED="1642766698297"><richcontent TYPE="NOTE">
@@ -10521,7 +10556,6 @@
     References: Cogan, R. (1998). Critical Thinking: Step by Step. University Press of America.
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Use-Mention Error" ID="ID_1006770383" CREATED="1637164739609" MODIFIED="1642767455867"><richcontent TYPE="DETAILS">
@@ -10598,7 +10632,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Blinding with science" ID="ID_1514720926" CREATED="1642350717782" MODIFIED="1642350728408"/>
@@ -10754,8 +10787,8 @@
 </richcontent>
 </node>
 <node TEXT="Wishful thinking" ID="ID_1420024721" CREATED="1618490241592" MODIFIED="1642767577608">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1665697231" STARTINCLINATION="263;0;" ENDINCLINATION="263;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_860419904" STARTINCLINATION="996;0;" ENDINCLINATION="975;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1665697231" STARTINCLINATION="263;0;" ENDINCLINATION="263;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="NOTE">
 
 <html>
@@ -10815,7 +10848,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="Magical thinking" ID="ID_1687161475" CREATED="1635771958207" MODIFIED="1635771959549"/>
 </node>
@@ -10879,7 +10911,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -11106,7 +11137,6 @@
     References: Swedroe, L. E. (2005). The Only Guide to a Winning Investment Strategy You’ll Ever Need: The Way Smart Money Preserves Wealth Today. St. Martin’s Press.
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -11174,7 +11204,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="Managing the news" ID="ID_303499533" CREATED="1636876846036" MODIFIED="1636876847609"/>
 </node>
@@ -11253,7 +11282,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Double counting (fallacy)" ID="ID_1326132903" CREATED="1618489666615" MODIFIED="1637059023154"/>
@@ -11354,7 +11382,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="appeal to the Moon" ID="ID_384243387" CREATED="1636966938102" MODIFIED="1642687207876"><richcontent TYPE="DETAILS">
 
@@ -11625,7 +11652,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Hasty generalization" ID="ID_1072293352" CREATED="1618499791404" MODIFIED="1642698181947"><richcontent TYPE="DETAILS">
@@ -11768,7 +11794,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Jumping to Conclusions" ID="ID_1325839146" CREATED="1637061331954" MODIFIED="1642700373493"><richcontent TYPE="DETAILS">
@@ -11894,11 +11919,10 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Thought-terminating cliché" ID="ID_349827019" CREATED="1618499854696" MODIFIED="1636877047653">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1706945405" STARTINCLINATION="761;-19;" ENDINCLINATION="763;-19;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1706945405" STARTINCLINATION="761;-18;" ENDINCLINATION="763;-18;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 <node TEXT="Appeal to probability" ID="ID_918797613" CREATED="1635776906904" MODIFIED="1642686874494">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_480276856" STARTINCLINATION="2128;0;" ENDINCLINATION="2128;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
@@ -12216,7 +12240,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Damning the Alternatives" ID="ID_533011592" CREATED="1642351409710" MODIFIED="1642351412926"/>
@@ -12782,7 +12805,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -13250,7 +13272,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Hypnotic Bait and Switch" ID="ID_1701148679" CREATED="1637060890977" MODIFIED="1642699402203"><richcontent TYPE="NOTE">
@@ -13592,8 +13613,8 @@
 </node>
 <node TEXT="Loki&apos;s Wager" ID="ID_606642837" CREATED="1618488874116" MODIFIED="1618488875036"/>
 <node TEXT="No True Scotsman" ID="ID_1871625416" CREATED="1618488911435" MODIFIED="1642751830486">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_22427007" STARTINCLINATION="1610;0;" ENDINCLINATION="1610;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_92153379" STARTINCLINATION="80;0;" ENDINCLINATION="80;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_22427007" STARTINCLINATION="1610;0;" ENDINCLINATION="1610;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
 
 <html>
@@ -13681,7 +13702,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Reification (fallacy)" ID="ID_1692100781" CREATED="1618488921424" MODIFIED="1642755171096"><richcontent TYPE="DETAILS">
@@ -13759,7 +13779,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Definitional Retreat" ID="ID_1010027935" CREATED="1618499517947" MODIFIED="1636913926153"/>
@@ -13911,7 +13930,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <richcontent TYPE="NOTE">
 
@@ -13978,7 +13996,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="First World problems" ID="ID_750366591" CREATED="1618500914545" MODIFIED="1618500916337"/>
 </node>
@@ -14435,7 +14452,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Syntactic ambiguity" ID="ID_358929326" CREATED="1618489979999" MODIFIED="1618489980781"/>
@@ -14493,7 +14509,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -14683,7 +14698,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="You are either with us, or against us" ID="ID_168480118" CREATED="1636878533680" MODIFIED="1636878534681"/>
 <node TEXT="Unobtainable perfection fallacy" ID="ID_818051913" CREATED="1642363259159" MODIFIED="1642363262612"/>
@@ -14739,7 +14753,6 @@
     References: Hurley, P. J. (2011). A Concise Introduction to Logic. Cengage Learning.
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -14939,7 +14952,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -15079,7 +15091,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <richcontent TYPE="NOTE">
 
@@ -15140,7 +15151,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Illicit major" ID="ID_1550264024" CREATED="1618488110010" MODIFIED="1642699715788"><richcontent TYPE="DETAILS">
@@ -15387,7 +15397,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Fallacy of (the) Undistributed Middle" ID="ID_586463789" CREATED="1637059395881" MODIFIED="1642695247391"><richcontent TYPE="DETAILS">
@@ -15684,7 +15693,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Negative Conclusion from Affirmative Premises" ID="ID_541233971" CREATED="1637061786280" MODIFIED="1642751633843"><richcontent TYPE="DETAILS">
@@ -15839,7 +15847,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="contradictory premises" ID="ID_1556403884" CREATED="1642351126612" MODIFIED="1642351129626"/>
@@ -16258,7 +16265,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="Anangeon" ID="ID_1639202385" CREATED="1620019687030" MODIFIED="1642504941662"><richcontent TYPE="DETAILS">
 
@@ -16878,7 +16884,6 @@
     References: Hansen, H. V., &amp; Pinto, R. C. (1995). Fallacies: Classical and Contemporary Readings. Penn State Press.
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="quantificational fallacy" ID="ID_1815757124" CREATED="1642503311456" MODIFIED="1642503447986"><richcontent TYPE="DETAILS">
