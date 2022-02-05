@@ -5613,9 +5613,9 @@
                             
                             <font NAME="Dialog" SIZE="8" BOLD="false" STRIKETHROUGH="false" ITALIC="false"/>
                             
-                            <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_499300340" STARTINCLINATION="951;0;" ENDINCLINATION="951;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-                            
                             <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1002187602" STARTINCLINATION="1093;0;" ENDINCLINATION="1093;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+                            
+                            <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_499300340" STARTINCLINATION="951;0;" ENDINCLINATION="951;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
                             
                             <richcontent TYPE="DETAILS">
                                 
@@ -6264,17 +6264,17 @@
                             
                             <font NAME="Dialog" SIZE="8" BOLD="false" STRIKETHROUGH="false" ITALIC="false"/>
                             
-                            <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff3333" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1001664273" STARTINCLINATION="544;0;" ENDINCLINATION="544;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-                            
-                            <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_227775878" STARTINCLINATION="571;0;" ENDINCLINATION="571;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-                            
                             <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1085503631" STARTINCLINATION="471;0;" ENDINCLINATION="471;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
                             
                             <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1231588749" STARTINCLINATION="1373;0;" ENDINCLINATION="1373;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
                             
-                            <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1001664273" STARTINCLINATION="1815;0;" ENDINCLINATION="1815;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+                            <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_227775878" STARTINCLINATION="571;0;" ENDINCLINATION="571;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+                            
+                            <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff3333" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1001664273" STARTINCLINATION="544;0;" ENDINCLINATION="544;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
                             
                             <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1433906146" STARTINCLINATION="397;0;" ENDINCLINATION="397;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+                            
+                            <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1001664273" STARTINCLINATION="1815;0;" ENDINCLINATION="1815;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
                             
                             <richcontent TYPE="DETAILS">
                                 
@@ -6697,9 +6697,9 @@
                         
                         <font NAME="Liberation Sans" SIZE="10" BOLD="true" STRIKETHROUGH="false" ITALIC="false"/>
                         
-                        <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_140214538" STARTINCLINATION="2551;0;" ENDINCLINATION="2551;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-                        
                         <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_742587298" STARTINCLINATION="396;0;" ENDINCLINATION="396;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+                        
+                        <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_140214538" STARTINCLINATION="2551;0;" ENDINCLINATION="2551;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
                         
                         <richcontent TYPE="NOTE">
                             
@@ -9388,9 +9388,9 @@
                         
                         <font NAME="Liberation Sans" SIZE="10" BOLD="true" STRIKETHROUGH="false" ITALIC="false"/>
                         
-                        <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1612487258" STARTINCLINATION="2814;0;" ENDINCLINATION="2814;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-                        
                         <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_860419904" STARTINCLINATION="1759;0;" ENDINCLINATION="1759;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+                        
+                        <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1612487258" STARTINCLINATION="2814;0;" ENDINCLINATION="2814;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
                         
                         <richcontent TYPE="DETAILS">
                             
@@ -11966,6 +11966,14 @@
                     
                 </node>
                 
+                <node TEXT="fallaca ancidentis" COLOR="#606060" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_949192027" CREATED="1643855593426" MODIFIED="1643855597414" ICON_SIZE="12.0 pt">
+                    
+                    <edge STYLE="bezier" COLOR="#808080" WIDTH="thin" DASH="SOLID"/>
+                    
+                    <font NAME="Dialog" SIZE="8" BOLD="false" STRIKETHROUGH="false" ITALIC="false"/>
+                    
+                </node>
+                
             </node>
             
             <node TEXT="Straw man Fallacy" COLOR="#18898b" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_413138777" CREATED="1618498859744" MODIFIED="1642761891101" ICON_SIZE="12.0 pt">
@@ -12939,6 +12947,145 @@
                         </html>
                         
                     </richcontent>
+                    
+                    <node TEXT="Amazing Familiarity" COLOR="#cc3300" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_193096228" CREATED="1637054251022" MODIFIED="1642680003904" ICON_SIZE="12.0 pt">
+                        
+                        <edge STYLE="bezier" COLOR="#808080" WIDTH="thin" DASH="SOLID"/>
+                        
+                        <font NAME="Liberation Sans" SIZE="10" BOLD="true" STRIKETHROUGH="false" ITALIC="false"/>
+                        
+                        <richcontent TYPE="DETAILS">
+                            
+                            <html>
+                                  
+                                <head>
+    
+  </head>
+                                  
+                                <body>
+                                        
+                                    <p>
+      (also known as: argument from omniscience, “how the hell can you possibly know that?”)
+    </p>
+                                      
+                                </body>
+                                
+                            </html>
+                            
+                        </richcontent>
+                        
+                        <richcontent TYPE="NOTE">
+                            
+                            <html>
+                                  
+                                <head>
+    
+  </head>
+                                  
+                                <body>
+                                        
+                                    <strong>Description:</strong>
+                                     The argument contains information that seems impossible to have obtained—like it came from an omniscient author. This kind of writing/storytelling is characteristic of fiction, so when it is used in an argument it should cast doubt.
+
+    
+                                    <p class="Body">
+                                              
+                                        <strong>Logical Form:</strong>
+                                            
+                                    </p>
+                                        
+                                    <p class="Body" style="padding-left: 40px">
+                                              
+                                        <font color="rgb(52, 73, 94)">
+                                            <em>Claim X is made that nobody could possibly know.</em>
+                                        </font>
+                                            
+                                    </p>
+                                        
+                                    <p class="Body">
+                                              
+                                        <strong>Example #1:</strong>
+                                            
+                                    </p>
+                                        
+                                    <p style="padding-left: 40px">
+                                              
+                                        <font color="rgb(52, 73, 94)">
+                                            <em>The president is a good man and would have never cheated on his wife, and has never cheated in anything in the past.</em>
+                                        </font>
+                                            
+                                    </p>
+                                        
+                                    <p class="Body">
+                                              
+                                        <strong>Explanation:</strong>
+                                         Clearly the arguer could not know this unless the arguer was with the president all the time. We might assume that the arguer has some special knowledge and find this argument credible when we should only accept it as an opinion from someone who can't possibly know what he or she claims to know.
+    
+                                    </p>
+                                        
+                                    <p class="Body">
+                                              
+                                        <strong>Example #2:</strong>
+                                            
+                                    </p>
+                                        
+                                    <p style="padding-left: 40px">
+                                              
+                                        <font color="rgb(52, 73, 94)">
+                                            <em>God wants us to love each other, but he is okay with us killing each other if we are defending our land—we will still go to Heaven.</em>
+                                        </font>
+                                            
+                                    </p>
+                                        
+                                    <p class="Body">
+                                              
+                                        <strong>Explanation: </strong>
+                                        Claims of knowing the mind of God are highly dubious. While we cannot rule out "divine revelation," we would need to weigh that possibility against the likelihood of a false belief.
+    
+                                    </p>
+                                        
+                                    <p class="Body">
+                                              
+                                        <strong>Example #3: </strong>
+                                            
+                                    </p>
+                                        
+                                    <p style="padding-left: 40px">
+                                              
+                                        <font color="rgb(52, 73, 94)">
+                                            <em>Larry is pure evil.</em>
+                                        </font>
+                                            
+                                    </p>
+                                        
+                                    <p class="Body">
+                                              
+                                        <strong>Explanation:</strong>
+                                         Larry may be an ass. He might have done many bad things. Heck, he might have even have ripped the “do not remove under penalty of law” tag off his mattress. However, to make claims of “pure” evil, one would have to be Larry. While making absolute claims about a person such as being “pure evil” might just be hyperbole, if we take the claim at face value, knowing the claim to be true would require the kind of omniscience reflected in this fallacy.
+    
+                                    </p>
+                                        
+                                    <p class="Body">
+                                              
+                                        <strong>Exception:</strong>
+                                         "Seems impossible" is not "impossible." It might be possible that someone actually has the detailed knowledge they claim. We need to keep that option open when thinking probabilistically.
+    
+                                    </p>
+                                        
+                                    <p class="Body">
+                                              
+                                        <strong>Tip:</strong>
+                                         By simply adding an “I believe” to non-factual arguments and claims, you can avoid many fallacies and be more honest while exercising more humility.
+    
+                                    </p>
+                                      
+                                </body>
+                                
+                            </html>
+                            
+                        </richcontent>
+                        
+                    </node>
                     
                 </node>
                 
@@ -17544,145 +17691,6 @@
                                       
                                 <strong>Tip:</strong>
                                  Whenever you are presented with options, carefully consider the possibility of other options not mentioned, and propose them.
-    
-                            </p>
-                              
-                        </body>
-                        
-                    </html>
-                    
-                </richcontent>
-                
-            </node>
-            
-            <node TEXT="Amazing Familiarity" COLOR="#18898b" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" MAX_WIDTH="378" MAX_WIDTH_QUANTITY="10.0 cm" MIN_WIDTH="0" MIN_WIDTH_QUANTITY="0.0 cm" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" ID="ID_193096228" CREATED="1637054251022" MODIFIED="1642680003904" ICON_SIZE="12.0 pt">
-                
-                <edge STYLE="bezier" COLOR="#808080" WIDTH="thin" DASH="SOLID"/>
-                
-                <font NAME="Liberation Sans" SIZE="10" BOLD="true" STRIKETHROUGH="false" ITALIC="false"/>
-                
-                <richcontent TYPE="DETAILS">
-                    
-                    <html>
-                          
-                        <head>
-    
-  </head>
-                          
-                        <body>
-                                
-                            <p>
-      (also known as: argument from omniscience, “how the hell can you possibly know that?”)
-    </p>
-                              
-                        </body>
-                        
-                    </html>
-                    
-                </richcontent>
-                
-                <richcontent TYPE="NOTE">
-                    
-                    <html>
-                          
-                        <head>
-    
-  </head>
-                          
-                        <body>
-                                
-                            <strong>Description:</strong>
-                             The argument contains information that seems impossible to have obtained—like it came from an omniscient author. This kind of writing/storytelling is characteristic of fiction, so when it is used in an argument it should cast doubt.
-
-    
-                            <p class="Body">
-                                      
-                                <strong>Logical Form:</strong>
-                                    
-                            </p>
-                                
-                            <p class="Body" style="padding-left: 40px">
-                                      
-                                <font color="rgb(52, 73, 94)">
-                                    <em>Claim X is made that nobody could possibly know.</em>
-                                </font>
-                                    
-                            </p>
-                                
-                            <p class="Body">
-                                      
-                                <strong>Example #1:</strong>
-                                    
-                            </p>
-                                
-                            <p style="padding-left: 40px">
-                                      
-                                <font color="rgb(52, 73, 94)">
-                                    <em>The president is a good man and would have never cheated on his wife, and has never cheated in anything in the past.</em>
-                                </font>
-                                    
-                            </p>
-                                
-                            <p class="Body">
-                                      
-                                <strong>Explanation:</strong>
-                                 Clearly the arguer could not know this unless the arguer was with the president all the time. We might assume that the arguer has some special knowledge and find this argument credible when we should only accept it as an opinion from someone who can't possibly know what he or she claims to know.
-    
-                            </p>
-                                
-                            <p class="Body">
-                                      
-                                <strong>Example #2:</strong>
-                                    
-                            </p>
-                                
-                            <p style="padding-left: 40px">
-                                      
-                                <font color="rgb(52, 73, 94)">
-                                    <em>God wants us to love each other, but he is okay with us killing each other if we are defending our land—we will still go to Heaven.</em>
-                                </font>
-                                    
-                            </p>
-                                
-                            <p class="Body">
-                                      
-                                <strong>Explanation: </strong>
-                                Claims of knowing the mind of God are highly dubious. While we cannot rule out "divine revelation," we would need to weigh that possibility against the likelihood of a false belief.
-    
-                            </p>
-                                
-                            <p class="Body">
-                                      
-                                <strong>Example #3: </strong>
-                                    
-                            </p>
-                                
-                            <p style="padding-left: 40px">
-                                      
-                                <font color="rgb(52, 73, 94)">
-                                    <em>Larry is pure evil.</em>
-                                </font>
-                                    
-                            </p>
-                                
-                            <p class="Body">
-                                      
-                                <strong>Explanation:</strong>
-                                 Larry may be an ass. He might have done many bad things. Heck, he might have even have ripped the “do not remove under penalty of law” tag off his mattress. However, to make claims of “pure” evil, one would have to be Larry. While making absolute claims about a person such as being “pure evil” might just be hyperbole, if we take the claim at face value, knowing the claim to be true would require the kind of omniscience reflected in this fallacy.
-    
-                            </p>
-                                
-                            <p class="Body">
-                                      
-                                <strong>Exception:</strong>
-                                 "Seems impossible" is not "impossible." It might be possible that someone actually has the detailed knowledge they claim. We need to keep that option open when thinking probabilistically.
-    
-                            </p>
-                                
-                            <p class="Body">
-                                      
-                                <strong>Tip:</strong>
-                                 By simply adding an “I believe” to non-factual arguments and claims, you can avoid many fallacies and be more honest while exercising more humility.
     
                             </p>
                               
@@ -23101,9 +23109,9 @@
                     
                     <font NAME="Dialog" SIZE="8" BOLD="false" STRIKETHROUGH="false" ITALIC="false"/>
                     
-                    <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_860419904" STARTINCLINATION="996;0;" ENDINCLINATION="975;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-                    
                     <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1665697231" STARTINCLINATION="263;0;" ENDINCLINATION="263;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+                    
+                    <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_860419904" STARTINCLINATION="996;0;" ENDINCLINATION="975;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
                     
                     <richcontent TYPE="NOTE">
                         
@@ -26340,7 +26348,7 @@
                 
                 <font NAME="Liberation Sans" SIZE="10" BOLD="true" STRIKETHROUGH="false" ITALIC="false"/>
                 
-                <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1706945405" STARTINCLINATION="761;-18;" ENDINCLINATION="763;-18;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+                <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1706945405" STARTINCLINATION="761;-16;" ENDINCLINATION="763;-16;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
                 
             </node>
             
@@ -32774,9 +32782,9 @@
                     
                     <font NAME="Dialog" SIZE="8" BOLD="false" STRIKETHROUGH="false" ITALIC="false"/>
                     
-                    <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_22427007" STARTINCLINATION="1509;0;" ENDINCLINATION="1479;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-                    
                     <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1008730775" STARTINCLINATION="5613;0;" ENDINCLINATION="5613;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+                    
+                    <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_22427007" STARTINCLINATION="1509;0;" ENDINCLINATION="1479;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
                     
                     <richcontent TYPE="DETAILS">
                         
@@ -37821,9 +37829,9 @@
                 
                 <font NAME="Liberation Sans" SIZE="10" BOLD="true" STRIKETHROUGH="false" ITALIC="false"/>
                 
-                <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_480276856" STARTINCLINATION="2188;0;" ENDINCLINATION="2188;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-                
                 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_841086237" STARTINCLINATION="2829;0;" ENDINCLINATION="2829;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+                
+                <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_480276856" STARTINCLINATION="2188;0;" ENDINCLINATION="2188;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
                 
                 <richcontent TYPE="DETAILS">
                     

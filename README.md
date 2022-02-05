@@ -4,7 +4,7 @@ This list is inspired by an organized collection of irrational nonsense, but thi
 
 Statistics:
 
-Total number of nodes: 445
+Total number of nodes: 446
 
 Total number of leaf nodes: 359
 

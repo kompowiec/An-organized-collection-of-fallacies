@@ -397,7 +397,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="post hoc ergo propter hoc" ID="ID_792278276" CREATED="1636959819492" MODIFIED="1642753917959"><richcontent TYPE="DETAILS">
 
@@ -1353,7 +1352,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <richcontent TYPE="NOTE">
 
@@ -1774,7 +1772,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <richcontent TYPE="NOTE">
 
@@ -2055,7 +2052,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="Every Schoolboy Knows" ID="ID_877519680" CREATED="1642351603796" MODIFIED="1642853188857"><richcontent TYPE="NOTE">
 
@@ -2173,7 +2169,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -2616,7 +2611,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <richcontent TYPE="NOTE">
 
@@ -2783,8 +2777,8 @@
 </richcontent>
 </node>
 <node TEXT="Galileo Fallacy" ID="ID_356035664" CREATED="1637060635849" MODIFIED="1642696256846">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_499300340" STARTINCLINATION="951;0;" ENDINCLINATION="951;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1002187602" STARTINCLINATION="1093;0;" ENDINCLINATION="1093;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_499300340" STARTINCLINATION="951;0;" ENDINCLINATION="951;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
 
 <html>
@@ -3124,8 +3118,8 @@
 </node>
 <node TEXT="Whataboutism" ID="ID_1213038793" CREATED="1618499261609" MODIFIED="1639397069619">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff3333" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1001664273" STARTINCLINATION="544;0;" ENDINCLINATION="544;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_227775878" STARTINCLINATION="571;0;" ENDINCLINATION="571;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1085503631" STARTINCLINATION="471;0;" ENDINCLINATION="471;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_227775878" STARTINCLINATION="571;0;" ENDINCLINATION="571;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1231588749" STARTINCLINATION="1373;0;" ENDINCLINATION="1373;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1001664273" STARTINCLINATION="1815;0;" ENDINCLINATION="1815;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1433906146" STARTINCLINATION="397;0;" ENDINCLINATION="397;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
@@ -3155,7 +3149,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <richcontent TYPE="NOTE">
 
@@ -3361,8 +3354,8 @@
 </node>
 </node>
 <node TEXT="Bulverism" ID="ID_1625368575" CREATED="1618500247024" MODIFIED="1642689144137">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_140214538" STARTINCLINATION="2551;0;" ENDINCLINATION="2551;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_742587298" STARTINCLINATION="396;0;" ENDINCLINATION="396;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_140214538" STARTINCLINATION="2551;0;" ENDINCLINATION="2551;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="NOTE">
 
 <html>
@@ -3869,7 +3862,6 @@
     <b>Description:</b>&nbsp;is a highly specialized version of the ad hominem argument. Instead of the arguer being insulted directly, an analogy is drawn which is calculated to bring him into scorn or disrepute. The opponent or his behaviour is compared with something which will elicit an unfavourable response toward him from the audience.<br/><br/><b>logical form</b><br/>Person 1 states that X is true.<br/>Person 2 states that Y is true and hasn't property X<br/>Therefore, X must not be true<br/>(but Y really is not too much like X)<br/><br/><b>Example #1:</b><br/>Smith has proposed we should go on a sailing holiday, though he knows as much about ships as an Armenian bandleader does.<br/><br/>(Perhaps you do not need to know all that much for a sailing holiday. Smith can always learn. The point here is that the comparison is deliberately drawn to make him look ridiculous. There may even be several Armenian bandleaders who are highly competent seamen.)<br/><br/><b>Explanation:</b>&nbsp;&nbsp;The analogy may even be a valid one, from the point of view of the comparison being made. This makes it more effective, but no less fallacious, since the purpose is to introduce additional, unargued, material to influence a judgement.<br/><br/><b>Example #2:</b><br/>If science admits no certainties, then a scientist has no more certain knowledge of the universe than does a Hottentot running through the bush.<br/><br/>(This is true, but is intended as abuse so that the hearer will be more sympathetic to the possibility of certain knowledge.)<br/><br/><b>Explanation:</b>&nbsp;The fallacy is a subtle one because it relies on the associations which the audience make from the picture presented. Its perpetrator need not say anything which is untrue; he can rely on the associations made by the hearer to fill in the abuse. The abusive analogy is a fallacy because it relies on this extraneous material to influence the argument.<br/><br/><b>Example #3:</b><br/>In congratulating my colleague on his new job, let me point out tha has no more experience of it than a snivelling boy has on his first da school.<br/><br/>(Again, true. But look who’s doing the snivelling.)<br/><br/><b>Explanation:</b>&nbsp;While politicians delight in both abuse and analogies, there are surprisingly few good uses of the abusive analogy from that domain. A good one should have an element of truth in its comparison, and invite abuse by its other associations. All other things being equal, it is easier to be offensive by making a comparison which is untrue, than to be clever by using elements of truth. Few have reached the memorable heights of Daniel O’Connell’s description of Sir Robert Peel:<br/><br/><b>Example #4:</b><br/>…a smile like the silver plate on a coffin.<br/><br/>(True, it has a superficial sparkle, but it invites us to think of something rather cold behind it.)<br/><br/><b>Explanation:</b>&nbsp;&nbsp;The venom-loaded pens of literary and dramatic critics are much more promising springs from which abusive analogies can trickle forth <b>Example #5:</b>&nbsp;He moved nervously about the stage, like a virgin awaiting the Sult (And died after the first night.) <b>Explanation:</b>&nbsp;Abusive analogies take composition. If you go forth without preparation, you will find yourself drawing from a well-used stock of comparisons which no longer have the freshness to conjure up vivid images. Describing your opponents as being like ‘straightlaced schoolmistresses’ or ‘sleazy strip-club owners’ will not lift you above the common herd. A carefully composed piece of abusive comparison, on the other hand, can pour ridicule on the best-presented case you could find: ‘a speech like a Texas longhorn; a point here, a point there, but a whole lot of bull in between’.
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -3983,7 +3975,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -4138,7 +4129,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <richcontent TYPE="NOTE">
 
@@ -4232,7 +4222,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -4565,7 +4554,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <richcontent TYPE="NOTE">
 
@@ -4727,8 +4715,8 @@
 </html>
 </richcontent>
 <node TEXT="Appeal to Tradition" ID="ID_642086821" CREATED="1635717323044" MODIFIED="1642755094251">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1612487258" STARTINCLINATION="2814;0;" ENDINCLINATION="2814;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_860419904" STARTINCLINATION="1759;0;" ENDINCLINATION="1759;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1612487258" STARTINCLINATION="2814;0;" ENDINCLINATION="2814;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
 
 <html>
@@ -4905,7 +4893,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Appeal to ancient wisdom" ID="ID_1362330731" CREATED="1642866041186" MODIFIED="1642866109066">
@@ -5228,8 +5215,8 @@
 </richcontent>
 </node>
 <node TEXT="red herring" ID="ID_1001664273" CREATED="1618498835257" MODIFIED="1642754715988">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1558928662" STARTINCLINATION="2411;0;" ENDINCLINATION="2411;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_950958965" STARTINCLINATION="428;0;" ENDINCLINATION="472;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1558928662" STARTINCLINATION="2411;0;" ENDINCLINATION="2411;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
 
 <html>
@@ -6028,9 +6015,9 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
+<node TEXT="fallaca ancidentis" ID="ID_949192027" CREATED="1643855593426" MODIFIED="1643855597414"/>
 </node>
 <node TEXT="Straw man Fallacy" ID="ID_413138777" CREATED="1618498859744" MODIFIED="1642761891101">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_4939853" STARTINCLINATION="2312;0;" ENDINCLINATION="2305;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
@@ -6486,6 +6473,71 @@
   </body>
 </html>
 </richcontent>
+<node TEXT="Amazing Familiarity" ID="ID_193096228" CREATED="1637054251022" MODIFIED="1642680003904"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (also known as: argument from omniscience, “how the hell can you possibly know that?”)
+    </p>
+  </body>
+</html>
+</richcontent>
+<richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description:</strong>&nbsp;The argument contains information that seems impossible to have obtained—like it came from an omniscient author. This kind of writing/storytelling is characteristic of fiction, so when it is used in an argument it should cast doubt.
+
+    <p class="Body">
+      <strong>Logical Form:</strong>
+    </p>
+    <p class="Body" style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>Claim X is made that nobody could possibly know.</em></font>
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>The president is a good man and would have never cheated on his wife, and has never cheated in anything in the past.</em></font>
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;Clearly the arguer could not know this unless the arguer was with the president all the time. We might assume that the arguer has some special knowledge and find this argument credible when we should only accept it as an opinion from someone who can't possibly know what he or she claims to know.
+    </p>
+    <p class="Body">
+      <strong>Example #2:</strong>
+    </p>
+    <p style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>God wants us to love each other, but he is okay with us killing each other if we are defending our land—we will still go to Heaven.</em></font>
+    </p>
+    <p class="Body">
+      <strong>Explanation: </strong>Claims of knowing the mind of God are highly dubious. While we cannot rule out &quot;divine revelation,&quot; we would need to weigh that possibility against the likelihood of a false belief.
+    </p>
+    <p class="Body">
+      <strong>Example #3:&nbsp;</strong>
+    </p>
+    <p style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>Larry is pure evil.</em></font>
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;Larry may be an ass. He might have done many bad things. Heck, he might have even have ripped the “do not remove under penalty of law” tag off his mattress. However, to make claims of “pure” evil, one would have to be Larry. While making absolute claims about a person such as being “pure evil” might just be hyperbole, if we take the claim at face value, knowing the claim to be true would require the kind of omniscience reflected in this fallacy.
+    </p>
+    <p class="Body">
+      <strong>Exception:</strong>&nbsp;&quot;Seems impossible&quot; is not &quot;impossible.&quot; It might be possible that someone actually has the detailed knowledge they claim. We need to keep that option open when thinking probabilistically.
+    </p>
+    <p class="Body">
+      <strong>Tip:</strong>&nbsp;By simply adding an “I believe” to non-factual arguments and claims, you can avoid many fallacies and be more honest while exercising more humility.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node TEXT="Argument from omniscience" ID="ID_1526617801" CREATED="1636920642519" MODIFIED="1642357487999">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1829533441" STARTINCLINATION="2248;0;" ENDINCLINATION="2252;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
@@ -6649,8 +6701,8 @@
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1008730775" STARTINCLINATION="3477;0;" ENDINCLINATION="3477;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 <node TEXT="Toupée fallacy" ID="ID_887874131" CREATED="1636921355408" MODIFIED="1637058148896">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1474507658" STARTINCLINATION="1973;0;" ENDINCLINATION="2097;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1812400184" STARTINCLINATION="1971;0;" ENDINCLINATION="1971;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1474507658" STARTINCLINATION="1973;0;" ENDINCLINATION="2097;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 <node TEXT="Appeal to eye" ID="ID_859494781" CREATED="1636964642256" MODIFIED="1636964666038"><richcontent TYPE="DETAILS">
 
@@ -7890,7 +7942,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <richcontent TYPE="NOTE">
 
@@ -8493,71 +8544,6 @@
     </p>
     <p class="Body">
       <strong>Tip:</strong>&nbsp;Whenever you are presented with options, carefully consider the possibility of other options not mentioned, and propose them.
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="Amazing Familiarity" ID="ID_193096228" CREATED="1637054251022" MODIFIED="1642680003904"><richcontent TYPE="DETAILS">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (also known as: argument from omniscience, “how the hell can you possibly know that?”)
-    </p>
-  </body>
-</html>
-</richcontent>
-<richcontent TYPE="NOTE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&nbsp;The argument contains information that seems impossible to have obtained—like it came from an omniscient author. This kind of writing/storytelling is characteristic of fiction, so when it is used in an argument it should cast doubt.
-
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p class="Body" style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>Claim X is made that nobody could possibly know.</em></font>
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>The president is a good man and would have never cheated on his wife, and has never cheated in anything in the past.</em></font>
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;Clearly the arguer could not know this unless the arguer was with the president all the time. We might assume that the arguer has some special knowledge and find this argument credible when we should only accept it as an opinion from someone who can't possibly know what he or she claims to know.
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>
-    </p>
-    <p style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>God wants us to love each other, but he is okay with us killing each other if we are defending our land—we will still go to Heaven.</em></font>
-    </p>
-    <p class="Body">
-      <strong>Explanation: </strong>Claims of knowing the mind of God are highly dubious. While we cannot rule out &quot;divine revelation,&quot; we would need to weigh that possibility against the likelihood of a false belief.
-    </p>
-    <p class="Body">
-      <strong>Example #3:&nbsp;</strong>
-    </p>
-    <p style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>Larry is pure evil.</em></font>
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;Larry may be an ass. He might have done many bad things. Heck, he might have even have ripped the “do not remove under penalty of law” tag off his mattress. However, to make claims of “pure” evil, one would have to be Larry. While making absolute claims about a person such as being “pure evil” might just be hyperbole, if we take the claim at face value, knowing the claim to be true would require the kind of omniscience reflected in this fallacy.
-    </p>
-    <p class="Body">
-      <strong>Exception:</strong>&nbsp;&quot;Seems impossible&quot; is not &quot;impossible.&quot; It might be possible that someone actually has the detailed knowledge they claim. We need to keep that option open when thinking probabilistically.
-    </p>
-    <p class="Body">
-      <strong>Tip:</strong>&nbsp;By simply adding an “I believe” to non-factual arguments and claims, you can avoid many fallacies and be more honest while exercising more humility.
     </p>
   </body>
 </html>
@@ -10916,7 +10902,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Runaway train" ID="ID_474141963" CREATED="1642361217429" MODIFIED="1642858732296"><richcontent TYPE="NOTE">
@@ -10975,7 +10960,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Shifting ground" ID="ID_1743083255" CREATED="1642361529218" MODIFIED="1642858343568"><richcontent TYPE="NOTE">
@@ -11018,7 +11002,6 @@
     <pre class="wp-block-verse">Yes, I walked through the green line, customs officer, and I can explain that extra bottle of scotch.<br/>(Does anyone spot the slight tremor in his feet?)</pre>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Thatcher’s blame" ID="ID_44825494" CREATED="1642361648053" MODIFIED="1642858612039"><richcontent TYPE="NOTE">
@@ -11059,7 +11042,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Unaccepted enthyrnemes" ID="ID_1418095432" CREATED="1642362203743" MODIFIED="1642860815761"><richcontent TYPE="NOTE">
@@ -11091,7 +11073,6 @@
     <pre class="wp-block-verse">I'm not happy with the choice of Smith. One can never be happy with those who prey on rich widows.<br/>(Or on unjustified implications.)</pre>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Feedback fallacy" ID="ID_768663268" CREATED="1642503760019" MODIFIED="1642503764120"/>
@@ -11185,7 +11166,6 @@
     (also known as: argumentum ad baculum, argument to the cudgel, appeal to the stick, Threat of force)
   </body>
 </html>
-
 </richcontent>
 <richcontent TYPE="NOTE">
 
@@ -11243,8 +11223,8 @@
 </richcontent>
 </node>
 <node TEXT="Wishful thinking" ID="ID_1420024721" CREATED="1618490241592" MODIFIED="1642767577608">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_860419904" STARTINCLINATION="996;0;" ENDINCLINATION="975;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1665697231" STARTINCLINATION="263;0;" ENDINCLINATION="263;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_860419904" STARTINCLINATION="996;0;" ENDINCLINATION="975;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="NOTE">
 
 <html>
@@ -11467,7 +11447,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Refuting the example" ID="ID_389560209" CREATED="1642858283417" MODIFIED="1642858287027"/>
@@ -11528,7 +11507,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="The Undistributed middle" ID="ID_321217681" CREATED="1642858790714" MODIFIED="1642858820945"><richcontent TYPE="NOTE">
@@ -11570,7 +11548,6 @@
     <pre class="wp-block-verse">Elitism is something only a few benefit from, and tennis is something only a few benefit from, so tennis is clearly elitist.<br/>(Fault!)</pre>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -11811,7 +11788,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="McNamara Fallacy" ID="ID_527996224" CREATED="1618489625712" MODIFIED="1642750790122"><richcontent TYPE="DETAILS">
@@ -11971,7 +11947,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <richcontent TYPE="NOTE">
 
@@ -12821,7 +12796,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Self–selection" ID="ID_111876713" CREATED="1642868169781" MODIFIED="1642868172500"/>
@@ -12892,7 +12866,7 @@
 </richcontent>
 </node>
 <node TEXT="Thought-terminating cliché" ID="ID_349827019" CREATED="1618499854696" MODIFIED="1636877047653">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1706945405" STARTINCLINATION="761;-18;" ENDINCLINATION="763;-18;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1706945405" STARTINCLINATION="761;-17;" ENDINCLINATION="763;-17;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 <node TEXT="Appeal to probability" ID="ID_918797613" CREATED="1635776906904" MODIFIED="1642686874494">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_480276856" STARTINCLINATION="2128;0;" ENDINCLINATION="2128;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
@@ -13316,7 +13290,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Exception that proves the rule" ID="ID_1386270026" CREATED="1642351757452" MODIFIED="1642351761637"/>
@@ -14691,8 +14664,8 @@
 </node>
 <node TEXT="Loki&apos;s Wager" ID="ID_606642837" CREATED="1618488874116" MODIFIED="1618488875036"/>
 <node TEXT="No True Scotsman" ID="ID_1871625416" CREATED="1618488911435" MODIFIED="1642751830486">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_92153379" STARTINCLINATION="80;0;" ENDINCLINATION="80;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_22427007" STARTINCLINATION="1610;0;" ENDINCLINATION="1610;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_92153379" STARTINCLINATION="80;0;" ENDINCLINATION="80;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
 
 <html>
@@ -15350,7 +15323,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Proof by Intimidation" ID="ID_802899348" CREATED="1642871506911" MODIFIED="1642871509456"/>
@@ -15372,7 +15344,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <richcontent TYPE="NOTE">
 
@@ -15440,7 +15411,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <richcontent TYPE="NOTE">
 
@@ -15645,7 +15615,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <richcontent TYPE="NOTE">
 
@@ -16041,8 +16010,8 @@
 </html>
 </richcontent>
 <node TEXT="Nirvana fallacy" ID="ID_1829533441" CREATED="1618501803321" MODIFIED="1642871395343">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_22427007" STARTINCLINATION="1509;0;" ENDINCLINATION="1479;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1008730775" STARTINCLINATION="5613;0;" ENDINCLINATION="5613;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_22427007" STARTINCLINATION="1509;0;" ENDINCLINATION="1479;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
 
 <html>
@@ -16222,7 +16191,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -16655,7 +16623,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="Concealed Quantification" ID="ID_1315005366" CREATED="1642350918844" MODIFIED="1642853007653"><richcontent TYPE="NOTE">
 
@@ -16751,7 +16718,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -17618,7 +17584,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -18684,7 +18649,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <richcontent TYPE="NOTE">
 
