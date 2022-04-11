@@ -1,4 +1,5 @@
-Examples:
+Legend
+**bold** - best IMO (if does exists more techniques)
 # Argumentum ad ignorantiam
 * Explain this fallacy: I should prove THINE claims?
 # Strawman
@@ -18,3 +19,4 @@ Examples:
 * You have diagnosed yourself well. I'm impressed. The most important thing is to be honest with yourself.
 * How do you know?
 * But we are talking about you.
+* **because you wanted it**
