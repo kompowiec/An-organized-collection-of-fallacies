@@ -7,7 +7,7 @@ Legend
 # Ad personam
 * Implying that idiot called you are a idiot: thank you for the compliment.
 # Tone policing
-* You confuse malicious criticism for ad hominem attack.
+* Distinction without a difference ‎fallacy.
 # cherry picking
 * Anecdotal evidence
 # whataboutism
