@@ -1,0 +1,43 @@
+if you interlocutor don't have growth mindset, they have a big trouble with the admission of a mistake. And typical algorithm a conversation is like this:
+
+- Statement X
+- ask of proof
+- They says something wrong
+- fallacy
+- usually first reaction is repeat the same fallacy - so it's sunk cost fallacy
+or, if they are manipulations and not amoebas, they repeat other mistakes, and over and over again fallacies...
+
+* Argumentum ad ignorantiam
+Explain this fallacy: I should prove THINE/YOUR claims?
+* Strawman
+accuse of them a lie and quote if insists on.
+* Ad personam
+Implying that idiot called you are a idiot: thank you for the compliment.
+* Tone policing
+you confused diatribe with name-calling.
+* cherry picking
+Anecdotal evidence
+* whataboutism
+Use the golden rule: if you claim that X is ok, it means that I can do the same as they do, i.e. X because you thinks X is okay, right?
+Or more directly: Thanks for your confirmation, that you agree that this is also wrong.
+* Argumentum ad populum
+make irrelevant: you don't have to call your buddies, just prove it.
+
+- usually in this point appear some [[https://en.wikipedia.org/wiki/Defence_mechanism][coping mechanisms]]:
+  
+* psychological projection
+Does exists several options:
+- You have diagnosed yourself well. I'm impressed. The most important thing is to be honest with yourself.
+- But we are talking about you.
+- because you wanted it
+
+  but IMO best is:
+- **How do you know?**
+
+Example:
+
+- X fallacy
+- you made a mistake!
+- that is, what?
+
+and chirr, error 404 at the person wchich projecting, forces self-reflection
