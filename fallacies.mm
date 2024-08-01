@@ -1,5 +1,5 @@
-<map version="freeplane 1.7.0">
-<!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
+<map version="freeplane 1.11.5">
+<!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <node FOLDED="false" ID="ID_1073288113" CREATED="1618511719208" MODIFIED="1642698128416" STYLE="oval"><richcontent TYPE="NODE">
 
 <html>
@@ -28,28 +28,29 @@
   </body>
 </html>
 </richcontent>
-<hook NAME="MapStyle">
+<hook NAME="MapStyle" zoom="1.211">
     <conditional_styles>
         <conditional_style ACTIVE="true" LOCALIZED_STYLE_REF="styles.connection" LAST="false">
             <node_periodic_level_condition PERIOD="2" REMAINDER="1"/>
         </conditional_style>
         <conditional_style ACTIVE="true" LOCALIZED_STYLE_REF="styles.topic" LAST="false">
-            <node_level_condition VALUE="2" MATCH_CASE="false" MATCH_APPROXIMATELY="false" COMPARATION_RESULT="0" SUCCEED="true"/>
+            <node_level_condition VALUE="2" COMPARATION_RESULT="0" SUCCEED="true"/>
         </conditional_style>
         <conditional_style ACTIVE="true" LOCALIZED_STYLE_REF="styles.subtopic" LAST="false">
-            <node_level_condition VALUE="4" MATCH_CASE="false" MATCH_APPROXIMATELY="false" COMPARATION_RESULT="0" SUCCEED="true"/>
+            <node_level_condition VALUE="4" COMPARATION_RESULT="0" SUCCEED="true"/>
         </conditional_style>
         <conditional_style ACTIVE="true" LOCALIZED_STYLE_REF="styles.subsubtopic" LAST="false">
-            <node_level_condition VALUE="6" MATCH_CASE="false" MATCH_APPROXIMATELY="false" COMPARATION_RESULT="0" SUCCEED="true"/>
+            <node_level_condition VALUE="6" COMPARATION_RESULT="0" SUCCEED="true"/>
         </conditional_style>
     </conditional_styles>
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" fit_to_viewport="false"/>
 
 <map_styles>
-<stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt">
+<stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
 <font SIZE="24"/>
-<stylenode LOCALIZED_TEXT="styles.predefined" POSITION="right" STYLE="bubble">
-<stylenode LOCALIZED_TEXT="default" ICON_SIZE="12.0 pt" COLOR="#000000" STYLE="fork" ID="ID_1104265336">
+<stylenode LOCALIZED_TEXT="styles.predefined" POSITION="bottom_or_right" STYLE="bubble">
+<stylenode LOCALIZED_TEXT="default" ID="ID_1104265336" ICON_SIZE="12 pt" COLOR="#000000" STYLE="fork">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" DASH="" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1104265336" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <font NAME="Arial" SIZE="10" BOLD="false" ITALIC="false"/>
 </stylenode>
 <stylenode LOCALIZED_TEXT="defaultstyle.details"/>
@@ -63,7 +64,7 @@
 </stylenode>
 <stylenode LOCALIZED_TEXT="defaultstyle.selection" BACKGROUND_COLOR="#4e85f8" BORDER_COLOR_LIKE_EDGE="false" BORDER_COLOR="#4e85f8"/>
 </stylenode>
-<stylenode LOCALIZED_TEXT="styles.user-defined" POSITION="right" STYLE="bubble">
+<stylenode LOCALIZED_TEXT="styles.user-defined" POSITION="bottom_or_right" STYLE="bubble">
 <stylenode LOCALIZED_TEXT="styles.topic" COLOR="#18898b" STYLE="fork">
 <font NAME="Liberation Sans" SIZE="10" BOLD="true"/>
 </stylenode>
@@ -77,7 +78,7 @@
 <font NAME="Arial" SIZE="8" BOLD="false"/>
 </stylenode>
 </stylenode>
-<stylenode LOCALIZED_TEXT="styles.AutomaticLayout" POSITION="right" STYLE="bubble">
+<stylenode LOCALIZED_TEXT="styles.AutomaticLayout" POSITION="bottom_or_right" STYLE="bubble">
 <stylenode LOCALIZED_TEXT="AutomaticLayout.level.root" COLOR="#000000" STYLE="oval">
 <font SIZE="18"/>
 </stylenode>
@@ -98,7 +99,6 @@
 </map_styles>
 </hook>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -189,9 +189,8 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
-<node POSITION="left" ID="ID_319391036" CREATED="1618489987876" MODIFIED="1642754557672"><richcontent TYPE="NODE">
+</html></richcontent>
+<node POSITION="top_or_left" ID="ID_319391036" CREATED="1618489987876" MODIFIED="1642754557672"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -205,7 +204,6 @@
 </html>
 </richcontent>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -215,10 +213,8 @@
       (also known as: butterfly logic, ignoring a common cause, neglecting a common cause, confusing correlation and causation, confusing cause and effect, false cause, third cause, third-cause fallacy, juxtaposition [form of], reversing causality/wrong direction [form of])
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -278,10 +274,8 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Correlation does not imply causation" ID="ID_28882714" CREATED="1618490032304" MODIFIED="1642853070675"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -291,10 +285,8 @@
       (also known as: cum hoc ergo propter hoc)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -396,10 +388,8 @@
       <strong>The above article is from the book How To Win Every Argument by Madsen Pirie. The article is only for educational and informative purposes to explain and understand formal logic and logical fallacies. It is a great book, definitely worth a read!</strong>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="post hoc ergo propter hoc" ID="ID_792278276" CREATED="1636959819492" MODIFIED="1642753917959"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -409,10 +399,8 @@
       (also known as: after this, therefore because of this, post hoc rationalization)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -462,12 +450,10 @@
       Post Hoc, Ergo Propter Hoc on JSTOR. (n.d.). Retrieved July 16, 2020, from <a href="https://www.jstor.org/stable/20126985?seq=1">https://www.jstor.org/stable/20126985?seq=1</a>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Circular cause and consequence" ID="ID_1963372887" CREATED="1635761833896" MODIFIED="1635771881224"/>
 <node TEXT="B causes A (reverse causation or reverse causality)" ID="ID_492963768" CREATED="1636960268082" MODIFIED="1636960309839"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -477,11 +463,9 @@
       (also known as: Reverse causation, reverse causality, wrong direction)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Third factor C (the common-causal variable) causes both A and B" ID="ID_871073353" CREATED="1636960330303" MODIFIED="1636960345540"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -491,14 +475,12 @@
       (also known as: third-cause fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Bidirectional causation: A causes B, and B causes A" ID="ID_1791377077" CREATED="1636960362374" MODIFIED="1636960364112"/>
 <node TEXT="The relationship between A and B is coincidental" ID="ID_1298345017" CREATED="1636960372369" MODIFIED="1636960373442"/>
 </node>
 <node TEXT="Gambler&apos;s fallacy (inverse)" ID="ID_1488609103" CREATED="1618490065327" MODIFIED="1642696344508"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -570,10 +552,8 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Hot hand fallacy" ID="ID_772146751" CREATED="1635760812621" MODIFIED="1642698497028"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -583,10 +563,8 @@
       (also known as: hot hand phenomenon)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -641,11 +619,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Ludic fallacy" ID="ID_1399433041" CREATED="1636912775000" MODIFIED="1642750460100"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -655,10 +631,8 @@
       (also known as: ludus)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -718,13 +692,11 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Drought fallacy" ID="ID_878191845" CREATED="1642868051963" MODIFIED="1642868054677"/>
 </node>
 <node TEXT="Regression fallacy" ID="ID_1612487258" CREATED="1618490073579" MODIFIED="1642755032660"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -734,10 +706,8 @@
       (also known as: Regressive fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -794,13 +764,11 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Causal Reductionism" ID="ID_1256454212" CREATED="1618490078407" MODIFIED="1642700303624">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1542145554" STARTINCLINATION="5337;0;" ENDINCLINATION="5337;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1542145554" STARTINCLINATION="4002.74988 pt;0 pt;" ENDINCLINATION="4002.74988 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -810,10 +778,8 @@
       (also known as: complex cause, fallacy of the single cause, causal oversimplification, reduction fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -859,10 +825,8 @@
       <strong>Tip:</strong>&nbsp;Use &#x201c;contributing factors&#x201d; more and &#x201c;the reason&#x201d; or &#x201c;the cause&#x201d; a lot less.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Insignificant Cause" ID="ID_786009324" CREATED="1642700254500" MODIFIED="1642700330144"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -872,10 +836,8 @@
       (also known as: fallacy of insignificant, genuine but insignificant cause, insufficient cause)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -917,12 +879,10 @@
       <strong>Tip:</strong>&nbsp;Establishing causality is very difficult. Be very weary of claims of causality in casual conversation.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Slippery slope" ID="ID_883738984" CREATED="1635772082296" MODIFIED="1642755964214"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -932,10 +892,8 @@
       (also known as: absurd extrapolation, thin edge of the wedge, camel's nose, domino fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -998,13 +956,11 @@
       </p>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Texas Sharpshooter Fallacy" ID="ID_1553310480" CREATED="1618490107108" MODIFIED="1642766646214">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1001664273" STARTINCLINATION="1053;0;" ENDINCLINATION="1053;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1001664273" STARTINCLINATION="789.74998 pt;0 pt;" ENDINCLINATION="789.74998 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -1014,10 +970,8 @@
       (also known as: clustering illusion, clustering fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -1075,11 +1029,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Magical thinking" ID="ID_1339388695" CREATED="1618499950224" MODIFIED="1642750595336"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -1089,10 +1041,8 @@
       (also known as: superstitious thinking)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -1152,13 +1102,12 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Folk religion" ID="ID_125871301" CREATED="1636959920723" MODIFIED="1636959924187"/>
 <node TEXT="Illusion of control" ID="ID_1347681919" CREATED="1636959929756" MODIFIED="1636959930583"/>
 <node TEXT="Law of attraction (New Thought)" ID="ID_646671246" CREATED="1636959943383" MODIFIED="1636959944214"/>
 <node TEXT="Law of contagion" ID="ID_1002088084" CREATED="1636959951202" MODIFIED="1636959951919"/>
-<node TEXT="Obsessive&#x2013;compulsive disorder" ID="ID_454764278" CREATED="1636959958083" MODIFIED="1636959958969"/>
+<node TEXT="Obsessive–compulsive disorder" ID="ID_454764278" CREATED="1636959958083" MODIFIED="1636959958969"/>
 <node TEXT="Performativity" ID="ID_730165644" CREATED="1636959966574" MODIFIED="1636959967268"/>
 <node TEXT="Placebo button" ID="ID_1799635554" CREATED="1636959975073" MODIFIED="1636959975933"/>
 <node TEXT="Psychological theories of magic" ID="ID_681504366" CREATED="1636959982124" MODIFIED="1636959982768"/>
@@ -1167,9 +1116,8 @@
 <node TEXT="Wish fulfillment" ID="ID_1836933116" CREATED="1636960002344" MODIFIED="1636960003050"/>
 </node>
 <node TEXT="Argument of the Beard" ID="ID_1008730775" CREATED="1635721191140" MODIFIED="1642688649571">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1844366471" STARTINCLINATION="1447;0;" ENDINCLINATION="1447;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1844366471" STARTINCLINATION="1085.24997 pt;0 pt;" ENDINCLINATION="1085.24997 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -1179,10 +1127,8 @@
       (also known as: fallacy of the beard, heap fallacy, heap paradox fallacy, bald man fallacy, continuum fallacy, line drawing fallacy, sorites fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -1248,11 +1194,9 @@
       <strong>Fun Fact:</strong>&nbsp;There are very few clear lines we can draw between categories in any area of life.&nbsp;&nbsp;Categories are human constructs that we create to help us make sense of things, yet they often end up creating more confusion by tricking us into thinking abstract concepts actually exist.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Counterfactual fallacy" ID="ID_228931299" CREATED="1636960538672" MODIFIED="1642699474491"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -1263,10 +1207,8 @@
     </p>
     hypothesis contrary to fact &quot;what if&quot; ,wouldchuck)
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -1320,12 +1262,11 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Sociologist&apos;s fallacy" ID="ID_597132226" CREATED="1642504080248" MODIFIED="1642504083250"/>
 </node>
-<node TEXT="Fallacies of relevance" POSITION="left" ID="ID_1706945405" CREATED="1618490196997" MODIFIED="1618490198815">
+<node TEXT="Fallacies of relevance" POSITION="top_or_left" ID="ID_1706945405" CREATED="1618490196997" MODIFIED="1618490198815">
 <font BOLD="true"/>
 <node ID="ID_860419904" CREATED="1618490206228" MODIFIED="1642865826667"><richcontent TYPE="NODE">
 
@@ -1339,9 +1280,9 @@
     </p>
   </body>
 </html>
+
 </richcontent>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -1351,10 +1292,8 @@
       (also known as: Argumentum ad passiones, Emotional appeals, appeal to pathos, argument by vehemence, playing on emotions, emotional appeal, for the children)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -1399,10 +1338,8 @@
       <strong>Tip: </strong>By appealing to both the brain and the heart, you will persuade the greatest number of people.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="argumentum in terrorem" ID="ID_396438098" CREATED="1618498906973" MODIFIED="1642686335300"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -1410,10 +1347,8 @@
   <body>
     (also known as: argumentum ad metum, argument from adverse consequences, scare tactics, appeal to fear)
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -1470,11 +1405,9 @@
       <strong>Tip:</strong>&nbsp;Think in terms of probabilities, not possibilities.&nbsp;&nbsp;Many things are possible, including a lion busting into your home at night and mauling you to death -- but it is very, very improbable.&nbsp;&nbsp;People who use fear to manipulate you, count on you to be irrational and emotional rather than reasonable and calculating.&nbsp;&nbsp;Prove them wrong.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT=" Fear, uncertainty, and doubt (FUD)" ID="ID_829627901" CREATED="1636876709758" MODIFIED="1636876710806"/>
 <node TEXT="Appeal to prejudice" ID="ID_333480383" CREATED="1636879046222" MODIFIED="1636964393113"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -1484,11 +1417,9 @@
       (also known as: argumentum ad invidiam)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Just In Case Fallacy" ID="ID_1123507951" CREATED="1637061437641" MODIFIED="1642700450213"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -1498,10 +1429,8 @@
       (also known as: worst case scenario fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -1540,13 +1469,11 @@
       <strong>Tip:</strong>&nbsp;Buying insurance or a warranty is not always a good idea&#x2014;mitigating risk comes with costs, that are often not obvious.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Flag-waving" ID="ID_604734587" CREATED="1635775952078" MODIFIED="1635775953053"/>
 <node TEXT="Appeal to flattery" ID="ID_1166854856" CREATED="1618498923145" MODIFIED="1642686419719"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -1556,10 +1483,8 @@
       (also known as: apple polishing, wheel greasing, brown nosing, appeal to pride / argumentum ad superbiam, appeal to vanity)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -1610,11 +1535,9 @@
       <strong>Fun Fact:</strong>&nbsp;Flattery might get you somewhere, but it&#x2019;s usually a place you don&#x2019;t want to be.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Appeal to novelty" ID="ID_37120850" CREATED="1618498930925" MODIFIED="1642686743778"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -1624,10 +1547,8 @@
       (also known as: argumentum ad novitatem, appeal to the new, ad novitam [sometimes spelled as])
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -1678,12 +1599,10 @@
       <strong>Tip:</strong>&nbsp;Diets and exercise programs/gadgets are notorious for preying on our desire for novelty.&nbsp;&nbsp;Don&#x2019;t be swayed by the &#x201c;latest research&#x201d; or latest fads.&nbsp;&nbsp;Just remember this: burn more calories than you take in, <i>and you will lose weight</i>.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Chronological snobbery" ID="ID_596965706" CREATED="1636908757090" MODIFIED="1636908757872"/>
 </node>
 <node TEXT="Appeal to pity" ID="ID_1199706495" CREATED="1618498936343" MODIFIED="1642686784562"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -1693,10 +1612,8 @@
       (also known as: ad misericordiam, appeal to sympathy, appeal to victimhood [form of])
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -1754,14 +1671,12 @@
       <strong>Tip:</strong>&nbsp;Avoid pity in argumentation.&nbsp;&nbsp;It is a clear indicator that you have weak evidence for your argument.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Appeal to hate" ID="ID_684311355" CREATED="1636919552714" MODIFIED="1636919553840"/>
 <node TEXT="reductio ad ridiculum" ID="ID_1245976659" CREATED="1618498941600" MODIFIED="1642867061671">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1915454335" STARTINCLINATION="917;0;" ENDINCLINATION="917;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1915454335" STARTINCLINATION="687.74998 pt;0 pt;" ENDINCLINATION="687.74998 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -1771,10 +1686,8 @@
       (also known as: argumentum ad absurdum, apagogical arguments, reduce to absurdity)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -1888,21 +1801,19 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Proving too much" ID="ID_1125763649" CREATED="1635766543928" MODIFIED="1635766547964"/>
 <node TEXT="Pooh-pooh" ID="ID_1189588311" CREATED="1636877569162" MODIFIED="1636877573767">
 <node TEXT="Big lie" ID="ID_1205397988" CREATED="1636877605513" MODIFIED="1636877606990"/>
 </node>
 </node>
 <node TEXT="Think of the children" ID="ID_1244345543" CREATED="1618498947688" MODIFIED="1635775655507">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1706945405" STARTINCLINATION="1758;0;" ENDINCLINATION="1758;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1706945405" STARTINCLINATION="1318.49996 pt;0 pt;" ENDINCLINATION="1318.49996 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 <node TEXT="In-group favoritism" ID="ID_1472696608" CREATED="1618498958294" MODIFIED="1618498959155"/>
 <node TEXT="Invented here" ID="ID_669814714" CREATED="1618498977937" MODIFIED="1618498979474"/>
 <node TEXT="Island mentality" ID="ID_1052554778" CREATED="1618498984782" MODIFIED="1618498985920"/>
 <node TEXT="Appeal to loyalty" ID="ID_1808544728" CREATED="1618498990721" MODIFIED="1642686635944"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -1912,10 +1823,8 @@
       (also known as: appeal to patriotism [form of])
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -1954,13 +1863,11 @@
       </p>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Not invented (t)here" ID="ID_114815652" CREATED="1635776069766" MODIFIED="1635776072342"/>
 <node TEXT="Parade of horribles" ID="ID_949855969" CREATED="1618499000029" MODIFIED="1618499000829"/>
 <node TEXT="Appeal to spite" ID="ID_1829161038" CREATED="1618499013894" MODIFIED="1642687015322"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -1970,10 +1877,8 @@
       also known as: argumentum ad adium
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -2033,15 +1938,13 @@
       <strong>Tip:</strong>&nbsp;Be happy. Avoid spite in all of its forms.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Stirring symbols" ID="ID_26263337" CREATED="1618499021298" MODIFIED="1618511753640"/>
 <node TEXT="Judgmental language" ID="ID_804639896" CREATED="1618500451687" MODIFIED="1618500453220"/>
 <node TEXT="Argumentum ad captandum vulgus" ID="ID_339132491" CREATED="1635720525223" MODIFIED="1646768023833"/>
 <node TEXT="Appeal to gravity" ID="ID_39961244" CREATED="1636919513743" MODIFIED="1636919514656"/>
 <node TEXT="Appeal to shame" ID="ID_24551887" CREATED="1636919653419" MODIFIED="1642867027705"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -2051,10 +1954,8 @@
       (also known as: appeal to mockery, the horse laugh, appeal to guilt, appeal to pride, argumentum ad superbium, ad hominem ridicule, appeal to humor, appeal to mockery, appeal to ridicule, horse laugh, refutation by caricature)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Every Schoolboy Knows" ID="ID_877519680" CREATED="1642351603796" MODIFIED="1642853188857"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -2168,12 +2069,10 @@
       <strong>The above article is from the book How To Win Every Argument by Madsen Pirie. The article is only for educational and informative purposes to explain and understand formal logic and logical fallacies. It is a great book, definitely worth a read!</strong>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Argumentum ad fastidium" ID="ID_1508363280" CREATED="1636919162419" MODIFIED="1636919739843"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -2183,11 +2082,9 @@
       (also known as: appeal to disgust, &quot;argument from disgust. &quot;wisdom of repugnance&quot;, &quot;yuck factor&quot;)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Style over substance" ID="ID_1403822331" CREATED="1636920184102" MODIFIED="1642761961043"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -2197,10 +2094,8 @@
       (also known as: argument by slogan [form of], clich&#xe9; thinking - or thought-terminating clich&#xe9;, argument by rhyme [form of], argument by poetic language [form of])
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -2267,11 +2162,9 @@
       Whoever denied it, supplied it!
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="argumentum ad fidentia" ID="ID_777416195" CREATED="1636979624905" MODIFIED="1642678532168"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -2281,10 +2174,8 @@
       (also known as: against self-confidence)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -2344,11 +2235,9 @@
       <strong>Tip:</strong>&nbsp;Have confidence that you are probably or even very probably right, but avoid dogmatic certainty at all costs in areas where certainty is unknowable.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Appeal to Desperation" ID="ID_1017047624" CREATED="1637054876825" MODIFIED="1642686078636"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -2405,11 +2294,9 @@
       <strong>Tip:</strong>&nbsp;Do your best to avoid situations of desperation where emotion very often takes the lead over reason.&nbsp;&nbsp;Although not all desperate situations can be avoided, many can, by proper planning and foresight.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Appeal to Intuition" ID="ID_855474090" CREATED="1637056844270" MODIFIED="1642686600058"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -2419,10 +2306,8 @@
       (also known as: appeal to the gut)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -2492,11 +2377,9 @@
       <strong>Tip:</strong>&nbsp;Intuition can be defined as the sum of our experiences reflected in the feeling of knowledge that cannot be articulated. For example, if one has 30 years of experience as a firefighter, they may &#x201c;know&#x201d; when not to open a door in a burning building but not be able to explain why rationally. The problem is, in the moment, intuition is indistinguishable from imagination. When we get these feelings, if time permits, we should do what we can to back them up rationally.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Prejudicial Language" ID="ID_1258587065" CREATED="1637152921596" MODIFIED="1642754086050"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -2506,10 +2389,8 @@
       (also known as: variant imagization)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -2563,14 +2444,12 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Love bombing" ID="ID_996954372" CREATED="1636877020058" MODIFIED="1636877020964">
 <node TEXT="Milieu control" ID="ID_18265940" CREATED="1636877026612" MODIFIED="1636877027253"/>
 </node>
 <node TEXT=" victim playing" ID="ID_1915172970" CREATED="1641987588521" MODIFIED="1642250464707"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -2580,8 +2459,7 @@
       (also known as: victim card, playing the victim, self-victimization, professional victim, victim mentality)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="What&apos;s the harm" ID="ID_1388927450" CREATED="1642865866558" MODIFIED="1642865869124"/>
 </node>
@@ -2598,9 +2476,8 @@
   </body>
 </html>
 </richcontent>
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1001664273" STARTINCLINATION="473;0;" ENDINCLINATION="473;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1001664273" STARTINCLINATION="354.74999 pt;0 pt;" ENDINCLINATION="354.74999 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -2610,10 +2487,8 @@
       (also known as: fallacy of origins, fallacy of virtue, Genetic Fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -2670,12 +2545,10 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="argumentum ad hominem" ID="ID_950958965" CREATED="1618490253499" MODIFIED="1646767913257">
 <font BOLD="true"/>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -2685,12 +2558,10 @@
       (also known as: The Fallacy of Personal Attack, Argumentum ex concessis)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Association fallacy" ID="ID_227775878" CREATED="1618499116039" MODIFIED="1642679308642">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1001664273" STARTINCLINATION="567;0;" ENDINCLINATION="567;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1001664273" STARTINCLINATION="425.24999 pt;0 pt;" ENDINCLINATION="425.24999 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -2700,10 +2571,8 @@
       (also known as: guilt by association, Bad Company Fallacy, The Company that You Keep Fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -2760,10 +2629,8 @@
       <strong>Tip:</strong>&nbsp;People change. Be forgiving of one&#x2019;s questionable past associations, especially if they realize and admit those associations were wrong.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Godwin law" ID="ID_1915454335" CREATED="1618499123843" MODIFIED="1642251493001"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -2773,14 +2640,12 @@
       (also known as: Reductio ad Hitlerum, reductio ad racism, Red-baiting, reductio ad Stalinum, Gore's Law, playing the Nazi card, Hitler card, Argumentum ad Nazium)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Galileo Fallacy" ID="ID_356035664" CREATED="1637060635849" MODIFIED="1642696256846">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1002187602" STARTINCLINATION="1093;0;" ENDINCLINATION="1093;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_499300340" STARTINCLINATION="951;0;" ENDINCLINATION="951;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_499300340" STARTINCLINATION="713.24998 pt;0 pt;" ENDINCLINATION="713.24998 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1002187602" STARTINCLINATION="819.74998 pt;0 pt;" ENDINCLINATION="819.74998 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -2790,10 +2655,8 @@
       (also known as: Galileo argument, Galileo defense, Galileo gambit, Galileo wannabe)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -2847,12 +2710,10 @@
       <strong>Tip:</strong>&nbsp;Remember that for every Galileo, there are millions of cranks, quacks, and wackos, and statistically speaking, those who use the Galileo defense are one of the latter.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Poisoning the well" ID="ID_1978695141" CREATED="1618499238817" MODIFIED="1642753784459"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -2862,10 +2723,8 @@
       (also known as: discrediting, smear tactics, appeal to ethos [form of])
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -2928,13 +2787,11 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Tone policing" ID="ID_27169161" CREATED="1618499244640" MODIFIED="1639313567351">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1706945405" STARTINCLINATION="1166;0;" ENDINCLINATION="1166;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1706945405" STARTINCLINATION="874.49997 pt;0 pt;" ENDINCLINATION="874.49997 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -2944,12 +2801,10 @@
       (also known as: Tone argument)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Political Correctness Fallacy" ID="ID_1240623224" CREATED="1637152792557" MODIFIED="1642753826873">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1726413040" STARTINCLINATION="3498;0;" ENDINCLINATION="3498;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1726413040" STARTINCLINATION="2623.49992 pt;0 pt;" ENDINCLINATION="2623.49992 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
-
 <html>
   
 
@@ -2958,10 +2813,8 @@
   </head>
   <body>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -3027,14 +2880,12 @@
       <strong>Tip:</strong>&nbsp;At its core, being &#x201c;PC&#x201d; is the belief that minimizing social and institutional offense is a kind and compassionate thing to do. Don&#x2019;t confuse this with the fallacy of determining the truth of a claim based on its perceived political correctness. Reality doesn&#x2019;t care about social and institutional offense.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Tu quoque" ID="ID_1433906146" CREATED="1618499250279" MODIFIED="1642844549820">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1445512070" STARTINCLINATION="2179;0;" ENDINCLINATION="2264;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1445512070" STARTINCLINATION="1634.24995 pt;0 pt;" ENDINCLINATION="1697.99995 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -3044,10 +2895,8 @@
       (also known as: appeal to hypocrisy, thou too fallacy, you too fallacy, hypocrisy, personal inconsistency)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -3098,11 +2947,9 @@
       My dad died at age 69 -- of lung cancer.&nbsp;&nbsp;I never touched a cigarette in my life and never plan to touch one.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="I&apos;m not prejudiced, but..." ID="ID_765831410" CREATED="1635775203333" MODIFIED="1636962807521">
 <node TEXT="Friend argument" ID="ID_325120531" CREATED="1636962810773" MODIFIED="1636962837549"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -3112,19 +2959,17 @@
       (also known as: I'm not racist, I have black friends, Some of my best friends are black)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Whataboutism" ID="ID_1213038793" CREATED="1618499261609" MODIFIED="1639397069619">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff3333" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1001664273" STARTINCLINATION="544;0;" ENDINCLINATION="544;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1433906146" STARTINCLINATION="397;0;" ENDINCLINATION="397;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1231588749" STARTINCLINATION="1373;0;" ENDINCLINATION="1373;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1001664273" STARTINCLINATION="1815;0;" ENDINCLINATION="1815;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_227775878" STARTINCLINATION="571;0;" ENDINCLINATION="571;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1085503631" STARTINCLINATION="471;0;" ENDINCLINATION="471;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1001664273" STARTINCLINATION="1361.24996 pt;0 pt;" ENDINCLINATION="1361.24996 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1085503631" STARTINCLINATION="353.24999 pt;0 pt;" ENDINCLINATION="353.24999 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_227775878" STARTINCLINATION="428.24999 pt;0 pt;" ENDINCLINATION="428.24999 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1433906146" STARTINCLINATION="297.74999 pt;0 pt;" ENDINCLINATION="297.74999 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1231588749" STARTINCLINATION="1029.74997 pt;0 pt;" ENDINCLINATION="1029.74997 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff3333" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1001664273" STARTINCLINATION="407.99999 pt;0 pt;" ENDINCLINATION="407.99999 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -3134,11 +2979,9 @@
       (also known as: And you are lynching Negroes, The pot calling the kettle black, The Mote and the Beam, clean hands, amoral familism)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Appeal to Trust" ID="ID_579423839" CREATED="1637057348927" MODIFIED="1642866613259"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -3148,10 +2991,8 @@
       (also known as: appeal to distrust [opposite], appeal to trustworthiness, Appeal to confidence)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -3214,11 +3055,9 @@
       <strong>Tip:&nbsp;</strong>Try to keep your level of confidence proportionate to your level of trust.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Double Standard" ID="ID_1083899198" CREATED="1637058933401" MODIFIED="1642690903084"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -3278,11 +3117,9 @@
       <strong>Fun Fact:</strong>&nbsp;The default position is equal standards. One should not have to argue for this; the one claiming that standards are not equal has the <em>burden of proof</em>.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Two Wrongs Make a Right" ID="ID_1118822942" CREATED="1642766830243" MODIFIED="1642766897731"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -3292,10 +3129,8 @@
       (also known as: Two wrongs don't make a right)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -3349,15 +3184,13 @@
       <strong>Fun Fact:</strong>&nbsp;Three lefts make a right.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Bulverism" ID="ID_1625368575" CREATED="1618500247024" MODIFIED="1642689144137">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_140214538" STARTINCLINATION="2551;0;" ENDINCLINATION="2551;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_742587298" STARTINCLINATION="396;0;" ENDINCLINATION="396;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_742587298" STARTINCLINATION="296.99999 pt;0 pt;" ENDINCLINATION="296.99999 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_140214538" STARTINCLINATION="1913.24994 pt;0 pt;" ENDINCLINATION="1913.24994 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -3411,11 +3244,9 @@
       <strong>Tip:</strong>&nbsp;If you want a glass of milk, just buy the glass of milk, you don't need the whole cow (wait, did I just support prostitution?)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Argumentum ergo decedo" ID="ID_1492588697" CREATED="1618500305217" MODIFIED="1642766763326"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -3425,10 +3256,8 @@
       (also known as: therefore leave, then go off, traitorous critic fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -3477,11 +3306,9 @@
       <strong>Tip:</strong>&nbsp;Remember the old saying about the grass being greener on the other side.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="ad hominem (abusive)" ID="ID_1085503631" CREATED="1635720076070" MODIFIED="1642678641348"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -3497,10 +3324,8 @@
       by caricature, against the person, against the man)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -3545,12 +3370,10 @@
       <strong>Tip:</strong>&nbsp;When others verbally attack you, take it as a compliment to the quality of your argument.&nbsp;&nbsp;It is usually a sign of desperation on their part.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Name calling" ID="ID_1685056613" CREATED="1635771619667" MODIFIED="1635771623666"/>
 <node TEXT="Verbal abuse" ID="ID_1153607537" CREATED="1635771634066" MODIFIED="1635771635016"/>
 <node TEXT="Appeal to Stupidity" ID="ID_1344773113" CREATED="1637057267926" MODIFIED="1642687052826"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -3601,11 +3424,9 @@
       <strong>Tip:</strong>&nbsp;If picking from a liter of puppies, don&#x2019;t choose the craziest one.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Appeal to the Law" ID="ID_217258626" CREATED="1637057292392" MODIFIED="1642687174560"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -3659,11 +3480,9 @@
       <strong>Tip:&nbsp;</strong>Laws become archaic when they do not keep up with social norms and cultural changes. What was once deemed &quot;immoral&quot; could easily change to &quot;moral&quot; within a few years and vice versa. Never simply assume that laws are good and right; demand justification.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Argument from Age" ID="ID_1722475730" CREATED="1637057638402" MODIFIED="1642687599185"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -3673,10 +3492,8 @@
       (also known as: wisdom of the ancients)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -3721,11 +3538,9 @@
       <strong>Fun Fact:</strong>&nbsp;Even ancient Greeks said stupid things.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Fallacy of Opposition" ID="ID_254198646" CREATED="1637059542837" MODIFIED="1642695568701"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -3770,11 +3585,9 @@
       <strong>Tip:</strong>&nbsp;Rejecting information from an opponent known to lie, might be a reasonable heuristic, but it is not a good critical thinking technique.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Identity Fallacy" ID="ID_862733555" CREATED="1637060936690" MODIFIED="1642699510508"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -3784,10 +3597,8 @@
       (also known as: identity politics)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -3847,13 +3658,11 @@
       <strong>Tip:</strong>&nbsp;Before you exclude any group from your discussions or ignore their arguments based on their physical or social group, make sure you have a solid reason.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Abusive analogy" ID="ID_1345501169" CREATED="1642843671580" MODIFIED="1642846159216">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1445512070" STARTINCLINATION="2582;0;" ENDINCLINATION="2582;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1445512070" STARTINCLINATION="1936.49994 pt;0 pt;" ENDINCLINATION="1936.49994 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -3861,14 +3670,12 @@
   <body>
     <b>Description:</b>&nbsp;is a highly specialized version of the ad hominem argument. Instead of the arguer being insulted directly, an analogy is drawn which is calculated to bring him into scorn or disrepute. The opponent or his behaviour is compared with something which will elicit an unfavourable response toward him from the audience.<br/><br/><b>logical form</b><br/>Person 1 states that X is true.<br/>Person 2 states that Y is true and hasn't property X<br/>Therefore, X must not be true<br/>(but Y really is not too much like X)<br/><br/><b>Example #1:</b><br/>Smith has proposed we should go on a sailing holiday, though he knows as much about ships as an Armenian bandleader does.<br/><br/>(Perhaps you do not need to know all that much for a sailing holiday. Smith can always learn. The point here is that the comparison is deliberately drawn to make him look ridiculous. There may even be several Armenian bandleaders who are highly competent seamen.)<br/><br/><b>Explanation:</b>&nbsp;&nbsp;The analogy may even be a valid one, from the point of view of the comparison being made. This makes it more effective, but no less fallacious, since the purpose is to introduce additional, unargued, material to influence a judgement.<br/><br/><b>Example #2:</b><br/>If science admits no certainties, then a scientist has no more certain knowledge of the universe than does a Hottentot running through the bush.<br/><br/>(This is true, but is intended as abuse so that the hearer will be more sympathetic to the possibility of certain knowledge.)<br/><br/><b>Explanation:</b>&nbsp;The fallacy is a subtle one because it relies on the associations which the audience make from the picture presented. Its perpetrator need not say anything which is untrue; he can rely on the associations made by the hearer to fill in the abuse. The abusive analogy is a fallacy because it relies on this extraneous material to influence the argument.<br/><br/><b>Example #3:</b><br/>In congratulating my colleague on his new job, let me point out tha has no more experience of it than a snivelling boy has on his first da school.<br/><br/>(Again, true. But look who&#x2019;s doing the snivelling.)<br/><br/><b>Explanation:</b>&nbsp;While politicians delight in both abuse and analogies, there are surprisingly few good uses of the abusive analogy from that domain. A good one should have an element of truth in its comparison, and invite abuse by its other associations. All other things being equal, it is easier to be offensive by making a comparison which is untrue, than to be clever by using elements of truth. Few have reached the memorable heights of Daniel O&#x2019;Connell&#x2019;s description of Sir Robert Peel:<br/><br/><b>Example #4:</b><br/>&#x2026;a smile like the silver plate on a coffin.<br/><br/>(True, it has a superficial sparkle, but it invites us to think of something rather cold behind it.)<br/><br/><b>Explanation:</b>&nbsp;&nbsp;The venom-loaded pens of literary and dramatic critics are much more promising springs from which abusive analogies can trickle forth <b>Example #5:</b>&nbsp;He moved nervously about the stage, like a virgin awaiting the Sult (And died after the first night.) <b>Explanation:</b>&nbsp;Abusive analogies take composition. If you go forth without preparation, you will find yourself drawing from a well-used stock of comparisons which no longer have the freshness to conjure up vivid images. Describing your opponents as being like &#x2018;straightlaced schoolmistresses&#x2019; or &#x2018;sleazy strip-club owners&#x2019; will not lift you above the common herd. A carefully composed piece of abusive comparison, on the other hand, can pour ridicule on the best-presented case you could find: &#x2018;a speech like a Texas longhorn; a point here, a point there, but a whole lot of bull in between&#x2019;.
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="argumentum ad hominem (Circumstantial)" ID="ID_177427390" CREATED="1637053919847" MODIFIED="1642841938870">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1001664273" STARTINCLINATION="1359;0;" ENDINCLINATION="1359;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1001664273" STARTINCLINATION="1019.24997 pt;0 pt;" ENDINCLINATION="1019.24997 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -3878,10 +3685,8 @@
       (also known as: appeal to bias, appeal to motive, appeal to personal interest, argument from motives, conflict of interest, faulty motives, na&#xef;ve cynicism, questioning motives, vested interest)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -3974,12 +3779,10 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Appeal to authority" ID="ID_499300340" CREATED="1618500354812" MODIFIED="1642681160375"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -3989,10 +3792,8 @@
       (also known as: argumentum ad verecundiam,&nbsp;argument from authority, ipse dixit)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -4037,10 +3838,8 @@
       <strong>Tip:</strong>&nbsp;Question authority -- or become the authority that people look to for answers.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Appeal to accomplishment" ID="ID_1927703016" CREATED="1618500367322" MODIFIED="1642680231044"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -4050,10 +3849,8 @@
       (also known as: appeal to success)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -4110,15 +3907,13 @@
       <strong>Tip:</strong>&nbsp;Many successful people attempt to use their success as a wildcard to be an authority on everything.&nbsp;&nbsp;Don&#x2019;t allow one&#x2019;s own success to cloud your judgment of the claims they are making.&nbsp;&nbsp;Evaluate the evidence above all else.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="bare assertion fallacy" ID="ID_580337253" CREATED="1618500826042" MODIFIED="1636908372324"/>
 <node TEXT="Courtier&apos;s reply" ID="ID_319317564" CREATED="1618500378450" MODIFIED="1618500380227"/>
 <node TEXT="Argument to the Purse" ID="ID_1468052889" CREATED="1635717225598" MODIFIED="1642866442086">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_860419904" STARTINCLINATION="1549;0;" ENDINCLINATION="1549;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_860419904" STARTINCLINATION="1161.74997 pt;0 pt;" ENDINCLINATION="1161.74997 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -4128,10 +3923,8 @@
       (also known as: appeal to money)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -4194,10 +3987,8 @@
       <strong>Tip:</strong>&nbsp;There is nothing wrong with a little self-promotion.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="argumentum ad Lazarum" ID="ID_589545598" CREATED="1618500650764" MODIFIED="1642866284781"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -4207,11 +3998,9 @@
       (also known as: Appeal to poverty)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Argumentum ad crumenam" ID="ID_752222317" CREATED="1642866377086" MODIFIED="1642866402568"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -4221,14 +4010,12 @@
       (also known as: appeal to wealth)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Name-dropping" ID="ID_903997063" CREATED="1635775276438" MODIFIED="1635775277453"/>
 <node TEXT="Dictat (propaganda)" ID="ID_1501893042" CREATED="1636876902691" MODIFIED="1636876961503"/>
 <node TEXT="Anonymous authority" ID="ID_1103461640" CREATED="1637054325774" MODIFIED="1642680157123"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -4238,10 +4025,8 @@
       (also known as: appeal to anonymous authority)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -4286,11 +4071,9 @@
       <strong>Tip:</strong>&nbsp;Be very wary of &#x201c;they&#x201d;.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Appeal to Celebrity" ID="ID_650512816" CREATED="1637054466127" MODIFIED="1642681205924"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -4335,11 +4118,9 @@
       <strong>Tip:</strong>&nbsp;If you are in business and looking for a celebrity to endorse your product, try not to pick one that is likely to be accused of killing his wife and his wife&#x2019;s lover, then taking off in a white Bronco.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Appeal to False Authority" ID="ID_603242632" CREATED="1637055056180" MODIFIED="1642687998142"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -4349,10 +4130,8 @@
       (also known as: appeal to doubtful authority, appeal to dubious authority, appeal to improper authority, appeal to inappropriate authority, appeal to irrelevant authority, appeal to misplaced authority, appeal to unqualified authority, argument from false authority)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -4472,11 +4251,9 @@
       <strong>Tip:</strong>&nbsp;Become an expert in something.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Blind Authority Fallacy" ID="ID_542523031" CREATED="1637057975305" MODIFIED="1642689076086"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -4486,10 +4263,8 @@
       (also known as: blind obedience, the &#x201c;team player&#x201d; appeal, Nuremberg defense, divine authority fallacy [form of], appeal to/argument from blind authority)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -4537,13 +4312,11 @@
       <strong>Tip:</strong>&nbsp;Moral reasoning is difficult, and the consequences of making poor moral decisions can be traumatic, but the more experience you have with moral reasoning, the better you will get at it. Don&#x2019;t allow an authority to rob you of this growth opportunity.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Appeal to the minority" ID="ID_1002187602" CREATED="1637252806906" MODIFIED="1637252826579"/>
 </node>
 <node TEXT="Appeal to Definition" ID="ID_854672630" CREATED="1635717293142" MODIFIED="1642871458677"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -4553,10 +4326,8 @@
       (also known as: Argumentum ad dictionarium,&nbsp;appeal to the dictionary, victory by definition, Fallacy of definition)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -4628,10 +4399,8 @@
       <strong>Tip:</strong>&nbsp;Don&#x2019;t be afraid to argue with authority if you believe you are right -- even when that authority is the dictionary.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Etymological Fallacy" ID="ID_1635015316" CREATED="1636908641348" MODIFIED="1642691191114"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -4697,12 +4466,10 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Sunk-Cost Fallacy" ID="ID_1086843886" CREATED="1635718605118" MODIFIED="1636908703916"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -4712,13 +4479,11 @@
       (also known as: argument from inertia, concorde fallacy, finish the job fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Appeal to Tradition" ID="ID_642086821" CREATED="1635717323044" MODIFIED="1642755094251">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1612487258" STARTINCLINATION="2814;0;" ENDINCLINATION="2814;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_860419904" STARTINCLINATION="1759;0;" ENDINCLINATION="1759;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1612487258" STARTINCLINATION="2110.49994 pt;0 pt;" ENDINCLINATION="2110.49994 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_860419904" STARTINCLINATION="1319.24996 pt;0 pt;" ENDINCLINATION="1319.24996 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -4728,10 +4493,8 @@
       (also known as: argumentum ad antiquitatem, appeal to common practice, appeal to antiquity, appeal to traditional wisdom, proof from tradition, appeal to past practice, traditional wisdom)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -4788,10 +4551,8 @@
       <strong>Tip:</strong>&nbsp;If it weren&#x2019;t for the creativity of our ancestors, we would have no traditions.&nbsp;&nbsp;Be creative and start your own traditions that somehow make the world a better place.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Non-anticipation" ID="ID_1376719465" CREATED="1642352335820" MODIFIED="1642858094439"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -4892,16 +4653,14 @@
       (Why should they? They cannot even see their own toes.)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Appeal to ancient wisdom" ID="ID_1362330731" CREATED="1642866041186" MODIFIED="1642866109066">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_499300340" STARTINCLINATION="657;0;" ENDINCLINATION="657;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_499300340" STARTINCLINATION="492.74999 pt;0 pt;" ENDINCLINATION="492.74999 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 </node>
 </node>
 <node TEXT="Appeal to nature" ID="ID_1150192610" CREATED="1618500532554" MODIFIED="1642686680081"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -4911,10 +4670,8 @@
       (also known as: Argumentum ad Naturam)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -4982,12 +4739,10 @@
       </p>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Argument to moderation" ID="ID_1231588749" CREATED="1618498743122" MODIFIED="1642688681439"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -4997,10 +4752,8 @@
       (also known as: argumentum ad temperantiam, appeal to moderation, middle ground, false compromise, gray fallacy, golden mean fallacy, fallacy of the mean, splitting the difference, false balance, false equivalency, bothsidesism)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -5048,11 +4801,9 @@
       <strong>Tip: </strong>If you know you are entering into a negotiation, be prepared to be low-balled, and don&#x2019;t let those figures change your target figure going into the negotiation.&nbsp;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Appeal to the stone" ID="ID_1188239895" CREATED="1618498763127" MODIFIED="1636908887188"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -5062,12 +4813,10 @@
       (also known as: argumentum ad lapidem)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="argument from anecdote" ID="ID_47403153" CREATED="1618498777922" MODIFIED="1618498783424"/>
 <node TEXT="Argument by Pigheadedness" ID="ID_547964357" CREATED="1618498800670" MODIFIED="1642687464846"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -5077,10 +4826,8 @@
       (also known as: argument by stubbornness, invincible ignorance fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -5143,11 +4890,9 @@
       <strong>Tip:</strong>&nbsp;As a reminder, avoid absolutes. Instead of saying that you &quot;hate everything&quot; about someone, say something such as, &quot;there's not much I like about...&quot;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Rationalization (psychology)" ID="ID_1936906108" CREATED="1618498830303" MODIFIED="1642754627894"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -5157,10 +4902,8 @@
       (also known as: making excuses)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -5211,14 +4954,12 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="red herring" ID="ID_1001664273" CREATED="1618498835257" MODIFIED="1642754715988">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_950958965" STARTINCLINATION="428;0;" ENDINCLINATION="472;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1558928662" STARTINCLINATION="2411;0;" ENDINCLINATION="2411;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1558928662" STARTINCLINATION="1808.24995 pt;0 pt;" ENDINCLINATION="1808.24995 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_950958965" STARTINCLINATION="320.99999 pt;0 pt;" ENDINCLINATION="353.99999 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -5228,10 +4969,8 @@
       (also known as: Ignoratio elenchi, beside the point, misdirection [form of], changing the subject, false emphasis, the Chewbacca defense, irrelevant conclusion, irrelevant thesis, clouding the issue, ignorance of refutation, Irrelevant conclusion, ignoring refutation, Befogging the Issue, Diversion, avoiding the question [form of], missing the point, straying off the subject, digressing, distraction [form of], Avoiding the Issue)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -5385,11 +5124,9 @@
       </p>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="argumentum ad antiquitatis" ID="ID_1881355032" CREATED="1618500629222" MODIFIED="1618500630236"/>
 <node TEXT="Appeal to Common Belief" ID="ID_1881670342" CREATED="1618498750997" MODIFIED="1642685420109"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -5399,10 +5136,8 @@
       (also known as: argumentum ad populum, appeal to accepted belief, appeal to democracy, appeal to widespread belief, appeal to the masses, appeal to belief, appeal to general belief, appeal to the majority, argument by consensus, consensus fallacy, authority of the many, bandwagon fallacy, appeal to the number, argumentum ad numerum, argumentum consensus gentium, appeal to the mob, appeal to the gallery, consensus gentium, mob appeal, social conformance, value of community, vox populi)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -5444,10 +5179,8 @@
       <strong>Tip:</strong>&nbsp;History has shown that those who break away from the common beliefs are the ones who change the course of history.&nbsp;&nbsp;Be a leader, not a follower.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Argument by Personal Charm" ID="ID_706166272" CREATED="1636878978196" MODIFIED="1642687409077"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -5457,10 +5190,8 @@
       (also known as: Beautiful people, sex appeal, flamboyance, eloquence)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -5505,12 +5236,10 @@
       <strong>Tip:</strong>&nbsp;If you are a natural charmer don&#x2019;t be afraid to use it&#x2014;just not at the expense of valid claims and strong evidence.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Flag-waving" ID="ID_1786014040" CREATED="1636879545107" MODIFIED="1636879545812"/>
 <node TEXT="Alleged Certainty" ID="ID_1202438993" CREATED="1636878934114" MODIFIED="1642679877002"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -5520,10 +5249,8 @@
       (also known as: Argumentum e consentu gentium, agreement of the people, assuming the conclusion. commoner)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -5577,11 +5304,9 @@
       <strong>Tip:</strong>&nbsp;Replace the word &#x201c;certain&#x201d; in your life with the phrase &quot;very probable&quot; or &quot;very confident.&quot;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Appeal to Common Folk" ID="ID_848949436" CREATED="1637054640190" MODIFIED="1642685455847"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -5591,10 +5316,8 @@
       (also known as: appeal to the common man)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -5648,11 +5371,9 @@
       <strong>Tip</strong>: If you are tempted to appeal to some folk, appeal to the folk that made the world a better place. Not only do people love inspirational stories, but these stories are also powerful motivators. Just be sure to use this technique in addition to reason, not in place of it.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Appeal to Popularity" ID="ID_1257163906" CREATED="1637056941002" MODIFIED="1642686818965"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -5662,10 +5383,8 @@
       (also known as: argumentum ad numeram, appeal to common belief)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -5710,11 +5429,9 @@
       <strong>Tip:</strong>&nbsp;Avoid this fallacy like you avoid a kiss from your great aunt with the big cold sore on her lip.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Nutpicking Fallacy" ID="ID_927593953" CREATED="1637062117565" MODIFIED="1642751957613"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -5744,12 +5461,10 @@
       <strong>Fun Fact:</strong>&nbsp;I have heard a couple of people refer to the <em>cherry picking fallacy</em>&nbsp;as the <em>nutpicking fallacy</em>. Review the <em>cherry picking fallacy</em>&nbsp;and you will see that there are notable differences.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Gadarene Swine Fallacy" ID="ID_1887679643" CREATED="1637060577042" MODIFIED="1637060577787"/>
 <node TEXT="Imposter Fallacy" ID="ID_348956024" CREATED="1637061233021" MODIFIED="1642699893965"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -5791,14 +5506,12 @@
       <strong>Fun Fact:</strong>&nbsp;The imposter fallacy is often committed with the deceptive sharing fallacy when one shares a one-off story about an actual imposter.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Oberbelief" ID="ID_1746240340" CREATED="1637337539428" MODIFIED="1637337545654"/>
 </node>
 <node TEXT="Judgmental language" ID="ID_445486417" CREATED="1635761063206" MODIFIED="1635761064078"/>
 <node TEXT="Logic Chopping" ID="ID_1107324813" CREATED="1635773712328" MODIFIED="1642704240045"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -5808,10 +5521,8 @@
       (also known as: quibbling, nit-picking, smokescreen, splitting-hairs, trivial objections)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -5898,12 +5609,10 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Truth by consensus" ID="ID_1878560606" CREATED="1635773973303" MODIFIED="1635773974159"/>
 <node TEXT="Irrelevant Humour" ID="ID_1891602429" CREATED="1642352207713" MODIFIED="1642857734379"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -6014,15 +5723,13 @@
       (Collapse, amid uproar, of prosecution case.)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="fallaca ancidentis" ID="ID_949192027" CREATED="1643855593426" MODIFIED="1643855597414"/>
 </node>
 <node TEXT="Straw man Fallacy" ID="ID_413138777" CREATED="1618498859744" MODIFIED="1642761891101">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_4939853" STARTINCLINATION="2312;0;" ENDINCLINATION="2305;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_4939853" STARTINCLINATION="1733.99995 pt;0 pt;" ENDINCLINATION="1728.74995 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -6032,10 +5739,8 @@
       (Strawman Fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -6114,13 +5819,11 @@
       </p>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="special pleading" ID="ID_1991253856" CREATED="1618498852842" MODIFIED="1642756015842">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_22427007" STARTINCLINATION="2274;0;" ENDINCLINATION="2274;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_22427007" STARTINCLINATION="1705.49995 pt;0 pt;" ENDINCLINATION="1705.49995 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -6171,10 +5874,8 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Subjectivist Fallacy" ID="ID_883864730" CREATED="1635773164310" MODIFIED="1642763619767"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -6184,10 +5885,8 @@
       (also known as: relativist fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -6250,14 +5949,12 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Well, then you can ask them to send you the answers by e-mail anyway, they will see" ID="ID_1393895741" CREATED="1642763793117" MODIFIED="1642763793117"/>
 </node>
 </node>
 <node TEXT="I&apos;m entitled to my opinion" ID="ID_1244295110" CREATED="1618498873904" MODIFIED="1618498875522"/>
 <node TEXT="Argument from Ignorance" ID="ID_1425407978" CREATED="1618500176783" MODIFIED="1642767261646"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -6267,10 +5964,8 @@
       (also known as: argumentum ad ignorantiam, appeal to ignorance, appeal to mystery [form of], black swan fallacy [form of], toupee fallacy [form of], untestability, Unfalsifiability)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -6330,12 +6025,10 @@
       The <em>Appeal to Mystery</em>&nbsp;is a specific claim stating that the reason we cannot prove something is because &#x201c;it is a mystery.&#x201d; Rather than question if the claim is true, we accept that it is true and forego any more investigation by writing it off as a mystery. Why is it that I smell just fine after working out, but everyone else thinks I stink? It&#x2019;s a mystery!
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Evidence of absence" ID="ID_987260645" CREATED="1635775099135" MODIFIED="1635775100726"/>
 <node TEXT="Appeal to censorship" ID="ID_48305228" CREATED="1636920580615" MODIFIED="1636920582043"/>
 <node TEXT="Argument from incredulity" ID="ID_1748326938" CREATED="1618498820840" MODIFIED="1642688301453"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -6345,10 +6038,8 @@
       (also known as:&nbsp;Argumentum ad iudicium,&nbsp;argument from personal astonishment, argument from personal incredulity, personal incredulity, appeal to common sense, divine fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -6471,10 +6162,8 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Amazing Familiarity" ID="ID_193096228" CREATED="1637054251022" MODIFIED="1642680003904"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -6484,10 +6173,8 @@
       (also known as: argument from omniscience, &#x201c;how the hell can you possibly know that?&#x201d;)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -6535,14 +6222,12 @@
       <strong>Tip:</strong>&nbsp;By simply adding an &#x201c;I believe&#x201d; to non-factual arguments and claims, you can avoid many fallacies and be more honest while exercising more humility.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Argument from omniscience" ID="ID_1526617801" CREATED="1636920642519" MODIFIED="1642357487999">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1829533441" STARTINCLINATION="2248;0;" ENDINCLINATION="2252;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1829533441" STARTINCLINATION="1685.99995 pt;0 pt;" ENDINCLINATION="1688.99995 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -6552,11 +6237,9 @@
       (also known as: allness, absolute thinking)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Argument from silence" ID="ID_707173345" CREATED="1618498794672" MODIFIED="1642688599474"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -6566,10 +6249,8 @@
       (also known as: argumentum ex silentio)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -6627,11 +6308,9 @@
       <strong>Tip:</strong>&nbsp;Silence can be very powerful. In public speaking, knowing when to pause and let the audience digest what you said helps them comprehend your message. In argumentation, a pause after making a solid point can increase the odds your interlocutor(s) will accept the point.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Holmesian fallacy" ID="ID_528468906" CREATED="1636920811108" MODIFIED="1642696086299"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -6639,10 +6318,8 @@
   <body>
     (also known as: Sherlock Holmes fallacy, process of elimination fallacy,far-fetched hypothesis, arcane explanation)
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -6693,19 +6370,17 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Science doesn&apos;t know everything" ID="ID_1213700523" CREATED="1636920890994" MODIFIED="1636920892764"/>
 <node TEXT="Science was wrong before" ID="ID_819788040" CREATED="1636920909822" MODIFIED="1636921007782">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1008730775" STARTINCLINATION="3477;0;" ENDINCLINATION="3477;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1008730775" STARTINCLINATION="2607.74992 pt;0 pt;" ENDINCLINATION="2607.74992 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
-<node TEXT="Toup&#xe9;e fallacy" ID="ID_887874131" CREATED="1636921355408" MODIFIED="1637058148896">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1812400184" STARTINCLINATION="1971;0;" ENDINCLINATION="1971;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1474507658" STARTINCLINATION="1973;0;" ENDINCLINATION="2097;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<node TEXT="Toupée fallacy" ID="ID_887874131" CREATED="1636921355408" MODIFIED="1637058148896">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1812400184" STARTINCLINATION="1478.24996 pt;0 pt;" ENDINCLINATION="1478.24996 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1474507658" STARTINCLINATION="1479.74996 pt;0 pt;" ENDINCLINATION="1572.74995 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 <node TEXT="Appeal to eye" ID="ID_859494781" CREATED="1636964642256" MODIFIED="1636964666038"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -6715,12 +6390,10 @@
       (also known as: Argumentum ad oculos, argument to eye)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="El Greco fallacy" ID="ID_1576279487" CREATED="1635760011445" MODIFIED="1635760012810"/>
 </node>
 <node TEXT="appeal to calm down" ID="ID_611793212" CREATED="1636919088348" MODIFIED="1636966088481"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -6730,11 +6403,9 @@
       (also known as: argumentum a tuto, appeasement argument)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Appeal to Self-evident Truth" ID="ID_1127780834" CREATED="1637057198632" MODIFIED="1642686979203"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -6776,11 +6447,9 @@
       <strong>Tip:</strong>&nbsp;If you can't explain something, that doesn't mean you are dealing with something that is self-evident; it could just be your failure to explain something.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Just Because Fallacy" ID="ID_1822461468" CREATED="1637061370999" MODIFIED="1642700409230"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -6790,10 +6459,8 @@
       (also known as: trust me, mother knows best fallacy, because I said so, you&#x2019;ll see)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -6859,11 +6526,9 @@
       <strong>Tip:</strong>&nbsp;Don&#x2019;t let yourself off the hook with &#x201c;just because&#x201d; excuses.&nbsp;&nbsp;Keep asking yourself, &#x201c;what is the real reason?&#x201d;&nbsp;&nbsp;The answer could uncover an issue that needs your attention.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Appeal to Faith" ID="ID_1934300561" CREATED="1637055033609" MODIFIED="1642686244300"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -6929,10 +6594,8 @@
       <strong>Tip:</strong>&nbsp;Atheist and theist debate often reduces to the concept of faith, sometimes after many hours. It is often a good idea to start with the question, &#x201c;Is faith a reliable method to know things?&#x201d;&nbsp;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Appeal to Heaven" ID="ID_961072804" CREATED="1637056802282" MODIFIED="1642686558241"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -6942,10 +6605,8 @@
       (also known as: deus vult, gott mit uns, manifest destiny, special covenant)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -7002,12 +6663,10 @@
       <strong>Fun Fact:</strong>&nbsp;Sometimes the only difference between faithfulness and insanity is adherence to the law.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Appeal to Closure" ID="ID_1947456254" CREATED="1637054579198" MODIFIED="1642681241757"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -7017,10 +6676,8 @@
       (also known as: appeal to justice [form of])
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -7068,12 +6725,10 @@
       <strong>Tip:</strong>&nbsp;Remember that justice is a subjective term. When people cry &#x201c;justice,&#x201d; they often have created a narrative with very clear heroes and villains, when the truth is far more often unclear.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Appeal to Equality" ID="ID_349860753" CREATED="1637054933989" MODIFIED="1642871748482">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_860419904" STARTINCLINATION="3509;0;" ENDINCLINATION="3509;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_860419904" STARTINCLINATION="2631.74992 pt;0 pt;" ENDINCLINATION="2631.74992 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -7083,10 +6738,8 @@
       (also known as: appeal to egalitarianism, appeal to equity)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -7140,12 +6793,10 @@
       <strong>Tip:</strong>&nbsp;Don't get outraged when one questions what you believe should be &quot;equal.&quot; Very often, either you really mean &quot;similar&quot; or you and your opponent have different concepts of what exactly should be equal.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Pragmatic Fallacy" ID="ID_674762088" CREATED="1637152898359" MODIFIED="1642754035695"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -7187,15 +6838,13 @@
       <a href="http://skepdic.com/pragmatic.html">http://skepdic.com/pragmatic.html</a>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Apex fallacy" ID="ID_412568821" CREATED="1642868367744" MODIFIED="1642868372506"/>
 <node TEXT="Lack of proportion" ID="ID_313239868" CREATED="1642868389422" MODIFIED="1642868398127">
 <node TEXT="Disregarding known science" ID="ID_1608033940" CREATED="1642868404653" MODIFIED="1642868407542"/>
 <node TEXT="Exaggeration" ID="ID_29723665" CREATED="1642868415221" MODIFIED="1642868417658"/>
 </node>
 <node TEXT="Argument by Selective Reading" ID="ID_240064448" CREATED="1637057588524" MODIFIED="1642687548152"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -7246,12 +6895,10 @@
       <strong>Tip:</strong>&nbsp;If your interlocutor begins rattling off several arguments, &nbsp;politely interrupt them and request that they begin with their strongest argument, and allow you to address that one before proceeding to the next argument.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Willed Ignorance" ID="ID_740188700" CREATED="1637164820330" MODIFIED="1642767532830"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -7261,10 +6908,8 @@
       (also known as: Willful ignorance)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -7275,11 +6920,9 @@
 </a>&quot;&gt;&lt;</span><span class="start-tag">em</span><span>&gt;Janet: That is not true. I have mountains of evidence I can show you that demonstrates the opposite.&lt;/</span><span class="end-tag">em</span><span>&gt;&lt;/</span><span class="end-tag">span</span><span>&gt;&lt;</span><span class="start-tag">br</span><span>&gt;&lt;</span><span class="start-tag">span</span><span> </span><span class="attribute-name">style</span><span>=&quot;<a class="attribute-value">color: rgb(52, 73, 94); --darkreader-inline-color: #b9daf5;</a>&quot; </span><span class="attribute-name">data-darkreader-inline-color</span><span>=&quot;<a class="attribute-value">
 </a>&quot;&gt;&lt;</span><span class="start-tag">em</span><span>&gt;Carl: You keep your exercise propaganda to yourself. I know what I know. Now if you will excuse me, I have to binge watch Baywatch.&lt;/</span><span class="end-tag">em</span><span>&gt;&lt;/</span><span class="end-tag">span</span><span>&gt;&lt;/</span><span class="end-tag">div</span><span>&gt;&lt;</span><span class="start-tag">div</span><span> </span><span class="attribute-name">class</span><span>=&quot;<a class="attribute-value">content clearfix</a>&quot;&gt;&lt;/</span><span class="end-tag">div</span><span>&gt;&lt;</span><span class="start-tag">div</span><span> </span><span class="attribute-name">class</span><span>=&quot;<a class="attribute-value">content clearfix</a>&quot;&gt;&lt;</span><span class="start-tag">strong</span><span>&gt;Explanation:&lt;/</span><span class="end-tag">strong</span><span>&gt; Carl is blissfully ignorant in his belief that allows him to avoid the wonderful pain of exercise. Perhaps Carl does suspect that he is wrong, but feels he does not have to change his belief until he is proven wrong. Thus, he will not allow Janet the opportunity to prove him wrong.&lt;/</span><span class="end-tag">div</span><span>&gt;&lt;</span><span class="start-tag">div</span><span> </span><span class="attribute-name">class</span><span>=&quot;<a class="attribute-value">content clearfix</a>&quot;&gt;&lt;</span><span class="start-tag">strong</span><span>&gt;&lt;/</span><span class="end-tag">strong</span><span>&gt;&lt;/</span><span class="end-tag">div</span><span>&gt;&lt;</span><span class="start-tag">div</span><span> </span><span class="attribute-name">class</span><span>=&quot;<a class="attribute-value">content clearfix</a>&quot;&gt;&lt;</span><span class="start-tag">strong</span><span>&gt;Exception:&lt;/</span><span class="end-tag">strong</span><span>&gt; There may be circumstances where ignorance is truly bliss, and it is better to maintain a positive illusion than to be exposed to a hard truth that one is not psychologically prepared to accept.&lt;/</span><span class="end-tag">div</span><span>&gt;&lt;</span><span class="start-tag">div</span><span> </span><span class="attribute-name">class</span><span>=&quot;<a class="attribute-value">content clearfix</a>&quot;&gt;&lt;/</span><span class="end-tag">div</span><span>&gt;&lt;</span><span class="start-tag">div</span><span> </span><span class="attribute-name">class</span><span>=&quot;<a class="attribute-value">content clearfix</a>&quot;&gt;&lt;</span><span class="start-tag">strong</span><span>&gt;Fun Fact:&lt;/</span><span class="end-tag">strong</span><span>&gt; This fallacy is similar to the &lt;</span><span class="start-tag">em</span><span>&gt;confirmation bias&lt;/</span><span class="end-tag">em</span><span>&gt;, but as a fallacy, it is used in argumentation.&lt;/</span><span class="end-tag">div</span><span>&gt;</span></pre>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Missing Data Fallacy" ID="ID_196507232" CREATED="1637061594297" MODIFIED="1642750955390"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -7289,10 +6932,8 @@
       (also known as: missing information fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -7367,11 +7008,9 @@
       <strong>Tip:</strong>&nbsp;Think of the <em>missing data fallacy</em>&nbsp;like having four cards of a royal flush and a seven of another suit. You don&#x2019;t have a royal flush; in fact, you have an essentially worthless hand. The difference is, with a full deck of cards, we know that the card to complete the royal flush exists.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Notable Effort" ID="ID_338270486" CREATED="1637061823852" MODIFIED="1642751906712"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -7381,10 +7020,8 @@
       (also known as: &#x201c;E&#x201d; is for effort)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -7426,11 +7063,9 @@
       <strong>Tip:</strong>&nbsp;Enough with the &#x201c;everyone&#x2019;s a winner&#x201d; mentality.&nbsp;&nbsp;As long as we keep rewarding <i>all</i>&nbsp;effort, we devalue the effort that leads to <i>successful results</i>.&nbsp;&nbsp;The world needs losers as well -- just don&#x2019;t be one of them.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Just world fallacy" ID="ID_1246642564" CREATED="1635762433430" MODIFIED="1637337232036"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -7440,11 +7075,9 @@
       (also known as: Just world hypothesis)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Appeal to Complexity" ID="ID_1030758396" CREATED="1642685736344" MODIFIED="1642685764664"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -7486,11 +7119,9 @@
       <strong>Tip:</strong>&nbsp;It is the job of the arguer to make the argument as clear as possible, and use language and terms that the audience can understand. This is a major problem in science communication. The <i>curse of knowledge</i>&nbsp;often leads to those trying to explain a complex topic in such a way where they assume the audience has as much knowledge in the fields as they do. If your audience fails to understand your argument, don't blame the audience;&nbsp;&nbsp;explain your argument differently.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Unfalsifiability" ID="ID_1720238819" CREATED="1642767154734" MODIFIED="1642767237058"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -7500,10 +7131,8 @@
       (also known as: untestability)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -7553,14 +7182,12 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Argument from fallacy" ID="ID_1704734458" CREATED="1635774294945" MODIFIED="1642687648040">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_480276856" STARTINCLINATION="1017;0;" ENDINCLINATION="1017;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_480276856" STARTINCLINATION="762.74998 pt;0 pt;" ENDINCLINATION="762.74998 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -7568,10 +7195,8 @@
   <body>
     (also known as: argumentum ad logicam, disproof by fallacy, argument to logic, fallacy fallacy, fallacist's fallacy, bad reasons fallacy [form of])
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -7637,8 +7262,7 @@
       <strong>Tip:</strong>&nbsp;It may be futile dealing with people who consistently present fallacious arguments. If you find they are simply not very good at reasoning, you can help them learn. However, if they are using fallacious arguments as a form of deception, this is a strong indicator of acting in bad faith.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Double-barreled question" ID="ID_1269638000" CREATED="1635774869064" MODIFIED="1635774870185"/>
 <node TEXT="Shaggy defense" ID="ID_1845198092" CREATED="1635775538085" MODIFIED="1635775538861"/>
@@ -7646,7 +7270,6 @@
 <node TEXT="blaming" ID="ID_850080240" CREATED="1635775842359" MODIFIED="1636877301810">
 <node TEXT="Victim blaming" ID="ID_1990865314" CREATED="1636877302470" MODIFIED="1636877304961"/>
 <node TEXT="Scapegoating" ID="ID_48477570" CREATED="1636877306453" MODIFIED="1642755539028"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -7700,12 +7323,10 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="reverse appeal to emotion" ID="ID_653309130" CREATED="1636918852131" MODIFIED="1636918884601"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -7715,10 +7336,8 @@
       (also known as: pathos gambit)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Appeal to anger" ID="ID_1465663970" CREATED="1636918897800" MODIFIED="1642680303013"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -7728,10 +7347,8 @@
       (also known as: argumentum ad iram, appeal to hatred, loathing, appeal to outrage)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -7794,11 +7411,9 @@
       By the way, Yoda&#x2019;s statement actually commits the<i>&nbsp;<a href="https://www.logicallyfallacious.com/logicalfallacies/Slippery-Slope" target="fallacy" data-toggle="tooltip" title="" data-original-title="When a relatively insignificant first event is suggested to lead to a more significant event, which in turn leads to a more significant event, and so on, until some ultimate, significant event is reached, where the connection of each event is not only unwarranted but with each step it becomes more and more improbable.  Many events are usually present in this fallacy, but only two are actually required -- usually connected by &#x201c;the next thing you know...&#x201d;">slippery slope</a>&nbsp;&nbsp;fallacy</i>.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Appeal to Normality" ID="ID_99967800" CREATED="1637056900423" MODIFIED="1642686712546"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -7849,13 +7464,11 @@
       <strong>Tip:</strong>&nbsp;For the most part, being &quot;normal&quot; or &quot;average&quot; is nothing to be proud of.&nbsp;&nbsp;Be better than average.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Argument by assertion" ID="ID_1361955756" CREATED="1642867661748" MODIFIED="1642867664996">
 <node TEXT="Argument from repetition" ID="ID_161369247" CREATED="1618490308991" MODIFIED="1642687511900"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -7865,10 +7478,8 @@
       (also known as: argumentum ad nauseam, argument from nagging, proof by assertion)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -7922,16 +7533,14 @@
       <strong>Tip:</strong>&nbsp;Repetition can be a good strategy when your interlocutor does not seem to be acknowledging your point. Rather than repeat yourself, rephrase and repeat. Make your same point but in a different way.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Sealioning" ID="ID_958533109" CREATED="1635719051053" MODIFIED="1635719052156"/>
 <node TEXT="Proof by assertion" ID="ID_14100292" CREATED="1635775372312" MODIFIED="1635775443468">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1881670342" STARTINCLINATION="605;0;" ENDINCLINATION="605;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1881670342" STARTINCLINATION="453.74999 pt;0 pt;" ENDINCLINATION="453.74999 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 </node>
 </node>
-<node TEXT=" is&#x2013;ought problem" ID="ID_21542385" CREATED="1618501000820" MODIFIED="1642876071323"><richcontent TYPE="DETAILS">
-
+<node TEXT=" is–ought problem" ID="ID_21542385" CREATED="1618501000820" MODIFIED="1642876071323"><richcontent TYPE="DETAILS">
 <html>
   <head>
     
@@ -7941,10 +7550,8 @@
       (also known as: is-ought fallacy, arguing from is to ought, is-should fallacy, Hume's law)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -8033,12 +7640,10 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Moralistic fallacy" ID="ID_1119964208" CREATED="1635719204366" MODIFIED="1642751127970">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1001664273" STARTINCLINATION="335;0;" ENDINCLINATION="335;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1001664273" STARTINCLINATION="251.24999 pt;0 pt;" ENDINCLINATION="251.24999 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -8048,10 +7653,8 @@
       (also known as: moral fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -8131,15 +7734,13 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Demoralization" ID="ID_272391716" CREATED="1636877385194" MODIFIED="1636877386097"/>
 <node TEXT="Virtue signalling" ID="ID_449650019" CREATED="1636879614076" MODIFIED="1636879615015"/>
 </node>
 <node TEXT="Economic fallacies" ID="ID_261208886" CREATED="1642876373328" MODIFIED="1642876394763">
 <node TEXT="Hyperbolic discounting" ID="ID_416323263" CREATED="1642876392216" MODIFIED="1642876396312"/>
 <node TEXT="Sunk-Cost Fallacy" ID="ID_850354237" CREATED="1637156589535" MODIFIED="1642766268289"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -8149,10 +7750,8 @@
       (also known as: argument from inertia, concorde fallacy, finish the job fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -8206,11 +7805,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Broken window fallacy" ID="ID_1806567158" CREATED="1635720845809" MODIFIED="1642689108002"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -8220,10 +7817,8 @@
       (also known as: glazier's fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -8268,14 +7863,12 @@
       <font color="rgb(52, 73, 94)"><em>The Holocaust was a horrible event in human history, and the damage that resulted will never be forgotten. As with most tragedies, they can be used to educate us, helping us to prevent similar future events.</em></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
 </node>
-<node TEXT="uncategorized" POSITION="right" ID="ID_1427653948" CREATED="1635759812221" MODIFIED="1637054221127"><richcontent TYPE="DETAILS">
-
+<node TEXT="uncategorized" POSITION="bottom_or_right" ID="ID_1427653948" CREATED="1635759812221" MODIFIED="1637054221127"><richcontent TYPE="DETAILS">
 <html>
   
 
@@ -8284,11 +7877,9 @@
   </head>
   <body>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Cartesian circle" ID="ID_1149533291" CREATED="1635720913709" MODIFIED="1635720914602"/>
 <node TEXT="argument from the contrary" ID="ID_828012295" CREATED="1635720634101" MODIFIED="1638901984804"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -8298,8 +7889,7 @@
       (also known as: Argumentum e contrario, Argumentum ex contrario, )
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Attack ad" ID="ID_402811547" CREATED="1635720707983" MODIFIED="1635720708881"/>
 <node TEXT="Failure bias" ID="ID_1656942298" CREATED="1635760056544" MODIFIED="1635760057306"/>
@@ -8310,7 +7900,6 @@
 <node TEXT="Mind projection fallacy" ID="ID_483314699" CREATED="1635762775842" MODIFIED="1635762776272">
 <node TEXT="Psychologist&apos;s fallacy" ID="ID_838119592" CREATED="1635766590797" MODIFIED="1635766591749"/>
 <node TEXT="Historian&apos;s fallacy" ID="ID_1347056827" CREATED="1635760580540" MODIFIED="1642868560088"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -8323,10 +7912,8 @@
       (also known as: Presentism (literary and historical analysis))
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -8386,14 +7973,12 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Baconian fallacy" ID="ID_614600533" CREATED="1642503913726" MODIFIED="1642503916961"/>
 <node TEXT="Dixiecrat fallacy" ID="ID_1476021934" CREATED="1642868558733" MODIFIED="1642868562113"/>
 </node>
 <node TEXT="Historical fallacy" ID="ID_1439199427" CREATED="1635760586581" MODIFIED="1635760703962"/>
 <node TEXT="Fantasy Projection" ID="ID_1510621991" CREATED="1637059916593" MODIFIED="1642696027182"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -8438,8 +8023,7 @@
       <strong>Fun Fact:</strong>&nbsp;Everyone knows Kerplunkers, not Narggles, are spiritual beings who help us through life.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Misology" ID="ID_1257551988" CREATED="1635762784806" MODIFIED="1635762785233"/>
@@ -8451,7 +8035,6 @@
 <node TEXT="False accusions" ID="ID_95608054" CREATED="1636876692286" MODIFIED="1636876693308"/>
 </node>
 <node TEXT="Alphabet Soup" ID="ID_1348052420" CREATED="1637054201338" MODIFIED="1642679927106"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -8493,11 +8076,9 @@
       <strong>Tip:</strong>&nbsp;Don't be so quick to assume nefarious intentions. Sometimes people simply are unaware that they are overusing this type of language.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Alternative Advance" ID="ID_138403003" CREATED="1637054212539" MODIFIED="1642679964669"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -8507,10 +8088,8 @@
       (also known as: lose-lose situation)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -8546,11 +8125,9 @@
       <strong>Tip:</strong>&nbsp;Whenever you are presented with options, carefully consider the possibility of other options not mentioned, and propose them.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Commutation of Conditionals" ID="ID_787966922" CREATED="1637058397768" MODIFIED="1642689396360"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -8560,10 +8137,8 @@
       (also known as: the fallacy of the consequent, converting a conditional)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -8623,11 +8198,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Confusing an Explanation with an Excuse" ID="ID_78720635" CREATED="1637058578917" MODIFIED="1642689636218"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -8637,10 +8210,8 @@
       (also known as: confusing and explanation with justification, confusing elucidation with justification)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -8679,11 +8250,9 @@
       <strong>Tip:</strong>&nbsp;If you are unsure if someone is trying to make an excuse or simply stating a fact, ask them.&nbsp;&nbsp;Don&#x2019;t assume.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Confusing Currently Unexplained with Unexplainable" ID="ID_1387371112" CREATED="1637058609628" MODIFIED="1642689605890"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -8733,11 +8302,9 @@
       This a logical fallacy frequently used on the Internet. No academic sources could be found.
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Conspiracy Theory" ID="ID_1685080423" CREATED="1637058688806" MODIFIED="1642689780081"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -8747,10 +8314,8 @@
       (also known as: canceling hypothesis, canceling hypotheses, coverups)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -8804,12 +8369,10 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Distinction Without a Difference" ID="ID_503533856" CREATED="1637058917460" MODIFIED="1637058918386"/>
 <node TEXT="Fact-to-Fiction Fallacy" ID="ID_1614385175" CREATED="1637059104931" MODIFIED="1642691876376"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -8851,11 +8414,9 @@
       <strong>Tip:</strong>&nbsp;Be careful not to read too much into facts. Our minds tend to &#x201c;connect the dots&#x201d; in order to support the narratives we already accept.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="False Effect" ID="ID_1073897984" CREATED="1637059886292" MODIFIED="1642695931846"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -8930,11 +8491,9 @@
       <strong>Fun Fact:</strong>&nbsp;This fallacy is different from the <em>false cause</em>&nbsp;&nbsp;fallacy (listed under <em>questionable cause</em>).
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Gadarene Swine Fallacy" ID="ID_626617440" CREATED="1637060577042" MODIFIED="1642696213943"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -8985,11 +8544,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Having Your Cake" ID="ID_198662793" CREATED="1637060723102" MODIFIED="1642698214892"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -8999,10 +8556,8 @@
       (also known as: failure to assert, diminished claim, failure to choose sides)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -9056,11 +8611,9 @@
       <strong>Tip:</strong>&nbsp;If you don&#x2019;t have an opinion, say that you don&#x2019;t have an opinion.&nbsp;&nbsp;If you don&#x2019;t know, say that you don&#x2019;t know.&nbsp;&nbsp;It&#x2019;s that simple.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Hedging" ID="ID_1548318953" CREATED="1637060778861" MODIFIED="1642698273488"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -9136,11 +8689,9 @@
     </p>
     References: Dowden, B. (n.d.). Fallacies | Internet Encyclopedia of Philosophy. Retrieved from http://www.iep.utm.edu/fallacy/
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Inconsistency" ID="ID_1816570120" CREATED="1637061256799" MODIFIED="1642700066585"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -9150,10 +8701,8 @@
       (also known as: internal contradiction, logical inconsistency)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -9192,11 +8741,9 @@
       <strong>Tip:</strong>&nbsp;Think about your beliefs.&nbsp;&nbsp;Are there any inconsistent with each other?&nbsp;&nbsp;Any inconsistent with how you act and what you do?
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Inflation of Conflict" ID="ID_1249289444" CREATED="1637061274395" MODIFIED="1642700099573"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -9238,11 +8785,9 @@
       <strong>Fun Fact:</strong>&nbsp;When experts have very different views on scientific issues, it is very often the case that one or more of them are sharing views outside their realm of professional expertise.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Least Plausible Hypothesis" ID="ID_363222673" CREATED="1637061455562" MODIFIED="1642701553365"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -9299,11 +8844,9 @@
       
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Limited Depth" ID="ID_113983450" CREATED="1637061461135" MODIFIED="1642701633007"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -9357,11 +8900,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Limited Scope" ID="ID_1577296639" CREATED="1637061478548" MODIFIED="1642704046487"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -9412,11 +8953,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Multiple Comparisons Fallacy" ID="ID_1710023835" CREATED="1637061647452" MODIFIED="1642751246771"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -9426,10 +8965,8 @@
       (also known as: multiple comparisons, multiplicity, multiple testing problem, the look-elsewhere effect)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -9511,11 +9048,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Overextended Outrage" ID="ID_1883529473" CREATED="1637084359028" MODIFIED="1642752047502"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -9525,10 +9060,8 @@
       (also known as: overextended moral outrage, overextended, political outrage)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -9585,11 +9118,9 @@
       </p>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Post-Designation" ID="ID_721778483" CREATED="1637152810953" MODIFIED="1642753980879"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -9599,10 +9130,8 @@
       (also known as: fishing for data)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -9641,11 +9170,9 @@
       <strong>Fun Fact:</strong>&nbsp;<em>Post-designation</em>&nbsp;appears to be just a different name for the <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Multiple-Comparisons-Fallacy" target="fallacy" data-toggle="tooltip" title="" data-original-title="Claiming that unexpected trends that occur through random chance alone in a data set with a large number of variables are meaningful.">multiple comparisons fallacy</a></i>. I have kept both entries because I have expanded the&nbsp;<i><a href="https://www.logicallyfallacious.com/logicalfallacies/Multiple-Comparisons-Fallacy" target="fallacy" data-toggle="tooltip" title="" data-original-title="Claiming that unexpected trends that occur through random chance alone in a data set with a large number of variables are meaningful.">multiple comparisons fallacy</a></i>&nbsp;&nbsp;to include multiple comparisons between studies, which doesn&#x2019;t seem to fit the <em>post-designation</em>&nbsp;fallacy&#x2019;s definition.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Proof by Intimidation" ID="ID_651523298" CREATED="1637152942849" MODIFIED="1642754209146"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -9655,10 +9182,8 @@
       (also known as: argumentum verbosium, proof by verbosity, fallacy of intimidation)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -9715,11 +9240,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Proof Surrogate" ID="ID_1064260554" CREATED="1637152971248" MODIFIED="1642754150068"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -9779,11 +9302,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Proving Non-Existence" ID="ID_1973754334" CREATED="1637152981514" MODIFIED="1642754253378"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -9873,11 +9394,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Psychogenetic Fallacy" ID="ID_26746591" CREATED="1637152990680" MODIFIED="1642754314874"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -9947,11 +9466,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Quantum Physics Fallacy" ID="ID_1267654295" CREATED="1637153096935" MODIFIED="1642754499460"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -9961,10 +9478,8 @@
       (also known as: appeal to quantum physics)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -10024,11 +9539,9 @@
       </p>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Retrogressive Causation" ID="ID_1971965048" CREATED="1637153250098" MODIFIED="1642755404168"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -10090,11 +9603,9 @@
       </p>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Righteousness Fallacy" ID="ID_42938614" CREATED="1637153272372" MODIFIED="1642755452573"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -10142,10 +9653,8 @@
       <strong>Fun Fact:</strong>&nbsp;This is related to the cognitive bias, the <em>halo effect</em>.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Self-righteousness Fallacy" ID="ID_1638121446" CREATED="1637153328539" MODIFIED="1642755731411"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -10193,12 +9702,10 @@
       <strong>Fun Fact: </strong><em>Self-righteous</em>&nbsp;is defined as having or characterized by a certainty, especially an unfounded one, that one is totally correct or morally superior. The <em>self-righteousness fallacy</em>&nbsp;follows a more generic definition of being correct because of &#x201c;good intentions.&#x201d;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Rights To Ought Fallacy" ID="ID_1402731982" CREATED="1637153287978" MODIFIED="1642755492306"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -10208,10 +9715,8 @@
       (also known as: constitutional rights fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -10266,11 +9771,9 @@
       <strong>Tip: </strong>Just because you have the right to be a galactic jackass, doesn&#x2019;t mean you should.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Selective Attention" ID="ID_1682082210" CREATED="1637153339758" MODIFIED="1642755687277"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -10303,11 +9806,9 @@
       <strong>Fun Fact:</strong>&nbsp;<em>Selective attention</em>&nbsp;is mostly a cognitive bias in that it happens subconsciously. It becomes a fallacy when it shows up in argumentation.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Self-Sealing Argument" ID="ID_1019850810" CREATED="1637153357212" MODIFIED="1642755779851"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -10317,10 +9818,8 @@
       (also known as: vacuous argument)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -10377,11 +9876,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Shifting of the Burden of Proof" ID="ID_1583295581" CREATED="1637155266086" MODIFIED="1642755855450"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -10391,10 +9888,8 @@
       (also known as: onus probandi, burden of proof [general concept], burden of proof fallacy, misplaced burden of proof, shifting the burden of proof)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -10472,11 +9967,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Shoehorning" ID="ID_914830255" CREATED="1637155283736" MODIFIED="1642755903275"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -10530,11 +10023,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Spiritual Fallacy" ID="ID_1467323539" CREATED="1637155408544" MODIFIED="1642756210491"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -10544,10 +10035,8 @@
       (also known as: spiritual excuse)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -10589,11 +10078,9 @@
       <strong>Tip: </strong>Next time you get pulled over for speeding, tell the cop you were only &#x201c;spiritually&#x201d; speeding. See if that works.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Spin Doctoring" ID="ID_1788983768" CREATED="1637155421077" MODIFIED="1642756165144"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -10603,10 +10090,8 @@
       (also known as: spinning)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -10663,11 +10148,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Statement of Conversion" ID="ID_1026140123" CREATED="1637156489843" MODIFIED="1642756361483"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -10724,11 +10207,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Stereotyping (the fallacy)" ID="ID_1818777462" CREATED="1637156497523" MODIFIED="1642756327031"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -10776,11 +10257,9 @@
       </p>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Subverted Support" ID="ID_1850408456" CREATED="1637156576588" MODIFIED="1642765803383"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -10822,11 +10301,9 @@
       <strong>Tip: </strong>Exaggeration is a risky technique you want to avoid. On the one hand, it can make your argument more compelling (technically, by misrepresenting the truth). On the other hand, if you are called out for your exaggeration, it will damage the credibility of your argument as well as your own credibility.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Blinding with science" ID="ID_1514720926" CREATED="1642350717782" MODIFIED="1642852935911"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -10901,11 +10378,9 @@
       The fallacy of blinding with science is well worth the time and trouble required to master it. The years of work at it will repay you not only with a doctorate in the social sciences, but with the ability to deceive an audience utterly into believing that you know what you are talking about.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Runaway train" ID="ID_474141963" CREATED="1642361217429" MODIFIED="1642858732296"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -10959,11 +10434,9 @@
       <em>You agreed to allow a bingo hall in the town because people should have the choice to gamble if they want to. I&#x2019;m now proposing to have gaming machines on every street corner for precisely the same reasons.</em>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Shifting ground" ID="ID_1743083255" CREATED="1642361529218" MODIFIED="1642858343568"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -11001,11 +10474,9 @@
     </p>
     <pre class="wp-block-verse">Yes, I walked through the green line, customs officer, and I can explain that extra bottle of scotch.<br/>(Does anyone spot the slight tremor in his feet?)</pre>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node TEXT="Thatcher&#x2019;s blame" ID="ID_44825494" CREATED="1642361648053" MODIFIED="1642858612039"><richcontent TYPE="NOTE">
-
+<node TEXT="Thatcher’s blame" ID="ID_44825494" CREATED="1642361648053" MODIFIED="1642858612039"><richcontent TYPE="NOTE">
 <html>
   <head>
     
@@ -11041,11 +10512,9 @@
       The fallacy is easy to use because it preys upon an instinct which would rather hear ill than good about people. After all, gossips don&#x2019;t go round praising people for their righteous actions. To use it effectively, you should pour scorn on some proposed action, predicting an adverse outcome. You then introduce an alternative consequence with the words &#x2018;And even if &#x2026;&#x2019; This allows you to predict more dire consequences. Your audience will never spot that you have, like the fallacy, covered every conceivable case. If you think this too obvious, reflect that for over a century the followers of Marxism predicted disaster for capitalism, whatever outcomes it produced.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Unaccepted enthyrnemes" ID="ID_1418095432" CREATED="1642362203743" MODIFIED="1642860815761"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -11072,14 +10541,12 @@
     </p>
     <pre class="wp-block-verse">I'm not happy with the choice of Smith. One can never be happy with those who prey on rich widows.<br/>(Or on unjustified implications.)</pre>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Feedback fallacy" ID="ID_768663268" CREATED="1642503760019" MODIFIED="1642503764120"/>
 <node TEXT="Lump of labour fallacy" ID="ID_474751865" CREATED="1642503959726" MODIFIED="1642503962590"/>
 <node TEXT="Referential fallacy" ID="ID_304305229" CREATED="1642503991878" MODIFIED="1642503994774"/>
 <node TEXT="Appeal to Consequences" ID="ID_1292162886" CREATED="1635717442318" MODIFIED="1642685862019"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -11089,10 +10556,8 @@
       (also known as: argumentum ad consequentiam, appeal to consequences of a belief, argument to the consequences, argument from [the] consequences, appeal to convenience [form of], appeal to utility)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -11152,12 +10617,10 @@
       <strong>Tip:</strong>&nbsp;Realize that you can deal with reality, no matter what that reality turns out to be.&nbsp;&nbsp;You don&#x2019;t need to hide from it&#x2014;face it and embrace it.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Appeal to force" ID="ID_1665697231" CREATED="1618490223870" MODIFIED="1646769036500">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_860419904" STARTINCLINATION="1271;0;" ENDINCLINATION="1264;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_860419904" STARTINCLINATION="953.24997 pt;0 pt;" ENDINCLINATION="947.99997 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -11165,10 +10628,8 @@
   <body>
     (also known as: argumentum ad baculum, argument to the cudgel, appeal to the stick, Threat of force)
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -11219,14 +10680,12 @@
       <strong>Tip:</strong>&nbsp;Unless you are an indentured servant (slave) or still living with your parents (slave), do not allow others to force you into accepting something as true.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Wishful thinking" ID="ID_1420024721" CREATED="1618490241592" MODIFIED="1642767577608">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1665697231" STARTINCLINATION="263;0;" ENDINCLINATION="263;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_860419904" STARTINCLINATION="996;0;" ENDINCLINATION="975;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1665697231" STARTINCLINATION="197.24999 pt;0 pt;" ENDINCLINATION="197.24999 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_860419904" STARTINCLINATION="746.99998 pt;0 pt;" ENDINCLINATION="731.24998 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -11283,14 +10742,12 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Magical thinking" ID="ID_1687161475" CREATED="1635771958207" MODIFIED="1635771959549"/>
 <node TEXT="Argumentum ab utili" ID="ID_1538410050" CREATED="1646768210767" MODIFIED="1646768215062"/>
 </node>
 </node>
 <node TEXT="Unreasonable Inclusion Fallacy" ID="ID_1241278491" CREATED="1642767324372" MODIFIED="1642767341852"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -11347,11 +10804,9 @@
       <strong>Fun Fact:</strong>&nbsp;This is not unlike the &quot;everyone gets a trophy&quot; phenomenon where the (implied) definition of &quot;winner&quot; is changed substantially to include all those who lost as well (&quot;you're all winners,&quot; says the coach). This may be good for lifting spirits, but it is antithetical to reason.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT=" Exception That Proves The Rule" ID="ID_315865631" CREATED="1642853235297" MODIFIED="1642853255191"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -11447,12 +10902,10 @@
       <strong>The above article is from the book How To Win Every Argument by Madsen Pirie. The article is only for educational and informative purposes to explain and understand formal logic and logical fallacies. It is a great book, definitely worth a read!</strong>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Refuting the example" ID="ID_389560209" CREATED="1642858283417" MODIFIED="1642858287027"/>
 <node TEXT="argumentum ad Temperantlam" ID="ID_1839619740" CREATED="1642858533156" MODIFIED="1642858557472"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -11507,11 +10960,9 @@
       When two countries are disputing the ownership of a couple of islands for example, you should be the first to leap in with the &#x2018;one each&#x2019; suggestion. There will be plenty of British diplomats trying to beat you to it.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="The Undistributed middle" ID="ID_321217681" CREATED="1642858790714" MODIFIED="1642858820945"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -11548,8 +10999,7 @@
     <pre class="wp-block-verse">The union closed shop is the will of the majority; and democracy is the will of the majority. The union closed shop is only democratic.<br/>(Where do I sign? [You did.])</pre>
     <pre class="wp-block-verse">Elitism is something only a few benefit from, and tennis is something only a few benefit from, so tennis is clearly elitist.<br/>(Fault!)</pre>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="fallacia non causae ut causae" ID="ID_784575763" CREATED="1646767757612" MODIFIED="1646767762360"/>
 <node TEXT="Argumentum ad amicitiam" ID="ID_909199054" CREATED="1646767971780" MODIFIED="1646767975213"/>
@@ -11568,10 +11018,9 @@
 <node TEXT="argumentum ad reverentiam" ID="ID_418856752" CREATED="1646769203693" MODIFIED="1646769207081"/>
 <node TEXT="Argumentum ad quietem" ID="ID_274828949" CREATED="1646769248115" MODIFIED="1646769251278"/>
 </node>
-<node TEXT="Faulty generalization/Inductive fallacies" POSITION="right" ID="ID_841086237" CREATED="1618489401273" MODIFIED="1635776483188">
+<node TEXT="Faulty generalization/Inductive fallacies" POSITION="bottom_or_right" ID="ID_841086237" CREATED="1618489401273" MODIFIED="1635776483188">
 <font BOLD="true"/>
 <node TEXT="Argument from Hearsay" ID="ID_1576374097" CREATED="1618489423817" MODIFIED="1642688049819"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -11581,10 +11030,8 @@
       (also known as: the telephone game, Chinese whispers, anecdotal evidence, anecdotal fallacy/Volvo fallacy [form of])
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -11656,12 +11103,10 @@
       <strong>Variation:</strong>&nbsp;The <i>anecdotal fallacy</i>, or V<i>olvo fallacy</i>, is allowing a specific instance of anecdotal evidence to lend much more weight to an argument than it should.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Sampling bias" ID="ID_491292843" CREATED="1618489558326" MODIFIED="1618489559496">
 <node TEXT="Cherry picking" ID="ID_1112345129" CREATED="1618489614084" MODIFIED="1642689200373"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -11671,10 +11116,8 @@
       (also known as: ignoring inconvenient data, suppressed evidence, fallacy of incomplete evidence, argument by selective observation, argument by half-truth, card stacking, fallacy of exclusion, ignoring the counter evidence, one-sided assessment, slanting, one-sidedness)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -11734,10 +11177,8 @@
       <strong>Tip:</strong>&nbsp;If you suspect people are only telling you a half-truth, don&#x2019;t be afraid to ask, &#x201c;Is there anything you are not telling me?&#x201d;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Survivorship Fallacy" ID="ID_1474507658" CREATED="1618489646612" MODIFIED="1642766586231"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -11747,10 +11188,8 @@
       (also known as: survivorship bias)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -11790,11 +11229,9 @@
     </p>
     References: Swedroe, L. E. (2005). The Only Guide to a Winning Investment Strategy You&#x2019;ll Ever Need: The Way Smart Money Preserves Wealth Today. St. Martin&#x2019;s Press.
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Casualty fallacy" ID="ID_474749661" CREATED="1642868271003" MODIFIED="1642868287161"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -11804,11 +11241,9 @@
       (also known as: Reverse survivorship)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="McNamara Fallacy" ID="ID_527996224" CREATED="1618489625712" MODIFIED="1642750790122"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -11818,10 +11253,8 @@
       (also known as: quantitative fallacy, Skittles fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -11870,15 +11303,13 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Managing the news" ID="ID_303499533" CREATED="1636876846036" MODIFIED="1636876847609"/>
 </node>
 </node>
 <node TEXT="Nut-picking" ID="ID_1397530959" CREATED="1618499821775" MODIFIED="1618499823354"/>
 </node>
 <node TEXT="Package-Deal Fallacy" ID="ID_226414259" CREATED="1618489655679" MODIFIED="1642752195860"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -11888,10 +11319,8 @@
       (also known as: false conjunction)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -11949,11 +11378,9 @@
       </p>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Weak Analogy" ID="ID_1445512070" CREATED="1618489731854" MODIFIED="1642845710239"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -11963,10 +11390,8 @@
       (also known as: bad analogy, false analogy, faulty analogy, questionable analogy, argument from spurious similarity, false metaphor, Analogical Fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -12048,10 +11473,8 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="appeal to the Moon" ID="ID_384243387" CREATED="1636966938102" MODIFIED="1642687207876"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -12061,10 +11484,8 @@
       (also known as: Argumentum ad lunam)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -12106,11 +11527,9 @@
       <strong>Tip:</strong>&nbsp;Believe in the possible just don&#x2019;t count on it unless it is probable.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Extended Analogy" ID="ID_1458961660" CREATED="1637059079133" MODIFIED="1642691826766"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -12183,11 +11602,9 @@
       <strong>Tip:</strong>&nbsp;Don&#x2019;t call people crazy -- leave that kind of psychological assessment for the licensed professionals.&nbsp;&nbsp;You can call them, &#x201c;nutjobs&#x201d;.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Faulty Comparison" ID="ID_1723105233" CREATED="1637060527183" MODIFIED="1642696146506"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -12197,10 +11614,8 @@
       (also known as: bad comparison, false comparison, inconsistent, comparison [form of])
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -12257,11 +11672,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Incomplete comparison" ID="ID_1002975029" CREATED="1635760839509" MODIFIED="1642700008488"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -12312,11 +11725,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Appeal to Extremes" ID="ID_256652115" CREATED="1637055015910" MODIFIED="1642686206497"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -12364,14 +11775,12 @@
       <strong>Tip:</strong>&nbsp;People very often say stupid things.&nbsp;&nbsp;Sometimes it is easy to reduce their arguments to absurdity, but remember, in most cases, your goal should be diplomacy, not making the other person look foolish.&nbsp;&nbsp;Especially when dealing with your spouse&#x2014;unless you really like sleeping on the couch.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="appeal to coincidence" ID="ID_1517410563" CREATED="1618489743170" MODIFIED="1642681288094">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_22427007" STARTINCLINATION="2918;0;" ENDINCLINATION="2918;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_22427007" STARTINCLINATION="2188.49993 pt;0 pt;" ENDINCLINATION="2188.49993 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -12381,10 +11790,8 @@
       (also known as: Slothful induction, appeal to luck, appeal to bad luck, appeal to good luck)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -12438,11 +11845,9 @@
       <strong>Tip:</strong>&nbsp;Remember that million-to-one thing happened to you? It was probably a coincidence. Given how many things happen to us every day, all of us should experience many million-to-one events throughout our lifetimes.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="overwhelming exception" ID="ID_458792565" CREATED="1618489750437" MODIFIED="1642752153243"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -12499,11 +11904,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Hasty generalization" ID="ID_1072293352" CREATED="1618499791404" MODIFIED="1642698181947"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -12511,10 +11914,8 @@
   <body>
     (also known as: argument from small numbers, statistics of small numbers, insufficient statistics, argument by generalization, faulty generalization, hasty induction, inductive generalization, insufficient sample, lonely fact fallacy, over generality, overgeneralization, unrepresentative sample)
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -12571,10 +11972,8 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Spotlight fallacy" ID="ID_1812400184" CREATED="1636921333225" MODIFIED="1642756263213"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -12584,10 +11983,8 @@
       (also known as: selection bias)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -12641,11 +12038,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Jumping to Conclusions" ID="ID_1325839146" CREATED="1637061331954" MODIFIED="1642700373493"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -12655,10 +12050,8 @@
       (also known as: hasty conclusion, hasty decision, leaping to conclusions, specificity)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -12697,14 +12090,12 @@
       <strong>Tip:</strong>&nbsp;If anyone gives you an unreasonable timeframe for making a decision, it is almost always an attempt to discourage you from critical thought.&nbsp;&nbsp;If you cannot have what you feel is a reasonable amount of time to come to a well-reasoned conclusion -- walk away.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Mind reading" ID="ID_1161120704" CREATED="1637246884916" MODIFIED="1637246885604"/>
 <node TEXT="Fortune telling" ID="ID_549568192" CREATED="1637246889930" MODIFIED="1637246890441"/>
 <node TEXT="Labeling" ID="ID_1121764002" CREATED="1637246896131" MODIFIED="1637246897486"/>
 </node>
 <node TEXT="Ex-post-facto Statistics" ID="ID_76495693" CREATED="1642351863523" MODIFIED="1642853215724"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -12812,17 +12203,15 @@
       <strong>The above article is from the book How To Win Every Argument by Madsen Pirie. The article is only for educational and informative purposes to explain and understand formal logic and logical fallacies. It is a great book, definitely worth a read!</strong>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node TEXT="Self&#x2013;selection" ID="ID_111876713" CREATED="1642868169781" MODIFIED="1642868172500"/>
+<node TEXT="Self–selection" ID="ID_111876713" CREATED="1642868169781" MODIFIED="1642868172500"/>
 <node TEXT="Double counting (fallacy)" ID="ID_1326132903" CREATED="1618489666615" MODIFIED="1637059023154"/>
 </node>
 <node TEXT="Inductive fallacy" ID="ID_696361387" CREATED="1618499798195" MODIFIED="1618499799198"/>
 <node TEXT="Misleading vividness" ID="ID_1456707992" CREATED="1618499806406" MODIFIED="1642750895672">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_860419904" STARTINCLINATION="457;104;" ENDINCLINATION="425;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_860419904" STARTINCLINATION="342.74999 pt;78 pt;" ENDINCLINATION="318.74999 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -12879,16 +12268,14 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node TEXT="Thought-terminating clich&#xe9;" ID="ID_349827019" CREATED="1618499854696" MODIFIED="1636877047653">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1706945405" STARTINCLINATION="761;-17;" ENDINCLINATION="763;-17;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<node TEXT="Thought-terminating cliché" ID="ID_349827019" CREATED="1618499854696" MODIFIED="1636877047653">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1706945405" STARTINCLINATION="570.74998 pt;-12 pt;" ENDINCLINATION="572.24998 pt;-12 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 <node TEXT="Appeal to probability" ID="ID_918797613" CREATED="1635776906904" MODIFIED="1642686874494">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_480276856" STARTINCLINATION="2128;0;" ENDINCLINATION="2128;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_480276856" STARTINCLINATION="1595.99995 pt;0 pt;" ENDINCLINATION="1595.99995 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -12898,10 +12285,8 @@
       (also known as: Murphy's law, Appeal to Possibility)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -12975,11 +12360,9 @@
       <strong>Tip:</strong>&nbsp;Catch yourself every time you are about to use the word &#x201c;impossible&#x201d;.&nbsp;&nbsp;Yes, there are many things that are logically and physically impossible, and it is a valid concept and word, but so often we use that word when we really mean&nbsp;&nbsp;&#x201c;improbable&#x201d;.&nbsp;&nbsp;Confusing the impossible with the improbable or unlikely, could, in many cases, destroy the possibility of great success.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Availability heuristic" ID="ID_987694648" CREATED="1635776943046" MODIFIED="1642689877079"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -12989,10 +12372,8 @@
       (also known as: Deceptive Sharing)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -13043,8 +12424,7 @@
       <strong>Tip:</strong>&nbsp;Remember the <em>principle of charity</em>. If you are not confident that the sharer is implying that the event they are sharing is far more common than reality dictates, ask, &#x201c;what is the reason you are sharing this?&#x201d;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Blind men and an elephant" ID="ID_1509226144" CREATED="1635776963619" MODIFIED="1635776965598"/>
 <node TEXT="Confirmation bias" ID="ID_256508385" CREATED="1635777062321" MODIFIED="1635777063055">
@@ -13059,7 +12439,6 @@
 <node TEXT="Idola fori" ID="ID_795411585" CREATED="1635777239532" MODIFIED="1635777240376"/>
 </node>
 <node TEXT="Biased Sample Fallacy" ID="ID_695076910" CREATED="1637057916170" MODIFIED="1642689045617"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -13069,10 +12448,8 @@
       (also known as: biased statistics, loaded sample, prejudiced statistics, prejudiced sample, loaded statistics, biased induction, biased generalization, biased generalizing, unrepresentative sample, unrepresentative generalization)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -13123,11 +12500,9 @@
       <strong>Tip:</strong>&nbsp;Be very wary of statistics.&nbsp;&nbsp;Look at the source and details of the studies which produced the statistics.&nbsp;&nbsp;Very often you will find some kind of bias.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Lying with Statistics" ID="ID_1383971484" CREATED="1637061537457" MODIFIED="1642750523955"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -13137,10 +12512,8 @@
       (also known as: statistical fallacy/fallacies, misunderstanding the nature of statistics [form of], fallacy of curve fitting, the fallacy of overfitting)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -13200,11 +12573,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Damning the Alternatives" ID="ID_533011592" CREATED="1642351409710" MODIFIED="1642853097357"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -13306,13 +12677,11 @@
       <strong>The above article is from the book How To Win Every Argument by Madsen Pirie. The article is only for educational and informative purposes to explain and understand formal logic and logical fallacies. It is a great book, definitely worth a read!</strong>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Exception that proves the rule" ID="ID_1386270026" CREATED="1642351757452" MODIFIED="1642351761637"/>
 </node>
-<node TEXT="Accident Fallacy" POSITION="left" ID="ID_1729055530" CREATED="1618489377661" MODIFIED="1642678460482"><richcontent TYPE="DETAILS">
-
+<node TEXT="Accident Fallacy" POSITION="top_or_left" ID="ID_1729055530" CREATED="1618489377661" MODIFIED="1642678460482"><richcontent TYPE="DETAILS">
 <html>
   <head>
     
@@ -13322,10 +12691,8 @@
       (also known as: a dicto simpliciter ad dictum secundum quid, destroying the exception, dicto secundum quid ad dictum simpliciter, dicto simpliciter, converse accident, reverse accident, fallacy of the general rule, sweeping generalization)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -13370,12 +12737,11 @@
       <strong>Tip:</strong>&nbsp;It is your right to question laws you don&#x2019;t understand or laws with which you don&#x2019;t agree.&nbsp;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Converse accident" ID="ID_1917903341" CREATED="1618489393162" MODIFIED="1618489394021"/>
 <node TEXT="Stereotyping fallacy" ID="ID_988735781" CREATED="1642868131971" MODIFIED="1642868134933"/>
 </node>
-<node POSITION="left" ID="ID_1609643158" CREATED="1618489316813" MODIFIED="1618489319175"><richcontent TYPE="NODE">
+<node POSITION="top_or_left" ID="ID_1609643158" CREATED="1618489316813" MODIFIED="1618489319175"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -13389,9 +12755,8 @@
 </html>
 </richcontent>
 <node TEXT="Fallacy of composition" ID="ID_1426991106" CREATED="1618489333883" MODIFIED="1642695356403">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_841086237" STARTINCLINATION="1819;0;" ENDINCLINATION="1819;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_841086237" STARTINCLINATION="1364.24996 pt;0 pt;" ENDINCLINATION="1364.24996 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -13401,10 +12766,8 @@
       (also known as: composition fallacy, exception fallacy, faulty induction)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -13464,11 +12827,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Fallacy of division" ID="ID_387103419" CREATED="1618489341301" MODIFIED="1642695392331"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -13478,10 +12839,8 @@
       (also known as: false division, faulty deduction, division fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -13529,11 +12888,9 @@
       <strong>Tip: </strong>Review the fallacy of composition and see if you understand the difference well-enough to explain it to someone.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Ecological fallacy" ID="ID_995125497" CREATED="1618489346190" MODIFIED="1642691023871"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -13543,10 +12900,8 @@
       (also known as: ecological inference fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -13604,16 +12959,14 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node TEXT="Question-begging fallacies" POSITION="right" ID="ID_92153379" CREATED="1618488932270" MODIFIED="1618488934628">
+<node TEXT="Question-begging fallacies" POSITION="bottom_or_right" ID="ID_92153379" CREATED="1618488932270" MODIFIED="1618488934628">
 <font BOLD="true"/>
 <node TEXT="Circular reasoning" ID="ID_140214538" CREATED="1618489008670" MODIFIED="1642689310346">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1741718067" STARTINCLINATION="2085;0;" ENDINCLINATION="2081;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1741718067" STARTINCLINATION="1563.74995 pt;0 pt;" ENDINCLINATION="1560.74995 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -13623,10 +12976,8 @@
       (also known as: circulus in demonstrando, paradoxical thinking, circular argument, circular cause and consequence, reasoning in a circle, vicious circle)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -13677,10 +13028,8 @@
       <strong>Tip:</strong>&nbsp;Do your best to avoid circular arguments, as it will help you reason better because better reasoning is often a result of avoiding circular arguments.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Conflicting Conditions" ID="ID_1396531534" CREATED="1635762440516" MODIFIED="1642701290620"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -13693,10 +13042,8 @@
       (also known as: contradictio in adjecto, a self-contradiction, self-refuting idea)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -13747,10 +13094,8 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Kettle logic" ID="ID_1465108317" CREATED="1642701218881" MODIFIED="1642701344826"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -13813,11 +13158,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Stolen concept fallacy" ID="ID_836939016" CREATED="1642756443079" MODIFIED="1642756490689"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -13871,12 +13214,10 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Circular Definition" ID="ID_85576398" CREATED="1637058322224" MODIFIED="1642689267893"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -13942,11 +13283,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Homunculus Fallacy" ID="ID_585291966" CREATED="1635760595545" MODIFIED="1642698384080"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -13956,10 +13295,8 @@
       (also known as: homunculus argument, infinite regress)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -14034,13 +13371,11 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Tautology" ID="ID_1496466675" CREATED="1642867513633" MODIFIED="1642867518555"/>
 </node>
 <node TEXT="Begging the Question" ID="ID_632582513" CREATED="1636913690539" MODIFIED="1642688989804"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -14050,10 +13385,8 @@
       (also known as: petitio principii, assuming the initial point, assuming the answer, chicken and the egg argument, circulus in probando)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -14108,12 +13441,10 @@
       Walton, D. N., &amp; Fallacy, A. A. P. (1991). Begging the Question.
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Loaded label" ID="ID_1722061556" CREATED="1642509288394" MODIFIED="1642509291323"/>
 </node>
 <node TEXT="Complex Question Fallacy" ID="ID_666445987" CREATED="1618489158925" MODIFIED="1642689473445"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -14121,10 +13452,8 @@
   <body>
     (also known as: plurium interrogationum, many questions fallacy, fallacy of presupposition, loaded question, trick question, false question, Appeal to Complexity, ill-posed question, fallacy of many questions, surfeit of questions)
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -14181,13 +13510,11 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Loaded language" ID="ID_125436482" CREATED="1618489095056" MODIFIED="1642687245742">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_860419904" STARTINCLINATION="2275;0;" ENDINCLINATION="2216;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_860419904" STARTINCLINATION="1706.24995 pt;0 pt;" ENDINCLINATION="1661.99995 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -14197,10 +13524,8 @@
       (also known as: Argument by Emotive Language. loaded words, loaded language, euphemisms)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -14254,11 +13579,9 @@
       <strong>Tip</strong>: <em>Euphemisms</em>, when used correctly, reflect good social intelligence. When in a business meeting, say, &#x201c;Pardon me for a moment, I have to use the restroom,&#x201d; rather than &#x201c;Pardon me for a moment, I have to move my bowels.&#x201d;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Buzzword" ID="ID_1916275841" CREATED="1636878658678" MODIFIED="1636878659517"/>
 <node TEXT="Dog whistle (politics)" ID="ID_824475312" CREATED="1636960916087" MODIFIED="1636961044362"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -14268,8 +13591,7 @@
       (also known as: Code word (figure of speech))
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Glittering generality" ID="ID_1525277756" CREATED="1636878694619" MODIFIED="1636878695265"/>
 <node TEXT="OPROP!" ID="ID_449083028" CREATED="1636878721564" MODIFIED="1636878722218"/>
@@ -14281,7 +13603,6 @@
 <node TEXT="Leading question" ID="ID_1973118594" CREATED="1636878675105" MODIFIED="1636878676318"/>
 <node TEXT="Suggestive question" ID="ID_1292577958" CREATED="1635773611271" MODIFIED="1635773613828"/>
 <node TEXT="Meaningless Question" ID="ID_411155269" CREATED="1637061574943" MODIFIED="1642750845756"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -14339,11 +13660,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Hypnotic Bait and Switch" ID="ID_1701148679" CREATED="1637060890977" MODIFIED="1642699402203"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -14412,11 +13731,10 @@
       <strong>Tip:</strong>&nbsp;Become a human fallacy detector.&nbsp;&nbsp;Look for these kinds of techniques everywhere you go.&nbsp;&nbsp;As a result, your reasonable self will become conditioned to resist taking a back seat to emotional propaganda.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node POSITION="right" ID="ID_1726413040" CREATED="1618488740033" MODIFIED="1642691074790"><richcontent TYPE="NODE">
+<node POSITION="bottom_or_right" ID="ID_1726413040" CREATED="1618488740033" MODIFIED="1642691074790"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -14430,7 +13748,6 @@
 </html>
 </richcontent>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -14440,10 +13757,8 @@
       (also known as: doublespeak)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -14494,10 +13809,8 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="False equivalence" ID="ID_264004038" CREATED="1618488773252" MODIFIED="1642695985963"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -14536,11 +13849,9 @@
       <strong>Tip:</strong>&nbsp;Listen and read carefully. Often, people will make analogies and others will interpret them as claims of equivalence.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="False attribution" ID="ID_1581922402" CREATED="1618488797322" MODIFIED="1642695606070"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -14585,12 +13896,10 @@
       <strong>Tip:</strong>&nbsp;Don't falsify facts.&nbsp;&nbsp;If you get caught lying, you will almost certainly lose the argument, even if you are right.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Contextomy" ID="ID_815428204" CREATED="1618488807959" MODIFIED="1642689840761">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1844366471" STARTINCLINATION="617;0;" ENDINCLINATION="617;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1844366471" STARTINCLINATION="462.74999 pt;0 pt;" ENDINCLINATION="462.74999 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -14600,10 +13909,8 @@
       (also known as: fallacy of quoting out of context, quoting out of context, Quote mining, contextotomy, contextomy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -14672,19 +13979,17 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Recontextualisation" ID="ID_1485255858" CREATED="1635773271556" MODIFIED="1642508124874">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1706945405" STARTINCLINATION="2149;0;" ENDINCLINATION="2149;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1706945405" STARTINCLINATION="1611.74995 pt;0 pt;" ENDINCLINATION="1611.74995 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 </node>
 <node TEXT="Loki&apos;s Wager" ID="ID_606642837" CREATED="1618488874116" MODIFIED="1618488875036"/>
 <node TEXT="No True Scotsman" ID="ID_1871625416" CREATED="1618488911435" MODIFIED="1642751830486">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_92153379" STARTINCLINATION="80;0;" ENDINCLINATION="80;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_22427007" STARTINCLINATION="1610;0;" ENDINCLINATION="1610;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_22427007" STARTINCLINATION="1207.49996 pt;0 pt;" ENDINCLINATION="1207.49996 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_92153379" STARTINCLINATION="60 pt;0 pt;" ENDINCLINATION="60 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -14694,10 +13999,8 @@
       (also known as: appeal to purity [form of], no true Christian, no true crossover fallacy [form of])
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -14769,17 +14072,15 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Definitional Retreat" ID="ID_1010027935" CREATED="1618499517947" MODIFIED="1636913926153"/>
 <node TEXT="motte-and-bailey fallacy" ID="ID_238965292" CREATED="1618499555292" MODIFIED="1636920602671">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1706945405" STARTINCLINATION="1206;0;" ENDINCLINATION="1179;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1706945405" STARTINCLINATION="904.49997 pt;0 pt;" ENDINCLINATION="884.24997 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 <node TEXT="Accent Fallacy" ID="ID_1767017555" CREATED="1618499585738" MODIFIED="1642680063746">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1844366471" STARTINCLINATION="521;0;" ENDINCLINATION="521;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1844366471" STARTINCLINATION="390.74999 pt;0 pt;" ENDINCLINATION="390.74999 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -14787,10 +14088,8 @@
   <body>
     (also known as: accentus, emphasis fallacy, fallacy of accent, fallacy of prosody, misleading accent)
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -14820,11 +14119,9 @@
       <strong>Tip:</strong>&nbsp;Our biases can cause us to miss the vocal nuance. Listen actively and critically, and try not to jump to conclusions. And you cannot turn off gay thoughts like a light switch.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Denying the Antecedent" ID="ID_303527416" CREATED="1637058820968" MODIFIED="1637058849949"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -14834,11 +14131,9 @@
       (also known as: inverse error, inverse fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="if-by-whiskey fallacy" ID="ID_1028979355" CREATED="1618499637095" MODIFIED="1642699571412"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -14904,13 +14199,11 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Fallacy of amphiboly" ID="ID_624998191" CREATED="1636963021314" MODIFIED="1636963022257"/>
 <node TEXT="Moral equivalence" ID="ID_1044235182" CREATED="1636963064678" MODIFIED="1636963065477">
 <node TEXT="Fallacy of relative privation" ID="ID_1665074322" CREATED="1618500904827" MODIFIED="1642755310566"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -14920,10 +14213,8 @@
       (also known as: appeal to worse problems. not as bad as, it could be worse, it could be better)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -14986,13 +14277,11 @@
       <strong>Fun Fact: </strong>My first car was a crappy, 1972 Chevy Nova that I bought for $50 in my sophomore year in high school. This was when I first learned about correlation. Me driving that car was strongly correlated with my lack of female companions.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="First World problems" ID="ID_750366591" CREATED="1618500914545" MODIFIED="1618500916337"/>
 </node>
 </node>
 <node TEXT="Fallacy of Every and All" ID="ID_808325026" CREATED="1637059490139" MODIFIED="1642695490166"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -15049,11 +14338,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Failure to Elucidate" ID="ID_122288059" CREATED="1636912160752" MODIFIED="1642691929530"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -15061,10 +14348,8 @@
   <body>
     (also known as: obscurum per obscurius, Fallacies of definition)
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -15140,10 +14425,8 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Homunculus Fallacy" ID="ID_1498374604" CREATED="1635760595545" MODIFIED="1636912078243"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -15153,11 +14436,9 @@
       (also known as: homunculus argument, infinite regress)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Definist fallacy" ID="ID_1108423305" CREATED="1635721283743" MODIFIED="1642689947879"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -15167,10 +14448,8 @@
       (also known as: persuasive definition fallacy, redefinition)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -15224,11 +14503,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Extensional Pruning" ID="ID_1728446184" CREATED="1642352028405" MODIFIED="1642853307912"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -15339,18 +14616,16 @@
       <strong>The above article is from the book How To Win Every Argument by Madsen Pirie. The article is only for educational and informative purposes to explain and understand formal logic and logical fallacies. It is a great book, definitely worth a read!</strong>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Proof by Intimidation" ID="ID_802899348" CREATED="1642871506911" MODIFIED="1642871509456"/>
 <node TEXT="Deepity" ID="ID_1680851398" CREATED="1642871519798" MODIFIED="1642871523890"/>
 </node>
 <node TEXT="Jingle-jangle fallacies" ID="ID_1880508881" CREATED="1635761044991" MODIFIED="1635761045754"/>
 <node TEXT="Ambiguity fallacy" ID="ID_1844366471" CREATED="1618489766336" MODIFIED="1642680041492">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1558928662" STARTINCLINATION="5386;0;" ENDINCLINATION="5386;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1558928662" STARTINCLINATION="4039.49988 pt;0 pt;" ENDINCLINATION="4039.49988 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <font BOLD="true"/>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -15360,10 +14635,8 @@
       (also known as: ambiguous assertion, amphiboly, amphibology, semantical ambiguity, vagueness)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -15414,10 +14687,8 @@
       <strong>Tip:</strong>&nbsp;Don&#x2019;t be afraid to ask for clarification, especially if the alternative is to assume your interlocutor is being unreasonable or deceptive.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Fake precision" ID="ID_1593495069" CREATED="1618489787328" MODIFIED="1642868338378"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -15427,10 +14698,8 @@
       (also known as: overprecision, false precision, misplaced precision, spurious accuracy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -15472,13 +14741,11 @@
       <strong>Tip:</strong>&nbsp;Don&#x2019;t confuse fake precision with real performance.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Moving the goalposts" ID="ID_361151294" CREATED="1618489825299" MODIFIED="1642751174886">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_22427007" STARTINCLINATION="5490;0;" ENDINCLINATION="5490;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_22427007" STARTINCLINATION="4117.49988 pt;0 pt;" ENDINCLINATION="4117.49988 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -15488,10 +14755,8 @@
       (also known as: gravity game, raising the bar, argument by demanding impossible perfection [form of])
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -15558,13 +14823,11 @@
       <strong>Fun Fact:</strong>&nbsp;The name &#x201c;moving the goalposts&#x201d; comes from the analogy of kicking a perfect field goal in American football, only to have the goalposts be moved on you. This would be very unfair.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Syntactic ambiguity" ID="ID_358929326" CREATED="1618489979999" MODIFIED="1618489980781"/>
 <node TEXT="Wronger than wrong" ID="ID_1755299538" CREATED="1636963921996" MODIFIED="1636963923766"/>
 <node TEXT="Type-Token Fallacy" ID="ID_1753972632" CREATED="1637157594067" MODIFIED="1642766952840"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -15615,13 +14878,11 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Mistaking the map for the territory" ID="ID_69067540" CREATED="1642871591047" MODIFIED="1642871595107">
 <node TEXT="Reification (fallacy)" ID="ID_1692100781" CREATED="1618488921424" MODIFIED="1642871631982"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -15631,10 +14892,8 @@
       (also known as: abstraction, concretism, fallacy of misplaced concreteness, hypostatisation, pathetic fallacy [form of], hypostatisation)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -15694,11 +14953,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Anthropomorphism" ID="ID_978255604" CREATED="1637054370831" MODIFIED="1642680196391"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -15708,10 +14965,8 @@
       (also known as: personification)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -15768,12 +15023,10 @@
       <strong>Tip:</strong>&nbsp;If you want to make people laugh, give objects and small animals human qualities. Anthropomorphism is a comedy goldmine for stand-up comedians.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Tokenism" ID="ID_1143489927" CREATED="1637156630426" MODIFIED="1642871832106"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -15822,10 +15075,8 @@
     </div>
     References: Cogan, R. (1998). Critical Thinking: Step by Step. University Press of America.
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -15835,11 +15086,9 @@
       (also known as: Type-token fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Use-Mention Error" ID="ID_1006770383" CREATED="1637164739609" MODIFIED="1642767455867"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -15849,10 +15098,8 @@
       (also known as: UME)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -15911,11 +15158,10 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node POSITION="right" ID="ID_977113259" CREATED="1618489186347" MODIFIED="1618489188293"><richcontent TYPE="NODE">
+<node POSITION="bottom_or_right" ID="ID_977113259" CREATED="1618489186347" MODIFIED="1618489188293"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -15929,7 +15175,6 @@
 </html>
 </richcontent>
 <node TEXT="False dilemma" ID="ID_1542145554" CREATED="1618489196967" MODIFIED="1642695897498"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -15939,10 +15184,8 @@
       (also known as: all-or-nothing fallacy, false dichotomy [form of], the either-or fallacy, either-or reasoning, fallacy of false choice, fallacy of false alternatives, black-and-white thinking, the fallacy of exhaustive hypotheses, bifurcation, excluded middle, no middle ground, polarization, the bogus dilemma)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -16024,13 +15267,11 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Nirvana fallacy" ID="ID_1829533441" CREATED="1618501803321" MODIFIED="1642871395343">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1008730775" STARTINCLINATION="5613;0;" ENDINCLINATION="5613;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_22427007" STARTINCLINATION="1509;0;" ENDINCLINATION="1479;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_22427007" STARTINCLINATION="1131.74997 pt;0 pt;" ENDINCLINATION="1109.24997 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1008730775" STARTINCLINATION="4209.74987 pt;0 pt;" ENDINCLINATION="4209.74987 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -16040,10 +15281,8 @@
       (also known as: perfect solution fallacy, perfectionist fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -16100,11 +15339,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="You are either with us, or against us" ID="ID_168480118" CREATED="1636878533680" MODIFIED="1636878534681"/>
 <node TEXT="Unobtainable perfection fallacy" ID="ID_818051913" CREATED="1642363259159" MODIFIED="1642860845891"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -16207,12 +15444,10 @@
       (The original proposal now exits amid a crescendo of violins.)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Oversimplified Cause Fallacy" ID="ID_1598019857" CREATED="1637084478737" MODIFIED="1642752091741"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -16261,8 +15496,7 @@
     </p>
     References: Hurley, P. J. (2011). A Concise Introduction to Logic. Cengage Learning.
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node ID="ID_1945424442" CREATED="1618489238662" MODIFIED="1642690742043"><richcontent TYPE="NODE">
@@ -16280,7 +15514,6 @@
 </richcontent>
 <font BOLD="false"/>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -16290,10 +15523,8 @@
       (also known as: denying the correlative conjunction)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -16374,11 +15605,9 @@
       <strong>Tip:</strong>&nbsp;Don&#x2019;t borrow money from anyone named &quot;Rocco.&quot;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Suppressed correlative" ID="ID_4939853" CREATED="1618489282076" MODIFIED="1642766510727"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -16388,10 +15617,8 @@
       (also known as: fallacy of lost contrast, fallacy of the suppressed relative)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -16460,11 +15687,10 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node TEXT="Formal fallacies" POSITION="left" ID="ID_480276856" CREATED="1636874263970" MODIFIED="1636874283454">
+<node TEXT="Formal fallacies" POSITION="top_or_left" ID="ID_480276856" CREATED="1636874263970" MODIFIED="1636874283454">
 <node ID="ID_139884014" CREATED="1618488024705" MODIFIED="1642352131926"><richcontent TYPE="NODE">
 
 <html>
@@ -16478,10 +15704,9 @@
   </body>
 </html>
 </richcontent>
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1429915355" STARTINCLINATION="185;0;" ENDINCLINATION="185;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1429915355" STARTINCLINATION="138.75 pt;0 pt;" ENDINCLINATION="138.75 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <edge COLOR="#00007c"/>
 <node TEXT="Existential fallacy" ID="ID_875713648" CREATED="1618488027908" MODIFIED="1642691302434"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -16489,10 +15714,8 @@
   <body>
     (also known as: existential instantiation, the Fallacy of Existential Assumption)
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -16567,11 +15790,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Half-Concealed Quantification" ID="ID_1155566140" CREATED="1642352120928" MODIFIED="1642853403931"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -16639,10 +15860,8 @@
       (&#x2018;Just about every&#x2019; seems in this case to mean a handful, or maybe three; but everyone will think of the ones they have read about who were exposed, rather than about the others who were not.)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Concealed Quantification" ID="ID_1315005366" CREATED="1642350918844" MODIFIED="1642853007653"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -16734,8 +15953,7 @@
       <strong>The above article is from the book How To Win Every Argument by Madsen Pirie. The article is only for educational and informative purposes to explain and understand formal logic and logical fallacies. It is a great book, definitely worth a read!</strong>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -16754,7 +15972,6 @@
 </richcontent>
 <edge COLOR="#00ffff"/>
 <node TEXT="Scope fallacy" ID="ID_1682125255" CREATED="1618488146300" MODIFIED="1642754465161"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -16764,10 +15981,8 @@
       (also known as: Quantifier Shift Fallacy, illicit quantifier shift, modal scope fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -16824,11 +16039,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Illicit major" ID="ID_1550264024" CREATED="1618488110010" MODIFIED="1642699715788"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -16838,10 +16051,8 @@
       (also known as: illicit process of the major term)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -16910,11 +16121,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Illicit minor" ID="ID_717860712" CREATED="1618488112422" MODIFIED="1642699767060"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -16924,10 +16133,8 @@
       (also known as: illicit process of the minor term)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -16996,11 +16203,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Modal (Scope) Fallacy" ID="ID_133092663" CREATED="1618488139286" MODIFIED="1642751021716"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -17010,10 +16215,8 @@
       (also known as: fallacy of modal logic, misconditionalization, fallacy of neccessity)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -17070,11 +16273,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Fallacy of (the) Undistributed Middle" ID="ID_586463789" CREATED="1637059395881" MODIFIED="1642695247391"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -17084,10 +16285,8 @@
       (also known as: maldistributed middle, undistributed middle term, non distributio medii)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -17153,11 +16352,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Illicit Contraposition" ID="ID_1697209310" CREATED="1637061070217" MODIFIED="1642699635887"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -17262,11 +16459,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Negating Antecedent and Consequent" ID="ID_849208584" CREATED="1637061697834" MODIFIED="1642751498421"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -17276,10 +16471,8 @@
       (also known as: improper transposition)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -17366,11 +16559,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Negative Conclusion from Affirmative Premises" ID="ID_541233971" CREATED="1637061786280" MODIFIED="1642751633843"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -17380,10 +16571,8 @@
       (also known as: illicit affirmative, Positive conclusion from negative premise)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -17520,11 +16709,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="contradictory premises" ID="ID_1556403884" CREATED="1642351126612" MODIFIED="1642853042359"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -17600,14 +16787,12 @@
       </p>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Conjunction fallacy" ID="ID_19391209" CREATED="1618487932836" MODIFIED="1642689721691">
 <edge COLOR="#7c007c"/>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -17617,10 +16802,8 @@
       (also known as: conjunction effect)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -17674,11 +16857,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Disjunction Fallacy" ID="ID_1402000060" CREATED="1636914555627" MODIFIED="1642690807460"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -17730,8 +16911,7 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node ID="ID_249917460" CREATED="1618487959453" MODIFIED="1637057038293"><richcontent TYPE="NODE">
 
@@ -17748,7 +16928,6 @@
 </richcontent>
 <edge COLOR="#7c0000"/>
 <node TEXT="Affirming a disjunct" ID="ID_557558996" CREATED="1618487987789" MODIFIED="1642679653151"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -17758,10 +16937,8 @@
       (also known as: the fallacy of the alternative disjunct, false exclusionary disjunct, affirming one disjunct, the fallacy of the alternative syllogism, asserting an alternative, improper disjunctive syllogism, fallacy of the disjunctive syllogism)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -17836,11 +17013,9 @@
       If you are thinking, &#x201c;But it can be both Monday and Sunday if we are talking about two different time zones,&#x201d; then give your self three points for being clever, then subtract four points for missing the whole point of the fallacy.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Affirming the consequent" ID="ID_1157589957" CREATED="1618488004628" MODIFIED="1642679805601"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -17850,10 +17025,8 @@
       (also known as: converse error, fallacy of the consequent, asserting the consequent, affirmation of the consequent)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -17919,11 +17092,9 @@
       <strong>Tip:</strong>&nbsp;If it&#x2019;s yellow, flush it down too. Especially, if you are married and want to stay that way.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Politician&apos;s syllogism" ID="ID_827540519" CREATED="1636881139255" MODIFIED="1642505175434"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -17933,14 +17104,12 @@
       (also known as: politician's fallacy, politician's logic)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Non sequitur" ID="ID_528164820" CREATED="1620019584055" MODIFIED="1642751877902">
 <edge COLOR="#0000ff"/>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -17950,10 +17119,8 @@
       (also known as: derailment, &#x201c;that does not follow&#x201d;, irrelevant reason, invalid inference, non-support, argument by scenario [form of], false premise [form of], questionable premise [form of])
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -18016,10 +17183,8 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Anangeon" ID="ID_1639202385" CREATED="1620019687030" MODIFIED="1642504941662"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -18029,11 +17194,9 @@
       (also known as: dicaeologia)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Argument by Gibberish" ID="ID_1188872469" CREATED="1635720445617" MODIFIED="1642687375246"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -18043,10 +17206,8 @@
       (also known as: bafflement, argument by [prestigious] jargon)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -18094,8 +17255,7 @@
       <strong>Tip:</strong>&nbsp;Remember that good communication is not about confusing people; it&#x2019;s about mutual understanding.&nbsp;&nbsp;Don&#x2019;t try to impress people with fancy words and jargon, when simpler words will do just fine.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Mathematical fallacy" ID="ID_1275163683" CREATED="1635718321655" MODIFIED="1635718323103">
@@ -18103,9 +17263,8 @@
 </node>
 <node TEXT="Improper premise" ID="ID_1741718067" CREATED="1636881413520" MODIFIED="1636881414654">
 <node TEXT="Affirmative conclusion from a negative premise" ID="ID_1279222755" CREATED="1618488067037" MODIFIED="1642679406242">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1429915355" STARTINCLINATION="655;0;" ENDINCLINATION="655;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1429915355" STARTINCLINATION="491.24999 pt;0 pt;" ENDINCLINATION="491.24999 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -18115,10 +17274,8 @@
       (also known as: illicit negative, drawing an affirmative conclusion from negative premises, fallacy of negative premises)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -18191,13 +17348,11 @@
       <strong>Tip:</strong>&nbsp;Syllogisms and identifying formal fallacies (at least by form) are common on intelligence tests. Know this and be more intelligent (at least on paper).
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Exclusive Premises" ID="ID_606470994" CREATED="1618488073585" MODIFIED="1642691242376">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1429915355" STARTINCLINATION="665;0;" ENDINCLINATION="665;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1429915355" STARTINCLINATION="498.74999 pt;0 pt;" ENDINCLINATION="498.74999 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -18207,10 +17362,8 @@
       (also known as: fallacy of exclusive premises)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -18303,15 +17456,13 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Vacuous truth" ID="ID_666725942" CREATED="1618501113454" MODIFIED="1618501114972"/>
 <node TEXT="Phantom distinction" ID="ID_1558928662" CREATED="1636963355209" MODIFIED="1642690871381">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1558928662" STARTINCLINATION="40;0;" ENDINCLINATION="40;45;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1558928662" STARTINCLINATION="30 pt;0 pt;" ENDINCLINATION="30 pt;33.75 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -18321,10 +17472,8 @@
       (also known as: distinction without a difference, difference without a distinction, phantom difference, sham difference, sham distinction)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -18381,12 +17530,10 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Masked-man fallacy" ID="ID_1945849240" CREATED="1618487944636" MODIFIED="1642699841736">
 <edge COLOR="#007c00"/>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -18396,10 +17543,8 @@
       (also known as: Epistemic fallacy, Hooded man fallacy, Illicit substitution (of identicals, intensional fallacy, illicit substitution of identicals)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -18477,12 +17622,10 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Denying a Conjunct" ID="ID_1084060723" CREATED="1642503500997" MODIFIED="1642690567881"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -18563,11 +17706,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Unwarranted Contrast" ID="ID_38866346" CREATED="1637164722582" MODIFIED="1642767394768"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -18577,10 +17718,8 @@
       (also known as: some are/some are not)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -18635,11 +17774,9 @@
     </p>
     References: Hansen, H. V., &amp; Pinto, R. C. (1995). Fallacies: Classical and Contemporary Readings. Penn State Press.
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="quantificational fallacy" ID="ID_1815757124" CREATED="1642503311456" MODIFIED="1642503447986"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -18651,11 +17788,9 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Fallacy of Four Terms" ID="ID_1751663458" CREATED="1618499509500" MODIFIED="1642865743749"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -18665,10 +17800,8 @@
       (also known as: quaternio terminorum, ambiguous middle term, fallacy of four terms, Four-term fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -18734,14 +17867,12 @@
       <strong>Fun Fact: </strong>Greek gods may not exist, but Greek yogurt does.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Base rate fallacy" ID="ID_1595124117" CREATED="1620018868030" MODIFIED="1642699541841">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_841086237" STARTINCLINATION="2829;0;" ENDINCLINATION="2829;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_480276856" STARTINCLINATION="2188;0;" ENDINCLINATION="2188;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_480276856" STARTINCLINATION="1640.99995 pt;0 pt;" ENDINCLINATION="1640.99995 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_841086237" STARTINCLINATION="2121.74994 pt;0 pt;" ENDINCLINATION="2121.74994 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -18751,10 +17882,8 @@
       (also known as: neglecting base rates, base rate neglect, prosecutor's fallacy [form of])
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -18796,13 +17925,11 @@
       <strong>Tip:</strong>&nbsp;Take some time in your life to read a book or take a course on probability.&nbsp;&nbsp;Probability affects our lives in so many ways that having a good understanding of it will continually pay off.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Prosecutor&apos;s fallacy" ID="ID_1989538828" CREATED="1642867769576" MODIFIED="1642867774403"/>
 <node TEXT="Defense attorney&apos;s Fallacy" ID="ID_1473030038" CREATED="1642867782237" MODIFIED="1642867785065"/>
 </node>
 <node TEXT="Denying the antecedent" ID="ID_142075793" CREATED="1636960683543" MODIFIED="1642690698511"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -18812,10 +17939,8 @@
       (also known as: conclusion which denies premises, inverse error, inverse fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -18890,11 +18015,9 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="False Conversion" ID="ID_65772536" CREATED="1637059817779" MODIFIED="1642695665388"><richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -18970,12 +18093,10 @@
       <strong>Tip: </strong>Remember that formal fallacies are often obscured by unstructured rants. Creating a formal argument from such rants is both an art and a science.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node TEXT="Ad hoc rescue" POSITION="left" ID="ID_22427007" CREATED="1636979941740" MODIFIED="1642678608300"><richcontent TYPE="DETAILS">
-
+<node TEXT="Ad hoc rescue" POSITION="top_or_left" ID="ID_22427007" CREATED="1636979941740" MODIFIED="1642678608300"><richcontent TYPE="DETAILS">
 <html>
   <head>
     
@@ -18985,10 +18106,8 @@
       (also known as: making stuff up, MSU fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
-
 <html>
   <head>
     
@@ -19051,17 +18170,15 @@
       <strong>Tip:</strong>&nbsp;When you suspect people are just making stuff up, rather than providing evidence to support their claim, simply ask them, &#x201c;What evidence do you have to support that?&#x201d;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Escape hatch" ID="ID_1078619568" CREATED="1636979953368" MODIFIED="1642865946417">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1388927450" STARTINCLINATION="5092;0;" ENDINCLINATION="5092;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1388927450" STARTINCLINATION="3818.99989 pt;0 pt;" ENDINCLINATION="3818.99989 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 <node TEXT="God of the gaps" ID="ID_1192998804" CREATED="1636979959592" MODIFIED="1637403493910">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1425407978" STARTINCLINATION="1847;0;" ENDINCLINATION="1847;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1425407978" STARTINCLINATION="1385.24996 pt;0 pt;" ENDINCLINATION="1385.24996 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 <node TEXT="Handwave" ID="ID_468773821" CREATED="1636979967576" MODIFIED="1636979968035"/>
 <node TEXT="PIDOOMA" ID="ID_485698598" CREATED="1636979981244" MODIFIED="1636980097516"><richcontent TYPE="DETAILS">
-
 <html>
   <head>
     
@@ -19071,8 +18188,7 @@
       (also known as:&nbsp;&nbsp;Pulled It Directly Out Of My Ass, argumentum ex culo)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Game theory fallacies" ID="ID_1677102716" CREATED="1642876516152" MODIFIED="1642876521563"/>
 </node>

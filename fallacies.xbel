@@ -1,0 +1,1383 @@
+<?xml version="1.0" encoding="UTF-8"?><xbel version="1.0" folded="no">
+    <title/>
+    <folder>
+        <title/>
+        <folder>
+            <title>Correlation does not imply causation</title>
+            <folder>
+                <title>post hoc ergo propter hoc</title>
+            </folder>
+            <folder>
+                <title>Circular cause and consequence</title>
+            </folder>
+            <folder>
+                <title>B causes A (reverse causation or reverse causality)</title>
+            </folder>
+            <folder>
+                <title>Third factor C (the common-causal variable) causes both A and B</title>
+            </folder>
+            <folder>
+                <title>Bidirectional causation: A causes B, and B causes A</title>
+            </folder>
+            <folder>
+                <title>The relationship between A and B is coincidental</title>
+            </folder>
+        </folder>
+        <folder>
+            <title>Gambler's fallacy (inverse)</title>
+            <folder>
+                <title>Hot hand fallacy</title>
+            </folder>
+            <folder>
+                <title>Ludic fallacy</title>
+            </folder>
+            <folder>
+                <title>Drought fallacy</title>
+            </folder>
+        </folder>
+        <folder>
+            <title>Regression fallacy</title>
+        </folder>
+        <folder>
+            <title>Causal Reductionism</title>
+            <folder>
+                <title>Insignificant Cause</title>
+            </folder>
+        </folder>
+        <folder>
+            <title>Slippery slope</title>
+        </folder>
+        <folder>
+            <title>Texas Sharpshooter Fallacy</title>
+        </folder>
+        <folder>
+            <title>Magical thinking</title>
+            <folder>
+                <title>Folk religion</title>
+            </folder>
+            <folder>
+                <title>Illusion of control</title>
+            </folder>
+            <folder>
+                <title>Law of attraction (New Thought)</title>
+            </folder>
+            <folder>
+                <title>Law of contagion</title>
+            </folder>
+            <folder>
+                <title>Obsessive–compulsive disorder</title>
+            </folder>
+            <folder>
+                <title>Performativity</title>
+            </folder>
+            <folder>
+                <title>Placebo button</title>
+            </folder>
+            <folder>
+                <title>Psychological theories of magic</title>
+            </folder>
+            <folder>
+                <title>Magic and religion</title>
+            </folder>
+            <folder>
+                <title>Segen</title>
+            </folder>
+            <folder>
+                <title>Wish fulfillment</title>
+            </folder>
+        </folder>
+        <folder>
+            <title>Argument of the Beard</title>
+        </folder>
+        <folder>
+            <title>Counterfactual fallacy</title>
+        </folder>
+        <folder>
+            <title>Sociologist's fallacy</title>
+        </folder>
+    </folder>
+    <folder>
+        <title>Fallacies of relevance</title>
+        <folder>
+            <title/>
+            <folder>
+                <title>argumentum in terrorem</title>
+                <folder>
+                    <title> Fear, uncertainty, and doubt (FUD)</title>
+                </folder>
+                <folder>
+                    <title>Appeal to prejudice</title>
+                </folder>
+                <folder>
+                    <title>Just In Case Fallacy</title>
+                </folder>
+            </folder>
+            <folder>
+                <title>Flag-waving</title>
+            </folder>
+            <folder>
+                <title>Appeal to flattery</title>
+            </folder>
+            <folder>
+                <title>Appeal to novelty</title>
+                <folder>
+                    <title>Chronological snobbery</title>
+                </folder>
+            </folder>
+            <folder>
+                <title>Appeal to pity</title>
+            </folder>
+            <folder>
+                <title>Appeal to hate</title>
+            </folder>
+            <folder>
+                <title>reductio ad ridiculum</title>
+                <folder>
+                    <title>Proving too much</title>
+                </folder>
+                <folder>
+                    <title>Pooh-pooh</title>
+                    <folder>
+                        <title>Big lie</title>
+                    </folder>
+                </folder>
+            </folder>
+            <folder>
+                <title>Think of the children</title>
+            </folder>
+            <folder>
+                <title>In-group favoritism</title>
+            </folder>
+            <folder>
+                <title>Invented here</title>
+            </folder>
+            <folder>
+                <title>Island mentality</title>
+            </folder>
+            <folder>
+                <title>Appeal to loyalty</title>
+            </folder>
+            <folder>
+                <title>Not invented (t)here</title>
+            </folder>
+            <folder>
+                <title>Parade of horribles</title>
+            </folder>
+            <folder>
+                <title>Appeal to spite</title>
+            </folder>
+            <folder>
+                <title>Stirring symbols</title>
+            </folder>
+            <folder>
+                <title>Judgmental language</title>
+            </folder>
+            <folder>
+                <title>Argumentum ad captandum vulgus</title>
+            </folder>
+            <folder>
+                <title>Appeal to gravity</title>
+            </folder>
+            <folder>
+                <title>Appeal to shame</title>
+                <folder>
+                    <title>Every Schoolboy Knows</title>
+                </folder>
+            </folder>
+            <folder>
+                <title>Argumentum ad fastidium</title>
+            </folder>
+            <folder>
+                <title>Style over substance</title>
+            </folder>
+            <folder>
+                <title>argumentum ad fidentia</title>
+            </folder>
+            <folder>
+                <title>Appeal to Desperation</title>
+            </folder>
+            <folder>
+                <title>Appeal to Intuition</title>
+            </folder>
+            <folder>
+                <title>Prejudicial Language</title>
+            </folder>
+            <folder>
+                <title>Love bombing</title>
+                <folder>
+                    <title>Milieu control</title>
+                </folder>
+            </folder>
+            <folder>
+                <title> victim playing</title>
+            </folder>
+            <folder>
+                <title>What's the harm</title>
+            </folder>
+        </folder>
+        <folder>
+            <title/>
+            <folder>
+                <title>argumentum ad hominem</title>
+                <folder>
+                    <title>Association fallacy</title>
+                    <folder>
+                        <title>Godwin law</title>
+                    </folder>
+                    <folder>
+                        <title>Galileo Fallacy</title>
+                    </folder>
+                </folder>
+                <folder>
+                    <title>Poisoning the well</title>
+                </folder>
+                <folder>
+                    <title>Tone policing</title>
+                    <folder>
+                        <title>Political Correctness Fallacy</title>
+                    </folder>
+                </folder>
+                <folder>
+                    <title>Tu quoque</title>
+                    <folder>
+                        <title>I'm not prejudiced, but...</title>
+                        <folder>
+                            <title>Friend argument</title>
+                        </folder>
+                    </folder>
+                    <folder>
+                        <title>Whataboutism</title>
+                    </folder>
+                    <folder>
+                        <title>Appeal to Trust</title>
+                    </folder>
+                    <folder>
+                        <title>Double Standard</title>
+                    </folder>
+                    <folder>
+                        <title>Two Wrongs Make a Right</title>
+                    </folder>
+                </folder>
+                <folder>
+                    <title>Bulverism</title>
+                </folder>
+                <folder>
+                    <title>Argumentum ergo decedo</title>
+                </folder>
+                <folder>
+                    <title>ad hominem (abusive)</title>
+                    <folder>
+                        <title>Name calling</title>
+                    </folder>
+                    <folder>
+                        <title>Verbal abuse</title>
+                    </folder>
+                    <folder>
+                        <title>Appeal to Stupidity</title>
+                    </folder>
+                    <folder>
+                        <title>Appeal to the Law</title>
+                    </folder>
+                    <folder>
+                        <title>Argument from Age</title>
+                    </folder>
+                    <folder>
+                        <title>Fallacy of Opposition</title>
+                    </folder>
+                    <folder>
+                        <title>Identity Fallacy</title>
+                    </folder>
+                    <folder>
+                        <title>Abusive analogy</title>
+                    </folder>
+                </folder>
+                <folder>
+                    <title>argumentum ad hominem (Circumstantial)</title>
+                </folder>
+            </folder>
+            <folder>
+                <title>Appeal to authority</title>
+                <folder>
+                    <title>Appeal to accomplishment</title>
+                </folder>
+                <folder>
+                    <title>bare assertion fallacy</title>
+                </folder>
+                <folder>
+                    <title>Courtier's reply</title>
+                </folder>
+                <folder>
+                    <title>Argument to the Purse</title>
+                    <folder>
+                        <title>argumentum ad Lazarum</title>
+                    </folder>
+                    <folder>
+                        <title>Argumentum ad crumenam</title>
+                    </folder>
+                </folder>
+                <folder>
+                    <title>Name-dropping</title>
+                </folder>
+                <folder>
+                    <title>Dictat (propaganda)</title>
+                </folder>
+                <folder>
+                    <title>Anonymous authority</title>
+                </folder>
+                <folder>
+                    <title>Appeal to Celebrity</title>
+                </folder>
+                <folder>
+                    <title>Appeal to False Authority</title>
+                </folder>
+                <folder>
+                    <title>Blind Authority Fallacy</title>
+                </folder>
+                <folder>
+                    <title>Appeal to the minority</title>
+                </folder>
+            </folder>
+            <folder>
+                <title>Appeal to Definition</title>
+                <folder>
+                    <title>Etymological Fallacy</title>
+                </folder>
+            </folder>
+            <folder>
+                <title>Sunk-Cost Fallacy</title>
+                <folder>
+                    <title>Appeal to Tradition</title>
+                    <folder>
+                        <title>Non-anticipation</title>
+                    </folder>
+                    <folder>
+                        <title>Appeal to ancient wisdom</title>
+                    </folder>
+                </folder>
+            </folder>
+            <folder>
+                <title>Appeal to nature</title>
+            </folder>
+        </folder>
+        <folder>
+            <title>Argument to moderation</title>
+        </folder>
+        <folder>
+            <title>Appeal to the stone</title>
+        </folder>
+        <folder>
+            <title>argument from anecdote</title>
+        </folder>
+        <folder>
+            <title>Argument by Pigheadedness</title>
+        </folder>
+        <folder>
+            <title>Rationalization (psychology)</title>
+        </folder>
+        <folder>
+            <title>red herring</title>
+            <folder>
+                <title>argumentum ad antiquitatis</title>
+            </folder>
+            <folder>
+                <title>Appeal to Common Belief</title>
+                <folder>
+                    <title>Argument by Personal Charm</title>
+                </folder>
+                <folder>
+                    <title>Flag-waving</title>
+                </folder>
+                <folder>
+                    <title>Alleged Certainty</title>
+                </folder>
+                <folder>
+                    <title>Appeal to Common Folk</title>
+                </folder>
+                <folder>
+                    <title>Appeal to Popularity</title>
+                </folder>
+                <folder>
+                    <title>Nutpicking Fallacy</title>
+                </folder>
+                <folder>
+                    <title>Gadarene Swine Fallacy</title>
+                </folder>
+                <folder>
+                    <title>Imposter Fallacy</title>
+                </folder>
+                <folder>
+                    <title>Oberbelief</title>
+                </folder>
+            </folder>
+            <folder>
+                <title>Judgmental language</title>
+            </folder>
+            <folder>
+                <title>Logic Chopping</title>
+            </folder>
+            <folder>
+                <title>Truth by consensus</title>
+            </folder>
+            <folder>
+                <title>Irrelevant Humour</title>
+            </folder>
+            <folder>
+                <title>fallaca ancidentis</title>
+            </folder>
+        </folder>
+        <folder>
+            <title>Straw man Fallacy</title>
+        </folder>
+        <folder>
+            <title>special pleading</title>
+            <folder>
+                <title>Subjectivist Fallacy</title>
+                <folder>
+                    <title>Well, then you can ask them to send you the answers by e-mail anyway, they will see</title>
+                </folder>
+            </folder>
+        </folder>
+        <folder>
+            <title>I'm entitled to my opinion</title>
+        </folder>
+        <folder>
+            <title>Argument from Ignorance</title>
+            <folder>
+                <title>Evidence of absence</title>
+            </folder>
+            <folder>
+                <title>Appeal to censorship</title>
+            </folder>
+            <folder>
+                <title>Argument from incredulity</title>
+                <folder>
+                    <title>Amazing Familiarity</title>
+                </folder>
+            </folder>
+            <folder>
+                <title>Argument from omniscience</title>
+            </folder>
+            <folder>
+                <title>Argument from silence</title>
+            </folder>
+            <folder>
+                <title>Holmesian fallacy</title>
+            </folder>
+            <folder>
+                <title>Science doesn't know everything</title>
+            </folder>
+            <folder>
+                <title>Science was wrong before</title>
+            </folder>
+            <folder>
+                <title>Toupée fallacy</title>
+            </folder>
+            <folder>
+                <title>Appeal to eye</title>
+                <folder>
+                    <title>El Greco fallacy</title>
+                </folder>
+            </folder>
+            <folder>
+                <title>appeal to calm down</title>
+            </folder>
+            <folder>
+                <title>Appeal to Self-evident Truth</title>
+            </folder>
+            <folder>
+                <title>Just Because Fallacy</title>
+            </folder>
+            <folder>
+                <title>Appeal to Faith</title>
+                <folder>
+                    <title>Appeal to Heaven</title>
+                </folder>
+            </folder>
+            <folder>
+                <title>Appeal to Closure</title>
+                <folder>
+                    <title>Appeal to Equality</title>
+                </folder>
+            </folder>
+            <folder>
+                <title>Pragmatic Fallacy</title>
+                <folder>
+                    <title>Apex fallacy</title>
+                </folder>
+                <folder>
+                    <title>Lack of proportion</title>
+                    <folder>
+                        <title>Disregarding known science</title>
+                    </folder>
+                    <folder>
+                        <title>Exaggeration</title>
+                    </folder>
+                </folder>
+                <folder>
+                    <title>Argument by Selective Reading</title>
+                </folder>
+            </folder>
+            <folder>
+                <title>Willed Ignorance</title>
+            </folder>
+            <folder>
+                <title>Missing Data Fallacy</title>
+            </folder>
+            <folder>
+                <title>Notable Effort</title>
+            </folder>
+            <folder>
+                <title>Just world fallacy</title>
+            </folder>
+            <folder>
+                <title>Appeal to Complexity</title>
+            </folder>
+            <folder>
+                <title>Unfalsifiability</title>
+            </folder>
+        </folder>
+        <folder>
+            <title>Argument from fallacy</title>
+        </folder>
+        <folder>
+            <title>Double-barreled question</title>
+        </folder>
+        <folder>
+            <title>Shaggy defense</title>
+        </folder>
+        <folder>
+            <title>The squeaky wheel gets the grease</title>
+        </folder>
+        <folder>
+            <title>blaming</title>
+            <folder>
+                <title>Victim blaming</title>
+            </folder>
+            <folder>
+                <title>Scapegoating</title>
+            </folder>
+        </folder>
+        <folder>
+            <title>reverse appeal to emotion</title>
+            <folder>
+                <title>Appeal to anger</title>
+            </folder>
+            <folder>
+                <title>Appeal to Normality</title>
+            </folder>
+        </folder>
+        <folder>
+            <title>Argument by assertion</title>
+            <folder>
+                <title>Argument from repetition</title>
+                <folder>
+                    <title>Sealioning</title>
+                </folder>
+                <folder>
+                    <title>Proof by assertion</title>
+                </folder>
+            </folder>
+        </folder>
+        <folder>
+            <title> is–ought problem</title>
+            <folder>
+                <title>Moralistic fallacy</title>
+                <folder>
+                    <title>Demoralization</title>
+                </folder>
+                <folder>
+                    <title>Virtue signalling</title>
+                </folder>
+            </folder>
+            <folder>
+                <title>Economic fallacies</title>
+                <folder>
+                    <title>Hyperbolic discounting</title>
+                </folder>
+                <folder>
+                    <title>Sunk-Cost Fallacy</title>
+                </folder>
+                <folder>
+                    <title>Broken window fallacy</title>
+                </folder>
+            </folder>
+        </folder>
+    </folder>
+    <folder>
+        <title>uncategorized</title>
+        <folder>
+            <title>Cartesian circle</title>
+        </folder>
+        <folder>
+            <title>argument from the contrary</title>
+        </folder>
+        <folder>
+            <title>Attack ad</title>
+        </folder>
+        <folder>
+            <title>Failure bias</title>
+        </folder>
+        <folder>
+            <title>Falsism</title>
+        </folder>
+        <folder>
+            <title>Greedy reductionism</title>
+        </folder>
+        <folder>
+            <title>Inconsistent comparison</title>
+        </folder>
+        <folder>
+            <title>Hoyle's Fallacy/Junkyard tornado</title>
+        </folder>
+        <folder>
+            <title>Mind projection fallacy</title>
+            <folder>
+                <title>Psychologist's fallacy</title>
+            </folder>
+            <folder>
+                <title>Historian's fallacy</title>
+                <folder>
+                    <title>Baconian fallacy</title>
+                </folder>
+                <folder>
+                    <title>Dixiecrat fallacy</title>
+                </folder>
+            </folder>
+            <folder>
+                <title>Historical fallacy</title>
+            </folder>
+            <folder>
+                <title>Fantasy Projection</title>
+            </folder>
+        </folder>
+        <folder>
+            <title>Misology</title>
+        </folder>
+        <folder>
+            <title>Missing dollar riddle</title>
+        </folder>
+        <folder>
+            <title>Sunday school answer</title>
+        </folder>
+        <folder>
+            <title>Uniqueness bias</title>
+        </folder>
+        <folder>
+            <title>Virtuality fallacy</title>
+        </folder>
+        <folder>
+            <title>Demonizing the enemy</title>
+            <folder>
+                <title>False accusions</title>
+            </folder>
+        </folder>
+        <folder>
+            <title>Alphabet Soup</title>
+        </folder>
+        <folder>
+            <title>Alternative Advance</title>
+        </folder>
+        <folder>
+            <title>Commutation of Conditionals</title>
+        </folder>
+        <folder>
+            <title>Confusing an Explanation with an Excuse</title>
+        </folder>
+        <folder>
+            <title>Confusing Currently Unexplained with Unexplainable</title>
+        </folder>
+        <folder>
+            <title>Conspiracy Theory</title>
+        </folder>
+        <folder>
+            <title>Distinction Without a Difference</title>
+        </folder>
+        <folder>
+            <title>Fact-to-Fiction Fallacy</title>
+        </folder>
+        <folder>
+            <title>False Effect</title>
+        </folder>
+        <folder>
+            <title>Gadarene Swine Fallacy</title>
+        </folder>
+        <folder>
+            <title>Having Your Cake</title>
+        </folder>
+        <folder>
+            <title>Hedging</title>
+        </folder>
+        <folder>
+            <title>Inconsistency</title>
+        </folder>
+        <folder>
+            <title>Inflation of Conflict</title>
+        </folder>
+        <folder>
+            <title>Least Plausible Hypothesis</title>
+        </folder>
+        <folder>
+            <title>Limited Depth</title>
+        </folder>
+        <folder>
+            <title>Limited Scope</title>
+        </folder>
+        <folder>
+            <title>Multiple Comparisons Fallacy</title>
+        </folder>
+        <folder>
+            <title>Overextended Outrage</title>
+        </folder>
+        <folder>
+            <title>Post-Designation</title>
+        </folder>
+        <folder>
+            <title>Proof by Intimidation</title>
+        </folder>
+        <folder>
+            <title>Proof Surrogate</title>
+        </folder>
+        <folder>
+            <title>Proving Non-Existence</title>
+        </folder>
+        <folder>
+            <title>Psychogenetic Fallacy</title>
+        </folder>
+        <folder>
+            <title>Quantum Physics Fallacy</title>
+        </folder>
+        <folder>
+            <title>Retrogressive Causation</title>
+        </folder>
+        <folder>
+            <title>Righteousness Fallacy</title>
+            <folder>
+                <title>Self-righteousness Fallacy</title>
+            </folder>
+        </folder>
+        <folder>
+            <title>Rights To Ought Fallacy</title>
+        </folder>
+        <folder>
+            <title>Selective Attention</title>
+        </folder>
+        <folder>
+            <title>Self-Sealing Argument</title>
+        </folder>
+        <folder>
+            <title>Shifting of the Burden of Proof</title>
+        </folder>
+        <folder>
+            <title>Shoehorning</title>
+        </folder>
+        <folder>
+            <title>Spiritual Fallacy</title>
+        </folder>
+        <folder>
+            <title>Spin Doctoring</title>
+        </folder>
+        <folder>
+            <title>Statement of Conversion</title>
+        </folder>
+        <folder>
+            <title>Stereotyping (the fallacy)</title>
+        </folder>
+        <folder>
+            <title>Subverted Support</title>
+        </folder>
+        <folder>
+            <title>Blinding with science</title>
+        </folder>
+        <folder>
+            <title>Runaway train</title>
+        </folder>
+        <folder>
+            <title>Shifting ground</title>
+        </folder>
+        <folder>
+            <title>Thatcher’s blame</title>
+        </folder>
+        <folder>
+            <title>Unaccepted enthyrnemes</title>
+        </folder>
+        <folder>
+            <title>Feedback fallacy</title>
+        </folder>
+        <folder>
+            <title>Lump of labour fallacy</title>
+        </folder>
+        <folder>
+            <title>Referential fallacy</title>
+        </folder>
+        <folder>
+            <title>Appeal to Consequences</title>
+            <folder>
+                <title>Appeal to force</title>
+            </folder>
+            <folder>
+                <title>Wishful thinking</title>
+                <folder>
+                    <title>Magical thinking</title>
+                </folder>
+                <folder>
+                    <title>Argumentum ab utili</title>
+                </folder>
+            </folder>
+        </folder>
+        <folder>
+            <title>Unreasonable Inclusion Fallacy</title>
+        </folder>
+        <folder>
+            <title> Exception That Proves The Rule</title>
+        </folder>
+        <folder>
+            <title>Refuting the example</title>
+        </folder>
+        <folder>
+            <title>argumentum ad Temperantlam</title>
+        </folder>
+        <folder>
+            <title>The Undistributed middle</title>
+        </folder>
+        <folder>
+            <title>fallacia non causae ut causae</title>
+        </folder>
+        <folder>
+            <title>Argumentum ad amicitiam</title>
+        </folder>
+        <folder>
+            <title>Argumentum a simili</title>
+        </folder>
+        <folder>
+            <title>argumentum a fortiori</title>
+            <folder>
+                <title>a maiori ad minus</title>
+            </folder>
+            <folder>
+                <title>a minori ad maius</title>
+            </folder>
+        </folder>
+        <folder>
+            <title>Argumentum ad exemplum</title>
+        </folder>
+        <folder>
+            <title>Argumentum ad vertiginem</title>
+            <folder>
+                <title/>
+            </folder>
+        </folder>
+        <folder>
+            <title>argumentum ad vanitatem</title>
+        </folder>
+        <folder>
+            <title>argumentum ad superstitionem</title>
+        </folder>
+        <folder>
+            <title>argumentum ad socordiam</title>
+        </folder>
+        <folder>
+            <title>argumentum ad reverentiam</title>
+        </folder>
+        <folder>
+            <title>Argumentum ad quietem</title>
+        </folder>
+    </folder>
+    <folder>
+        <title>Faulty generalization/Inductive fallacies</title>
+        <folder>
+            <title>Argument from Hearsay</title>
+        </folder>
+        <folder>
+            <title>Sampling bias</title>
+            <folder>
+                <title>Cherry picking</title>
+                <folder>
+                    <title>Survivorship Fallacy</title>
+                </folder>
+                <folder>
+                    <title>Casualty fallacy</title>
+                </folder>
+                <folder>
+                    <title>McNamara Fallacy</title>
+                    <folder>
+                        <title>Managing the news</title>
+                    </folder>
+                </folder>
+            </folder>
+            <folder>
+                <title>Nut-picking</title>
+            </folder>
+        </folder>
+        <folder>
+            <title>Package-Deal Fallacy</title>
+        </folder>
+        <folder>
+            <title>Weak Analogy</title>
+            <folder>
+                <title>appeal to the Moon</title>
+            </folder>
+            <folder>
+                <title>Extended Analogy</title>
+            </folder>
+            <folder>
+                <title>Faulty Comparison</title>
+            </folder>
+            <folder>
+                <title>Incomplete comparison</title>
+            </folder>
+            <folder>
+                <title>Appeal to Extremes</title>
+            </folder>
+        </folder>
+        <folder>
+            <title>appeal to coincidence</title>
+        </folder>
+        <folder>
+            <title>overwhelming exception</title>
+        </folder>
+        <folder>
+            <title>Hasty generalization</title>
+            <folder>
+                <title>Spotlight fallacy</title>
+            </folder>
+            <folder>
+                <title>Jumping to Conclusions</title>
+                <folder>
+                    <title>Mind reading</title>
+                </folder>
+                <folder>
+                    <title>Fortune telling</title>
+                </folder>
+                <folder>
+                    <title>Labeling</title>
+                </folder>
+            </folder>
+            <folder>
+                <title>Ex-post-facto Statistics</title>
+            </folder>
+            <folder>
+                <title>Self–selection</title>
+            </folder>
+            <folder>
+                <title>Double counting (fallacy)</title>
+            </folder>
+        </folder>
+        <folder>
+            <title>Inductive fallacy</title>
+        </folder>
+        <folder>
+            <title>Misleading vividness</title>
+        </folder>
+        <folder>
+            <title>Thought-terminating cliché</title>
+        </folder>
+        <folder>
+            <title>Appeal to probability</title>
+        </folder>
+        <folder>
+            <title>Availability heuristic</title>
+        </folder>
+        <folder>
+            <title>Blind men and an elephant</title>
+        </folder>
+        <folder>
+            <title>Confirmation bias</title>
+            <folder>
+                <title>Motivated reasoning</title>
+            </folder>
+        </folder>
+        <folder>
+            <title>Counterinduction</title>
+        </folder>
+        <folder>
+            <title>Group attribution error</title>
+        </folder>
+        <folder>
+            <title>Idola</title>
+            <folder>
+                <title>Idola tribus</title>
+            </folder>
+            <folder>
+                <title>Idola specus</title>
+            </folder>
+            <folder>
+                <title>Idola theatri</title>
+            </folder>
+            <folder>
+                <title>Idola fori</title>
+            </folder>
+        </folder>
+        <folder>
+            <title>Biased Sample Fallacy</title>
+        </folder>
+        <folder>
+            <title>Lying with Statistics</title>
+        </folder>
+        <folder>
+            <title>Damning the Alternatives</title>
+        </folder>
+        <folder>
+            <title>Exception that proves the rule</title>
+        </folder>
+    </folder>
+    <folder>
+        <title>Accident Fallacy</title>
+        <folder>
+            <title>Converse accident</title>
+        </folder>
+        <folder>
+            <title>Stereotyping fallacy</title>
+        </folder>
+    </folder>
+    <folder>
+        <title/>
+        <folder>
+            <title>Fallacy of composition</title>
+        </folder>
+        <folder>
+            <title>Fallacy of division</title>
+        </folder>
+        <folder>
+            <title>Ecological fallacy</title>
+        </folder>
+    </folder>
+    <folder>
+        <title>Question-begging fallacies</title>
+        <folder>
+            <title>Circular reasoning</title>
+            <folder>
+                <title>Conflicting Conditions</title>
+                <folder>
+                    <title>Kettle logic</title>
+                </folder>
+                <folder>
+                    <title>Stolen concept fallacy</title>
+                </folder>
+            </folder>
+            <folder>
+                <title>Circular Definition</title>
+            </folder>
+            <folder>
+                <title>Homunculus Fallacy</title>
+            </folder>
+            <folder>
+                <title>Tautology</title>
+            </folder>
+        </folder>
+        <folder>
+            <title>Begging the Question</title>
+            <folder>
+                <title>Loaded label</title>
+            </folder>
+        </folder>
+        <folder>
+            <title>Complex Question Fallacy</title>
+        </folder>
+        <folder>
+            <title>Loaded language</title>
+            <folder>
+                <title>Buzzword</title>
+            </folder>
+            <folder>
+                <title>Dog whistle (politics)</title>
+            </folder>
+            <folder>
+                <title>Glittering generality</title>
+            </folder>
+            <folder>
+                <title>OPROP!</title>
+            </folder>
+            <folder>
+                <title>Talking point</title>
+            </folder>
+            <folder>
+                <title>Weasel word</title>
+            </folder>
+            <folder>
+                <title>Euphemism</title>
+            </folder>
+            <folder>
+                <title>Dysphemism</title>
+            </folder>
+        </folder>
+        <folder>
+            <title>Leading question</title>
+        </folder>
+        <folder>
+            <title>Suggestive question</title>
+        </folder>
+        <folder>
+            <title>Meaningless Question</title>
+        </folder>
+        <folder>
+            <title>Hypnotic Bait and Switch</title>
+        </folder>
+    </folder>
+    <folder>
+        <title/>
+        <folder>
+            <title>False equivalence</title>
+        </folder>
+        <folder>
+            <title>False attribution</title>
+            <folder>
+                <title>Contextomy</title>
+            </folder>
+            <folder>
+                <title>Recontextualisation</title>
+            </folder>
+        </folder>
+        <folder>
+            <title>Loki's Wager</title>
+        </folder>
+        <folder>
+            <title>No True Scotsman</title>
+        </folder>
+        <folder>
+            <title>Definitional Retreat</title>
+        </folder>
+        <folder>
+            <title>motte-and-bailey fallacy</title>
+        </folder>
+        <folder>
+            <title>Accent Fallacy</title>
+        </folder>
+        <folder>
+            <title>Denying the Antecedent</title>
+        </folder>
+        <folder>
+            <title>if-by-whiskey fallacy</title>
+        </folder>
+        <folder>
+            <title>Fallacy of amphiboly</title>
+        </folder>
+        <folder>
+            <title>Moral equivalence</title>
+            <folder>
+                <title>Fallacy of relative privation</title>
+                <folder>
+                    <title>First World problems</title>
+                </folder>
+            </folder>
+        </folder>
+        <folder>
+            <title>Fallacy of Every and All</title>
+        </folder>
+        <folder>
+            <title>Failure to Elucidate</title>
+            <folder>
+                <title>Homunculus Fallacy</title>
+            </folder>
+            <folder>
+                <title>Definist fallacy</title>
+            </folder>
+            <folder>
+                <title>Extensional Pruning</title>
+            </folder>
+            <folder>
+                <title>Proof by Intimidation</title>
+            </folder>
+            <folder>
+                <title>Deepity</title>
+            </folder>
+        </folder>
+        <folder>
+            <title>Jingle-jangle fallacies</title>
+        </folder>
+        <folder>
+            <title>Ambiguity fallacy</title>
+            <folder>
+                <title>Fake precision</title>
+            </folder>
+            <folder>
+                <title>Moving the goalposts</title>
+            </folder>
+            <folder>
+                <title>Syntactic ambiguity</title>
+            </folder>
+            <folder>
+                <title>Wronger than wrong</title>
+            </folder>
+            <folder>
+                <title>Type-Token Fallacy</title>
+            </folder>
+        </folder>
+        <folder>
+            <title>Mistaking the map for the territory</title>
+            <folder>
+                <title>Reification (fallacy)</title>
+            </folder>
+            <folder>
+                <title>Anthropomorphism</title>
+            </folder>
+        </folder>
+        <folder>
+            <title>Tokenism</title>
+        </folder>
+        <folder>
+            <title>Use-Mention Error</title>
+        </folder>
+    </folder>
+    <folder>
+        <title/>
+        <folder>
+            <title>False dilemma</title>
+            <folder>
+                <title>Nirvana fallacy</title>
+                <folder>
+                    <title>You are either with us, or against us</title>
+                </folder>
+                <folder>
+                    <title>Unobtainable perfection fallacy</title>
+                </folder>
+            </folder>
+            <folder>
+                <title>Oversimplified Cause Fallacy</title>
+            </folder>
+        </folder>
+        <folder>
+            <title/>
+        </folder>
+        <folder>
+            <title>Suppressed correlative</title>
+        </folder>
+    </folder>
+    <folder>
+        <title>Formal fallacies</title>
+        <folder>
+            <title/>
+            <folder>
+                <title>Existential fallacy</title>
+            </folder>
+            <folder>
+                <title>Half-Concealed Quantification</title>
+                <folder>
+                    <title>Concealed Quantification</title>
+                </folder>
+            </folder>
+        </folder>
+        <folder>
+            <title/>
+            <folder>
+                <title>Scope fallacy</title>
+            </folder>
+            <folder>
+                <title>Illicit major</title>
+            </folder>
+            <folder>
+                <title>Illicit minor</title>
+            </folder>
+            <folder>
+                <title>Modal (Scope) Fallacy</title>
+            </folder>
+            <folder>
+                <title>Fallacy of (the) Undistributed Middle</title>
+            </folder>
+            <folder>
+                <title>Illicit Contraposition</title>
+            </folder>
+            <folder>
+                <title>Negating Antecedent and Consequent</title>
+            </folder>
+            <folder>
+                <title>Negative Conclusion from Affirmative Premises</title>
+            </folder>
+            <folder>
+                <title>contradictory premises</title>
+            </folder>
+        </folder>
+        <folder>
+            <title>Conjunction fallacy</title>
+        </folder>
+        <folder>
+            <title>Disjunction Fallacy</title>
+        </folder>
+        <folder>
+            <title/>
+            <folder>
+                <title>Affirming a disjunct</title>
+            </folder>
+            <folder>
+                <title>Affirming the consequent</title>
+            </folder>
+            <folder>
+                <title>Politician's syllogism</title>
+            </folder>
+        </folder>
+        <folder>
+            <title>Non sequitur</title>
+            <folder>
+                <title>Anangeon</title>
+            </folder>
+            <folder>
+                <title>Argument by Gibberish</title>
+            </folder>
+        </folder>
+        <folder>
+            <title>Mathematical fallacy</title>
+        </folder>
+        <folder>
+            <title>Improper premise</title>
+            <folder>
+                <title>Affirmative conclusion from a negative premise</title>
+            </folder>
+            <folder>
+                <title>Exclusive Premises</title>
+            </folder>
+        </folder>
+        <folder>
+            <title>Vacuous truth</title>
+        </folder>
+        <folder>
+            <title>Phantom distinction</title>
+            <folder>
+                <title>Masked-man fallacy</title>
+            </folder>
+        </folder>
+        <folder>
+            <title>Denying a Conjunct</title>
+        </folder>
+        <folder>
+            <title>Unwarranted Contrast</title>
+        </folder>
+        <folder>
+            <title>quantificational fallacy</title>
+        </folder>
+        <folder>
+            <title>Fallacy of Four Terms</title>
+        </folder>
+        <folder>
+            <title>Base rate fallacy</title>
+            <folder>
+                <title>Prosecutor's fallacy</title>
+            </folder>
+            <folder>
+                <title>Defense attorney's Fallacy</title>
+            </folder>
+        </folder>
+        <folder>
+            <title>Denying the antecedent</title>
+        </folder>
+        <folder>
+            <title>False Conversion</title>
+        </folder>
+    </folder>
+    <folder>
+        <title>Ad hoc rescue</title>
+        <folder>
+            <title>Escape hatch</title>
+        </folder>
+        <folder>
+            <title>God of the gaps</title>
+        </folder>
+        <folder>
+            <title>Handwave</title>
+        </folder>
+        <folder>
+            <title>PIDOOMA</title>
+        </folder>
+        <folder>
+            <title>Game theory fallacies</title>
+        </folder>
+    </folder>
+</xbel>
