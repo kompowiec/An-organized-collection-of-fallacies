@@ -377,7 +377,7 @@
         <folder>
             <title>red herring</title>
             <folder>
-                <title>argumentum ad antiquitatis</title>
+                <title/>
             </folder>
             <folder>
                 <title>Appeal to Common Belief</title>
@@ -406,7 +406,7 @@
                     <title>Imposter Fallacy</title>
                 </folder>
                 <folder>
-                    <title>Oberbelief</title>
+                    <title>Overbelief</title>
                 </folder>
             </folder>
             <folder>
@@ -432,9 +432,6 @@
             <title>special pleading</title>
             <folder>
                 <title>Subjectivist Fallacy</title>
-                <folder>
-                    <title>Well, then you can ask them to send you the answers by e-mail anyway, they will see</title>
-                </folder>
             </folder>
         </folder>
         <folder>
@@ -615,19 +612,10 @@
             <title>Attack ad</title>
         </folder>
         <folder>
-            <title>Failure bias</title>
-        </folder>
-        <folder>
-            <title>Falsism</title>
-        </folder>
-        <folder>
             <title>Greedy reductionism</title>
         </folder>
         <folder>
-            <title>Inconsistent comparison</title>
-        </folder>
-        <folder>
-            <title>Hoyle's Fallacy/Junkyard tornado</title>
+            <title>Junkyard tornado</title>
         </folder>
         <folder>
             <title>Mind projection fallacy</title>
@@ -660,7 +648,7 @@
             <title>Sunday school answer</title>
         </folder>
         <folder>
-            <title>Uniqueness bias</title>
+            <title>False-Uniqueness Effect</title>
         </folder>
         <folder>
             <title>Virtuality fallacy</title>
@@ -789,12 +777,6 @@
             <title>Blinding with science</title>
         </folder>
         <folder>
-            <title>Runaway train</title>
-        </folder>
-        <folder>
-            <title>Shifting ground</title>
-        </folder>
-        <folder>
             <title>Thatcher’s blame</title>
         </folder>
         <folder>
@@ -874,9 +856,6 @@
         </folder>
         <folder>
             <title>argumentum ad socordiam</title>
-        </folder>
-        <folder>
-            <title>argumentum ad reverentiam</title>
         </folder>
         <folder>
             <title>Argumentum ad quietem</title>
@@ -963,9 +942,6 @@
             </folder>
         </folder>
         <folder>
-            <title>Inductive fallacy</title>
-        </folder>
-        <folder>
             <title>Misleading vividness</title>
         </folder>
         <folder>
@@ -1016,15 +992,9 @@
         <folder>
             <title>Damning the Alternatives</title>
         </folder>
-        <folder>
-            <title>Exception that proves the rule</title>
-        </folder>
     </folder>
     <folder>
         <title>Accident Fallacy</title>
-        <folder>
-            <title>Converse accident</title>
-        </folder>
         <folder>
             <title>Stereotyping fallacy</title>
         </folder>
@@ -1060,9 +1030,6 @@
             <folder>
                 <title>Homunculus Fallacy</title>
             </folder>
-            <folder>
-                <title>Tautology</title>
-            </folder>
         </folder>
         <folder>
             <title>Begging the Question</title>
@@ -1094,17 +1061,11 @@
                 <title>Weasel word</title>
             </folder>
             <folder>
-                <title>Euphemism</title>
-            </folder>
-            <folder>
                 <title>Dysphemism</title>
             </folder>
         </folder>
         <folder>
             <title>Leading question</title>
-        </folder>
-        <folder>
-            <title>Suggestive question</title>
         </folder>
         <folder>
             <title>Meaningless Question</title>
@@ -1128,13 +1089,7 @@
             </folder>
         </folder>
         <folder>
-            <title>Loki's Wager</title>
-        </folder>
-        <folder>
             <title>No True Scotsman</title>
-        </folder>
-        <folder>
-            <title>Definitional Retreat</title>
         </folder>
         <folder>
             <title>motte-and-bailey fallacy</title>
@@ -1348,9 +1303,6 @@
         </folder>
         <folder>
             <title>Base rate fallacy</title>
-            <folder>
-                <title>Prosecutor's fallacy</title>
-            </folder>
             <folder>
                 <title>Defense attorney's Fallacy</title>
             </folder>

@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="utf-8"?><opml version="1.0">
+    <head>
+        <expansionState>/opml[1]/body[1]/outline[1]</expansionState>
+        <vertScrollState>1</vertScrollState>
+    </head>
+    <body>
+        <outline text="Informal fallacies -Gish gallop --Spreading (debate) ---Argument by Fast Talking ----The firehose of falsehood -Gaslighting">
+            <outline text="Questionable cause">
+                <outline text="Correlation does not imply causation">
+                    <outline text="post hoc ergo propter hoc"/>
+                    <outline text="Circular cause and consequence"/>
+                    <outline text="B causes A (reverse causation or reverse causality)"/>
+                    <outline text="Third factor C (the common-causal variable) causes both A and B"/>
+                    <outline text="Bidirectional causation: A causes B, and B causes A"/>
+                    <outline text="The relationship between A and B is coincidental"/>
+                </outline>
+                <outline text="Gambler's fallacy (inverse)">
+                    <outline text="Hot hand fallacy"/>
+                    <outline text="Ludic fallacy"/>
+                    <outline text="Drought fallacy"/>
+                </outline>
+                <outline text="Regression fallacy"/>
+                <outline text="Causal Reductionism">
+                    <outline text="Insignificant Cause"/>
+                </outline>
+                <outline text="Slippery slope"/>
+                <outline text="Texas Sharpshooter Fallacy"/>
+                <outline text="Magical thinking">
+                    <outline text="Folk religion"/>
+                    <outline text="Illusion of control"/>
+                    <outline text="Law of attraction (New Thought)"/>
+                    <outline text="Law of contagion"/>
+                    <outline text="Obsessive–compulsive disorder"/>
+                    <outline text="Performativity"/>
+                    <outline text="Placebo button"/>
+                    <outline text="Psychological theories of magic"/>
+                    <outline text="Magic and religion"/>
+                    <outline text="Segen"/>
+                    <outline text="Wish fulfillment"/>
+                </outline>
+                <outline text="Argument of the Beard"/>
+                <outline text="Counterfactual fallacy"/>
+                <outline text="Sociologist's fallacy"/>
+            </outline>
+            <outline text="Fallacies of relevance">
+                <outline text="Appeals to emotion">
+                    <outline text="argumentum in terrorem">
+                        <outline text="Fear, uncertainty, and doubt (FUD)"/>
+                        <outline text="Appeal to prejudice"/>
+                        <outline text="Just In Case Fallacy"/>
+                    </outline>
+                    <outline text="Flag-waving"/>
+                    <outline text="Appeal to flattery"/>
+                    <outline text="Appeal to novelty">
+                        <outline text="Chronological snobbery"/>
+                    </outline>
+                    <outline text="Appeal to pity"/>
+                    <outline text="Appeal to hate"/>
+                    <outline text="reductio ad ridiculum">
+                        <outline text="Proving too much"/>
+                        <outline text="Pooh-pooh">
+                            <outline text="Big lie"/>
+                        </outline>
+                    </outline>
+                    <outline text="Think of the children"/>
+                    <outline text="In-group favoritism"/>
+                    <outline text="Invented here"/>
+                    <outline text="Island mentality"/>
+                    <outline text="Appeal to loyalty"/>
+                    <outline text="Not invented (t)here"/>
+                    <outline text="Parade of horribles"/>
+                    <outline text="Appeal to spite"/>
+                    <outline text="Stirring symbols"/>
+                    <outline text="Judgmental language"/>
+                    <outline text="Argumentum ad captandum vulgus"/>
+                    <outline text="Appeal to gravity"/>
+                    <outline text="Appeal to shame">
+                        <outline text="Every Schoolboy Knows"/>
+                    </outline>
+                    <outline text="Argumentum ad fastidium"/>
+                    <outline text="Style over substance"/>
+                    <outline text="argumentum ad fidentia"/>
+                    <outline text="Appeal to Desperation"/>
+                    <outline text="Appeal to Intuition"/>
+                    <outline text="Prejudicial Language"/>
+                    <outline text="Love bombing">
+                        <outline text="Milieu control"/>
+                    </outline>
+                    <outline text="victim playing"/>
+                    <outline text="What's the harm"/>
+                </outline>
+                <outline text="Genetic fallacies">
+                    <outline text="argumentum ad hominem">
+                        <outline text="Association fallacy">
+                            <outline text="Godwin law"/>
+                            <outline text="Galileo Fallacy"/>
+                        </outline>
+                        <outline text="Poisoning the well"/>
+                        <outline text="Tone policing">
+                            <outline text="Political Correctness Fallacy"/>
+                        </outline>
+                        <outline text="Tu quoque">
+                            <outline text="I'm not prejudiced, but...">
+                                <outline text="Friend argument"/>
+                            </outline>
+                            <outline text="Whataboutism"/>
+                            <outline text="Appeal to Trust"/>
+                            <outline text="Double Standard"/>
+                            <outline text="Two Wrongs Make a Right"/>
+                        </outline>
+                        <outline text="Bulverism"/>
+                        <outline text="Argumentum ergo decedo"/>
+                        <outline text="ad hominem (abusive)">
+                            <outline text="Name calling"/>
+                            <outline text="Verbal abuse"/>
+                            <outline text="Appeal to Stupidity"/>
+                            <outline text="Appeal to the Law"/>
+                            <outline text="Argument from Age"/>
+                            <outline text="Fallacy of Opposition"/>
+                            <outline text="Identity Fallacy"/>
+                            <outline text="Abusive analogy"/>
+                        </outline>
+                        <outline text="argumentum ad hominem (Circumstantial)"/>
+                    </outline>
+                    <outline text="Appeal to authority">
+                        <outline text="Appeal to accomplishment"/>
+                        <outline text="bare assertion fallacy"/>
+                        <outline text="Courtier's reply"/>
+                        <outline text="Argument to the Purse">
+                            <outline text="argumentum ad Lazarum"/>
+                            <outline text="Argumentum ad crumenam"/>
+                        </outline>
+                        <outline text="Name-dropping"/>
+                        <outline text="Dictat (propaganda)"/>
+                        <outline text="Anonymous authority"/>
+                        <outline text="Appeal to Celebrity"/>
+                        <outline text="Appeal to False Authority"/>
+                        <outline text="Blind Authority Fallacy"/>
+                        <outline text="Appeal to the minority"/>
+                    </outline>
+                    <outline text="Appeal to Definition">
+                        <outline text="Etymological Fallacy"/>
+                    </outline>
+                    <outline text="Sunk-Cost Fallacy">
+                        <outline text="Appeal to Tradition">
+                            <outline text="Non-anticipation"/>
+                            <outline text="Appeal to ancient wisdom"/>
+                        </outline>
+                    </outline>
+                    <outline text="Appeal to nature"/>
+                </outline>
+                <outline text="Argument to moderation"/>
+                <outline text="Appeal to the stone"/>
+                <outline text="argument from anecdote"/>
+                <outline text="Argument by Pigheadedness"/>
+                <outline text="Rationalization (psychology)"/>
+                <outline text="red herring">
+                    <outline text=""/>
+                    <outline text="Appeal to Common Belief">
+                        <outline text="Argument by Personal Charm"/>
+                        <outline text="Flag-waving"/>
+                        <outline text="Alleged Certainty"/>
+                        <outline text="Appeal to Common Folk"/>
+                        <outline text="Appeal to Popularity"/>
+                        <outline text="Nutpicking Fallacy"/>
+                        <outline text="Gadarene Swine Fallacy"/>
+                        <outline text="Imposter Fallacy"/>
+                        <outline text="Overbelief"/>
+                    </outline>
+                    <outline text="Judgmental language"/>
+                    <outline text="Logic Chopping"/>
+                    <outline text="Truth by consensus"/>
+                    <outline text="Irrelevant Humour"/>
+                    <outline text="fallaca ancidentis"/>
+                </outline>
+                <outline text="Straw man Fallacy"/>
+                <outline text="special pleading">
+                    <outline text="Subjectivist Fallacy"/>
+                </outline>
+                <outline text="I'm entitled to my opinion"/>
+                <outline text="Argument from Ignorance">
+                    <outline text="Evidence of absence"/>
+                    <outline text="Appeal to censorship"/>
+                    <outline text="Argument from incredulity">
+                        <outline text="Amazing Familiarity"/>
+                    </outline>
+                    <outline text="Argument from omniscience"/>
+                    <outline text="Argument from silence"/>
+                    <outline text="Holmesian fallacy"/>
+                    <outline text="Science doesn't know everything"/>
+                    <outline text="Science was wrong before"/>
+                    <outline text="Toupée fallacy"/>
+                    <outline text="Appeal to eye">
+                        <outline text="El Greco fallacy"/>
+                    </outline>
+                    <outline text="appeal to calm down"/>
+                    <outline text="Appeal to Self-evident Truth"/>
+                    <outline text="Just Because Fallacy"/>
+                    <outline text="Appeal to Faith">
+                        <outline text="Appeal to Heaven"/>
+                    </outline>
+                    <outline text="Appeal to Closure">
+                        <outline text="Appeal to Equality"/>
+                    </outline>
+                    <outline text="Pragmatic Fallacy">
+                        <outline text="Apex fallacy"/>
+                        <outline text="Lack of proportion">
+                            <outline text="Disregarding known science"/>
+                            <outline text="Exaggeration"/>
+                        </outline>
+                        <outline text="Argument by Selective Reading"/>
+                    </outline>
+                    <outline text="Willed Ignorance"/>
+                    <outline text="Missing Data Fallacy"/>
+                    <outline text="Notable Effort"/>
+                    <outline text="Just world fallacy"/>
+                    <outline text="Appeal to Complexity"/>
+                    <outline text="Unfalsifiability"/>
+                </outline>
+                <outline text="Argument from fallacy"/>
+                <outline text="Double-barreled question"/>
+                <outline text="Shaggy defense"/>
+                <outline text="The squeaky wheel gets the grease"/>
+                <outline text="blaming">
+                    <outline text="Victim blaming"/>
+                    <outline text="Scapegoating"/>
+                </outline>
+                <outline text="reverse appeal to emotion">
+                    <outline text="Appeal to anger"/>
+                    <outline text="Appeal to Normality"/>
+                </outline>
+                <outline text="Argument by assertion">
+                    <outline text="Argument from repetition">
+                        <outline text="Sealioning"/>
+                        <outline text="Proof by assertion"/>
+                    </outline>
+                </outline>
+                <outline text="is–ought problem">
+                    <outline text="Moralistic fallacy">
+                        <outline text="Demoralization"/>
+                        <outline text="Virtue signalling"/>
+                    </outline>
+                    <outline text="Economic fallacies">
+                        <outline text="Hyperbolic discounting"/>
+                        <outline text="Sunk-Cost Fallacy"/>
+                        <outline text="Broken window fallacy"/>
+                    </outline>
+                </outline>
+            </outline>
+            <outline text="uncategorized">
+                <outline text="Cartesian circle"/>
+                <outline text="argument from the contrary"/>
+                <outline text="Attack ad"/>
+                <outline text="Greedy reductionism"/>
+                <outline text="Junkyard tornado"/>
+                <outline text="Mind projection fallacy">
+                    <outline text="Psychologist's fallacy"/>
+                    <outline text="Historian's fallacy">
+                        <outline text="Baconian fallacy"/>
+                        <outline text="Dixiecrat fallacy"/>
+                    </outline>
+                    <outline text="Historical fallacy"/>
+                    <outline text="Fantasy Projection"/>
+                </outline>
+                <outline text="Misology"/>
+                <outline text="Missing dollar riddle"/>
+                <outline text="Sunday school answer"/>
+                <outline text="False-Uniqueness Effect"/>
+                <outline text="Virtuality fallacy"/>
+                <outline text="Demonizing the enemy">
+                    <outline text="False accusions"/>
+                </outline>
+                <outline text="Alphabet Soup"/>
+                <outline text="Alternative Advance"/>
+                <outline text="Commutation of Conditionals"/>
+                <outline text="Confusing an Explanation with an Excuse"/>
+                <outline text="Confusing Currently Unexplained with Unexplainable"/>
+                <outline text="Conspiracy Theory"/>
+                <outline text="Distinction Without a Difference"/>
+                <outline text="Fact-to-Fiction Fallacy"/>
+                <outline text="False Effect"/>
+                <outline text="Gadarene Swine Fallacy"/>
+                <outline text="Having Your Cake"/>
+                <outline text="Hedging"/>
+                <outline text="Inconsistency"/>
+                <outline text="Inflation of Conflict"/>
+                <outline text="Least Plausible Hypothesis"/>
+                <outline text="Limited Depth"/>
+                <outline text="Limited Scope"/>
+                <outline text="Multiple Comparisons Fallacy"/>
+                <outline text="Overextended Outrage"/>
+                <outline text="Post-Designation"/>
+                <outline text="Proof by Intimidation"/>
+                <outline text="Proof Surrogate"/>
+                <outline text="Proving Non-Existence"/>
+                <outline text="Psychogenetic Fallacy"/>
+                <outline text="Quantum Physics Fallacy"/>
+                <outline text="Retrogressive Causation"/>
+                <outline text="Righteousness Fallacy">
+                    <outline text="Self-righteousness Fallacy"/>
+                </outline>
+                <outline text="Rights To Ought Fallacy"/>
+                <outline text="Selective Attention"/>
+                <outline text="Self-Sealing Argument"/>
+                <outline text="Shifting of the Burden of Proof"/>
+                <outline text="Shoehorning"/>
+                <outline text="Spiritual Fallacy"/>
+                <outline text="Spin Doctoring"/>
+                <outline text="Statement of Conversion"/>
+                <outline text="Stereotyping (the fallacy)"/>
+                <outline text="Subverted Support"/>
+                <outline text="Blinding with science"/>
+                <outline text="Thatcher’s blame"/>
+                <outline text="Unaccepted enthyrnemes"/>
+                <outline text="Feedback fallacy"/>
+                <outline text="Lump of labour fallacy"/>
+                <outline text="Referential fallacy"/>
+                <outline text="Appeal to Consequences">
+                    <outline text="Appeal to force"/>
+                    <outline text="Wishful thinking">
+                        <outline text="Magical thinking"/>
+                        <outline text="Argumentum ab utili"/>
+                    </outline>
+                </outline>
+                <outline text="Unreasonable Inclusion Fallacy"/>
+                <outline text="Exception That Proves The Rule"/>
+                <outline text="Refuting the example"/>
+                <outline text="argumentum ad Temperantlam"/>
+                <outline text="The Undistributed middle"/>
+                <outline text="fallacia non causae ut causae"/>
+                <outline text="Argumentum ad amicitiam"/>
+                <outline text="Argumentum a simili"/>
+                <outline text="argumentum a fortiori">
+                    <outline text="a maiori ad minus"/>
+                    <outline text="a minori ad maius"/>
+                </outline>
+                <outline text="Argumentum ad exemplum"/>
+                <outline text="Argumentum ad vertiginem">
+                    <outline text=""/>
+                </outline>
+                <outline text="argumentum ad vanitatem"/>
+                <outline text="argumentum ad superstitionem"/>
+                <outline text="argumentum ad socordiam"/>
+                <outline text="Argumentum ad quietem"/>
+            </outline>
+            <outline text="Faulty generalization/Inductive fallacies">
+                <outline text="Argument from Hearsay"/>
+                <outline text="Sampling bias">
+                    <outline text="Cherry picking">
+                        <outline text="Survivorship Fallacy"/>
+                        <outline text="Casualty fallacy"/>
+                        <outline text="McNamara Fallacy">
+                            <outline text="Managing the news"/>
+                        </outline>
+                    </outline>
+                    <outline text="Nut-picking"/>
+                </outline>
+                <outline text="Package-Deal Fallacy"/>
+                <outline text="Weak Analogy">
+                    <outline text="appeal to the Moon"/>
+                    <outline text="Extended Analogy"/>
+                    <outline text="Faulty Comparison"/>
+                    <outline text="Incomplete comparison"/>
+                    <outline text="Appeal to Extremes"/>
+                </outline>
+                <outline text="appeal to coincidence"/>
+                <outline text="overwhelming exception"/>
+                <outline text="Hasty generalization">
+                    <outline text="Spotlight fallacy"/>
+                    <outline text="Jumping to Conclusions">
+                        <outline text="Mind reading"/>
+                        <outline text="Fortune telling"/>
+                        <outline text="Labeling"/>
+                    </outline>
+                    <outline text="Ex-post-facto Statistics"/>
+                    <outline text="Self–selection"/>
+                    <outline text="Double counting (fallacy)"/>
+                </outline>
+                <outline text="Misleading vividness"/>
+                <outline text="Thought-terminating cliché"/>
+                <outline text="Appeal to probability"/>
+                <outline text="Availability heuristic"/>
+                <outline text="Blind men and an elephant"/>
+                <outline text="Confirmation bias">
+                    <outline text="Motivated reasoning"/>
+                </outline>
+                <outline text="Counterinduction"/>
+                <outline text="Group attribution error"/>
+                <outline text="Idola">
+                    <outline text="Idola tribus"/>
+                    <outline text="Idola specus"/>
+                    <outline text="Idola theatri"/>
+                    <outline text="Idola fori"/>
+                </outline>
+                <outline text="Biased Sample Fallacy"/>
+                <outline text="Lying with Statistics"/>
+                <outline text="Damning the Alternatives"/>
+            </outline>
+            <outline text="Accident Fallacy">
+                <outline text="Stereotyping fallacy"/>
+            </outline>
+            <outline text="Illicit transference">
+                <outline text="Fallacy of composition"/>
+                <outline text="Fallacy of division"/>
+                <outline text="Ecological fallacy"/>
+            </outline>
+            <outline text="Question-begging fallacies">
+                <outline text="Circular reasoning">
+                    <outline text="Conflicting Conditions">
+                        <outline text="Kettle logic"/>
+                        <outline text="Stolen concept fallacy"/>
+                    </outline>
+                    <outline text="Circular Definition"/>
+                    <outline text="Homunculus Fallacy"/>
+                </outline>
+                <outline text="Begging the Question">
+                    <outline text="Loaded label"/>
+                </outline>
+                <outline text="Complex Question Fallacy"/>
+                <outline text="Loaded language">
+                    <outline text="Buzzword"/>
+                    <outline text="Dog whistle (politics)"/>
+                    <outline text="Glittering generality"/>
+                    <outline text="OPROP!"/>
+                    <outline text="Talking point"/>
+                    <outline text="Weasel word"/>
+                    <outline text="Dysphemism"/>
+                </outline>
+                <outline text="Leading question"/>
+                <outline text="Meaningless Question"/>
+                <outline text="Hypnotic Bait and Switch"/>
+            </outline>
+            <outline text="Equivocation">
+                <outline text="False equivalence"/>
+                <outline text="False attribution">
+                    <outline text="Contextomy"/>
+                    <outline text="Recontextualisation"/>
+                </outline>
+                <outline text="No True Scotsman"/>
+                <outline text="motte-and-bailey fallacy"/>
+                <outline text="Accent Fallacy"/>
+                <outline text="Denying the Antecedent"/>
+                <outline text="if-by-whiskey fallacy"/>
+                <outline text="Fallacy of amphiboly"/>
+                <outline text="Moral equivalence">
+                    <outline text="Fallacy of relative privation">
+                        <outline text="First World problems"/>
+                    </outline>
+                </outline>
+                <outline text="Fallacy of Every and All"/>
+                <outline text="Failure to Elucidate">
+                    <outline text="Homunculus Fallacy"/>
+                    <outline text="Definist fallacy"/>
+                    <outline text="Extensional Pruning"/>
+                    <outline text="Proof by Intimidation"/>
+                    <outline text="Deepity"/>
+                </outline>
+                <outline text="Jingle-jangle fallacies"/>
+                <outline text="Ambiguity fallacy">
+                    <outline text="Fake precision"/>
+                    <outline text="Moving the goalposts"/>
+                    <outline text="Syntactic ambiguity"/>
+                    <outline text="Wronger than wrong"/>
+                    <outline text="Type-Token Fallacy"/>
+                </outline>
+                <outline text="Mistaking the map for the territory">
+                    <outline text="Reification (fallacy)"/>
+                    <outline text="Anthropomorphism"/>
+                </outline>
+                <outline text="Tokenism"/>
+                <outline text="Use-Mention Error"/>
+            </outline>
+            <outline text="Correlative-based fallacies">
+                <outline text="False dilemma">
+                    <outline text="Nirvana fallacy">
+                        <outline text="You are either with us, or against us"/>
+                        <outline text="Unobtainable perfection fallacy"/>
+                    </outline>
+                    <outline text="Oversimplified Cause Fallacy"/>
+                </outline>
+                <outline text="denying the correlative"/>
+                <outline text="Suppressed correlative"/>
+            </outline>
+            <outline text="Formal fallacies">
+                <outline text="Quantification fallacies">
+                    <outline text="Existential fallacy"/>
+                    <outline text="Half-Concealed Quantification">
+                        <outline text="Concealed Quantification"/>
+                    </outline>
+                </outline>
+                <outline text="Formal syllogistic fallacies">
+                    <outline text="Scope fallacy"/>
+                    <outline text="Illicit major"/>
+                    <outline text="Illicit minor"/>
+                    <outline text="Modal (Scope) Fallacy"/>
+                    <outline text="Fallacy of (the) Undistributed Middle"/>
+                    <outline text="Illicit Contraposition"/>
+                    <outline text="Negating Antecedent and Consequent"/>
+                    <outline text="Negative Conclusion from Affirmative Premises"/>
+                    <outline text="contradictory premises"/>
+                </outline>
+                <outline text="Conjunction fallacy"/>
+                <outline text="Disjunction Fallacy"/>
+                <outline text="Propositional fallacies">
+                    <outline text="Affirming a disjunct"/>
+                    <outline text="Affirming the consequent"/>
+                    <outline text="Politician's syllogism"/>
+                </outline>
+                <outline text="Non sequitur">
+                    <outline text="Anangeon"/>
+                    <outline text="Argument by Gibberish"/>
+                </outline>
+                <outline text="Mathematical fallacy"/>
+                <outline text="Improper premise">
+                    <outline text="Affirmative conclusion from a negative premise"/>
+                    <outline text="Exclusive Premises"/>
+                </outline>
+                <outline text="Vacuous truth"/>
+                <outline text="Phantom distinction">
+                    <outline text="Masked-man fallacy"/>
+                </outline>
+                <outline text="Denying a Conjunct"/>
+                <outline text="Unwarranted Contrast"/>
+                <outline text="quantificational fallacy"/>
+                <outline text="Fallacy of Four Terms"/>
+                <outline text="Base rate fallacy">
+                    <outline text="Defense attorney's Fallacy"/>
+                </outline>
+                <outline text="Denying the antecedent"/>
+                <outline text="False Conversion"/>
+            </outline>
+            <outline text="Ad hoc rescue">
+                <outline text="Escape hatch"/>
+                <outline text="God of the gaps"/>
+                <outline text="Handwave"/>
+                <outline text="PIDOOMA"/>
+                <outline text="Game theory fallacies"/>
+            </outline>
+        </outline>
+    </body>
+</opml>
