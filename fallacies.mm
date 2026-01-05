@@ -1,5 +1,8 @@
-<map version="freeplane 1.11.5">
+<map version="freeplane 1.12.1">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
+<bookmarks>
+    <bookmark nodeId="ID_1073288113" name="Root" opensAsRoot="true"/>
+</bookmarks>
 <node FOLDED="false" ID="ID_1073288113" CREATED="1618511719208" MODIFIED="1642698128416" STYLE="oval"><richcontent TYPE="NODE">
 
 <html>
@@ -43,7 +46,8 @@
             <node_level_condition VALUE="6" COMPARATION_RESULT="0" SUCCEED="true"/>
         </conditional_style>
     </conditional_styles>
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" fit_to_viewport="false"/>
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" fit_to_viewport="false" show_icons="BESIDE_NODES" showTagCategories="false" show_tags="UNDER_NODES"/>
+    <tags category_separator="::"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -54,6 +58,9 @@
 <font NAME="Arial" SIZE="10" BOLD="false" ITALIC="false"/>
 </stylenode>
 <stylenode LOCALIZED_TEXT="defaultstyle.details"/>
+<stylenode LOCALIZED_TEXT="defaultstyle.tags">
+<font SIZE="10"/>
+</stylenode>
 <stylenode LOCALIZED_TEXT="defaultstyle.attributes">
 <font SIZE="9"/>
 </stylenode>
@@ -899,7 +906,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Texas Sharpshooter Fallacy" ID="ID_1553310480" CREATED="1618490107108" MODIFIED="1642766646214">
+<node TEXT="Texas Sharpshooter Fallacy" ID="ID_1553310480" CREATED="1618490107108" MODIFIED="1767637307333">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1001664273" STARTINCLINATION="789.74998 pt;0 pt;" ENDINCLINATION="789.74998 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
 <html>
@@ -908,7 +915,7 @@
   </head>
   <body>
     <p>
-      (also known as: clustering illusion, clustering fallacy)
+      (also known as: clustering illusion, clustering fallacy, fishing for data)
     </p>
   </body>
 </html></richcontent>
@@ -1068,8 +1075,7 @@
       (also known as: fallacy of the beard, heap fallacy, heap paradox fallacy, bald man fallacy, continuum fallacy, line drawing fallacy, sorites fallacy, Loki's Wager)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
 <html>
   <head>
@@ -1207,6 +1213,390 @@
 </html></richcontent>
 </node>
 <node TEXT="Sociologist&apos;s fallacy" ID="ID_597132226" CREATED="1642504080248" MODIFIED="1642504083250"/>
+<node TEXT="Retrogressive Causation" ID="ID_1971965048" CREATED="1637153250098" MODIFIED="1642755404168"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description:</strong>&nbsp;Invoking the cause to eliminate the effect, or calling on the source to relieve the effect of the source.
+
+    <p class="Body">
+      <strong>Logical Form:</strong>
+    </p>
+    <p style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>X causes/is the source of Y.</em></font>
+    </p>
+    <p style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>In order to eliminate or relieve Y, do more of X.</em></font>
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>Jen: Don&#x2019;t you realize that all this drinking you are doing is making your family miserable?</em></font>
+    </p>
+    <p style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>Bridget: Yes, I do.</em></font>
+    </p>
+    <p style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>Jen: Then what are you doing about it?</em></font>
+    </p>
+    <p style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>Bridget: Drinking to forget.</em></font>
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;Bridget has a drinking problem that she is dealing with by drinking some more -- because the effects of drinking make her (temporarily) forget/not worry about the greater scale effects of her drinking.&nbsp;&nbsp;Her reasoning that this is a good idea is fallacious.
+    </p>
+    <p>
+      <strong>Example #2:</strong>
+    </p>
+    <p style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)">David: We have way too much police presence in this city.</font>
+    </p>
+    <p style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)">Pete: What are you going to do about it?</font>
+    </p>
+    <p style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)">David: Vandalize, loot, and perhaps a little arson.</font>
+    </p>
+    <div class="content clearfix">
+      <strong>Explanation:</strong>&nbsp;The primary role of the police is to enforce laws. David is suggesting that breaking the laws will facilitate his goal of having the police force reduced.
+    </div>
+    <div class="content clearfix">
+      <br/>
+      
+
+      <p>
+        <strong>Exception:</strong>&nbsp;In some cases, one may not be trying to eliminate the effect, but rather continue the cycle for some higher purpose. For example, if one learns to feel constant guilt by going to church and is relieved of that guilt by going to confession, they might find meaning in the constant &#x201c;spiritual cleansing&#x201d; ritual. While this might seem like irrational thinking to some, it would not fit under this fallacy.
+      </p>
+      <p>
+        <strong>Fun Fact:</strong>&nbsp;People are easily persuaded to act against their self-interests. If acting against their self-interest is for some higher purpose, the behavior would not be considered irrational.
+      </p>
+    </div>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="fallacia non causae ut causae" ID="ID_1578918724" CREATED="1646767757612" MODIFIED="1722547414716"><richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (Also known as: Claim Victory Despite Defeat, Fallacy of non causae ut causae, Impudent Triumph)
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      - **Description**: This technique involves asserting that you have won an argument or proved a point, even when the evidence or answers provided do not support your conclusion. It relies on the bold proclamation of victory to convince others, particularly if the opponent is not confident or astute enough to challenge the claim.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Logical Form**:
+    </p>
+    <p>
+      &#xa0;&#xa0;1. Premise 1: Your opponent answers several of your questions, none of which support your desired conclusion.
+    </p>
+    <p>
+      &#xa0;&#xa0;2. Premise 2: You declare the desired conclusion as if it logically follows from the discussion.
+    </p>
+    <p>
+      &#xa0;&#xa0;3. Conclusion: You assert that you have proved your point.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Example #1**:
+    </p>
+    <p>
+      &#xa0;&#xa0;- **Scenario**: In a debate, you ask your opponent multiple questions about economic policies.
+    </p>
+    <p>
+      &#xa0;&#xa0;- **Explanation**: Although the answers do not favor your stance, you boldly claim that the responses clearly demonstrate your position's superiority and announce your conclusion as if it were a logical outcome of the discussion.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Example #2**:
+    </p>
+    <p>
+      &#xa0;&#xa0;- **Scenario**: During a public discussion, you question your opponent about various social issues.
+    </p>
+    <p>
+      &#xa0;&#xa0;- **Explanation**: Despite receiving neutral or unrelated answers, you loudly declare that these answers prove your argument, leveraging your assertiveness to make it seem convincing to the audience.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Variation**: This technique can also involve misrepresenting or exaggerating the significance of minor points in your favor, presenting them as decisive victories.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Tip**: Confidence and assertiveness are key. Speak loudly and with conviction to overshadow any logical inconsistencies and to make your proclamation of victory more believable.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Exception**: This tactic is less effective against well-informed, confident opponents who can easily expose the fallacy. It can also backfire if the audience is discerning and aware of the logical disconnect.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Fun Fact**: This trick is similar to the fallacy of non causae ut causae, which means &quot;non-cause as cause,&quot; where something that is not the cause is incorrectly presented as the cause.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Feedback fallacy" ID="ID_768663268" CREATED="1642503760019" MODIFIED="1642503764120"/>
+<node TEXT="Lump of labour fallacy" ID="ID_474751865" CREATED="1642503959726" MODIFIED="1722516385730"><richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (Also known as: Lump of Jobs Fallacy, Fallacy of Labour Scarcity, Fixed Pie Fallacy, Zero-Sum Fallacy)
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ### Lump of Labour Fallacy
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Name: Lump of Labour Fallacy
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Also known as: Lump of Jobs Fallacy, Fallacy of Labour Scarcity, Fixed Pie Fallacy, Zero-Sum Fallacy
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Description: The lump of labour fallacy is the incorrect belief that there is a fixed amount of work available in an economy. According to this fallacy, if some people work fewer hours or if productivity increases, it will lead to a reduction in the number of jobs or increase in unemployment. This misconception suggests that employment is a zero-sum game, where the gain of one worker is the loss of another.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Logical Form:
+    </p>
+    <p>
+      &#xa0;&#xa0;1. Premise 1: There is a fixed amount of work to be done in the economy.
+    </p>
+    <p>
+      &#xa0;&#xa0;2. Premise 2: Reducing work hours or increasing productivity leads to fewer jobs.
+    </p>
+    <p>
+      &#xa0;&#xa0;3. Conclusion: Measures such as reducing working hours or increasing immigration will decrease employment or increase unemployment.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Example #1:
+    </p>
+    <p>
+      &#xa0;&#xa0;- Scenario: Advocates argue that increasing the minimum wage will lead to higher unemployment because employers will reduce their workforce to offset the increased labor costs.
+    </p>
+    <p>
+      &#xa0;&#xa0;- Explanation: This argument assumes that the total amount of work is fixed, and that higher wages will lead to fewer jobs. In reality, higher wages can increase worker productivity and demand for goods, potentially creating more jobs.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Example #2:
+    </p>
+    <p>
+      &#xa0;&#xa0;- Scenario: Some people claim that allowing more immigrants into the workforce will take jobs away from native-born workers.
+    </p>
+    <p>
+      &#xa0;&#xa0;- Explanation: This view is based on the belief that the number of available jobs is fixed. However, immigrants can increase demand for goods and services, which can lead to the creation of new jobs and economic growth.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Variation: The fallacy can be applied to various contexts, such as debates over working hours, immigration, and technological advancements. It is also known as the &quot;zero-sum fallacy&quot; because it incorrectly assumes that gains in employment for some result in losses for others.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Tip: To counter the lump of labour fallacy, consider that economic growth and job creation are not zero-sum. Expanding productivity, technological advancement, and increasing the labor pool can lead to a more dynamic job market with new opportunities.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Exception: Critics argue that the fallacy does not account for all nuances, such as the real administrative and operational costs associated with changing labor policies or the transitional impacts of technological changes. These factors can sometimes lead to temporary disruptions or adjustments in the job market.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Fun Fact: The term &quot;lump of labour fallacy&quot; was popularized by economist David Frederick Schloss in 1891. His work aimed to debunk the misconception that the amount of work is fixed, highlighting the dynamic nature of labor markets and economic growth.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Confusing Currently Unexplained with Unexplainable" ID="ID_1387371112" CREATED="1637058609628" MODIFIED="1642689605890"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description:</strong>&nbsp;Making the assumption that what cannot currently be explained is, therefore, unexplainable (impossible to explain). This is a problem because we cannot know the future and what conditions might arise that offer an explanation. It is also important to note that we cannot assume the currently unexplained <strong>is</strong>&nbsp;explainable.
+
+    <p class="Body">
+      <strong>Logical Form:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Claim X is currently unexplained.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Therefore, claim X is unexplainable.
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Teri: I don't know why that stuffed animal flew off my dresser this morning. I guess some things in life will forever remain a mystery!
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;The fact that Teri could not explain something, does not make it unexplainable. Later, it might be revealed that a family member was playing a trick and tied a string to the stuffed animal. Maybe Teri will read about a slight earthquake that happened at the same time. Maybe Teri will later discover that there is a rat in her room that made a home in her stuffed animals. The point is, what is currently unexplained is not necessarily unexplainable.
+    </p>
+    <p class="Body">
+      <strong>Example #2:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      While we may be able to explain <strong>how</strong>&nbsp;humans got here, we will never be able to explain <strong>why</strong>.
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;Besides <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Begging-the-Question" target="fallacy" data-toggle="tooltip" title="" data-original-title="Any form of argument where the conclusion is assumed in one of the premises.  Many people use the phrase &#x201c;begging the question&#x201d; incorrectly when they use it to mean, &#x201c;prompts one to ask the question&#x201d;.  That is NOT the correct usage. Begging the question is a form of circular reasoning.">begging the question</a></i>&nbsp;(this assumes there is a &quot;why&quot;), we don't know if we will never be able to explain why. Perhaps aliens created us, and they will tell us one day that created us for one big social experiment. Perhaps they wanted to see, after seeding Earth with life about 3 1/2 billion years ago, if one of the members of the human species, Alfredo, scratched his left ear at precisely 3:46 PM on December 12, 2023. After which time they will hit the reset button and try a different experiment.
+    </p>
+    <p class="Body">
+      <strong>Exception:</strong>&nbsp;Like other claims, expressing probability is a way around this fallacy.
+    </p>
+    <p class="Body uk-margin-remove uk-text-primary" style="display: block; padding-left: 20px; font-style: italic">
+      While we may be able to explain <strong>how</strong>&nbsp;humans got here, we <strong>may</strong>&nbsp;&nbsp;never be able to explain <strong>why</strong>&nbsp;(assuming there is a why).
+    </p>
+    <p class="Body">
+      <strong>Tip:</strong>&nbsp;Be careful using terms such as &quot;impossible&quot; and &quot;possible.&quot; The casual use of both terms is often incorrect within argumentation.
+    </p>
+    <strong>References:</strong>
+
+    <div class="small" style="padding-left: 22px; text-indent: -22px">
+      This a logical fallacy frequently used on the Internet. No academic sources could be found.
+    </div>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="False Effect" ID="ID_1073897984" CREATED="1637059886292" MODIFIED="1642695931846"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description:</strong>&nbsp;Claiming that the cause is true or false based on what we know about the effect in a claim of causality that has not been properly established. The cause is often an implied claim, and it is this claim that is being deemed true or false, right or wrong.
+
+    <p class="Body">
+      <strong>Logical Forms:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      X apparently causes Y.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Y is wrong.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Therefore, X is wrong.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      &nbsp;
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      X apparently causes Y.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Y is right.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Therefore, X is right.
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Mom: Watching TV that close will make you go blind, so move back!<br/>Jonny: That is B.S., Mom. Sorry, I am not moving.
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;The <em>false effect</em>&nbsp;of watching TV too closely is going blind. For the most part, the threat that you will &#x201c;ruin&#x201d; your eyesight is an old wives&#x2019; tale. Almost certainly, nobody is going blind from sitting too close unless they ram their eyes into the protruding knobs. Regardless of the <em>false effect</em>&nbsp;(i.e., blindness), watching TV too closely (the cause) has been shown to have some adverse effects on vision, so concluding that one shouldn&#x2019;t &#x201c;move back&#x201d; from sitting too close is fallacious.
+    </p>
+    <p class="Body">
+      <strong>Example #2:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      The Church used to claim that giving 10% of your income to the Church will free a child&#x2019;s soul from Limbo into Heaven, so clearly giving money to the Church is a scam!
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;Centuries ago, the Church did accept &#x201c;contributions&#x201d; to get loved ones out of &#x201c;Limbo,&#x201d; and it wasn&#x2019;t until 2007 when the Church made it clear that Limbo was a theory and not an official doctrine of the Church, separating the Church from that belief. As for the argument, the false effect of &#x201c;freeing a child&#x2019;s soul from Limbo&#x201d; does not warrant the conclusion that giving your money to the Church is a scam.
+    </p>
+    <p class="Body">
+      <strong>Example #3:&nbsp;</strong>
+    </p>
+    <p class="Body" style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>The presence of police at protests cause an escalation of violence. It was the case that at the protest last night attended by uniformed police, there was an escalation of violence. Therefore, police should not be at protests.</em></font>
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;We begin with a causal claim: The presence of police at protests cause an escalation of violence (X apparently causes Y). This is just a claim at this point and has not been established, but because there was an escalation of violence (Y is right), it is concluded that the implied claim (police should not be at protests) is true (therefore, X is right). In reality, we don&#x2019;t know what caused the escalation of violence, so we cannot conclude anything about the claim. In addition, we are assuming we have agreed to the condition:
+    </p>
+    <p class="Body" style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>If the presence of police at protests cause an escalation of violence, then there should be no presence of police at protests.</em></font>
+    </p>
+    <p class="Body">
+      To which we may not want to agree if we reason that the presence of police at protests results in a greater good.
+    </p>
+    <p class="Body">
+      <strong>Exception:</strong>&nbsp;It can be difficult to parse the claim that is being said to be wrong or right, in which case the causal link might be what is really being rejected. In our first example, it is fallacious to conclude that there is no reason we shouldn&#x2019;t watch TV close up. We parsed this from &#x201c;Watching TV that close will make you go blind.&#x201d; If one is claiming that the causal claim is what is false after showing the effect to be false, then there is no fallacy.
+    </p>
+    <p class="Body" style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>Mom: Watching TV that close will make you go blind, so move back!</em></font><br/><font color="rgb(52, 73, 94)"><em>Jonny: That is B.S., Mom. Watching TV too close does NOT make someone go blind.</em></font>
+    </p>
+    <p class="Body">
+      <strong>Fun Fact:</strong>&nbsp;This fallacy is different from the <em>false cause</em>&nbsp;&nbsp;fallacy (listed under <em>questionable cause</em>).
+    </p>
+  </body>
+</html></richcontent>
+</node>
 </node>
 <node TEXT="Fallacies of relevance" POSITION="top_or_left" ID="ID_1706945405" CREATED="1618490196997" MODIFIED="1618490198815">
 <font BOLD="true"/>
@@ -1390,8 +1780,7 @@
       - **Fun Fact**: The term FUD was originally coined in the 1970s by IBM employees to describe tactics used by IBM to discredit competitors and maintain its market dominance.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Appeal to prejudice" ID="ID_333480383" CREATED="1636879046222" MODIFIED="1722594504946"><richcontent TYPE="DETAILS">
 <html>
@@ -1403,8 +1792,7 @@
       (also known as: argumentum ad invidiam)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
 <html>
   <head>
@@ -1448,8 +1836,7 @@
       - **Fun Fact**: The term &quot;ad invidiam&quot; comes from Latin, where &quot;invidia&quot; means &quot;envy,&quot; highlighting the role of negative emotions in this fallacy.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Just In Case Fallacy" ID="ID_1123507951" CREATED="1637061437641" MODIFIED="1642700450213"><richcontent TYPE="DETAILS">
 <html>
@@ -1644,8 +2031,7 @@
       (also known as: ad misericordiam, appeal to sympathy, appeal to victimhood [form of], argumentum ad misericordiam, the sob story, the Galileo argument)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
 <html>
   <head>
@@ -1872,8 +2258,7 @@
       - **Fun Fact:** The term &quot;proving too much&quot; is often used in philosophical debates and can be traced back to medieval and early modern discussions of logic and argumentation.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Pooh-pooh" ID="ID_1189588311" CREATED="1636877569162" MODIFIED="1722594993657"><richcontent TYPE="DETAILS">
 <html>
@@ -1885,8 +2270,7 @@
       (Also Known As Dismissing an Argument, Ridiculing an Argument)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
 <html>
   <head>
@@ -1927,8 +2311,7 @@
       - **Fun Fact:** The term &quot;pooh-pooh&quot; is an onomatopoeic expression derived from the sound of contemptuous dismissal, historically representing the act of spitting or snorting in scorn. It reflects the act of dismissing something with a dismissive attitude.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Big lie" ID="ID_1205397988" CREATED="1636877605513" MODIFIED="1722595019241"><richcontent TYPE="NOTE">
 <html>
   <head>
@@ -1966,8 +2349,7 @@
       - **Fun Fact:** The term &quot;big lie&quot; is often associated with political propaganda and was notably used by Adolf Hitler in his book *Mein Kampf* to describe the use of large-scale lies to manipulate public perception.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -2010,8 +2392,7 @@
       - **Fun Fact:** The phrase &quot;think of the children&quot; has become a popular catchphrase in discussions about emotional manipulation in arguments and is often used ironically to highlight when an argument relies excessively on emotional appeals rather than rational analysis.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="In-group favoritism" ID="ID_1472696608" CREATED="1618498958294" MODIFIED="1722595089556"><richcontent TYPE="NOTE">
 <html>
@@ -2050,8 +2431,7 @@
       - **Fun Fact:** In-group favoritism is a well-documented phenomenon in psychology and sociology and has been observed in various contexts, from workplace dynamics to national and ethnic identities. Studies have shown that even minimal group distinctions, such as arbitrary labeling, can trigger this bias.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="DETAILS">
 <html>
   <head>
@@ -2062,8 +2442,7 @@
       (Also Known As In-Group Bias, In-Group Preference)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Invented here" ID="ID_669814714" CREATED="1618498977937" MODIFIED="1722595136406"><richcontent TYPE="DETAILS">
 <html>
@@ -2075,8 +2454,7 @@
       (Also Known As Local Bias, Home Bias)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
 <html>
   <head>
@@ -2114,8 +2492,7 @@
       - **Fun Fact:** The &quot;invented here&quot; bias is a common phenomenon in various sectors, including technology, politics, and consumer preferences. It reflects a natural tendency for people to favor what is familiar or close to home, even when external alternatives may offer greater advantages.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Island mentality" ID="ID_1052554778" CREATED="1618498984782" MODIFIED="1618498985920"/>
 <node TEXT="Appeal to loyalty" ID="ID_1808544728" CREATED="1618498990721" MODIFIED="1642686635944"><richcontent TYPE="DETAILS">
@@ -2181,8 +2558,7 @@
       (Also Known As: Insular Thinking, Island Syndrome)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
 <html>
   <head>
@@ -2220,8 +2596,7 @@
       - **Fun Fact:** Island mentality can often be observed in various contexts, from local communities and businesses to entire nations. The term evokes the imagery of being cut off from the wider world, similar to an isolated island, and highlights the limitations of an insular perspective.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Appeal to spite" ID="ID_1829161038" CREATED="1618499013894" MODIFIED="1642687015322"><richcontent TYPE="DETAILS">
 <html>
@@ -2336,8 +2711,7 @@
       - **Fun Fact:** The use of stirring symbols has a long history in propaganda and marketing, dating back to ancient times. Iconic symbols and emotionally evocative imagery have been powerful tools for influencing public opinion and rallying support throughout history.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="DETAILS">
 <html>
   <head>
@@ -2348,8 +2722,7 @@
       (Also Known As Emotional Symbols, Symbolic Appeal)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Judgmental language" ID="ID_804639896" CREATED="1618500451687" MODIFIED="1722595497395"><richcontent TYPE="DETAILS">
 <html>
@@ -2361,8 +2734,7 @@
       (Also Known As: Evaluative Language, Pejorative Language)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
 <html>
   <head>
@@ -2400,8 +2772,7 @@
       - **Fun Fact:** Judgmental language can significantly influence how arguments and opinions are perceived. Its use in media, politics, and everyday conversation often shapes public attitudes and can impact the effectiveness of communication by focusing on emotional responses rather than rational analysis.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Argumentum ad captandum vulgus" ID="ID_339132491" CREATED="1635720525223" MODIFIED="1722595719724"><richcontent TYPE="NOTE">
 <html>
@@ -2440,8 +2811,7 @@
       - **Fun Fact:** The term &quot;argumentum ad captandum vulgus&quot; is Latin for &quot;argument designed to capture the crowd,&quot; reflecting its origins in rhetorical strategies used in ancient Rome. It highlights how effective appeals to popular sentiment can be in persuasion.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="DETAILS">
 <html>
   <head>
@@ -2452,8 +2822,7 @@
       (Also Known As Appeal to the Masses, Popular Appeal)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Appeal to gravity" ID="ID_39961244" CREATED="1636919513743" MODIFIED="1722596008700"><richcontent TYPE="NOTE">
 <html>
@@ -2504,8 +2873,7 @@
       - **Fun Fact:** The appeal to gravity, or seriousness, is often used in high-stakes scenarios, such as crisis management or urgent policy decisions. Its effectiveness depends on balancing the perceived seriousness with solid evidence and rational arguments.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="DETAILS">
 <html>
   <head>
@@ -2516,8 +2884,7 @@
       (Also Known As: Appeal to Seriousness, Appeal to Authority)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Appeal to shame" ID="ID_24551887" CREATED="1636919653419" MODIFIED="1722596174912"><richcontent TYPE="DETAILS">
 <html>
@@ -2597,8 +2964,7 @@
       - **Fun Fact:** The appeal to shame is often used in political discourse and social media, where quick and emotionally charged arguments can sometimes overshadow more reasoned and evidence-based discussions.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Every Schoolboy Knows" ID="ID_877519680" CREATED="1642351603796" MODIFIED="1722505630756"><richcontent TYPE="NOTE">
 <html>
   <head>
@@ -2734,8 +3100,7 @@
       - **Fun Fact:** The term &quot;wisdom of repugnance&quot; was popularized by bioethicist Leon Kass, who argued that feelings of disgust could sometimes reflect deeper moral insights. However, this approach is controversial and often criticized for relying on emotional responses rather than reasoned analysis.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Style over substance" ID="ID_1403822331" CREATED="1636920184102" MODIFIED="1642761961043"><richcontent TYPE="DETAILS">
 <html>
@@ -3166,8 +3531,7 @@
       - **Fun Fact:** The term &quot;love bombing&quot; originated in the 1970s among members of the Unification Church and has since been used to describe various forms of excessive and manipulative affection.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="DETAILS">
 <html>
   <head>
@@ -3178,8 +3542,7 @@
       (Also Known As: Attention Bombing, Affection Bombing)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Milieu control" ID="ID_18265940" CREATED="1636877026612" MODIFIED="1722596545367"><richcontent TYPE="NOTE">
 <html>
   <head>
@@ -3235,8 +3598,7 @@
       - **Fun Fact:** The concept of milieu control was popularized by psychiatrist Robert Jay Lifton in the context of brainwashing and mind control techniques, but it has since been applied to various forms of social influence and organizational behavior.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="DETAILS">
 <html>
   <head>
@@ -3247,8 +3609,7 @@
       (Also Known As: Environment Control, Group Control, Cognitive Control)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT=" victim playing" ID="ID_1915172970" CREATED="1641987588521" MODIFIED="1722596588824"><richcontent TYPE="DETAILS">
@@ -3261,8 +3622,7 @@
       (also known as: victim card, playing the victim, self-victimization, professional victim, victim mentality, Emotional Manipulation)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
 <html>
   <head>
@@ -3318,8 +3678,7 @@
       - **Fun Fact:** The concept of victim playing is often used in discussions of psychological manipulation and interpersonal dynamics, highlighting how people may use emotional strategies to influence others' perceptions and behaviors.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="What&apos;s the harm" ID="ID_1388927450" CREATED="1642865866558" MODIFIED="1642865869124"/>
 </node>
@@ -3500,8 +3859,7 @@
       (also known as: Reductio ad Hitlerum, reductio ad racism, Red-baiting, reductio ad Stalinum, Gore's Law, playing the Nazi card, Hitler card, Argumentum ad Nazium, Godwin's Rule, Godwin's Law of Nazi Analogies)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
 <html>
   <head>
@@ -3554,8 +3912,7 @@
       - **Fun Fact:** Godwin's Law was coined by Mike Godwin in 1990 as an observation of online debate patterns, and it has since become a well-known principle in discussions about internet discourse and logical fallacies
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Galileo Fallacy" ID="ID_356035664" CREATED="1637060635849" MODIFIED="1642696256846">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_499300340" STARTINCLINATION="713.24998 pt;0 pt;" ENDINCLINATION="713.24998 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
@@ -3894,8 +4251,7 @@
       (also known as: And you are lynching Negroes, The pot calling the kettle black, The Mote and the Beam, clean hands, amoral familism, Whataboutery, Whataboutary)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
 <html>
   <head>
@@ -3948,8 +4304,7 @@
       - **Fun Fact:** The term &quot;whataboutism&quot; is derived from the Russian phrase &quot;что вы скажете об этом?&quot; (what do you say about this?), reflecting its use in political discourse and propaganda to deflect criticism and avoid accountability.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Appeal to Trust" ID="ID_579423839" CREATED="1637057348927" MODIFIED="1642866613259"><richcontent TYPE="DETAILS">
 <html>
@@ -4762,8 +5117,7 @@
       (also known as: argumentum ad verecundiam,&#xa0;argument from authority, ipse dixit, Argumentum ad Reverentiam, Appeal to Reverence)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
 <html>
   <head>
@@ -4969,8 +5323,7 @@
       (also known as: Appeal to poverty, Argument from Poverty)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
 <html>
   <head>
@@ -5023,8 +5376,7 @@
       - **Fun Fact:** The term &quot;Argumentum ad Lazarum&quot; is named after Lazarus, a biblical figure who was poor and lived in a state of destitution, contrasting with the wealthy and ignoring his arguments or perspectives based on his poverty.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Argumentum ad crumenam" ID="ID_752222317" CREATED="1642866377086" MODIFIED="1722597029496"><richcontent TYPE="DETAILS">
 <html>
@@ -5036,8 +5388,7 @@
       (also known as: appeal to wealth, Argument from Wealth)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
 <html>
   <head>
@@ -5090,8 +5441,7 @@
       - **Fun Fact:** The term &quot;Argumentum ad Crumenam&quot; comes from Latin, where &quot;crumenam&quot; refers to a money bag, reflecting the fallacy’s reliance on financial status rather than logical reasoning.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Name-dropping" ID="ID_903997063" CREATED="1635775276438" MODIFIED="1635775277453"/>
@@ -5447,8 +5797,7 @@
       - **Fun Fact:** The appeal to the minority fallacy often occurs in debates where unconventional or fringe opinions are promoted as being superior simply due to their rarity, leading to a paradoxical situation where rarity is mistakenly equated with truth.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="DETAILS">
 <html>
   <head>
@@ -5459,8 +5808,7 @@
       (Also Known As: Argumentum ad Populum (Minority), Appeal to Unusual Opinion, Minority Opinion Fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Appeal to Definition" ID="ID_854672630" CREATED="1635717293142" MODIFIED="1642871458677"><richcontent TYPE="DETAILS">
@@ -5613,8 +5961,7 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Sunk-Cost Fallacy" ID="ID_1086843886" CREATED="1635718605118" MODIFIED="1722506271745"><richcontent TYPE="DETAILS">
@@ -5838,8 +6185,7 @@
       (Also Known As: Appeal to Tradition, Argument from Antiquity, Argumentum ad Antiquitatem,argumentum ad antiquitatis)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
 <html>
   <head>
@@ -5892,8 +6238,7 @@
       - **Fun Fact:** The term &quot;argumentum ad antiquitatem&quot; translates from Latin as &quot;argument from antiquity,&quot; reflecting the fallacy’s reliance on the age or tradition of an idea as its primary justification.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -6412,8 +6757,7 @@
       - **Fun Fact:** The term &quot;argumentum ad antiquitatem&quot; comes from Latin, meaning &quot;argument from antiquity,&quot; highlighting how arguments based on age or tradition often ignore the need for rational justification.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Appeal to Common Belief" ID="ID_1881670342" CREATED="1618498750997" MODIFIED="1642685420109"><richcontent TYPE="DETAILS">
 <html>
@@ -6751,8 +7095,78 @@
     </p>
   </body>
 </html></richcontent>
+<node TEXT="Overextended Outrage" ID="ID_1883529473" CREATED="1637084359028" MODIFIED="1767635321800"><richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (also known as: overextended moral outrage, overextended, political outrage)
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description:</strong>&nbsp;This is a form of poor statistical thinking where one or more statistically rare cases are implied to be the norm or the trend (without evidence) for the purpose of expressing or inciting outrage toward an entire group. It is a form of extreme <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Stereotyping-the-fallacy" target="fallacy" data-toggle="tooltip" title="" data-original-title="The general beliefs that we use to categorize people, objects, and events while assuming those beliefs are accurate generalizations of the whole group.">stereotyping (the fallacy)</a></i>, based on the cognitive bias known as the <i>group attribution error</i>.
+
+    <p class="Body">
+      <strong>Logical Form:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Person 1 does something bad.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Person 1 is a member of group X.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Outrage is expressed towards group X.
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      FAUX News runs a story about an illegal immigrant who committed a horrible crime. The commentators talk about this case for weeks, expressing outrage about the serious danger illegal immigrants pose to the good people of the United States.
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;Violent crime by illegal immigrants is rarer than violent crime committed by U.S. citizens [1]. However, if the narrative a media outlet is trying to sell is that illegal immigrants are dangerous, then they can influence public opinion by inferring that one example of such violence is characteristic of the group. Expressing outrage is a way to make the influence even more effective.
+    </p>
+    <p class="Body">
+      <strong>Example #2:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      The Huffaluf Post runs a story about a Republican who assaulted a Muslim woman and told her to &quot;go back where she came from.&quot; The story is shared millions of times and picked up by other liberal media outlets. Liberals are discussing this story on social media saying how outraged they are at Republicans for their hatred of Muslims.
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;People and the media (biased media) tend to associate a physical or social identity to the perpetrator of a crime for the purpose of damaging the group's public perception. Why a &quot;Republican&quot; man? How many Republicans are assaulting Muslim women? How many Democrats are? The data are ignored for the benefit of the narrative being sold.
+    </p>
+    <p class="Body">
+      <strong>Exception:</strong>&nbsp;There is no exception. If it is &quot;overextended,&quot; then the problem is being exaggerated, and a group of people is unfairly demonized.
+    </p>
+    <p class="Body">
+      <strong>Tip:</strong>&nbsp;Next time you read about a story that makes you feel outraged, direct your outrage to the individuals directly involved in the story. Don't demonize an entire physical or social identity.
+    </p>
+    <strong>References:</strong>
+
+    <div class="small" style="padding-left: 22px; text-indent: -22px">
+      This is an original logical fallacy named by the author.
+
+      <p>
+        
+      </p>
+      <p>
+        1 Adelman, R., Reid, L. W., Markle, G., Weiss, S., &amp; Jaret, C. (2017). Urban crime rates and the changing face of immigration: Evidence across four decades. <i>Journal of Ethnicity in Criminal Justice</i>, <i>15</i>(1), 52&#x2013;77. https://doi.org/10.1080/15377938.2016.1261057
+      </p>
+    </div>
+  </body>
+</html></richcontent>
 </node>
-<node TEXT="Gadarene Swine Fallacy" ID="ID_1887679643" CREATED="1637060577042" MODIFIED="1722597372066">
+</node>
+<node TEXT="Gadarene Swine Fallacy" ID="ID_1887679643" CREATED="1637060577042" MODIFIED="1767635464430">
 <arrowlink DESTINATION="ID_1292162886"/>
 <richcontent TYPE="NOTE">
 <html>
@@ -6824,8 +7238,7 @@
       Tip: Compare this to the Galileo fallacy . You will see that being the oddball neither makes you right nor wrong.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Imposter Fallacy" ID="ID_348956024" CREATED="1637061233021" MODIFIED="1642699893965"><richcontent TYPE="NOTE">
 <html>
@@ -6923,8 +7336,7 @@
       - **Fun Fact:** The term &quot;overbelief&quot; is often used in psychological and philosophical contexts to describe how deeply ingrained beliefs can influence perception and reasoning, sometimes leading to persistent adherence despite clear evidence to the contrary.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="DETAILS">
 <html>
   <head>
@@ -6935,8 +7347,7 @@
       (Also Known As: Excessive Belief, Cognitive Overcommitment)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Judgmental language" ID="ID_445486417" CREATED="1635761063206" MODIFIED="1635761064078"/>
@@ -7143,8 +7554,7 @@
       (Also Known As: Fallacy of Accident, Fallacy of Misplaced Concreteness)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
 <html>
   <head>
@@ -7197,8 +7607,7 @@
       - **Fun Fact:** The term &quot;fallacia accidentis&quot; is rooted in classical logic and philosophy, illustrating how ancient thinkers sought to identify and correct errors in reasoning that persist in modern discussions and debates.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Straw man Fallacy" ID="ID_413138777" CREATED="1618498859744" MODIFIED="1722506449385">
@@ -7509,8 +7918,7 @@
       (Also Known As: Absence of Evidence Fallacy, Lack of Evidence Fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
 <html>
   <head>
@@ -7563,8 +7971,7 @@
       - **Fun Fact:** The term &quot;Evidence of Absence&quot; is often contrasted with &quot;Absence of Evidence,&quot; which refers to the idea that the absence of proof does not prove non-existence, but rather indicates a lack of proof.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Appeal to censorship" ID="ID_48305228" CREATED="1636920580615" MODIFIED="1722597790690"><richcontent TYPE="DETAILS">
 <html>
@@ -7576,8 +7983,7 @@
       (Also Known As: Argument from Silence, Censorship Fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
 <html>
   <head>
@@ -7630,8 +8036,7 @@
       - **Fun Fact:** The term &quot;Appeal to Censorship&quot; is often used in discussions about freedom of speech and the role of media in society, highlighting the complex relationship between censorship and the credibility of information.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Argument from incredulity" ID="ID_1748326938" CREATED="1618498820840" MODIFIED="1642688301453"><richcontent TYPE="DETAILS">
 <html>
@@ -7842,8 +8247,7 @@
       (also known as: allness, absolute thinking, Omniscience Fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
 <html>
   <head>
@@ -7896,8 +8300,7 @@
       - **Fun Fact:** The concept of omniscience is often discussed in philosophy of religion and theology, particularly in debates about the nature of divine attributes and their implications for human understanding.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Argument from silence" ID="ID_707173345" CREATED="1618498794672" MODIFIED="1642688599474"><richcontent TYPE="DETAILS">
 <html>
@@ -8049,8 +8452,7 @@
       (Also Known As: Hairpiece Fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
 <html>
   <head>
@@ -8106,8 +8508,7 @@
       - **Fun Fact:** The term &quot;Toupée Fallacy&quot; was popularized around 2006, and it humorously highlights how selection bias and confirmation bias can lead to erroneous conclusions in everyday observations.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Appeal to eye" ID="ID_859494781" CREATED="1636964642256" MODIFIED="1722598621322"><richcontent TYPE="DETAILS">
 <html>
@@ -8119,8 +8520,7 @@
       (also known as: Argumentum ad oculos, argument to eye, Appeal to Appearances, Appeal to the Visible)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
 <html>
   <head>
@@ -8167,8 +8567,7 @@
       - **Fun Fact:** The term “Argumentum ad Oculos” reflects a focus on visible or apparent qualities, highlighting how visual impressions can sometimes mislead reasoning if not properly scrutinized.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="El Greco fallacy" ID="ID_1576279487" CREATED="1635760011445" MODIFIED="1722598715372"><richcontent TYPE="DETAILS">
 <html>
   <head>
@@ -8179,8 +8578,7 @@
       (Also Known As:&#xa0;The Astigmatism Fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
 <html>
   <head>
@@ -8227,8 +8625,7 @@
       - **Fun Fact:** The term &quot;El Greco Fallacy&quot; highlights a common misconception in perception research, where assumptions about perceptual experiences can lead to incorrect conclusions about the nature of perception and its effects.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="appeal to calm down" ID="ID_611793212" CREATED="1636919088348" MODIFIED="1722598843462"><richcontent TYPE="DETAILS">
@@ -8241,8 +8638,7 @@
       (also known as: argumentum a tuto, appeasement argument, Calm Down Fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
 <html>
   <head>
@@ -8289,8 +8685,7 @@
       - **Fun Fact:** The Appeal to Calm Down is often used in heated debates or discussions as a way to deflect from the issues at hand and can sometimes escalate tensions rather than diffuse them.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Appeal to Self-evident Truth" ID="ID_1127780834" CREATED="1637057198632" MODIFIED="1722598837609"><richcontent TYPE="NOTE">
 <html>
@@ -8334,8 +8729,7 @@
       <strong>Tip:</strong>&#xa0;If you can't explain something, that doesn't mean you are dealing with something that is self-evident; it could just be your failure to explain something.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Just Because Fallacy" ID="ID_1822461468" CREATED="1637061370999" MODIFIED="1642700409230"><richcontent TYPE="DETAILS">
 <html>
@@ -8737,8 +9131,7 @@
       (Also Known As: Semantic Apex Fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
 <html>
   <head>
@@ -8791,8 +9184,7 @@
       - **Fun Fact:** The term &quot;Apex Fallacy&quot; is frequently discussed in online forums related to gender issues, particularly in critiques of feminism or in discussions about gender disparities in power and success.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Lack of proportion" ID="ID_313239868" CREATED="1642868389422" MODIFIED="1642868398127">
 <node TEXT="Disregarding known science" ID="ID_1608033940" CREATED="1642868404653" MODIFIED="1642868407542"/>
@@ -9074,8 +9466,7 @@
       (also known as: Just world hypothesis, Belief in a Just World)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
 <html>
   <head>
@@ -9128,8 +9519,7 @@
       - **Fun Fact:** The term &quot;Just World Fallacy&quot; was popularized by social psychologist Melvin Lerner in the 1960s, who conducted experiments demonstrating how people are inclined to believe in a just world to maintain their sense of security and fairness.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Appeal to Complexity" ID="ID_1030758396" CREATED="1642685736344" MODIFIED="1642685764664"><richcontent TYPE="NOTE">
 <html>
@@ -9328,8 +9718,7 @@
       (Also Known as: Double-Direct Question)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
 <html>
   <head>
@@ -9376,8 +9765,7 @@
       - **Fun Fact:** The term “double-barreled question” is also used in legal contexts, where such questions are referred to as “compound questions” and can lead to objections in court proceedings.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Shaggy defense" ID="ID_1845198092" CREATED="1635775538085" MODIFIED="1722599112827"><richcontent TYPE="DETAILS">
 <html>
@@ -9389,8 +9777,7 @@
       (Also Known As: It Wasn't Me Defense)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
 <html>
   <head>
@@ -9437,8 +9824,7 @@
       - **Fun Fact:** The term &quot;Shaggy Defense&quot; became widely recognized after Slate writer Josh Levin coined it in 2008, inspired by Shaggy's hit song and its portrayal of denial despite clear evidence.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="The squeaky wheel gets the grease" ID="ID_883373736" CREATED="1635775630002" MODIFIED="1722599176605"><richcontent TYPE="NOTE">
 <html>
@@ -9486,8 +9872,7 @@
       - **Fun Fact:** The proverb's origins are attributed to American humorist Josh Billings, who popularized it in the 1870s, though its exact origins remain uncertain. Similar sentiments are found in various cultures, reflecting a common understanding of the importance of advocacy and vocalization in problem-solving.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="DETAILS">
 <html>
   <head>
@@ -9498,8 +9883,7 @@
       (Also Known As: The Loudest Wheel Gets the Grease)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="blaming" ID="ID_850080240" CREATED="1635775842359" MODIFIED="1636877301810">
 <node TEXT="Victim blaming" ID="ID_1990865314" CREATED="1636877302470" MODIFIED="1722599239398"><richcontent TYPE="NOTE">
@@ -9548,8 +9932,7 @@
       - **Fun Fact:** The concept of blaming the victim has been explored in various fields including psychology and sociology, highlighting its impact on how society perceives and handles crimes and injustices.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="DETAILS">
 <html>
   <head>
@@ -9560,8 +9943,7 @@
       (Also known as: Blaming the Victim)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Scapegoating" ID="ID_48477570" CREATED="1636877306453" MODIFIED="1722599229535"><richcontent TYPE="NOTE">
 <html>
@@ -9617,8 +9999,7 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="reverse appeal to emotion" ID="ID_653309130" CREATED="1636918852131" MODIFIED="1636918884601"><richcontent TYPE="DETAILS">
@@ -9820,8 +10201,7 @@
       - **Fun Fact:** Proof by assertion is often criticized for its lack of intellectual rigor. It contrasts with more valid forms of argumentation, which rely on evidence, logical reasoning, and critical analysis to support claims.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="DETAILS">
 <html>
   <head>
@@ -9832,8 +10212,7 @@
       (Also Known As: Assertion Fallacy, Argument by Repetition, Proof by assertion)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Argument from repetition" ID="ID_161369247" CREATED="1618490308991" MODIFIED="1642687511900"><richcontent TYPE="DETAILS">
 <html>
   <head>
@@ -9910,8 +10289,7 @@
       (Also Known As: Persistent Questioning, Troll Interrogation)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
 <html>
   <head>
@@ -9961,8 +10339,7 @@
       - **Fun Fact:** The term &quot;sealioning&quot; originated from a comic strip by David Malki!, in which a sealion repeatedly asks for evidence and clarification in a manner that is both unreasonable and disruptive.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Proof by assertion" ID="ID_14100292" CREATED="1635775372312" MODIFIED="1722600897674">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1881670342" STARTINCLINATION="453.74999 pt;0 pt;" ENDINCLINATION="453.74999 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
@@ -10211,8 +10588,7 @@
       - **Fun Fact:** The term &quot;virtue signalling&quot; gained popularity in the early 2010s and is often used in discussions about social media and public relations, highlighting the complexities of online identity and activism.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Economic fallacies" ID="ID_261208886" CREATED="1642876373328" MODIFIED="1642876394763">
@@ -10262,8 +10638,7 @@
       - **Fun Fact:** Hyperbolic discounting is often discussed in behavioral economics and psychology, and it helps explain various phenomena like procrastination and impulsive buying. It contrasts with the more traditional economic assumption of exponential discounting, which suggests a constant rate of time preference.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Sunk-Cost Fallacy" ID="ID_850354237" CREATED="1637156589535" MODIFIED="1642766268289"><richcontent TYPE="DETAILS">
 <html>
@@ -10392,207 +10767,6 @@
 </node>
 </node>
 </node>
-</node>
-<node TEXT="uncategorized" POSITION="bottom_or_right" ID="ID_1427653948" CREATED="1635759812221" MODIFIED="1637054221127"><richcontent TYPE="DETAILS">
-<html>
-  
-
-  <head>
-
-  </head>
-  <body>
-  </body>
-</html></richcontent>
-<node TEXT="Cartesian circle" ID="ID_1149533291" CREATED="1635720913709" MODIFIED="1722514425085"><richcontent TYPE="DETAILS">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (Also known as: Arnauld's Circle)
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      - <span style="font-weight: bold;">Description</span>: The Cartesian Circle is a term used to describe the fallacy of circular reasoning attributed to René Descartes. It highlights a logical flaw in Descartes' argument where he uses the existence of a benevolent God to validate the reliability of clear and distinct perceptions, while simultaneously using these clear and distinct perceptions to prove God's existence.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Logical Form:</span>
-    </p>
-    <p>
-      &#xa0;&#xa0;1. Descartes claims that clear and distinct perceptions are reliable because God, a non-deceiver, guarantees them.
-    </p>
-    <p>
-      &#xa0;&#xa0;2. Descartes uses these reliable clear and distinct perceptions to argue for the existence of God.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Example #1:</span>
-    </p>
-    <p>
-      &#xa0;&#xa0;- Scenario: Descartes argues that whatever is perceived clearly and distinctly is true because a benevolent God ensures this.
-    </p>
-    <p>
-      &#xa0;&#xa0;- Explanation: This forms a circular argument because Descartes' proof of God's existence relies on the reliability of clear and distinct perceptions, which in turn is supposed to be guaranteed by God.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Example #2:</span>
-    </p>
-    <p>
-      &#xa0;&#xa0;- Scenario: Descartes claims that his knowledge of being a thinking thing depends on the clear knowledge of an existing God.
-    </p>
-    <p>
-      &#xa0;&#xa0;- Explanation: This argument is circular as it assumes God's existence to validate the clear and distinct perception of oneself as a thinking entity, while simultaneously using this perception to prove God's existence.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Variation:</span>&#xa0;Circular reasoning can occur in various contexts where the conclusion is assumed in one of the premises. For example, using the Bible to prove God's existence while asserting that God's existence makes the Bible true.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Tip:</span>&#xa0;To avoid circular reasoning, ensure that your premises are independently verifiable and do not rely on the conclusion to support them.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Exception:</span>&#xa0;Some philosophers argue that foundational beliefs can be self-evident and do not require external validation, which can make circular reasoning seem less problematic in those contexts.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Fun Fact:</span>&#xa0;The term &quot;Cartesian Circle&quot; was first popularized by Descartes' contemporaries, such as Marin Mersenne and Antoine Arnauld, who critiqued his work for this logical flaw.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      <span style="font-weight: bold;">Additional Information</span>
-    </p>
-    <p>
-      - Modern Commentators: Some modern philosophers, like Bernard Williams and Harry Frankfurt, have tried to defend Descartes by suggesting different interpretations of his arguments, such as the idea that his goal was to show the reliability of reason rather than to prove conclusions through syllogistic logic.
-    </p>
-    <p>
-      
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="argument from the contrary" ID="ID_828012295" CREATED="1635720634101" MODIFIED="1722514579101"><richcontent TYPE="DETAILS">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (also known as: Argumentum e contrario, Argumentum ex contrario, Appeal from the Contrary)
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      - <span style="font-weight: bold;">Description</span>: In logic and law, an argumentum e contrario is used to argue that a proposition is correct because it is not disproven by a certain case. It contrasts with analogy, where similarity between cases is used to argue for a certain conclusion. In legal contexts, this argument helps address issues not explicitly covered by existing laws by inferring that if the law does not mention something, it is not intended to be included.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Logical Form:</span>
-    </p>
-    <p>
-      &#xa0;&#xa0;1. Law A states that X must do Y.
-    </p>
-    <p>
-      &#xa0;&#xa0;2. It does not state that Z must do Y.
-    </p>
-    <p>
-      &#xa0;&#xa0;3. Therefore, Z does not need to do Y.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Example #1:</span>
-    </p>
-    <p>
-      &#xa0;&#xa0;- Scenario: § 123 of the X-Law says that green cars need to have blue tires.
-    </p>
-    <p>
-      &#xa0;&#xa0;- Argument: Therefore, red cars don't have to have blue tires.
-    </p>
-    <p>
-      &#xa0;&#xa0;- Explanation: The argument is based on the fact that the law specifies green cars but does not mention red cars. Thus, it is inferred that the law does not apply to red cars.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: normal;">Example #2:</span>
-    </p>
-    <p>
-      &#xa0;&#xa0;- Scenario: § 456 of the Y-Law says that it's irrelevant whether a message is sent by letter or by telegraph.
-    </p>
-    <p>
-      &#xa0;&#xa0;- Argument: Therefore, messages cannot be sent by fax machines.
-    </p>
-    <p>
-      &#xa0;&#xa0;- Explanation: This argument incorrectly infers that because the law does not mention faxes, they must be excluded. It misinterprets the law's intent, as fax machines likely did not exist when the law was written.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Variation</span>: Arguments e contrario can vary in their application, especially in legal contexts where the interpretation of the law's intent and the specifics of unmentioned cases can lead to different conclusions. It often contrasts with arguments from analogy.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Tip: </span>When using an argumentum e contrario, consider the law's intent and whether the unmentioned case might reasonably be included if the law were updated. Be cautious of overextending the argument to situations the law did not explicitly intend to exclude.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Exception: </span>Argumentum e contrario is not always a fallacy. In some cases, it is a legitimate interpretative tool in law where it is clear that the law deliberately excludes certain cases. However, if the exclusion is not deliberate or clear, the argument can become fallacious.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Fun Fact:</span>&#xa0;The Latin maxim &quot;ubicumque lex voluit dixit, ubi tacuit noluit&quot; translates to &quot;if the legislator wished to say something, he would do that expressly.&quot; This highlights the principle behind argumentum e contrario in legal interpretation.
-    </p>
-    <p>
-      
-    </p>
-  </body>
-</html></richcontent>
-</node>
 <node TEXT="Attack ad" ID="ID_402811547" CREATED="1635720707983" MODIFIED="1722514708043"><richcontent TYPE="DETAILS">
 <html>
   <head>
@@ -10679,1040 +10853,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Greedy reductionism" ID="ID_1114983696" CREATED="1635760572898" MODIFIED="1722515075554"><richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      - <span style="font-weight: bold;">Description</span>: Greedy reductionism, identified by Daniel Dennett in his 1995 book *Darwin's Dangerous Idea*, is an erroneous form of reductionism. It occurs when scientists and philosophers, in their eagerness to explain phenomena, underestimate complexities and attempt to skip essential layers or levels of theory. This contrasts with &quot;good&quot; reductionism, which methodically explains phenomena in terms of their parts and interactions.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Logical Form:</span>
-    </p>
-    <p>
-      &#xa0;&#xa0;1. Identify a complex phenomenon.
-    </p>
-    <p>
-      &#xa0;&#xa0;2. Attempt to explain it by reducing it to simpler components.
-    </p>
-    <p>
-      &#xa0;&#xa0;3. Ignore or underestimate intermediate layers of complexity.
-    </p>
-    <p>
-      &#xa0;&#xa0;4. Draw conclusions that may be overly simplistic or incorrect.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - E<span style="font-weight: bold;">xample #1:</span>
-    </p>
-    <p>
-      &#xa0;&#xa0;- Scenario: Behaviorism by B.F. Skinner
-    </p>
-    <p>
-      &#xa0;&#xa0;- Explanation: Skinner's radical behaviorism attempted to explain all mental processes through operant conditioning alone, ignoring the potential contributions of neurological states. He claimed that one fundamental process could account for all mental activity, which oversimplified the complexities of human cognition.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - E<span style="font-weight: bold;">xample #2:</span>
-    </p>
-    <p>
-      &#xa0;&#xa0;- Scenario: Consciousness Explained by Dennett
-    </p>
-    <p>
-      &#xa0;&#xa0;- Explanation: In *Consciousness Explained*, Dennett argued that human consciousness arises from the coordinated activity of many unconscious brain components. Critics accused him of &quot;explaining away&quot; consciousness by not accounting for the full complexity of conscious experience, which led Dennett to later distinguish between good and greedy reductionism.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Variation:</span>&#xa0;Nonreductive physicalism opposes greedy reductionism by arguing that certain phenomena, such as consciousness, cannot be fully explained by reductionist analysis. Nonreductive physicalists claim that some characteristics of conscious systems are emergent properties that require more than just a reductionist approach.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Tip:</span>&#xa0;When employing reductionism, ensure to consider all levels of complexity and avoid skipping essential layers of theory. Recognize that some phenomena may require a multi-layered explanatory approach.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Exception:</span>&#xa0;In some cases, a comprehensive reductionist approach may be infeasible due to the intrinsic complexity of the phenomena. Acknowledging the limits of reductionism can help mitigate the risk of greedy reductionism.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Fun Fact: </span>The term &quot;nothing-buttery&quot; emerged in the 1950s to criticize overly simplistic explanations that reduce complex phenomena to just one aspect. The phrase &quot;nothing-but-ism&quot; was used even earlier, in the 1930s, to describe similar reductionist thinking.
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="DETAILS">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (Also known as: Nothing-buttery, Nothing-but-ism)
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Junkyard tornado" ID="ID_1544337902" CREATED="1635762414825" MODIFIED="1722515228065"><richcontent TYPE="DETAILS">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (Also known as: Hoyle's Fallacy)
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      - <span style="font-weight: bold;">Description: </span>The junkyard tornado is an argument against abiogenesis, comparing the probability of life arising by chance to the likelihood of a tornado assembling a Boeing 747 from junkyard debris. Originally posited by English astronomer Fred Hoyle, it argues that the formation of complex life is so improbable that it couldn't happen by random chance alone. This analogy is often used by those rejecting evolutionary theory, despite its flawed assumptions.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Logical Form:</span>
-    </p>
-    <p>
-      &#xa0;&#xa0;1. Define the complexity of life (e.g., the formation of enzymes or proteins).
-    </p>
-    <p>
-      &#xa0;&#xa0;2. Calculate the probability of this complexity arising by random chance.
-    </p>
-    <p>
-      &#xa0;&#xa0;3. Conclude that the probability is exceedingly low, suggesting the need for an alternative explanation.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Example #1:</span>
-    </p>
-    <p>
-      &#xa0;&#xa0;- Scenario: Formation of Enzymes
-    </p>
-    <p>
-      &#xa0;&#xa0;- Explanation: Hoyle calculated the probability of obtaining all of life's approximate 2000 enzymes in a random trial to be one in 10^40,000, arguing that such a low probability implies that life couldn't have arisen by chance.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - E<span style="font-weight: bold;">xample #2:</span>
-    </p>
-    <p>
-      &#xa0;&#xa0;- Scenario: Cellular Biochemistry
-    </p>
-    <p>
-      &#xa0;&#xa0;- Explanation: The argument suggests that the probability of a protein molecule achieving a functional sequence of amino acids by chance is too low to be realistic, likening it to the improbable scenario of blind men solving Rubik's Cubes simultaneously.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Variation: </span>The argument is sometimes extended to cellular biochemistry, claiming that the formation of functional proteins by chance alone is akin to the junkyard tornado analogy.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Tip:</span>&#xa0;When assessing arguments against evolution, consider the role of natural selection and gradual processes over time. Evolutionary theory explains complexity through numerous small, cumulative changes rather than one improbable event.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Exception</span>: The junkyard tornado argument ignores natural selection, which significantly increases the probability of complex structures evolving through intermediate stages.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Fun Fact: </span>Despite Hoyle himself being an atheist, his argument has been adopted by religious groups to support creationism and intelligent design.
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Mind projection fallacy" ID="ID_483314699" CREATED="1635762775842" MODIFIED="1722515335109"><richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      -<span style="font-weight: bold;">&#xa0;Description:</span>&#xa0;The mind projection fallacy is an informal fallacy first described by physicist and Bayesian philosopher E. T. Jaynes. It occurs when someone projects their subjective perceptions or ignorance onto the external world, mistakenly believing these mental states to be intrinsic properties of reality. This fallacy has two forms: the positive form, where one's subjective judgments are assumed to be inherent properties of objects, and the negative form, where one's lack of knowledge about a phenomenon is taken to mean the phenomenon is inherently unknowable.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Logical Form:</span>
-    </p>
-    <p>
-      &#xa0;&#xa0;1. Observe or imagine a characteristic or property.
-    </p>
-    <p>
-      &#xa0;&#xa0;2. Assume this characteristic or property is a real, inherent aspect of the external world.
-    </p>
-    <p>
-      &#xa0;&#xa0;3. Conclude that others should share the same perception, or assume they are irrational or misinformed if they do not.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Example #1:</span>
-    </p>
-    <p>
-      &#xa0;&#xa0;- Scenario: Imagined Objects
-    </p>
-    <p>
-      &#xa0;&#xa0;- Explanation: Someone sees the world through their subjective lens and assumes their view reflects reality. For example, a person who believes a particular color is ugly might assume it is inherently ugly, rather than understanding that this is a personal preference.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Example #2:</span>
-    </p>
-    <p>
-      &#xa0;&#xa0;- Scenario: Knowledge Assumptions
-    </p>
-    <p>
-      &#xa0;&#xa0;- Explanation: A person might assume that because they do not understand quantum mechanics, the phenomenon itself is inherently indeterminate or unknowable, rather than acknowledging their personal lack of knowledge.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Variation:</span>&#xa0;This fallacy can be extended to any situation where subjective experiences or personal ignorance are wrongly attributed as inherent qualities of the external world.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Tip: </span>Always differentiate between subjective perceptions and objective reality. Recognize that others may have different perspectives and that a lack of personal understanding does not reflect the nature of reality itself.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Exception:</span>&#xa0;The mind projection fallacy is not applicable when subjective experiences are clearly recognized as such and not confused with objective properties.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Fun Fact:</span>&#xa0;E. T. Jaynes used the mind projection fallacy to critique the Copenhagen interpretation of quantum mechanics, arguing that statistical properties often described as inherent to nature are actually reflections of our own ignorance or imagination.
-    </p>
-  </body>
-</html></richcontent>
-<node TEXT="Psychologist&apos;s fallacy" ID="ID_838119592" CREATED="1635766590797" MODIFIED="1722515393734"><richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      - <span style="font-weight: bold;">Description:</span>&#xa0;The psychologist's fallacy is an informal fallacy that occurs when an observer assumes that their own subjective experience reflects the true nature of an event or mental state. Named by William James, the fallacy involves confusing one's own perspective or reaction with the inherent characteristics of the phenomenon being studied. This error can lead to misinterpretation of the mental states or behaviors of others, based on one's own experience.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Logical Form:</span>
-    </p>
-    <p>
-      &#xa0;&#xa0;1. Observer experiences a mental state or reaction.
-    </p>
-    <p>
-      &#xa0;&#xa0;2. Observer assumes this experience reflects the true nature of the event or mental state being studied.
-    </p>
-    <p>
-      &#xa0;&#xa0;3. Observer incorrectly applies their personal perspective to others.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Example #1:</span>
-    </p>
-    <p>
-      &#xa0;&#xa0;- Scenario: Personal Reaction to Stress
-    </p>
-    <p>
-      &#xa0;&#xa0;- Explanation: A psychologist feels overwhelmed by stress and assumes that all individuals will react to similar stressful situations in the same way. This fallacy leads to the incorrect assumption that their personal experience of stress is universal.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Example #2:</span>
-    </p>
-    <p>
-      &#xa0;&#xa0;- Scenario: Emotional Responses
-    </p>
-    <p>
-      &#xa0;&#xa0;- Explanation: An experimenter who is highly emotional might assume that the participants in their study will have similar emotional responses to stimuli. This may lead to biased conclusions about how different individuals react emotionally.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Variation: </span>The fallacy can also manifest as assuming that others will respond to stimuli or situations in the same way as the observer would, based on personal biases or stereotypes.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Tip: </span>Be aware of the difference between personal experience and universal truths. When studying mental states or behaviors, ensure that findings are based on objective data and not solely on one's subjective experiences.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Exception: </span>The fallacy is less likely to occur when the observer acknowledges and controls for their own biases, using rigorous methods to account for subjective differences.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Fun Fact:</span>&#xa0;William James, who first identified this fallacy, was a pioneering psychologist and philosopher. His work laid foundational concepts in psychology, including the exploration of subjective experience and its impact on understanding mental phenomena.
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Historian&apos;s fallacy" ID="ID_1347056827" CREATED="1635760580540" MODIFIED="1722515394952"><richcontent TYPE="DETAILS">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (also known as: Presentism (literary and historical analysis))
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&#xa0;Judging a person's decision in the light of new information not available at the time.
-
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Claim X was made in the past.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Those who made the claim did not take into consideration Y, which was not available to them at the time.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Therefore, this was a foolish claim.
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      You should have never taken the back roads to the concert.&#xa0;&#xa0;If you had taken the main roads, you would not have been stuck in all that traffic due to the accident.
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&#xa0;“Thanks for that!” is the usual sarcastic response to this fallacy.&#xa0;&#xa0;Of course, had we known about the accident, the main road would have been the better choice—but nobody could have reasonably predicted that accident.&#xa0;&#xa0;It is fallacious, and somewhat pointless, to suggest that we “should have” taken the other way.
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Judas was an idiot to turn Jesus over to the authorities.&#xa0;&#xa0;After all, he ended up committing suicide out of guilt.
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&#xa0;It is easy for us to blame Judas as people who know the whole story and how it played out.&#xa0;&#xa0;We have information Judas did not have at the time.&#xa0;&#xa0;Besides, if Judas never turned in Jesus, and Jesus was never killed, but died while walking on water as an old man after tripping over a wave, would Christianity exist?
-    </p>
-    <p class="Body">
-      <strong>Exception:</strong>&#xa0;Sometimes, it’s funny to commit this fallacy on purpose at the expense of your friends’ dignity.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Hey, nice going on that decision to buy stock in the company that was shut down a week later by the FBI for the prostitution ring.&#xa0;&#xa0;Do you have any stock tips for me?
-    </p>
-    <p class="Body">
-      <strong>Tip: </strong>Practice forgiveness. We all make mistakes, and most of us learn from our mistakes and become better people. Don’t be so quick to crucify someone for something they did in the past, especially if you are doing so to virtue signal.
-    </p>
-    <strong>References:</strong>
-
-    <div class="small" style="padding-left: 22px; text-indent: -22px">
-      <p>
-        
-      </p>
-      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
-        <div class="csl-entry">
-          Arp, R. (2013). <i>1001 Ideas That Changed the Way We Think</i>. Simon and Schuster.
-        </div>
-      </div>
-    </div>
-  </body>
-</html></richcontent>
-<node TEXT="Baconian fallacy" ID="ID_614600533" CREATED="1642503913726" MODIFIED="1722515568394"><richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      - <span style="font-weight: bold;">Description</span>: The Baconian fallacy is the erroneous belief that historians can derive the &quot;whole truth&quot; about historical events through induction from individual pieces of evidence. This fallacy assumes that by accumulating and analyzing sufficient individual facts or evidence, one can achieve a complete and comprehensive understanding of history. In reality, historians can only aim to gain a partial understanding of historical events due to the limitations in evidence and interpretation.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Logical Form:</span>
-    </p>
-    <p>
-      &#xa0;&#xa0;1. Historians collect individual pieces of evidence about historical events.
-    </p>
-    <p>
-      &#xa0;&#xa0;2. It is assumed that analyzing this evidence will lead to a complete and accurate understanding of the entire historical context.
-    </p>
-    <p>
-      &#xa0;&#xa0;3. The fallacy lies in the belief that this process will reveal &quot;the whole truth&quot; about history, ignoring the inherent limitations and complexities of historical analysis.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Example #1:</span>
-    </p>
-    <p>
-      &#xa0;&#xa0;- Scenario: Analyzing Ancient Documents
-    </p>
-    <p>
-      &#xa0;&#xa0;- Explanation: A historian studies a collection of ancient documents and concludes that they have uncovered a complete and accurate picture of a particular historical period. This assumption overlooks gaps in the historical record and the possibility of differing interpretations.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Example #2:</span>
-    </p>
-    <p>
-      &#xa0;&#xa0;- Scenario: Compiling Historical Data
-    </p>
-    <p>
-      &#xa0;&#xa0;- Explanation: A historian gathers extensive data on economic conditions from various time periods and concludes that they fully understand the economic history of a region. This overlooks the fact that data may be incomplete and that historical understanding is often limited by factors such as bias, missing evidence, and the complexity of historical phenomena.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Variation: </span>The fallacy may also appear in the form of believing that comprehensive knowledge can be achieved by merely aggregating all available evidence without considering the limitations and potential biases in the evidence.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Tip:</span>&#xa0;Acknowledge the limitations of historical evidence and the interpretative nature of historical analysis. Recognize that while evidence can provide valuable insights, it cannot always deliver a complete or definitive account of historical events.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Exception: </span>The fallacy is less relevant in cases where historians are explicitly aware of and account for the limitations of their evidence and methods, focusing on well-supported interpretations rather than claiming to uncover the absolute truth.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Fun Fact:</span>&#xa0;The term &quot;Baconian fallacy&quot; is named after Sir Francis Bacon, who advocated for the use of induction in scientific inquiry. However, Bacon's approach is sometimes misapplied in historical analysis, leading to the fallacy of assuming that induction can provide a complete historical truth.
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Dixiecrat fallacy" ID="ID_1476021934" CREATED="1642868558733" MODIFIED="1722515714517"><richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      - <span style="font-weight: bold;">Description</span>: The Dixiecrat fallacy is an informal fallacy used to frame political arguments in a way that casts modern Republicans in a positive light while portraying Democrats negatively. This fallacy exploits the historical shifts in party positions on civil rights issues to create a misleading narrative that suggests a fundamental and enduring difference in party ideologies.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Logical Form:</span>
-    </p>
-    <p>
-      &#xa0;&#xa0;1. Present a historical civil rights issue or topic, such as the Fourteenth Amendment or the actions of Martin Luther King, Jr.
-    </p>
-    <p>
-      &#xa0;&#xa0;2. Highlight how the topic was historically supported by Republicans and opposed by Democrats.
-    </p>
-    <p>
-      &#xa0;&#xa0;3. Imply or suggest that this historical alignment reflects the current ideological positions of the parties.
-    </p>
-    <p>
-      &#xa0;&#xa0;4. Draw a conclusion that supports the idea that the Republican Party is the party of civil rights and the Democratic Party is not, ignoring the historical shifts in party ideologies and policies.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Example #1:</span>
-    </p>
-    <p>
-      &#xa0;&#xa0;- Scenario: Discussion of the Civil Rights Act of 1964
-    </p>
-    <p>
-      &#xa0;&#xa0;- Explanation: A modern Republican might argue that the Republican Party has always been the party of civil rights because Republicans were instrumental in passing the Civil Rights Act of 1964. This overlooks the fact that the political alignments and party platforms have shifted over time, and the Democratic Party, once the party of segregation, has since become a strong advocate for civil rights.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Example #2:</span>
-    </p>
-    <p>
-      &#xa0;&#xa0;- Scenario: Mention of the Dixiecrats
-    </p>
-    <p>
-      &#xa0;&#xa0;- Explanation: The fallacy may involve referencing the Dixiecrats, a splinter group of Southern Democrats who opposed civil rights legislation in the 1940s and 1950s, and suggesting that this opposition reflects the views of the Democratic Party as a whole. This ignores the fact that many of these Dixiecrats eventually became Republicans and that party ideologies have evolved significantly since that time.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Variation:</span>&#xa0;The fallacy can also manifest in discussions about historical figures or events that are used selectively to support current partisan arguments, without acknowledging the changes in party platforms or ideologies.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Tip:</span>&#xa0;When evaluating historical claims about political parties, consider the historical context and acknowledge that party platforms and ideologies can change over time. Assess claims critically and avoid drawing overly simplistic or misleading conclusions based on selective historical evidence.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Exception:</span>&#xa0;The fallacy may be less relevant in discussions where both historical and current party positions are accurately represented and analyzed within the context of evolving political landscapes.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Fun Fact:</span>&#xa0;The Dixiecrat fallacy is named after the Dixiecrats, a faction of the Democratic Party that opposed civil rights legislation in the mid-20th century. This term highlights the misleading use of historical facts to serve contemporary political arguments.
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
-<node TEXT="Historical fallacy" ID="ID_1439199427" CREATED="1635760586581" MODIFIED="1722515476953"><richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      - <span style="font-weight: bold;">Description</span>: The historical fallacy is a logical error described by philosopher John Dewey. It occurs when someone assumes that the process used to achieve a result was necessary for that result, leading to the belief that the outcome would not have occurred without the specific process. This fallacy involves misattributing the outcome to the process that brought it about, rather than recognizing that the outcome could have happened through other means or by chance.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Logical Form:</span>
-    </p>
-    <p>
-      &#xa0;&#xa0;1. An outcome is achieved through a specific process.
-    </p>
-    <p>
-      &#xa0;&#xa0;2. The outcome is then assumed to be dependent on the exact process used.
-    </p>
-    <p>
-      &#xa0;&#xa0;3. The process is incorrectly considered essential to the result, ignoring the possibility of other methods achieving the same outcome.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Example #1:</span>
-    </p>
-    <p>
-      &#xa0;&#xa0;- Scenario: Finding a Lost Wallet
-    </p>
-    <p>
-      &#xa0;&#xa0;- Explanation: A man loses his wallet and searches for it in a location he suspects it might be. He finds the wallet there and concludes that his initial suspicion about the location was correct and essential for finding it. He fails to consider that the wallet might have been found through other means or by chance.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - E<span style="font-weight: bold;">xample #2:</span>
-    </p>
-    <p>
-      &#xa0;&#xa0;- Scenario: A Successful Experiment
-    </p>
-    <p>
-      &#xa0;&#xa0;- Explanation: A scientist conducts an experiment using a particular method and achieves a successful result. The scientist then assumes that the success was solely due to the chosen method, disregarding the possibility that other methods might have also led to the same result.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Variation: </span>The fallacy can also manifest as the assumption that the historical context or specific conditions leading to an outcome were crucial, rather than recognizing the possibility of alternative scenarios or methods.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Tip: </span>When evaluating outcomes, consider multiple potential causes or methods, and avoid attributing success solely to the specific process used. Recognize that outcomes may be achieved through various means.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Exception:</span>&#xa0;The historical fallacy may not apply if the process used is unique and cannot be replicated or if it is demonstrated that no other process would have led to the same result.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Fun Fact:</span>&#xa0;John Dewey, who described this fallacy, was a prominent American philosopher and educator known for his work on pragmatism and progressive education. His insights into logical errors like the historical fallacy continue to influence critical thinking and analysis.
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Fantasy Projection" ID="ID_1510621991" CREATED="1637059916593" MODIFIED="1642696027182"><richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&nbsp;Confusing subjective experiences, usually very emotionally charged, with objective reality, then suggesting or demanding that others accept the subjective experience as objective reality.
-
-    <p class="Body">
-      <strong>New Terminology:</strong>&nbsp;In this context, <em>subjective experience</em>&nbsp;&nbsp;is the way one interprets some external stimuli. <em>Objective reality</em>&nbsp;&nbsp;is independent of our interpretations; it is a collection of facts about the world we all share.
-    </p>
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>Person 1 has subjective experience X.</em></font><br/><font color="rgb(52, 73, 94)"><em>Person 1 incorrectly believes that experience X represents objective reality.</em></font><br/><font color="rgb(52, 73, 94)"><em>Therefore, person 1 insists that others accept that X represents objective reality.</em></font>
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="display: block; font-style: italic; padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>Freddie: People are mean to me wherever I go. It is clear that we live in a cruel world with people who are mostly nasty. If you don&#x2019;t see that, something is wrong with you!</em></font>
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;Perhaps people are mean to Freddie because Freddie is mean to others, and it&#x2019;s Freddie&#x2019;s behavior that is resulting in the &#x201c;mean&#x201d; behaviors of others (this is known as a <em>self-fulfilling prophecy</em>). Freddie is projecting his experience, which is unique to him, onto the world at large. He is insisting that other people see humanity the way he does. We don&#x2019;t deny that Freddie is experiencing the world in the way he is; we just don&#x2019;t accept that Freddie&#x2019;s experience represents objective reality. To accurately determine if the world is, indeed, made up of &#x201c;people who are mostly nasty,&#x201d; we would need to conduct research using the scientific method.
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>
-    </p>
-    <p style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>I feel that we are all surrounded by Narggles. These are spiritual beings who help us through life. We know they exist because they are the ones that give us the confidence to move forward in a decision.</em></font>
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;Ignoring the circular reasoning (how we &quot;know&quot; Narggles exist), one person's fantasy might be their own reality, but not everyone else's.
-    </p>
-    <p class="Body">
-      <strong>Exception:</strong>&nbsp;One can argue that one's subjective experience is part of objective reality as long as they don&#x2019;t insist that you interpret the stimuli the same way they did.
-    </p>
-    <p class="Body" style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>Freddie: It is a fact that this world consists of people who feel like most people they interact with are mean to them.</em></font>
-    </p>
-    <p class="Body">
-      <strong>Fun Fact:</strong>&nbsp;Everyone knows Kerplunkers, not Narggles, are spiritual beings who help us through life.
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
-<node TEXT="Misology" ID="ID_1257551988" CREATED="1635762784806" MODIFIED="1635762785233"/>
-<node TEXT="Missing dollar riddle" ID="ID_999307723" CREATED="1635764003955" MODIFIED="1722515864473"><richcontent TYPE="DETAILS">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (Also known as: Missing Dollar Paradox)
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      - <span style="font-weight: bold;">Description:</span>&#xa0;The missing dollar riddle is a famous puzzle that involves a logical fallacy by presenting a scenario where a dollar seems to be missing after a series of transactions. It plays on the confusion between different categories of money and how they are accounted for.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Logical Form:</span>
-    </p>
-    <p>
-      &#xa0;&#xa0;1. Three guests check into a hotel and pay a total of $30.
-    </p>
-    <p>
-      &#xa0;&#xa0;2. The manager realizes the bill should have been $25 and gives $5 to the bellhop to return to the guests.
-    </p>
-    <p>
-      &#xa0;&#xa0;3. The bellhop decides to keep $2 as a tip and gives $1 back to each guest.
-    </p>
-    <p>
-      &#xa0;&#xa0;4. The guests end up paying $27 ($9 each), and the bellhop keeps $2, which totals $29.
-    </p>
-    <p>
-      &#xa0;&#xa0;5. The riddle asks where the missing $1 is, suggesting a discrepancy in the total amount.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Example #1:</span>
-    </p>
-    <p>
-      &#xa0;&#xa0;- Scenario: Three guests initially pay $30, but the corrected bill is $25. The bellhop returns $3 and keeps $2 as a tip.
-    </p>
-    <p>
-      &#xa0;&#xa0;- Explanation: The confusion arises from adding $27 (what the guests effectively paid) to $2 (kept by the bellhop), which wrongly implies it should total $30. In reality, the $27 includes the $2 tip; the correct breakdown is $25 (hotel) + $3 (returned to guests) + $2 (bellhop tip) = $30.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Example #2:</span>
-    </p>
-    <p>
-      &#xa0;&#xa0;- Scenario: Consider a modified version where the bill is $10. Guests pay $30, the manager gives $20 to the bellhop to return. The bellhop keeps $2 and gives $6 back to each guest.
-    </p>
-    <p>
-      &#xa0;&#xa0;- Explanation: Here, the guests effectively paid $12 ($4 each), and the bellhop kept $2. Adding $12 (paid) and $2 (kept by bellhop) incorrectly leads to $14, whereas the correct sum should be $10 (hotel) + $6 (returned to guests) + $2 (bellhop tip) = $18. This demonstrates that the added amounts are not directly comparable.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Variation: </span>Variants of the riddle may involve different amounts or scenarios, such as using shillings or different numbers of people, but the underlying fallacy remains the same: incorrectly summing amounts that are not directly related.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      -<span style="font-weight: bold;">&#xa0;Tip:</span>&#xa0;To avoid confusion, always account for all categories of money separately. Ensure that any sums of money include all assets and liabilities in the correct context.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Exception: </span>The riddle does not apply if all transactions and amounts are correctly accounted for and reconciled. It specifically targets misunderstandings in the way the total amounts are presented.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Fun Fact: </span>The riddle has appeared in various forms in literature and media, including a 1933 mathematical fallacy by Cecil B. Read and adaptations in pop culture, such as in the BBC comedy series &quot;Help&quot; and in Abbott and Costello routines.
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Sunday school answer" ID="ID_1125992925" CREATED="1635773662258" MODIFIED="1722514071178"><richcontent TYPE="DETAILS">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (Also known as: Trite Answer, Simplistic Answer)
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      - <span style="font-weight: bold;">Description:</span>&#xa0;The term &quot;Sunday school answer&quot; is a pejorative expression used primarily in Evangelical Christianity to describe a simplistic or overly obvious response to a complex question. It refers to answers that are commonly expected in a Sunday school setting, regardless of the specific question being asked. Such answers often include concepts like Jesus, sin, and the cross.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Logical Form:</span>
-    </p>
-    <p>
-      &#xa0;&#xa0;1. A complex or specific question is posed.
-    </p>
-    <p>
-      &#xa0;&#xa0;2. An overly simplistic or generic answer is given (often a religious reference).
-    </p>
-    <p>
-      &#xa0;&#xa0;3. The answer fails to adequately address the question, leading to criticism.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Example #1:</span>
-    </p>
-    <p>
-      &#xa0;&#xa0;- Scenario: A Sunday school teacher asks, &quot;What is brown and furry and collects nuts for the winter?&quot;
-    </p>
-    <p>
-      &#xa0;&#xa0;- Response: A student answers, &quot;It sounds like a squirrel, but is it Jesus?&quot;
-    </p>
-    <p>
-      &#xa0;&#xa0;- Explanation: The answer is inappropriate because it does not address the question and relies on a common religious reference rather than a thoughtful response.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Example #2:</span>
-    </p>
-    <p>
-      &#xa0;&#xa0;- Scenario: During a discussion about personal struggles, someone asks, &quot;What should we do when we face difficult times?&quot;
-    </p>
-    <p>
-      &#xa0;&#xa0;- Response: Someone replies, &quot;We should just pray and trust in God.&quot;
-    </p>
-    <p>
-      &#xa0;&#xa0;- Explanation: This response is seen as a &quot;Sunday school answer&quot; because it is a simplistic solution to a complex issue, lacking depth and consideration for the nuances of the situation.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Variation:</span>
-    </p>
-    <p>
-      &#xa0;&#xa0;- In Mormonism: The term is similarly used within the culture of the Church of Jesus Christ of Latter-day Saints (LDS Church) to refer to trite answers that are commonly given in Sunday School classes. Examples include &quot;reading the scriptures,&quot; &quot;praying daily,&quot; and &quot;serving others.&quot; Such responses can be seen as inadequate if they do not genuinely engage with the challenges being discussed.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Tip:</span>&#xa0;To avoid providing a &quot;Sunday school answer,&quot; consider the context of the question and provide a more nuanced, thoughtful response that addresses the complexities involved rather than resorting to cliché or overly simplistic answers.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Exception: </span>Not all answers that might be labeled as &quot;Sunday school answers&quot; are invalid. In some cases, simple truths can be effective and appropriate, especially when they resonate with the audience or offer genuine encouragement.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Fun Fact:</span>&#xa0;Despite its pejorative connotation, some argue that answers dismissed as &quot;Sunday school answers&quot; are often the most fundamental and truthful solutions to life’s challenges, highlighting the tension between simplicity and depth in addressing complex issues.
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="False-Uniqueness Effect" ID="ID_109625509" CREATED="1635774210693" MODIFIED="1722516015576"><richcontent TYPE="DETAILS">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (Also known as: Uniqueness bias, Illusion of Uniqueness)
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      - <span style="font-weight: bold;">Description: </span>The false-uniqueness effect is a cognitive bias where individuals perceive their qualities, traits, and behaviors as more unique and exceptional compared to others, even though these attributes are actually quite common. This bias often arises in the context of positive traits or behaviors.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Logical Form:</span>
-    </p>
-    <p>
-      &#xa0;&#xa0;1. Individuals rate their own traits or behaviors as unique or better than average.
-    </p>
-    <p>
-      &#xa0;&#xa0;2. They assume that fewer people share these traits or behaviors than is actually the case.
-    </p>
-    <p>
-      &#xa0;&#xa0;3. This overestimation of uniqueness helps maintain or enhance self-esteem.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Example #1:</span>
-    </p>
-    <p>
-      &#xa0;&#xa0;- Scenario: A person believes they are an exceptionally safe driver compared to others.
-    </p>
-    <p>
-      &#xa0;&#xa0;- Explanation: Despite statistics showing that most drivers consider themselves safe, this individual thinks their driving habits are more cautious and unique. This belief may enhance their self-esteem, making them feel superior.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Example #2:</span>
-    </p>
-    <p>
-      &#xa0;&#xa0;- Scenario: A student thinks they are more diligent in group projects than their peers.
-    </p>
-    <p>
-      &#xa0;&#xa0;- Explanation: The student believes their work ethic is exceptional compared to the average student, even though many others might exhibit similar levels of diligence. This perception helps the student feel better about their contributions.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Variation:</span>&#xa0;The false-uniqueness effect can be contrasted with the false-consensus effect, where individuals overestimate the extent to which their attitudes and behaviors are typical and shared by others. The false-consensus effect typically applies to negative traits or behaviors, while the false-uniqueness effect applies to positive traits.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Tip: </span>Be aware of this bias when assessing your own attributes and behaviors. Try to consider a wider perspective and use objective benchmarks to evaluate how common your traits truly are.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Exception:</span>&#xa0;The false-uniqueness effect may be less pronounced when individuals are aware of broad statistics and actual prevalence rates of traits or behaviors. Accurate self-assessment often requires considering empirical data rather than personal perception alone.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Fun Fact:&#xa0;</span>The term “false-uniqueness effect” was formally introduced by psychologists Suls and Wan in 1987, building on earlier concepts like the “illusion of uniqueness” described by Snyder and Shneckel in 1975.
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Virtuality fallacy" ID="ID_172447677" CREATED="1635774267574" MODIFIED="1722516084859"><richcontent TYPE="DETAILS">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (Also known as: Digital Denial Fallacy)
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      - Description: The virtuality fallacy is an informal fallacy that occurs when it is asserted that things existing in a virtual context, such as cyberspace, are not real or do not have real effects. This fallacy involves dismissing the impact or reality of virtual phenomena based on their digital nature.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - Logical Form:
-    </p>
-    <p>
-      &#xa0;&#xa0;1. Premise 1: X exists in cyberspace.
-    </p>
-    <p>
-      &#xa0;&#xa0;2. Premise 2: Cyberspace is virtual.
-    </p>
-    <p>
-      &#xa0;&#xa0;3. Conclusion: X (or the effect of X) is not real.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - Example #1:
-    </p>
-    <p>
-      &#xa0;&#xa0;- Scenario: An individual posts harmful or offensive comments online and dismisses concerns by claiming, &quot;It’s just the internet; it doesn’t really matter.&quot;
-    </p>
-    <p>
-      &#xa0;&#xa0;- Explanation: This example illustrates the virtuality fallacy by assuming that because the comments are made in a virtual space, their impact or harm is not real.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - Example #2:
-    </p>
-    <p>
-      &#xa0;&#xa0;- Scenario: A person cheats in a video game and justifies their actions by saying, &quot;It’s just a game; it doesn’t have real consequences.&quot;
-    </p>
-    <p>
-      &#xa0;&#xa0;- Explanation: This example reflects the fallacy by downplaying the effects of cheating, such as affecting other players' experiences or the game's integrity, by arguing that the context is virtual and therefore inconsequential.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - Variation: The virtuality fallacy is related to the broader category of fallacies where digital or virtual actions are perceived as having no real-world implications, similar to the &quot;it’s just a joke&quot; fallacy where the impact of an action is minimized based on its context.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - Tip: Recognize that virtual actions and contexts can have tangible effects on individuals and systems. Just because something occurs in a digital space does not mean it lacks real-world significance.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - Exception: The fallacy does not apply in cases where virtual contexts are explicitly understood to have no real-world impact, such as certain fictional scenarios or harmless digital simulations with no real consequences.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - Fun Fact: The concept of the virtuality fallacy is increasingly relevant in discussions about the impact of online behavior, particularly as virtual environments and digital interactions become more integral to daily life and societal norms.
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Demonizing the enemy" ID="ID_64667045" CREATED="1636876537994" MODIFIED="1722516142375"><richcontent TYPE="DETAILS">
+<node TEXT="Demonizing the enemy" FOLDED="true" ID="ID_64667045" CREATED="1636876537994" MODIFIED="1722516142375"><richcontent TYPE="DETAILS">
 <html>
   <head>
     
@@ -11902,1242 +11043,6 @@
 </html></richcontent>
 </node>
 </node>
-<node TEXT="Alphabet Soup" ID="ID_1348052420" CREATED="1637054201338" MODIFIED="1642679927106"><richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&nbsp;The deliberate and excessive use of acronyms and abbreviations to appear more knowledgeable in the subject or confuse others.
-
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Person 1 uses acronyms and abbreviations.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Therefore, person 1 knows what he or she is talking about.
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      In programming CGI, a WYSIWYG interface doesn't handle PHP or CSS very well. If you sign up for my personal consulting, I will show you how to program effectively.
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;Simply overusing acronyms is not the problem here; it's the deliberate overuse for the purpose of making people think the speaker is very knowledgeable in this area, or perhaps to use terms the audience is unaware of, making the audience think they need the consulting service more than they thought they did.
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Am I good at public speaking? Let's see. I have a CC, AC-B, AC-S, AC-G, CL, AL-B, AL-S, and a DTM. What do you think?
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;These are all designations from Toastmasters International. In fact, many of them have more to do with leadership than speaking, but the average audience member would never know that. Besides, getting all these awards just means the person did the work needed, not that they are necessarily good at public speaking&#x2014;kind of like certificates given out in fifth-grade gym class to all the kids who do more than six sit-ups.
-    </p>
-    <p class="Body">
-      <strong>Exception:</strong>&nbsp;&quot;Excessive&quot; is subjective. Acronyms and abbreviations are perfectly acceptable in many situations.
-    </p>
-    <p class="Body">
-      <strong>Tip:</strong>&nbsp;Don't be so quick to assume nefarious intentions. Sometimes people simply are unaware that they are overusing this type of language.
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Alternative Advance" ID="ID_138403003" CREATED="1637054212539" MODIFIED="1642679964669"><richcontent TYPE="DETAILS">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (also known as: lose-lose situation)
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&nbsp;When one is presented with just two choices, both of which are essentially the same, just worded differently.&nbsp;&nbsp;This technique is often used in sales.&nbsp;&nbsp;Fallacious reasoning would be committed by the person accepting the options as the only options, which would most likely be on a subconscious level since virtually anyone&#x2014;if they thought about it&#x2014;would recognize other options exist.
-
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Max: If you&#x2019;re not a witch, you have nothing to fear.&nbsp;&nbsp;If you&#x2019;re not a witch, you are not made of wood; therefore, you will sink and drown after we tie you up and throw you in the well.&nbsp;&nbsp;If you do float, then you are made of wood, you are a witch, and we will hang you.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Glinda: Wait, how is it I have nothing to worry about if I am not a witch?
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;The argument is created so that any woman accused of being a witch will die, which is certainly a lose-lose situation.
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Guy working a booth in the mall: Excuse me, but you look like you can use a vacation!&nbsp;&nbsp;Do you have a few minutes to chat about vacation destinations, or would you prefer I just send you some information by e-mail?
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;Of course, other options include just ignoring the guy and keep walking; telling the guy, &#x201c;no thank you,&#x201d; and keep walking; or respond, &#x201c;I have some time to chat. My rate is $10 per minute. Do you prefer to pay me by cash or check?&#x201d;
-    </p>
-    <p class="Body">
-      <strong>Exception:</strong>&nbsp;If you engage your critical thinking and realize other options exist and still choose one of the given options, you would not be guilty of fallacious reasoning.
-    </p>
-    <p class="Body">
-      <strong>Tip:</strong>&nbsp;Whenever you are presented with options, carefully consider the possibility of other options not mentioned, and propose them.
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Commutation of Conditionals" ID="ID_787966922" CREATED="1637058397768" MODIFIED="1642689396360"><richcontent TYPE="DETAILS">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (also known as: the fallacy of the consequent, converting a conditional)
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&nbsp;Switching the antecedent and the consequent in a logical argument.
-
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      If P then Q.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Therefore, if Q then P.
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      If I have a PhD, then I am smart.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Therefore, if I am smart, then I have a PhD.
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;There are many who could, rightly so, disagree with the first premise, but assuming that premise is true, does not guarantee that the conclusion is true.&nbsp;&nbsp;There are many smart people without PhDs.
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      If I have herpes, then I have a strange rash.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Therefore, if I have a strange rash, then I have herpes.
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;I am glad this is not true.&nbsp;&nbsp;One can have non-herpes rashes.
-    </p>
-    <p class="Body">
-      <strong>Exception:</strong>&nbsp;If p=q, then it is necessarily true that q=p.
-    </p>
-    <p class="Body">
-      <strong>Tip:</strong>&nbsp;If you think might herpes, see your doctor.
-    </p>
-    <strong>References:</strong>
-
-    <div class="small" style="padding-left: 22px; text-indent: -22px">
-      <p>
-        
-      </p>
-      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
-        <div class="csl-entry">
-          Pickard, W. A., &amp; Aristotle. (2006). <i>On Sophistical Refutations</i>. ReadHowYouWant.com, Limited.
-        </div>
-      </div>
-    </div>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Confusing an Explanation with an Excuse" ID="ID_78720635" CREATED="1637058578917" MODIFIED="1642689636218"><richcontent TYPE="DETAILS">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (also known as: confusing and explanation with justification, confusing elucidation with justification)
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Logical Form:</strong>
-
-    <p class="uk-margin-remove uk-text-primary" style="display: block; font-style: italic; padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>Person 1 wants claim X be justified.<br/>Person 2 explains claim X in detail.<br/>Therefore, claim X is justified / true.</em></font>
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p class="Body" style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>Barto: If masks don&#x2019;t work, how do you explain the almost perfect correlation between mask-wearing communities and lower transmission rates?<br/>Tikki: All this means is that in communities where more people where masks, the virus is less-likely to spread. It is not proof that masks are the reason.</em></font>
-    </p>
-    <div class="content clearfix">
-      <strong>Explanation:</strong>&nbsp;Not only did Tikki not answer the question asked, she created an answer based on elucidation of what Barto had said. Tikki explained what a correlation is (i.e., not &#x201c;proof&#x201d;) but came no closer to explaining the reason for the correlation.
-    </div>
-    <div class="content clearfix">
-      
-    </div>
-    <div>
-      <strong>Example #2:<br/><br/></strong>
-    </div>
-    <div style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>Virgil: How do you justify the claim that Bigfoot is the missing link between the great apes and humans?<br/>Marshall: Well, a &quot;missing link&quot; is the intermediary species between the two in the evolutionary process.<br/><br/></em></font>
-    </div>
-    <p>
-      <strong>Explanation:</strong>&nbsp;Marshall simply explained what a missing link is; he did not give a valid reason for why he believes that Bigfoot is the missing link.
-    </p>
-    <p>
-      <strong>Exception:</strong>&nbsp;If it is clear to both parties that no justification attempt is being made, but rather just stating a fact, then this fallacy is not being committed.
-    </p>
-    <p>
-      <strong>Tip:</strong>&nbsp;If you are unsure if someone is trying to make an excuse or simply stating a fact, ask them.&nbsp;&nbsp;Don&#x2019;t assume.
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Confusing Currently Unexplained with Unexplainable" ID="ID_1387371112" CREATED="1637058609628" MODIFIED="1642689605890"><richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&nbsp;Making the assumption that what cannot currently be explained is, therefore, unexplainable (impossible to explain). This is a problem because we cannot know the future and what conditions might arise that offer an explanation. It is also important to note that we cannot assume the currently unexplained <strong>is</strong>&nbsp;explainable.
-
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Claim X is currently unexplained.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Therefore, claim X is unexplainable.
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Teri: I don't know why that stuffed animal flew off my dresser this morning. I guess some things in life will forever remain a mystery!
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;The fact that Teri could not explain something, does not make it unexplainable. Later, it might be revealed that a family member was playing a trick and tied a string to the stuffed animal. Maybe Teri will read about a slight earthquake that happened at the same time. Maybe Teri will later discover that there is a rat in her room that made a home in her stuffed animals. The point is, what is currently unexplained is not necessarily unexplainable.
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      While we may be able to explain <strong>how</strong>&nbsp;humans got here, we will never be able to explain <strong>why</strong>.
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;Besides <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Begging-the-Question" target="fallacy" data-toggle="tooltip" title="" data-original-title="Any form of argument where the conclusion is assumed in one of the premises.  Many people use the phrase &#x201c;begging the question&#x201d; incorrectly when they use it to mean, &#x201c;prompts one to ask the question&#x201d;.  That is NOT the correct usage. Begging the question is a form of circular reasoning.">begging the question</a></i>&nbsp;(this assumes there is a &quot;why&quot;), we don't know if we will never be able to explain why. Perhaps aliens created us, and they will tell us one day that created us for one big social experiment. Perhaps they wanted to see, after seeding Earth with life about 3 1/2 billion years ago, if one of the members of the human species, Alfredo, scratched his left ear at precisely 3:46 PM on December 12, 2023. After which time they will hit the reset button and try a different experiment.
-    </p>
-    <p class="Body">
-      <strong>Exception:</strong>&nbsp;Like other claims, expressing probability is a way around this fallacy.
-    </p>
-    <p class="Body uk-margin-remove uk-text-primary" style="display: block; padding-left: 20px; font-style: italic">
-      While we may be able to explain <strong>how</strong>&nbsp;humans got here, we <strong>may</strong>&nbsp;&nbsp;never be able to explain <strong>why</strong>&nbsp;(assuming there is a why).
-    </p>
-    <p class="Body">
-      <strong>Tip:</strong>&nbsp;Be careful using terms such as &quot;impossible&quot; and &quot;possible.&quot; The casual use of both terms is often incorrect within argumentation.
-    </p>
-    <strong>References:</strong>
-
-    <div class="small" style="padding-left: 22px; text-indent: -22px">
-      This a logical fallacy frequently used on the Internet. No academic sources could be found.
-    </div>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Conspiracy Theory" ID="ID_1685080423" CREATED="1637058688806" MODIFIED="1642689780081"><richcontent TYPE="DETAILS">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (also known as: canceling hypothesis, canceling hypotheses, coverups)
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&nbsp;Explaining that your claim cannot be proven or verified because the truth is being hidden and/or evidence destroyed by a group of two or more people.&nbsp;&nbsp;When that reason is challenged as not being true or accurate, the challenge is often presented as just another attempt to cover up the truth and presented as further evidence that the original claim is true.
-
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      A is true.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      B is why the truth cannot be proven.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Therefore, A is true.
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Noah&#x2019;s ark has been found by the Russian government a long time ago, but because of their hate for religion, they have been covering it up ever since.
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Geologists and scientists all over the world are discovering strong evidence for a 6000-year-old earth, yet because of the threat of ruining their reputation, they are suppressing the evidence and keeping quiet.
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;The psychology behind conspiracy theories is quite complex and involves many different cognitive biases and fallacies discussed in this book.&nbsp;&nbsp;In general, people tend to overlook the incredible improbabilities involved in a large-scale conspiracy, as well as the potential risks for all involved in the alleged cover-up.&nbsp;&nbsp;In the above examples, those who stick with a literal interpretation of the Bible often experience <i>cognitive dissonance</i>, or the mental struggle involved when one&#x2019;s beliefs contradict factual claims.&nbsp;&nbsp;This cognitive dissonance causes people to create conspiracy theories, like the ones above, to change facts to match their beliefs, rather than changing their beliefs to match facts.
-    </p>
-    <p class="Body">
-      <strong>Exception:</strong>&nbsp;Sometimes, there really are conspiracies and cover-ups.&nbsp;&nbsp;The more evidence one can present for a cover-up, the better, but we must remember that possibility does not equal probability.
-    </p>
-    <p class="Body">
-      <strong>Tip:</strong>&nbsp;Take time to question any conspiracy theories in which you believe are true.&nbsp;&nbsp;Do the research with an open mind.
-    </p>
-    <strong>References:</strong>
-
-    <div class="small" style="padding-left: 22px; text-indent: -22px">
-      <p>
-        
-      </p>
-      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
-        <div class="csl-entry">
-          Barkun, M. (2006). <i>A Culture of Conspiracy: Apocalyptic Visions in Contemporary America</i>. University of California Press.
-        </div>
-      </div>
-    </div>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Distinction Without a Difference" ID="ID_503533856" CREATED="1637058917460" MODIFIED="1722513643394"><richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <span style="font-weight: bold;">Description:</span>&#xa0;The assertion that a position is different from another position based on the language when, in fact, both positions are the same -- at least in practice or practical terms.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      <span style="font-weight: bold;">Logical Form:</span>
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      Claim X is made where the truth of the claim requires a distinct difference between A and B.
-    </p>
-    <p>
-      There is no distinct difference between A and B.
-    </p>
-    <p>
-      Therefore, claim X is true.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      <span style="font-weight: bold;">Example #1:</span>
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      Sergio: There is no way I would ever even consider taking dancing lessons.
-    </p>
-    <p>
-      Kitty: How about I ask my friend from work to teach you?
-    </p>
-    <p>
-      Sergio: If you know someone who is willing to teach me how to dance, then I am willing to learn, sure.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      <span style="font-weight: bold;">Explanation:</span>&#xa0;Perhaps it is the stigma of “dancing lessons” that is causing Sergio to hold this view, but the fact is, someone teaching him how to dance is the same thing.&#xa0;&#xa0;Sergio has been duped by language.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      <span style="font-weight: bold;">Example #2:</span>
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      We must judge this issue by what the Bible says, not by what we think it says or by what some scholar or theologian thinks it says.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      <span style="font-weight: bold;">Explanation:</span>&#xa0;Before you say, “Amen!”, realize that this is a clear case of distinction without a difference.&#xa0;&#xa0;There is absolutely no difference here because the only possible way to read the Bible is through interpretation, in other words, what we think it says.&#xa0;&#xa0;What is being implied here is that one's own interpretation (what he or she thinks the Bible says) is what it really says, and everyone else who has a different interpretation is not really reading the Bible for what it says.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      <span style="font-weight: bold;">Exception: </span>It is possible that some difference can be very minute, exist in principle only, or made for emphasis, in which case the fallacy could be debatable.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      <span style="font-weight: bold;">Coach:&#xa0;</span>&#xa0;I&#xa0;don’t want you to try to get the ball; I want you to GET the ball!
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      In practical usage, this means the same thing, but the effect could be motivating, especially in a non-argumentative context.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      <span style="font-weight: bold;">Tip: </span>Replace the phrase, “I’ll try” in your vocabulary with, “I’ll do my best”.&#xa0;&#xa0;While the same idea in practice, perceptually it means so much more.
-    </p>
-    <p>
-      
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Fact-to-Fiction Fallacy" ID="ID_1614385175" CREATED="1637059104931" MODIFIED="1722513643405"><richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&#xa0;Attempting to support a narrative or argument with facts that don't support the narrative or argument. The distinguishing characteristic of the fact-to-fiction fallacy is <strong>the accusation that those who reject your conclusion are rejecting the facts.</strong>
-
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Facts are stated and made clear they are facts.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Therefore, some conclusion is true that is not supported by the facts.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      If you reject the conclusion, you are rejecting the facts.
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      FACT: On average, 150,000 people die every day around the world. It is crazy to panic about a virus that, at its peak, was killing 8,000 people per day. But what else can be expected from a moron like you who rejects facts?
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&#xa0;It is a fact that, on average, 150,000 people die every day around the world. It is also a fact that at its peak in the spring of 2020, the Coronavirus was killing about 8,000 people per day. What hasn't been established is what justifies &quot;panic.&quot; &quot;Panic,&quot; or perhaps more accurately &quot;serious concern,&quot; can be justified in many other ways besides the total number of historical deaths. Given this, it doesn't follow that it is &quot;crazy to panic.&quot; Further, saying or writing &quot;FACT,&quot; followed by an accusation of rejecting the fact, makes this more fallacious than a standard non-sequitur.
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>&#xa0;In May of 2020, it was common to hear accusations of &quot;anti-science&quot; hurled at people who wanted the country to reopen after being closed due to the Covid-19 pandemic.
-    </p>
-    <p class="Body">
-      <strong>Explanation: </strong>&quot;Anti-science&quot; is similar to &quot;anti-fact.&quot; There are many facts that point to ways the virus could spread, and reopening the country would unquestionably increase the odds that the virus would spread. Science doesn't make value judgments, however. For example, would an extra X number of deaths per week justify people getting back to work? Science <em>informs</em>&#xa0;political decisions such as these; it doesn't answer them. It can be perfectly consistent to agree with the science (facts) and still reject the argument that we are reopening the country &quot;too soon.&quot;
-    </p>
-    <p class="Body">
-      <strong>Exception:</strong>&#xa0;If there is no accusation of rejecting facts, we might have a non-sequitur, but not a fact-to-fiction fallacy. It is not unreasonable to state a fact such as the 150,000 deaths per day stat, then ask why we are taking the actions we are for just 8000 deaths? These kinds of questions are likely to lead to answers that expose the nuance of the arguments.
-    </p>
-    <p class="Body">
-      <strong>Tip:</strong>&#xa0;Be careful not to read too much into facts. Our minds tend to “connect the dots” in order to support the narratives we already accept.
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="False Effect" ID="ID_1073897984" CREATED="1637059886292" MODIFIED="1642695931846"><richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&nbsp;Claiming that the cause is true or false based on what we know about the effect in a claim of causality that has not been properly established. The cause is often an implied claim, and it is this claim that is being deemed true or false, right or wrong.
-
-    <p class="Body">
-      <strong>Logical Forms:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      X apparently causes Y.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Y is wrong.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Therefore, X is wrong.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      &nbsp;
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      X apparently causes Y.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Y is right.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Therefore, X is right.
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Mom: Watching TV that close will make you go blind, so move back!<br/>Jonny: That is B.S., Mom. Sorry, I am not moving.
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;The <em>false effect</em>&nbsp;of watching TV too closely is going blind. For the most part, the threat that you will &#x201c;ruin&#x201d; your eyesight is an old wives&#x2019; tale. Almost certainly, nobody is going blind from sitting too close unless they ram their eyes into the protruding knobs. Regardless of the <em>false effect</em>&nbsp;(i.e., blindness), watching TV too closely (the cause) has been shown to have some adverse effects on vision, so concluding that one shouldn&#x2019;t &#x201c;move back&#x201d; from sitting too close is fallacious.
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      The Church used to claim that giving 10% of your income to the Church will free a child&#x2019;s soul from Limbo into Heaven, so clearly giving money to the Church is a scam!
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;Centuries ago, the Church did accept &#x201c;contributions&#x201d; to get loved ones out of &#x201c;Limbo,&#x201d; and it wasn&#x2019;t until 2007 when the Church made it clear that Limbo was a theory and not an official doctrine of the Church, separating the Church from that belief. As for the argument, the false effect of &#x201c;freeing a child&#x2019;s soul from Limbo&#x201d; does not warrant the conclusion that giving your money to the Church is a scam.
-    </p>
-    <p class="Body">
-      <strong>Example #3:&nbsp;</strong>
-    </p>
-    <p class="Body" style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>The presence of police at protests cause an escalation of violence. It was the case that at the protest last night attended by uniformed police, there was an escalation of violence. Therefore, police should not be at protests.</em></font>
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;We begin with a causal claim: The presence of police at protests cause an escalation of violence (X apparently causes Y). This is just a claim at this point and has not been established, but because there was an escalation of violence (Y is right), it is concluded that the implied claim (police should not be at protests) is true (therefore, X is right). In reality, we don&#x2019;t know what caused the escalation of violence, so we cannot conclude anything about the claim. In addition, we are assuming we have agreed to the condition:
-    </p>
-    <p class="Body" style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>If the presence of police at protests cause an escalation of violence, then there should be no presence of police at protests.</em></font>
-    </p>
-    <p class="Body">
-      To which we may not want to agree if we reason that the presence of police at protests results in a greater good.
-    </p>
-    <p class="Body">
-      <strong>Exception:</strong>&nbsp;It can be difficult to parse the claim that is being said to be wrong or right, in which case the causal link might be what is really being rejected. In our first example, it is fallacious to conclude that there is no reason we shouldn&#x2019;t watch TV close up. We parsed this from &#x201c;Watching TV that close will make you go blind.&#x201d; If one is claiming that the causal claim is what is false after showing the effect to be false, then there is no fallacy.
-    </p>
-    <p class="Body" style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>Mom: Watching TV that close will make you go blind, so move back!</em></font><br/><font color="rgb(52, 73, 94)"><em>Jonny: That is B.S., Mom. Watching TV too close does NOT make someone go blind.</em></font>
-    </p>
-    <p class="Body">
-      <strong>Fun Fact:</strong>&nbsp;This fallacy is different from the <em>false cause</em>&nbsp;&nbsp;fallacy (listed under <em>questionable cause</em>).
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Gadarene Swine Fallacy" ID="ID_626617440" CREATED="1637060577042" MODIFIED="1642696213943"><richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&nbsp;The assumption that because an individual is not in formation with the group, that the individual must be the one off course. It is possible that the one who appears off course is the only one on the right course.
-
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Person X stands out from the group.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Therefore, person X is wrong.
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Why can't your daughter fall in line like the other girls?
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;The assumption here is that the &quot;other girls&quot; are doing the right thing. This needs to be established or demonstrated through reason and evidence.
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>
-    </p>
-    <p class="Body">
-      Many people throughout history started revolutions by taking the morally right action when it was considered morally wrong or even illegal at the time. Consider Rosa Parks.
-    </p>
-    <p class="Body">
-      <strong>Exception:</strong>&nbsp;It is just as wrong to assume that the one is &quot;out of formation&quot; as it is to assume that all the rest must be &quot;out of formation.&quot; While it might be statistically more probable that the one is out of formation, evidence should be sought before making any definitive claim.
-    </p>
-    <p class="Body">
-      <strong>Tip:</strong>&nbsp;Compare this to the <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Galileo-Fallacy" target="fallacy" data-toggle="tooltip" title="" data-original-title="The claim that because an idea is forbidden, prosecuted, detested, or otherwise mocked, it must be true, or should be given more credibility. This originates from Galileo Galilei's famous persecution by the Roman Catholic Church for his defense of heliocentrism when the commonly accepted belief at the time was an earth-centered universe.">Galileo fallacy</a></i>&nbsp;. You will see that being the oddball neither makes you right nor wrong.
-    </p>
-    <strong>References:</strong>
-
-    <div class="small" style="padding-left: 22px; text-indent: -22px">
-      <p>
-        
-      </p>
-      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
-        <div class="csl-entry">
-          Laing, R. D. (1990). <i>The Politics of Experience and The Bird of Paradise</i>. Penguin Books Limited.
-        </div>
-      </div>
-    </div>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Having Your Cake" ID="ID_198662793" CREATED="1637060723102" MODIFIED="1642698214892"><richcontent TYPE="DETAILS">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (also known as: failure to assert, diminished claim, failure to choose sides)
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&nbsp;Making an argument, or responding to one, in such a way that it does not make it at all clear what your position is.&nbsp;&nbsp;This puts you in a position to back out of your claim at any time and go in a new direction without penalty, claiming that you were &#x201c;right&#x201d; all along.&nbsp;
-
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      I believe X is a strong argument.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Y is also a very strong argument.
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Reporter: Mr. Congressman, where do you stand on the clean water vs. new factory issue?
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Congressman: Of course, I want our state to have the cleanest water possible.&nbsp;&nbsp;I can appreciate the petition against the new factory as I can also appreciate the new jobs introduced in our community as a result of the new factory.
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;This type of &#x201c;non-decision&#x201d; or refusal to choose a side often eludes those looking for an answer but getting more of a non-answer in return.&nbsp;&nbsp;In our example, the congressman can later choose a side based on the outcome, looking like the guy who knew the right answer all along.
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Scott: So do you think the earth has only been here for 6-10 thousand years?
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Sam: The evidence for an old earth is very strong, but we cannot discount some of the claims made by the creationists.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Scott: So what are you saying?
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Sam: I am saying that a 4.7 billion-year-old earth makes a lot of sense, but the 6000-year-old theory does, as well.
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;We all know and want to shoot people like Sam.&nbsp;&nbsp;Sam is failing to assert his position.&nbsp;&nbsp;If Sam&#x2019;s opinion is respected in this area, no doubt people on both sides will use his statement to their advantage.&nbsp;&nbsp;This ambiguity is not helpful and is misleading.
-    </p>
-    <p class="Body">
-      <strong>Exception:</strong>&nbsp;Wishy-washy statements are sometimes acceptable to demonstrate your uncertainty on a given issue, and if these kinds of statements are followed with admissions of uncertainty or ignorance,&nbsp;&nbsp;then they are not fallacious; they are honest.
-    </p>
-    <p class="Body">
-      <strong>Tip:</strong>&nbsp;If you don&#x2019;t have an opinion, say that you don&#x2019;t have an opinion.&nbsp;&nbsp;If you don&#x2019;t know, say that you don&#x2019;t know.&nbsp;&nbsp;It&#x2019;s that simple.
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Hedging" ID="ID_1548318953" CREATED="1637060778861" MODIFIED="1642698273488"><richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&nbsp;Refining your claim simply to avoid counter evidence and then acting as if your revised claim is the same as the original.
-
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Claim X is made.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Claim X is refuted.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Claim Y is then made and is made to be the same as claim X when it is not.
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Freddie: All women are evil, manipulative, man-haters.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Wade: Including your mother and best friend?
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Freddie: Not them, but all the others.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Wade: How can you say that, when you only know maybe a hundred or so women?
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Freddie: Obviously, I am talking about the ones I know.
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;The claim changed quite drastically from about 3.5 billion women to about 100, yet there was no admission by Freddie of this drastic change in his argument.&nbsp;&nbsp;Freddie is guilty of committing this fallacy, and those who see Freddie&#x2019;s initial argument as still valid, are guilty, as well.
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Adam: The story of Noah&#x2019;s ark is very probable, and almost certainly a historical and scientific fact.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Greg: So you think it is very probable that two of each animal came from around the globe, including the animals that cannot survive for very long outside their natural environments?
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Adam: Well, that part did require God&#x2019;s help.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Greg: You think it is very probable even though virtually every geologist and natural scientist today reject the idea of a global flood?
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Adam: Probability exists on many levels.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Greg: Do you really still think this story is, &#x201c;very probable&#x201d;?
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Adam: Yes.
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;Besides the multiple <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Ad-Hoc-Rescue" target="fallacy" data-toggle="tooltip" title="" data-original-title="Very often we desperately want to be right and hold on to certain beliefs, despite any evidence presented to the contrary.  As a result, we begin to make up excuses as to why our belief could still be true, and is still true, despite the fact that we have no real evidence for what we are making up.">ad hoc</a></i>&nbsp;&nbsp;explanations used by Adam to answer the counterclaims, each counterclaim was evidence against the initial claim, specifically the &#x201c;very probable&#x201d; nature of the story.&nbsp;&nbsp;Rather than concede the argument or revise the claim, Adam let his insistence to be right come before logical thought and refused to change his original claim.
-    </p>
-    <p class="Body">
-      <strong>Exception:</strong>&nbsp;If the point of argumentation is really to arrive closer to the truth, then there is no shame in revising claims.&nbsp;&nbsp;If this is done, there is no fallacy.
-    </p>
-    <p class="Body">
-      <strong>Fun Fact:</strong>&nbsp;Every time you acknowledge that you are wrong, you are one step closer to actually being right.
-    </p>
-    References: Dowden, B. (n.d.). Fallacies | Internet Encyclopedia of Philosophy. Retrieved from http://www.iep.utm.edu/fallacy/
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Inconsistency" ID="ID_1816570120" CREATED="1637061256799" MODIFIED="1642700066585"><richcontent TYPE="DETAILS">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (also known as: internal contradiction, logical inconsistency)
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&nbsp;In terms of a fallacious argument, two or more propositions are asserted that cannot both possibly be true.&nbsp;&nbsp;In a more general sense, holding two or more views/beliefs that cannot all be true together.&nbsp;&nbsp;Quotes from Yogi Berra (even if apocryphal) are great examples of fallacies, especially inconsistencies.
-
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p class="Body" style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>Proposition 1 is logically inconsistent with proposition 2.</em></font><br/><font color="rgb(52, 73, 94)"><em>Proposition 1 and proposition 2 are both asserted or implied to be true.</em></font>
-    </p>
-    <p class="Body">
-      <strong>Example #1: </strong>
-    </p>
-    <p class="Body uk-margin-remove uk-text-primary" style="display: block; padding-left: 20px; font-style: italic">
-      &quot;I never said most of the things I said.&quot; - <i>Yogi Berra</i>
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;I know this requires no explanation, and I don't mean to insult your intelligence, but for consistency's sake, I will explain.&nbsp;&nbsp;If he had said those things, then he said them, which is a contradiction to his claim that he never said them. This is both an <i>internal inconsistency</i>&nbsp;and a <i>logical inconsistency</i>. It is internal because the inconsistency is contained within the statement itself; it doesn't require any other premises or arguments.
-    </p>
-    <p class="Body">
-      <strong>Example #2: </strong>
-    </p>
-    <p class="Body uk-margin-remove uk-text-primary" style="display: block; padding-left: 20px; font-style: italic">
-      &quot;Nobody goes there anymore.&nbsp;&nbsp;It's too crowded.&quot; - <i>Yogi Berra</i>
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;Again, I apologize, but here it goes... If &quot;nobody&quot; went there, then it could not possibly be crowded, since &quot;crowded&quot; implies too many people are there. This is both an <i>internal inconsistency</i>&nbsp;and a <i>logical inconsistency</i>.
-    </p>
-    <p class="Body">
-      <strong>Exception:</strong>&nbsp;One needs to be able to explain how the beliefs are not inconsistent.
-    </p>
-    <p class="Body">
-      <strong>Tip:</strong>&nbsp;Think about your beliefs.&nbsp;&nbsp;Are there any inconsistent with each other?&nbsp;&nbsp;Any inconsistent with how you act and what you do?
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Inflation of Conflict" ID="ID_1249289444" CREATED="1637061274395" MODIFIED="1642700099573"><richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&nbsp;Reasoning that because authorities cannot agree precisely on an issue, no conclusions can be reached at all, and minimizing the credibility of the authorities, as a result.&nbsp;&nbsp;This is a form of black and white thinking -- either we know the exact truth, or we know nothing at all.&nbsp;
-
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Authority A disagrees with authority B on issue X.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Therefore, we can say nothing meaningful about issue X.
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      My mom says that I should study for at least 2 hours each night, and my dad says just a half hour should be fine.&nbsp;&nbsp;Neither one of them knows what they are talking about, so I should just skip studying altogether.
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;A disagreement among experts does not mean that both are wrong, the answer is a compromise, or that there is no answer to be known; it simply means that there is disagreement -- that is all we can infer.
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Scientists cannot agree on the age of the universe.&nbsp;&nbsp;Some say it is 13.7 billion years old, some say it is only about 13 billion years old.&nbsp;&nbsp;That&#x2019;s a difference of almost a billion years!&nbsp;&nbsp;It should be clear that because there is so much disagreement, then the 6000-year-old universe should be carefully considered, as well.
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;Scientists who &#x201c;disagree&#x201d; with the estimated age of the universe do so primarily on slightly different interpretations of the same objectively valid dating methods.&nbsp;&nbsp;The difference is fairly minute in terms of percentage.&nbsp;&nbsp;Suggesting 6000 years is valid is one thing, but doing so based on the difference in interpretation from mainstream science is completely fallacious.&nbsp;&nbsp;The differences have no bearing on the truth claim of the argument (the actual age).
-    </p>
-    <p class="Body">
-      <strong>Exception:</strong>&nbsp;When the difference in professional disagreement is critical, it should be carefully examined. For example, if two doctors were debating on what medicine to give a patient, and both were claiming that the other medicine would kill the patient.
-    </p>
-    <p class="Body">
-      <strong>Fun Fact:</strong>&nbsp;When experts have very different views on scientific issues, it is very often the case that one or more of them are sharing views outside their realm of professional expertise.
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Least Plausible Hypothesis" ID="ID_363222673" CREATED="1637061455562" MODIFIED="1642701553365"><richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&nbsp;Choosing more unreasonable explanations for phenomena over more defensible ones.&nbsp;&nbsp;In judging the validity of hypotheses or conclusions from observation, the scientific method relies upon the <i>Principle of Parsimony</i>, also known as <i>Occam&#x2019;s Razor</i>, which states, <i>all things being equal, the simplest explanation of a phenomenon that requires the fewest assumptions is the preferred explanation until it can be disproved.&nbsp; </i>
-
-    <p class="Body">
-      This is very similar to the <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Far-Fetched-Hypothesis" target="fallacy" data-toggle="tooltip" title="" data-original-title="Offering a bizarre (far-fetched) hypothesis as the correct explanation without first ruling out more mundane explanations.">far-fetched hypothesis</a></i>, but the hypotheses are generally more within reason (i.e., no leprechauns involved).
-    </p>
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Hypothesis X is used to explain Y, but hypothesis X is the least plausible.
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Here is why I think my date never showed up: her father had a heart-attack, and she had to rush him to the hospital.&nbsp;&nbsp;In her state of panic, she forgot her cell phone and while at the hospital she was too concerned about her dad to worry about standing me up.
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;While possible, it is not <i>probable</i>.&nbsp;&nbsp;It is much more probable that his date just forgot or has purposely stood him up.&nbsp;&nbsp;People tend to believe in the least probable hypotheses out of desire, emotion, or faith -- not out of reason.
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>&nbsp;Creationists have written volumes of books explaining how, given some divine intervention, a few broken natural laws, and accepting the <i>inconsistency</i>&nbsp;of nature, it could be possible that the universe is only 6000 years old.&nbsp;&nbsp;Accepting these theories would require the abandonment or radical reformation of virtually every science we have, as well us a new understanding of the term, &#x201c;fact&#x201d;.&nbsp;&nbsp;So either all of that is true, or, the Biblical creation story, like hundreds of others in cultures all around the world, are simply mythology.
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;Given the incomprehensible number and severity of the assumptions that would need to be made for creationism to be true, the explanation that the creation story is mythology, by far, is the most economical explanation.
-    </p>
-    <p class="Body">
-      <strong>Exception:</strong>&nbsp;This isn't about what might be possible; <i>Occam&#x2019;s Razor</i>&nbsp;is all about probabilities.
-    </p>
-    <p class="Body">
-      <strong>Fun Fact:</strong>&nbsp;&#x201c;Plausibility&#x201d; technically means &#x201c;believability,&#x201d; which is highly subjective. A Flat-earther would find the flat-earth theory more plausible than the spherical earth. Clearly, who is making the claim of plausibility, matters.&nbsp;
-    </p>
-    <strong>References:</strong>
-
-    <div class="small" style="padding-left: 22px; text-indent: -22px">
-      <p>
-        
-      </p>
-      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
-        <div class="csl-entry">
-          Wormeli, R. (2001). <i>Meet Me in the Middle: Becoming an Accomplished Middle-level Teacher</i>. Stenhouse Publishers.
-        </div>
-      </div>
-      <p class="Body">
-        
-      </p>
-    </div>
-    <p>
-      
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Limited Depth" ID="ID_113983450" CREATED="1637061461135" MODIFIED="1642701633007"><richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&nbsp;Failing to appeal to an underlying cause, and instead simply appealing to membership in a category.&nbsp;&nbsp;In other words, simply asserting what you are trying to explain without actually explaining anything.
-
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p class="Body" style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>Claim X is made about Y.</em></font><br/><font color="rgb(52, 73, 94)"><em>Claim X is true because Y is a member of category Z.</em></font>
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p style="text-align: left; padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>My dog goes through our garbage because he is a dog.</em></font>
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;We know your dog is a dog, but what about him being a dog makes him go through the garbage?&nbsp;&nbsp;By referring to your dog as a member of the category &#x201c;dog&#x201d;, this fails to explain anything.
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>
-    </p>
-    <p style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>Mormons are really, really nice because they go to Mormon church.</em></font>
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;<i><a href="https://www.logicallyfallacious.com/logicalfallacies/Begging-the-Question" target="fallacy" data-toggle="tooltip" title="" data-original-title="Any form of argument where the conclusion is assumed in one of the premises.  Many people use the phrase &#x201c;begging the question&#x201d; incorrectly when they use it to mean, &#x201c;prompts one to ask the question&#x201d;.  That is NOT the correct usage. Begging the question is a form of circular reasoning.">Question begging</a></i>&nbsp;aside, simply stating that Mormons are a member of the group, &#x201c;Mormon churchgoers&#x201d; does not explain why they are nice.&nbsp;&nbsp;A reasonable explanation would need to include a valid causal relationship between niceness and Mormon-church-going.
-    </p>
-    <p class="Body">
-      <strong>Exception:</strong>&nbsp;At times, limited depth can be used as a shorthand when assumptions are made that no deeper explanation is needed.&nbsp;
-    </p>
-    <p style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>I need oxygen because I am human!</em></font>
-    </p>
-    <p>
-      <strong>Fun Fact:</strong>&nbsp;Mormons getting their own planet in the Mormon afterlife is actually a misconception, not official Mormon doctrine.
-    </p>
-    <strong>References:</strong>
-
-    <div class="small" style="padding-left: 22px; text-indent: -22px">
-      <p>
-        
-      </p>
-      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
-        <div class="csl-entry">
-          Farha, B. (2013). <i>Pseudoscience and Deception: The Smoke and Mirrors of Paranormal Claims</i>. University Press of America.
-        </div>
-      </div>
-    </div>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Limited Scope" ID="ID_1577296639" CREATED="1637061478548" MODIFIED="1642704046487"><richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&nbsp;The theory doesn't explain anything other than the phenomenon it explains (that one thing), and at best, is likely to be incomplete.&nbsp;&nbsp;This is often done by just redefining a term or phrase rather than explaining it.
-
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p class="Body" style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>Theory X is proposed to explain Y.</em></font><br/><font color="rgb(52, 73, 94)"><em>Theory X explains nothing else but Y.</em></font>
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>My car broke down because it is no longer working.</em></font>
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;&#x201c;It isn&#x2019;t working&#x201d; is just another way of saying &#x201c;broke down&#x201d;, and fails to explain <i>why</i>&nbsp;it broke down.
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>
-    </p>
-    <p style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>People often make hasty decisions because they don&#x2019;t take enough time to consider their choices.</em></font>
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;Not taking enough time to consider choices is precisely what a hasty decision is.&nbsp;&nbsp;Again, no explanation is offered, just a definition in place of an explanation.
-    </p>
-    <p class="Body">
-      <strong>Exception:</strong>&nbsp;If &#x201c;because&#x201d; is replaced with a phrase like, &#x201c;in other words&#x201d;, then it is a deliberate clarification and not a fallacy.
-    </p>
-    <p class="Body">
-      <strong>Fun Fact:</strong>&nbsp;<em><i><a href="https://www.logicallyfallacious.com/logicalfallacies/Limited-Depth" target="fallacy" data-toggle="tooltip" title="" data-original-title="Failing to appeal to an underlying cause, and instead simply appealing to membership in a category.  In other words, simply asserting what you are trying to explain without actually explaining anything.">Limited depth</a></i></em>&nbsp;and <em>limited scope</em>&nbsp;&nbsp;fallacies are sometimes known as <em>fallacies of explanation</em>.
-    </p>
-    <strong>References:</strong>
-
-    <div class="small" style="padding-left: 22px; text-indent: -22px">
-      <p>
-        
-      </p>
-      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
-        <div class="csl-entry">
-          Farha, B. (2013). <i>Pseudoscience and Deception: The Smoke and Mirrors of Paranormal Claims</i>. University Press of America.
-        </div>
-      </div>
-    </div>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Multiple Comparisons Fallacy" ID="ID_1710023835" CREATED="1637061647452" MODIFIED="1642751246771"><richcontent TYPE="DETAILS">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (also known as: multiple comparisons, multiplicity, multiple testing problem, the look-elsewhere effect)
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&nbsp;Claiming that unexpected trends that occur through random chance alone in a data set with a large number of variables are meaningful.
-
-    <p class="Body">
-      In inductive arguments, there is always a chance that the conclusion might be false, despite the truth of the premises. This is often referred to as &#x201c;confidence level.&#x201d; In any given study or poll, there is a confidence level of less than 100%. If a confidence level is 95%, then one out of 20 similar studies will have a false conclusion. If you make multiple comparisons (either in the same study or compare multiple studies), say 20 or more where there is a 95% confidence level, you are likely to get a false conclusion. This becomes a fallacy when that false conclusion is seen as significant rather than a statistical probability.
-    </p>
-    <p class="Body">
-      This fallacy can be overcome by proper testing techniques and procedures that are outside the scope of this book.
-    </p>
-    <p class="Body">
-      <strong>Logical Forms:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Out of N studies, A produced result X and B produced result Y.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Tomorrow&#x2019;s headlines read, &#x201c;Studies show Y&#x201d;.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      The study&#x2019;s significance level was X.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      The study compared multiple variables until some significant result was found.
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      100 independent studies were conducted comparing brain tumor rates of those who use cell phones to those who don&#x2019;t.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      90 of the tests showed no significant difference in the rates.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      5 of the tests showed that cell phone users were more than twice as likely to develop tumors than those who don&#x2019;t use cell phones.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      5 of the tests showed that cell phone users were half as likely to develop tumors than those who don&#x2019;t use cell phones.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      FunTel Mobile&#x2019;s new ad, &#x201c;Studies show: Cell phone users are half as likely to develop brain tumors!&#x201d;
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;Because we did multiple tests, i.e., compared multiple groups, statistically we are likely to get results that fall within the acceptable margin of error.&nbsp;&nbsp;These must be disregarded as anomalies or tested further, but not taken to be meaningful while ignoring the other results.
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      In our study, we looked at 100 individuals who sang right before going to bed, and 100 individuals who did not sing.&nbsp;&nbsp;Here is what we found: Over 90% of the individuals who sang slept on their backs, and just 10% slept on their stomachs or sides.&nbsp;&nbsp;This is compared to 50% of those who did not sing, sleeping on their backs and 50% sleeping on their stomachs or sides.&nbsp;&nbsp;Therefore, singing has something to do with sleeping position.
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;What this study did not report, is that over 500 comparisons were done between the two groups, on everything from quality of sleep to what they ate for breakfast the next day.&nbsp;&nbsp;Out of all the comparisons, most were meaningless, thus were discarded&#x2014;but as expected via the law statistics and probability, there were some anomalies, the sleeping position being the most dramatic.&nbsp;
-    </p>
-    <p>
-      <strong>Exception:</strong>&nbsp;Only proper testing and accurate representation of the results would lead to non-fallacious conclusions.
-    </p>
-    <p>
-      <em>Fun Fact:</em>&nbsp;In a group of 23 random people, it is more likely than not that at least two of the people in the group have the same birthday. This is referred to a the <em>birthday paradox</em>&nbsp;and it is a classic example of the <em>multiple comparisons fallacy</em>.
-    </p>
-    <p class="Body">
-      <strong>References:</strong>
-    </p>
-    <div class="small" style="padding-left: 22px; text-indent: -22px">
-      <p>
-        
-      </p>
-      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
-        <div class="csl-entry">
-          Walsh, J. (1996). <i>True Odds: How Risk Affects Your Everyday Life</i>. Silver Lake Publishing.
-        </div>
-      </div>
-    </div>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Overextended Outrage" ID="ID_1883529473" CREATED="1637084359028" MODIFIED="1642752047502"><richcontent TYPE="DETAILS">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (also known as: overextended moral outrage, overextended, political outrage)
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&nbsp;This is a form of poor statistical thinking where one or more statistically rare cases are implied to be the norm or the trend (without evidence) for the purpose of expressing or inciting outrage toward an entire group. It is a form of extreme <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Stereotyping-the-fallacy" target="fallacy" data-toggle="tooltip" title="" data-original-title="The general beliefs that we use to categorize people, objects, and events while assuming those beliefs are accurate generalizations of the whole group.">stereotyping (the fallacy)</a></i>, based on the cognitive bias known as the <i>group attribution error</i>.
-
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Person 1 does something bad.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Person 1 is a member of group X.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Outrage is expressed towards group X.
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      FAUX News runs a story about an illegal immigrant who committed a horrible crime. The commentators talk about this case for weeks, expressing outrage about the serious danger illegal immigrants pose to the good people of the United States.
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;Violent crime by illegal immigrants is rarer than violent crime committed by U.S. citizens [1]. However, if the narrative a media outlet is trying to sell is that illegal immigrants are dangerous, then they can influence public opinion by inferring that one example of such violence is characteristic of the group. Expressing outrage is a way to make the influence even more effective.
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      The Huffaluf Post runs a story about a Republican who assaulted a Muslim woman and told her to &quot;go back where she came from.&quot; The story is shared millions of times and picked up by other liberal media outlets. Liberals are discussing this story on social media saying how outraged they are at Republicans for their hatred of Muslims.
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;People and the media (biased media) tend to associate a physical or social identity to the perpetrator of a crime for the purpose of damaging the group's public perception. Why a &quot;Republican&quot; man? How many Republicans are assaulting Muslim women? How many Democrats are? The data are ignored for the benefit of the narrative being sold.
-    </p>
-    <p class="Body">
-      <strong>Exception:</strong>&nbsp;There is no exception. If it is &quot;overextended,&quot; then the problem is being exaggerated, and a group of people is unfairly demonized.
-    </p>
-    <p class="Body">
-      <strong>Tip:</strong>&nbsp;Next time you read about a story that makes you feel outraged, direct your outrage to the individuals directly involved in the story. Don't demonize an entire physical or social identity.
-    </p>
-    <strong>References:</strong>
-
-    <div class="small" style="padding-left: 22px; text-indent: -22px">
-      This is an original logical fallacy named by the author.
-
-      <p>
-        
-      </p>
-      <p>
-        1 Adelman, R., Reid, L. W., Markle, G., Weiss, S., &amp; Jaret, C. (2017). Urban crime rates and the changing face of immigration: Evidence across four decades. <i>Journal of Ethnicity in Criminal Justice</i>, <i>15</i>(1), 52&#x2013;77. https://doi.org/10.1080/15377938.2016.1261057
-      </p>
-    </div>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Post-Designation" ID="ID_721778483" CREATED="1637152810953" MODIFIED="1642753980879"><richcontent TYPE="DETAILS">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (also known as: fishing for data)
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&nbsp;Drawing a conclusion from correlations observed in a given sample, but only after the sample has already been drawn, and without declaring in advance what correlations the experimenter was expecting to find.
-
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p class="Body" style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>A sample from a data set is drawn.</em></font><br/><font color="rgb(52, 73, 94)"><em>A correlation is found that was not looked at nor is it statistically surprising.</em></font><br/><font color="rgb(52, 73, 94)"><em>The correlation is seen as being meaningful.</em></font>
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>In looking at the records of my students, I have found that 9 out of 10 are an only child.&nbsp;&nbsp;Therefore, society is moving towards one-child families.</em></font>
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;When you start looking at data with no expectations, anything goes, and any data due to random, statistical anomalies will stand out as &#x201c;odd&#x201d;.&nbsp;&nbsp;In this case, the fact that 9 out of 10 kids don&#x2019;t have siblings is outside of the norm, but that is the nature of probability.&nbsp;&nbsp;If you were hypothesizing that most kids don&#x2019;t have siblings, and you found this data, then it would provide more of a reason to do further research in making a more justified conclusion.&nbsp;
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>
-    </p>
-    <p style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>In looking at the difference between 100 Christians and 100 atheists, we found that Christians were significantly more likely to eat tuna fish.</em></font>
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;When you fish for data, you are bound to catch something -- in this case, tuna.&nbsp;&nbsp;Notice that because we were looking for anything, we are bound to find it.
-    </p>
-    <p>
-      <strong>Exception:</strong>&nbsp;At times, truth is revealed in data whether we look for it or not, but we need to realize that meaningless statistical anomalies are to be expected when looking at data.
-    </p>
-    <p>
-      <strong>Fun Fact:</strong>&nbsp;<em>Post-designation</em>&nbsp;appears to be just a different name for the <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Multiple-Comparisons-Fallacy" target="fallacy" data-toggle="tooltip" title="" data-original-title="Claiming that unexpected trends that occur through random chance alone in a data set with a large number of variables are meaningful.">multiple comparisons fallacy</a></i>. I have kept both entries because I have expanded the&nbsp;<i><a href="https://www.logicallyfallacious.com/logicalfallacies/Multiple-Comparisons-Fallacy" target="fallacy" data-toggle="tooltip" title="" data-original-title="Claiming that unexpected trends that occur through random chance alone in a data set with a large number of variables are meaningful.">multiple comparisons fallacy</a></i>&nbsp;&nbsp;to include multiple comparisons between studies, which doesn&#x2019;t seem to fit the <em>post-designation</em>&nbsp;fallacy&#x2019;s definition.
-    </p>
-  </body>
-</html></richcontent>
-</node>
 <node TEXT="Proof by Intimidation" ID="ID_651523298" CREATED="1637152942849" MODIFIED="1642754209146"><richcontent TYPE="DETAILS">
 <html>
   <head>
@@ -13205,844 +11110,6 @@
         </div>
       </div>
     </div>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Proof Surrogate" ID="ID_1064260554" CREATED="1637152971248" MODIFIED="1642754150068"><richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&nbsp;A claim masquerading as proof or evidence, when no such proof or evidence is actually being offered.
-
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Claim X is made.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Claim X is expressed in such a way where no evidence is forthcoming, or no requests for evidence are welcome.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Therefore, X is true.
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Jose writes that &quot;people are mostly good at heart.&quot; The author is simply wrong.
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;The arguer states that the author is &quot;simply wrong&quot; yet offers no reasons. Words and phrases such as &quot;simply,&quot; &quot;obviously,&quot; &quot;without question,&quot; etc., are indicators that no such evidence will be presented.
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Politician X is crooked&#x2014;this is an indisputable fact known by everyone except politician X's supporters.
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;The language &quot;this in an indisputable fact&quot; is a surrogate for the evidence showing that politician X is crooked.
-    </p>
-    <p class="Body">
-      <strong>Exception:</strong>&nbsp;Claims that are universally accepted as self-evident truths don't apply.
-    </p>
-    <p class="Body uk-margin-remove uk-text-primary" style="display: block; padding-left: 20px; font-style: italic">
-      If you put your penis in a wood chipper, it's going to hurt.
-    </p>
-    <p class="Body">
-      <strong>Tip:</strong>&nbsp;If you have a penis, don't put it in a wood chipper.
-    </p>
-    <strong>References:</strong>
-
-    <div class="small" style="padding-left: 22px; text-indent: -22px">
-      <p>
-        
-      </p>
-      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
-        <div class="csl-entry">
-          Dowden. (1993). <i>Logical Reasoning Im</i>. Thomson Learning EMEA, Limited.
-        </div>
-      </div>
-    </div>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Proving Non-Existence" ID="ID_1973754334" CREATED="1637152981514" MODIFIED="1642754253378"><richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&nbsp;Demanding that one proves the non-existence of something in place of providing adequate evidence for the existence of that something.&nbsp;&nbsp;Although it may be possible to prove non-existence in special situations, such as showing that a container does not contain certain items, one cannot prove universal or absolute non-existence.
-
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      I cannot prove that X exists, so you prove that it doesn&#x2019;t.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      If you can&#x2019;t, X exists.
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      God exists.&nbsp;&nbsp;Until you can prove otherwise, I will continue to believe that he does.
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;There are decent reasons to believe in the existence of God, but, &#x201c;because the existence of God cannot be disproven&#x201d;, is not one of them.
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Sheila: I know Elvis&#x2019; ghost is visiting me in my dreams.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Ron: Yeah, I don&#x2019;t think that really is his ghost.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Sheila: Prove that it&#x2019;s not!
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;Once again we are dealing with confusion of probability and possibility.&nbsp;&nbsp;The inability to, &#x201c;prove&#x201d;, in any sense of the word, that the ghost of Elvis is not visiting Sheila in her dreams is an impossible request because there is no test that proves the existence and presence of a ghost, so no way to prove the negative or the non-existence. &nbsp;It is up to Sheila to provide proof of this claim, or at least acknowledge that actually being visited by Elvis&#x2019; ghost is just a <i>possibility</i>, no matter how slim that possibility is.
-    </p>
-    <p class="Body">
-      <strong>Exception:</strong>&nbsp;If Ron were to say, &#x201c;That is impossible&#x201d;, &#x201c;there is no way you are being visited&#x201d;, or make some other claim that rules out any possibility no matter how remote (or crazy), then Sheila would be in the right to ask him for proof -- as long as she is making a point that he cannot know that for certain, and not actually expecting him to produce proof.
-    </p>
-    <p class="Body">
-      <strong>Tip:</strong>&nbsp;If you think you are being visited by aliens, gods, spirits, ghosts, or any other magical beings, just ask them for information that you can verify, specifically with a neutral third-party that would prove their existence.&nbsp;&nbsp;This would be simple for any advanced alien race, any god or heavenly being.&nbsp;&nbsp;Some ideas of things to ask for:
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      future lottery numbers (of course you will give all your winnings to charity)
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      answers to scientific problems that do have scientific answers, but aren&#x2019;t yet known
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      exact details of major future events
-    </p>
-    <p class="Body">
-      But if these beings just tell you things such as:
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      passages / ideas from the Bible
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      whether you should take that new job or not
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      where you left your car keys
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      that they really exist, and others will continue to doubt you
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      that you should never question their existence
-    </p>
-    <p class="Body">
-      ...or anything else which is just as likely to come from your imagination that is untestable and <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Unfalsifiability" target="fallacy" data-toggle="tooltip" title="" data-original-title="Confidently asserting that a theory or hypothesis is true or false even though the theory or hypothesis cannot possibly be contradicted by an observation or the outcome of any physical experiment, usually without strong evidence or good reasons.">unfalsifiable</a></i>&nbsp;, then you might want to reconsider the fact that your being of choice is really paying you visits.
-    </p>
-    <strong>References:</strong>
-
-    <div class="small" style="padding-left: 22px; text-indent: -22px">
-      <p>
-        
-      </p>
-      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
-        <div class="csl-entry">
-          You Can Prove a Negative. (n.d.). Retrieved from http://www.psychologytoday.com/blog/believing-bull/201109/you-can-prove-negative
-        </div>
-      </div>
-    </div>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Psychogenetic Fallacy" ID="ID_26746591" CREATED="1637152990680" MODIFIED="1642754314874"><richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p class="Body">
-      <strong>Description:</strong>&nbsp;Inferring some psychological reason why an argument is made then assuming it is invalid, as a result.
-    </p>
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Person 1 makes argument X.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Person 1 made argument X because of the psychological reason Y.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Therefore, X is not true.
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      George: Man, those girls are smokin' hot!
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Derek: No, they're not. You're a victim of the cheerleader effect. When girls are together in a group, each girl looks a lot better than if you were to see her without the other girls.
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;Besides the fact that &quot;smokin' hot&quot; is a subjective evaluation, meaning that the girls could be hot to George but not Derek, Derek is assuming George's evaluation is wrong because of the psychological effect known as the <i><a href="https://en.wikipedia.org/wiki/Cheerleader_effect">cheerleader effect</a></i>.
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Lucas: I remember when I was about three years old my mother saved me from almost being eaten by a shark.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Katie: I doubt that. What you are experiencing is what cognitive psychologists refer to as a &quot;false memory.&quot;
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;There are two problems here that make Katie guilty of fallacious reasoning. First, she is assuming Lucas' story is not true because of a false memory. Second, she is phrasing this objection with unwarranted confidence.
-    </p>
-    <p class="Body">
-      <strong>Exception:</strong>&nbsp;The more extraordinary the argument or claim, the more reasonable it is to assume a psychological effect is involved. However, even in the most extraordinary of claims, the effect should only be proposed, not assumed.
-    </p>
-    <p class="Body uk-margin-remove uk-text-primary" style="display: block; padding-left: 20px; font-style: italic">
-      Marge: Last night in bed, aliens visited me. They paralyzed me for about 30 seconds while they stood over me, then they disappeared right in front of my eyes while I regained the ability to move and speak.
-    </p>
-    <p class="Body uk-margin-remove uk-text-primary" style="display: block; padding-left: 20px; font-style: italic">
-      Kristine: That sounds like a classic case of what is called a hypnogogic hallucination with sleep paralysis. It is a dream-like state where you are not quite sleeping or awake. Your brain shuts down your ability to move and talk while you are unconscious during a normal sleep cycle, but in the case of sleep paralysis, you retain consciousness&#x2014;but only for a brief time. So the odds are, you weren't really visited by aliens.
-    </p>
-    <p>
-      <strong>Fun Fact: </strong>As video recorders on cell phones became more ubiquitous, reports of alien encounters have dropped considerably.
-    </p>
-    <strong>References:</strong>
-
-    <div class="small" style="padding-left: 22px; text-indent: -22px">
-      <p>
-        
-      </p>
-      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
-        <div class="csl-entry">
-          Segal, R. A. (1980). The social sciences and the truth of religious belief. <i>Journal of the American Academy of Religion</i>, 403&#x2013;413.
-        </div>
-      </div>
-    </div>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Quantum Physics Fallacy" ID="ID_1267654295" CREATED="1637153096935" MODIFIED="1642754499460"><richcontent TYPE="DETAILS">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (also known as: appeal to quantum physics)
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <div class="content clearfix">
-      <p class="Body">
-        <strong>Description:</strong>&nbsp;Using quantum physics in an attempt to support your claim, when in no way is your claim related to quantum physics.&nbsp;&nbsp;One can also use the weirdness of the principles of quantum physics to cast doubt on the well-established laws of the macro world.
-      </p>
-      <p class="Body">
-        Perhaps the greatest mind in quantum physics, Richard Feynman, once said, &#x201c;I think I can safely say that nobody understands quantum mechanics,&#x201d; and he is probably right.&nbsp;&nbsp;People recognize that this is perhaps the most bizarre, paradoxical, and incomprehensible area of study, that is also a respectable science.&nbsp;&nbsp;So, if you can manage to connect the truth of your argument to quantum physics, it would be unlikely that there would be many people who know enough about quantum physics to assert that your connection is invalid. Thus your argument gains credibility out of ignorance.
-      </p>
-      <p class="Body">
-        The mysterious nature of quantum physics is a breeding ground for superstition, religious claims, &#x201c;proof&#x201d; of God, universal consciousness, and many other <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Unfalsifiability" target="fallacy" data-toggle="tooltip" title="" data-original-title="Confidently asserting that a theory or hypothesis is true or false even though the theory or hypothesis cannot possibly be contradicted by an observation or the outcome of any physical experiment, usually without strong evidence or good reasons.">unfalsifiable</a></i>&nbsp;claims.&nbsp;
-      </p>
-      <p class="Body">
-        <strong>Logical Form:</strong>
-      </p>
-      <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-        Quantum physics supports the idea that X is Y.
-      </p>
-      <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-        Therefore, X is Y.
-      </p>
-      <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-        (although quantum physics supports no such thing)
-      </p>
-      <p class="Body">
-        <strong>Example #1:</strong>
-      </p>
-      <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-        Depook: Quantum physics provides evidence that a cosmic consciousness exists.
-      </p>
-      <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-        Sam: ???
-      </p>
-      <p class="Body">
-        <strong>Explanation:</strong>&nbsp;Sam knows nothing about quantum physics, so really cannot respond, yet Depook did not establish an argument as to how it provides evidence, he just made the assertion.&nbsp;
-      </p>
-      <p class="Body">
-        <strong>Example #2:</strong>
-      </p>
-      <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-        Depook: Quantum physics is the language of God.&nbsp;&nbsp;It has been shown that quantum particles contain information that can instantly communicate information over any distance, anywhere in or outside the universe.
-      </p>
-      <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-        Sam: ???
-      </p>
-      <p class="Body">
-        <strong>Explanation:</strong>&nbsp;Sam knows nothing about quantum physics, so really cannot respond.&nbsp;&nbsp;Depook did expand on his assertion here, relied on the <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Argument-by-Gibberish" target="fallacy" data-toggle="tooltip" title="" data-original-title="When incomprehensible jargon or plain incoherent gibberish is used to give the appearance of a strong argument, in place of evidence or valid reasons to accept the argument.">argument by gibberish</a></i>&nbsp;in order to make what sounded like scientific claims which, in fact, were not.&nbsp;&nbsp;According to everything we know about quantum physics, information cannot travel faster than light -- otherwise, it could create a <i>time travel paradox</i>.
-      </p>
-      <p class="Body">
-        <strong>Exception:</strong>&nbsp;Making a scientific claim about quantum physics, using the scientific method, is not fallacious.
-      </p>
-      <p class="Body">
-        <strong>Tip:</strong>&nbsp;Pick up an introductory book on quantum physics, it is not only a fascinating subject, but you will be well prepared to ask the right questions and expose this fallacy when used.
-      </p>
-    </div>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Retrogressive Causation" ID="ID_1971965048" CREATED="1637153250098" MODIFIED="1642755404168"><richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&nbsp;Invoking the cause to eliminate the effect, or calling on the source to relieve the effect of the source.
-
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>X causes/is the source of Y.</em></font>
-    </p>
-    <p style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>In order to eliminate or relieve Y, do more of X.</em></font>
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>Jen: Don&#x2019;t you realize that all this drinking you are doing is making your family miserable?</em></font>
-    </p>
-    <p style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>Bridget: Yes, I do.</em></font>
-    </p>
-    <p style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>Jen: Then what are you doing about it?</em></font>
-    </p>
-    <p style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>Bridget: Drinking to forget.</em></font>
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;Bridget has a drinking problem that she is dealing with by drinking some more -- because the effects of drinking make her (temporarily) forget/not worry about the greater scale effects of her drinking.&nbsp;&nbsp;Her reasoning that this is a good idea is fallacious.
-    </p>
-    <p>
-      <strong>Example #2:</strong>
-    </p>
-    <p style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)">David: We have way too much police presence in this city.</font>
-    </p>
-    <p style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)">Pete: What are you going to do about it?</font>
-    </p>
-    <p style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)">David: Vandalize, loot, and perhaps a little arson.</font>
-    </p>
-    <div class="content clearfix">
-      <strong>Explanation:</strong>&nbsp;The primary role of the police is to enforce laws. David is suggesting that breaking the laws will facilitate his goal of having the police force reduced.
-    </div>
-    <div class="content clearfix">
-      <br/>
-      
-
-      <p>
-        <strong>Exception:</strong>&nbsp;In some cases, one may not be trying to eliminate the effect, but rather continue the cycle for some higher purpose. For example, if one learns to feel constant guilt by going to church and is relieved of that guilt by going to confession, they might find meaning in the constant &#x201c;spiritual cleansing&#x201d; ritual. While this might seem like irrational thinking to some, it would not fit under this fallacy.
-      </p>
-      <p>
-        <strong>Fun Fact:</strong>&nbsp;People are easily persuaded to act against their self-interests. If acting against their self-interest is for some higher purpose, the behavior would not be considered irrational.
-      </p>
-    </div>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Righteousness Fallacy" ID="ID_42938614" CREATED="1637153272372" MODIFIED="1642755452573"><richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&nbsp;Assuming that just because a person's intentions are good, they have the truth or facts on their side. Also see <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Self-Righteousness-Fallacy" target="fallacy" data-toggle="tooltip" title="" data-original-title="Assuming that just because your intentions are good, you have the truth or facts on your side. Also see righteousness fallacy.">self-righteousness fallacy</a></i>.
-
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Person 1 made claim X.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Person 1 has good intentions.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Therefore, X is true.
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Ricki: Do you think aborted fetuses have feelings?
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Jenni: I follow the lead of my grandmother who is the most honorable and kind person I know. She says they do have feelings.
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;Jenni's grandmother might be the queen of honor with kindness oozing from her orthopedic shoes, but these qualities are independent of one's ability to know facts or come to an accurate conclusion based on available data.
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>
-    </p>
-    <p class="Body uk-margin-remove uk-text-primary" style="display: block; padding-left: 20px; font-style: italic">
-      The president wants to bomb that country because he thinks they are preparing to launch a nuclear attack against us. I know the president wants to do the right thing for the good of the American people, so if he says there have nukes, they have nukes!
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;The good intentions of the president are separate from the president's ability to get solid intelligence on foreign affairs. If we are convinced of the president's good intentions, the best we can do is claim that we believe that the president believes he is doing the right thing.
-    </p>
-    <p class="Body">
-      <strong>Exception:</strong>&nbsp;This relates to facts, not subjective truth. We can use the idea of righteousness to conclude how we feel about a person.
-    </p>
-    <p class="Body">
-      <strong>Fun Fact:</strong>&nbsp;This is related to the cognitive bias, the <em>halo effect</em>.
-    </p>
-  </body>
-</html></richcontent>
-<node TEXT="Self-righteousness Fallacy" ID="ID_1638121446" CREATED="1637153328539" MODIFIED="1642755731411"><richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&nbsp;Assuming that just because your intentions are good, you have the truth or facts on your side. Also see <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Righteousness-Fallacy" target="fallacy" data-toggle="tooltip" title="" data-original-title="Assuming that just because a person's intentions are good, they have the truth or facts on their side. Also see self-righteousness fallacy.">righteousness fallacy</a></i>.
-
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>You make claim X.</em></font>
-    </p>
-    <p style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>You have good intentions.</em></font>
-    </p>
-    <p style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>Therefore, X is true.</em></font>
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>Ricki: Do you think aborted fetuses have feelings?</em></font><br/><font color="rgb(52, 73, 94)"><em>Jenni: Any honorable and kind person would have to say they do have feelings. So yes.</em></font>
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;Jenni might be the queen of honor with kindness oozing from her puppy-dog eyes, but these qualities are independent of one&#x2019;s ability to know facts or come to an accurate conclusion based on available data.
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>
-    </p>
-    <p style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>Jenni: Is a fetus a human being?</em></font><br/><font color="rgb(52, 73, 94)"><em>Ricki: No, because I am not a monster and would never suggest killing an unwanted human being is okay.</em></font>
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;Ricki is making a claim about a fetus and using the fact that she is &#x201c;not a monster&#x201d; to support the claim, which is independent of her intentions.
-    </p>
-    <p class="Body">
-      <strong>Exception:</strong>&nbsp;This relates to facts, not subjective truth. We can use the idea of righteousness to conclude how we feel about something or someone. For example,
-    </p>
-    <p class="Body" style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>Jenni: Do you consider a fetus to be as valuable as a human being?</em></font><br/><font color="rgb(52, 73, 94)"><em>Ricki: No, because I am not a monster and would never suggest killing an unwanted human being is okay.</em></font>
-    </p>
-    <p class="Body">
-      <strong>Fun Fact: </strong><em>Self-righteous</em>&nbsp;is defined as having or characterized by a certainty, especially an unfounded one, that one is totally correct or morally superior. The <em>self-righteousness fallacy</em>&nbsp;follows a more generic definition of being correct because of &#x201c;good intentions.&#x201d;
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
-<node TEXT="Rights To Ought Fallacy" ID="ID_1402731982" CREATED="1637153287978" MODIFIED="1642755492306"><richcontent TYPE="DETAILS">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (also known as: constitutional rights fallacy)
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p class="Body">
-      <strong>Description:</strong>&nbsp;When one conflates a reason for one's rights (constitutional or other) with what one <i>should</i>&nbsp;do.&nbsp;&nbsp;This is common among staunch defenders of &quot;rights&quot; who fail to see that rights are not the same as optimal courses of action.&nbsp;&nbsp;It can be a way of attempting to hide the fact that the &quot;should&quot; is based on one's subjective moral values (or at least values that are not shared by the opponent) rather than a more objective law to which virtually everyone acknowledges.
-    </p>
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Person A should not have done X.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Person A had every right to do X; therefore, person A should have done X.
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Carl: Hi Billy, it is great to meet you! I think you will be happy here at Friendly Manufacturing, Inc.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Billy: Hey, you're Irish!&nbsp;&nbsp;Irish people make great factory workers&#x2014;that is where they are happiest.&nbsp;&nbsp;I am surprised to see you in management.&nbsp;
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Carl: Excuse me??
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Billy: Don't mind me.&nbsp;&nbsp;I am just expressing my constitutional right to freedom of speech.&nbsp;&nbsp;Do you have a problem with our Constitution?&nbsp;&nbsp;Do you hate America?
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;Billy is clearly ignorant when it comes to the realities of cultural differences, and he seriously lacks social skills.&nbsp;&nbsp;He is correct that he has every right to express his opinions, but he does not seem to mind offending and hurting others by making his opinions known.&nbsp;&nbsp;Constitutional rights do not exist in a vacuum&#x2014;they are part of the larger system that includes social conventions such as tact, appropriate behavior, and kindness.
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>
-    </p>
-    <p class="Body">
-      A top reality TV superstar from the hit show &quot;Goose Galaxy&quot; recently did an interview with GM magazine (Geese Monthly).&nbsp;&nbsp;In this interview, he told the interviewer that, according to his beliefs, the Galactic Emperor has decreed that all MAC users are &quot;sinful&quot; and MAC use leads to having sex with computers.&nbsp;&nbsp;When many MAC users and non-MAC users alike expressed their outrage at what they felt was an offensive and demonstrably false proposition, defenders of &quot;Goose Galaxy&quot; screamed that the TV superstar had every right to say those things as his speech is protected by the First Amendment.
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;The claim made was that the comments were offensive and demonstrably false (as no research has been able to demonstrate that MAC use leads to having sex with computers), and the reality TV star <i>should not</i>&nbsp;have said those things, yet the &quot;Goose Galaxy&quot; supporters countered with the fact that the reality TV star had the right to say those things; therefore, he <i>should have</i>.&nbsp;&nbsp;Notice that no claim was made about rights&#x2014;this is a <i>strawman</i>.&nbsp;&nbsp;The fallacy extends beyond the strawman because the defenders of &quot;Goose Galaxy&quot; are conflating the reality TV star's constitutional rights with the claim that he <i>should</i>&nbsp;&nbsp;have said those things.
-    </p>
-    <p class="Body">
-      <strong>Exception: </strong>When one's values are in line with the rights, then claiming one &quot;should&quot; exercise his or her rights is not fallacious&#x2014;as long as the reason given does not have to do with rights:<strong><br/></strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      I feel that it is morally wrong to use a MAC; therefore, I <i>should</i>&nbsp;&nbsp;speak out against MAC users; and yes, it is my constitutional right to do so.
-    </p>
-    <p class="Body">
-      <strong>Tip: </strong>Just because you have the right to be a galactic jackass, doesn&#x2019;t mean you should.
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Selective Attention" ID="ID_1682082210" CREATED="1637153339758" MODIFIED="1642755687277"><richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&nbsp;Focusing your attention on certain aspects of the argument while completely ignoring or missing other parts.&nbsp;&nbsp;This usually results in irrelevant rebuttals, <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Strawman-Fallacy" target="fallacy" data-toggle="tooltip" title="" data-original-title="Substituting a person&#x2019;s actual position or argument with a distorted, exaggerated, or misrepresented version of the position of the argument.">strawman fallacy</a></i>, and unnecessarily drawn-out arguments.
-
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p class="Body" style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>Information is presented.</em></font><br/><font color="rgb(52, 73, 94)"><em>Response addresses only some of the information, completely ignoring the rest.</em></font>
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>News Anchor on TV: The Dow Jones was up 200 points today, NASDAQ closed up 120 points, unemployment is and has been declining steadily, but foreclosures have not budged.<br/>Jimbo: Did you hear that?&nbsp;&nbsp;Our economy is in the crapper!</em></font>
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;While there are many problems with the reasoning of Jimbo, due to his <i>selective attention</i>, and possible pessimism when it comes to the economy, he did not let the good news register and/or did not take that information into consideration before concluding that our economy is still in the &#x201c;crapper&#x201d;, based on that one piece of news on foreclosures.
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>&nbsp;Most of us are guilty of <i>selective attention</i>&nbsp;&nbsp;when the information is about us.&nbsp;&nbsp;We tend to embrace the information that makes us feel good and ignore the information that does not.
-    </p>
-    <p class="Body">
-      <strong>Exception:</strong>&nbsp;Ignoring irrelevant information is a good thing when evaluating arguments.&nbsp;&nbsp;The key is to know what is irrelevant.
-    </p>
-    <p class="Body">
-      <strong>Fun Fact:</strong>&nbsp;<em>Selective attention</em>&nbsp;is mostly a cognitive bias in that it happens subconsciously. It becomes a fallacy when it shows up in argumentation.
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Self-Sealing Argument" ID="ID_1019850810" CREATED="1637153357212" MODIFIED="1642755779851"><richcontent TYPE="DETAILS">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (also known as: vacuous argument)
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description: </strong>An argument or position is self-sealing if and only if no evidence can be brought against it no matter what.
-
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p class="Body" style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>Claim X is made.</em></font><br/><font color="rgb(52, 73, 94)"><em>Reason Y is given for claim X.</em></font><br/><font color="rgb(52, 73, 94)"><em>Reason Y can not possibly be refuted.</em></font>
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>Wherever you go, there you are.</em></font>
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;You can&#x2019;t argue against that position, and as a result, it is <i>vacuous</i>, or meaningless.&nbsp;
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>
-    </p>
-    <p style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>Tina: My life is guided by destiny.</em></font>
-    </p>
-    <p style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>Mary: How do you know that?</em></font>
-    </p>
-    <p style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>Tina: Whatever comes my way is what was meant to be.</em></font>
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;We have the same vacuity problem here, except this one is less obvious and protected by a philosophical belief system.&nbsp;&nbsp;There is no possible way we can know what &quot;destiny may have in store for us,&quot; thus no way to argue against it.&nbsp;&nbsp;As a result, it is meaningless -- it is the equivalent of saying everything happens because it happens.
-    </p>
-    <p class="Body">
-      <strong>Exception:</strong>&nbsp;Holding beliefs that are unfalsifiable is not fallacious, especially when stated as beliefs or opinions. This becomes fallacious when an unfalsifiable claim is presented as evidence in argumentation.
-    </p>
-    <p class="Body">
-      <strong>Tip:</strong>&nbsp;Realize that most superstitious beliefs are centered around self-sealing or vacuous arguments, that is why so many people refuse to let go of superstitious beliefs -- because they cannot be proven false.
-    </p>
-    <strong>References:</strong>
-
-    <div class="small" style="padding-left: 22px; text-indent: -22px">
-      <p>
-        
-      </p>
-      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
-        <div class="csl-entry">
-          Blair, J. A. (2011). <i>Groundwork in the Theory of Argumentation: Selected Papers of J. Anthony Blair</i>. Springer Science &amp; Business Media.
-        </div>
-      </div>
-    </div>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Shifting of the Burden of Proof" ID="ID_1583295581" CREATED="1637155266086" MODIFIED="1642755855450"><richcontent TYPE="DETAILS">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (also known as: onus probandi, burden of proof [general concept], burden of proof fallacy, misplaced burden of proof, shifting the burden of proof)
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&nbsp;Making a claim that needs justification, then demanding that the opponent justifies the opposite of the claim. The burden of proof is a legal and philosophical concept with differences in each domain. In everyday debate, the burden of proof typically lies with the person making the claim, but it can also lie with the person denying a well-established fact or theory. Like other non-black and white issues, there are instances where this is clearly fallacious, and those which are not as clear.
-
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Person 1 is claiming Y, which requires justification.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Person 1 demands that person 2 justify the opposite of Y.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Person 2 refuses or is unable to comply.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Therefore, Y is true.
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Jack: I have tiny, invisible unicorns living in my anus.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Nick: How do you figure?
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Jack: Can you prove that I don't?
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Nick: No.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Jack: Then I do.
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;Jack made a claim that requires justification. Nick asked for the evidence, but Jack shifted the burden of proof to Nick. When Nick was unable to refute Jack's (<i><a href="https://www.logicallyfallacious.com/logicalfallacies/Unfalsifiability" target="fallacy" data-toggle="tooltip" title="" data-original-title="Confidently asserting that a theory or hypothesis is true or false even though the theory or hypothesis cannot possibly be contradicted by an observation or the outcome of any physical experiment, usually without strong evidence or good reasons.">unfalsifiable</a></i>) claim, Jack claimed victory.
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Audrey: I am a human being. I am not a cyborg from the future here to destroy humanity.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Fred: Prove that you are human! Cyborgs don't pass out when they lose a lot of blood. Here's a knife.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Audrey: Get to bed, Freddie. And no more SYFY channel before bed!
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;Audrey is making a claim of common knowledge, perhaps sparked by Fred's suspicions. Fred is asking Audrey to prove the claim when he is the one that should be justifying his objection to the claim of common knowledge.
-    </p>
-    <p class="Body">
-      <strong>Exception:</strong>&nbsp;Again, the question of who has the burden of proof is not always as simple as demonstrated in these examples. Often, this is an argument itself.
-    </p>
-    <p class="Body">
-      <strong>Tip:</strong>&nbsp;If possible, justify your argument with evidence even if you might not have the burden of proof. The only time you might not want to do this is when it gives credibility to an outrageous accusation or claim.
-    </p>
-    <strong>References:</strong>
-
-    <div class="small" style="padding-left: 22px; text-indent: -22px">
-      <p>
-        
-      </p>
-      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
-        <div class="csl-entry">
-          Bunnin, N., &amp; Yu, J. (2008). <i>The Blackwell Dictionary of Western Philosophy</i>. John Wiley &amp; Sons.
-        </div>
-      </div>
-    </div>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Shoehorning" ID="ID_914830255" CREATED="1637155283736" MODIFIED="1642755903275"><richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&nbsp;The process of force-fitting some current affair into one's personal, political, or religious agenda.&nbsp;&nbsp;Many people aren't aware of how easy it is to make something look like confirmation of a claim after the fact, especially if the source of the confirmation is something in which they already believe, like Biblical prophecies, psychic predictions, astrological horoscopes, fortune cookies, and more.
-
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p class="Body" style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>Current event X is said to relate to agenda Y.</em></font><br/><font color="rgb(52, 73, 94)"><em>Agenda Y has no rational connection to current event X.</em></font>
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>&nbsp;This example is taken from the <i>Skeptic&#x2019;s Dictionary</i>&nbsp;(<a href="http://www.skepdic.com/shoehorning.html">http://www.skepdic.com/shoehorning.html</a>).&nbsp;
-    </p>
-    <p style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>After the terrorist attacks on the World Trade Center and the Pentagon on September 11, 2001, fundamentalist Christian evangelists Jerry Falwell and Pat Robertson shoehorned the events to their agenda. They claimed &quot;liberal civil liberties groups, feminists, homosexuals and abortion rights supporters bear partial responsibility...because their actions have turned God's anger against America.&quot; According to Falwell, God allowed &quot;the enemies of America...to give us probably what we deserve.&quot; Robertson agreed. The American Civil Liberties Union has &quot;got to take a lot of blame for this,&quot; said Falwell and Robertson agreed. Federal courts bear part of the blame, too, said Falwell, because they've been &quot;throwing God out of the public square.&quot; Also, &quot;abortionists have got to bear some burden for this because God will not be mocked,&quot; said Falwell and Robertson agreed.</em></font>
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;It should be very clear how these religious leaders attempted to profit from the September 11 attacks by <i>shoehorning</i>.
-    </p>
-    <p class="Body">
-      <strong>Example #2: </strong>For thousands of years people have been rushing to scripture to try to make sense out of a current situation.&nbsp;&nbsp;Without a doubt, the same verses have been used over and over again for centuries as a prophecy of a current event.&nbsp;&nbsp;This is <i>shoehorning</i>.&nbsp;&nbsp;A great example of this is the BP oil spill in April of 2010.&nbsp;&nbsp;It has been suggested that the verses from Revelation 8:8&#x2013;11 predicted this environmental disaster:
-    </p>
-    <p style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>&#x201c;The second angel blew his trumpet, and something like a great mountain, burning with fire, was thrown into the sea. A third of the sea became blood, a third of the living creatures in the sea died, and a third of the ships were destroyed &#x2026; A third of the waters became wormwood, and many died from the water, because it was made bitter.&#x201d;&nbsp;</em></font>
-    </p>
-    <p class="Body">
-      With over 31,000 verses, the probability of NOT finding a verse in the Bible that can be made to fit virtually any modern-day situation is next to zero, but what if you had 2,000 years of history to play with?&nbsp;&nbsp;It&#x2019;s not difficult to see how quickly these &#x201c;fulfilled prophecies&#x201d; can add up.
-    </p>
-    <p class="Body">
-      <strong>Exception:</strong>&nbsp;Explaining events is legitimate when reason is being used -- and sometimes it may actually fit into your ideological agenda.
-    </p>
-    <p class="Body">
-      <strong>Fun Fact:</strong>&nbsp;Did you every notice website with crazy conspiricy theories tend to be horribly designed? <em>Haig&#x2019;s Law</em>&nbsp;states: &#x201c;The awfulness of a website's design is directly proportional to the insanity of its contents and creator.&#x201d;
-    </p>
-    <p class="Body">
-      
-    </p>
-    <strong>References:</strong>
-
-    <div class="small" style="padding-left: 22px; text-indent: -22px">
-      <p>
-        
-      </p>
-      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
-        <div class="csl-entry">
-          shoehorning - The Skeptic&#x2019;s Dictionary - Skepdic.com. (n.d.). Retrieved from http://www.skepdic.com/shoehorning.html
-        </div>
-      </div>
-    </div>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Spiritual Fallacy" ID="ID_1467323539" CREATED="1637155408544" MODIFIED="1642756210491"><richcontent TYPE="DETAILS">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (also known as: spiritual excuse)
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&nbsp;Insisting that something meant to be literal is actually &#x201c;spiritual&#x201d; as an explanation or justification for something that otherwise would not fit in an explanation.
-
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      X makes no sense; therefore, X was meant in a &#x201c;spiritual&#x201d; sense.
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Of course, the Koran is not a history or science book, but each and every story in it does contain a spiritual truth.
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;Because we cannot define or prove a &#x201c;spiritual truth&#x201d;, anything can be a spiritual truth.
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>
-    </p>
-    <p>
-      Harold Camping, the preacher who predicted the rapture in 2011, said that the rapture actually did come, but it was a &quot;spiritual&quot; rapture.&nbsp;&nbsp;Of course, there is no way to demonstrate this.
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;We can&#x2019;t use &#x201c;spiritual&#x201d; as a get-out-of-jail-free card to cover up an apparent contradiction.
-    </p>
-    <p class="Body">
-      <strong>Exception:</strong>&nbsp;It is not a fallacy when it is specifically referred to as &#x201c;spiritual&#x201d;.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      &#x201c;and drank the same spiritual drink; for they drank from the spiritual rock that accompanied them, and that rock was Christ.&#x201d; (1 Cor 10:4)
-    </p>
-    <p>
-      <strong>Tip: </strong>Next time you get pulled over for speeding, tell the cop you were only &#x201c;spiritually&#x201d; speeding. See if that works.
-    </p>
   </body>
 </html></richcontent>
 </node>
@@ -14116,658 +11183,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Statement of Conversion" ID="ID_1026140123" CREATED="1637156489843" MODIFIED="1642756361483"><richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&nbsp;&nbsp;Accepting the truth of a claim based on a conversion story without considering any evidence for the truth of the claim.
-
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      I used to believe in X.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Therefore, X is wrong.
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      I used to be a Christian, now I know better.
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;All this tells us is that the arguer changed his mind.&nbsp;&nbsp;We don&#x2019;t know why. Accepting this as evidence against Christianity would be fallacious reasoning.
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      There used to be a time when I didn&#x2019;t believe, now I see the light and have accepted Jesus as my savior!
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&nbsp;All this tells us is that the arguer changed his mind.&nbsp;&nbsp;We don&#x2019;t know why.&nbsp;&nbsp;Accepting this as evidence for Christianity would be fallacious reasoning.
-    </p>
-    <p class="Body">
-      <strong>Exception: </strong>It might be the case where the person with the conversion story has some expertise or direct experience related to the claim, so their conversion story is reasonable evidence for the truth of the claim.<strong><br/></strong>
-    </p>
-    <p class="Body" style="padding-left: 40px">
-      <font color="rgb(52, 73, 94)"><em>I used to think that the earth was flat, then Elon Musk took me to the space station in one of his ships. I am no longer a flat-earther, and I can&#x2019;t believe what an idiot I was listening to YouTube videos of 40-year-old guys living in their parent&#x2019;s basement over NASA.</em></font><strong><br/></strong>
-    </p>
-    <p class="Body">
-      <strong>Tip: </strong>Remember not to confuse people&#x2019;s interpretations of their experiences as actual experiences. People who were unbelievers in aliens visiting earth and changed their mind based on &#x201c;aliens visiting them in their dreams&#x201d; are almost certainly misinterpreting their experiences.
-    </p>
-    <strong>References:</strong>
-
-    <div class="small" style="padding-left: 22px; text-indent: -22px">
-      <p>
-        
-      </p>
-      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
-        <div class="csl-entry">
-          MAC, M. J. T., PhD, CSAC. (2006). <i>Critical Thinking for Addiction Professionals</i>. Springer Publishing Company.
-        </div>
-      </div>
-    </div>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Stereotyping (the fallacy)" ID="ID_1818777462" CREATED="1637156497523" MODIFIED="1642756327031"><richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <div class="content clearfix">
-      <p class="Body">
-        <strong>Description:</strong>&nbsp;The general beliefs that we use to categorize people, objects, and events while assuming those beliefs are accurate generalizations of the whole group.
-      </p>
-      <p class="Body">
-        <strong>Logical Form:</strong>
-      </p>
-      <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-        All X&#x2019;s have the property Y (this being a characterization, not a fact).
-      </p>
-      <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-        Z&nbsp;&nbsp;is an X.
-      </p>
-      <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-        Therefore, Z has the property Y.
-      </p>
-      <p class="Body">
-        <strong>Example #1:</strong>
-      </p>
-      <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-        French people are great at kissing.&nbsp;&nbsp;Julie is French.&nbsp;&nbsp;Get me a date!
-      </p>
-      <p class="Body">
-        <strong>Explanation:</strong>&nbsp;&#x201c;French people are great at kissing&#x201d; is a stereotype, and believing this to be so is a fallacy.&nbsp;&nbsp;While it may be the case that <i>some</i>&nbsp;or even <i>most</i>&nbsp;are great at kissing, we cannot assume this without valid reasons.
-      </p>
-      <p class="Body">
-        <strong>Example #2:</strong>
-      </p>
-      <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-        Atheists are morally bankrupt.
-      </p>
-      <p class="Body">
-        <strong>Explanation:</strong>&nbsp;This isn&#x2019;t an argument, but just an assertion, one not even based on any kind of facts.&nbsp;&nbsp;Stereotypes such as these usually arise from prejudice, ignorance, jealousy, or even hatred.
-      </p>
-      <p class="Body">
-        <strong>Exception:</strong>&nbsp;Statistical data can reveal properties of a group that are more common than in other groups, which can affect the probability of any individual member of the group having that property, but we can never assume that all members of the group have that property.
-      </p>
-      <p>
-        <strong>Tip:</strong>&nbsp;Remember that people are individuals above being members of groups or categories.
-      </p>
-    </div>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Subverted Support" ID="ID_1850408456" CREATED="1637156576588" MODIFIED="1722513405367"><richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&#xa0;The attempt to explain some phenomenon that does not actually occur or there is no evidence that it does.&#xa0;&#xa0;It is a form of <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Begging-the-Question" target="fallacy" data-toggle="tooltip" title="" data-original-title="Any form of argument where the conclusion is assumed in one of the premises.  Many people use the phrase “begging the question” incorrectly when they use it to mean, “prompts one to ask the question”.  That is NOT the correct usage. Begging the question is a form of circular reasoning.">begging the question</a></i>.
-
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      X happens because of Y (when X doesn’t really even happen)
-    </p>
-    <p class="Body">
-      <strong>Example #1:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      The reason billions of children starve to death each year is because we live in a world that does not care.
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&#xa0;Billions of children don’t starve to death each year -- not even close.&#xa0;&#xa0;If it were close, it might be better categorized as an exaggeration, but this would be more of an attempt to get the audience to accept the assertion as a fact while focusing more on the reason rather than the assertion itself.
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      The reason the firmament, a tent-like structure that kept the “waters above” from flooding the earth as described in the Bible, is no longer there today, is because it was destroyed during Noah’s flood.
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&#xa0;The reason the firmament isn’t there today is because it never existed.&#xa0;&#xa0;To attempt to explain it is to get the audience to assume it existed.
-    </p>
-    <p class="Body">
-      <strong>Exception:</strong>&#xa0;If the argument is preceded with a declaration that the phenomenon does occur, then what would be the <i>subverted support </i>is simply a reason given.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      The firmament, a tent-like structure that kept the “waters above” from flooding the earth as described in the Bible, once covered the earth.&#xa0;&#xa0;It is no longer there today because it was destroyed during Noah’s flood.
-    </p>
-    <p>
-      <strong>Tip: </strong>Exaggeration is a risky technique you want to avoid. On the one hand, it can make your argument more compelling (technically, by misrepresenting the truth). On the other hand, if you are called out for your exaggeration, it will damage the credibility of your argument as well as your own credibility.
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Blinding with science" ID="ID_1514720926" CREATED="1642350717782" MODIFIED="1722514094865"><richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      - <span style="font-weight: bold;">Description:</span>&#xa0;The fallacy of blinding with science occurs when technical jargon and scientific terminology are used to obscure the true meaning of a statement, giving it an unearned sense of authority and validity. This tactic aims to deceive the audience into believing that the speaker’s assertions are supported by rigorous scientific evidence, even when they are not.
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      - <span style="font-weight: bold;">Logical Form:</span>
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      &#xa0;&#xa0;1. Speaker uses complex scientific language to present a point.
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      &#xa0;&#xa0;2. Audience is unable to understand the jargon.
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      &#xa0;&#xa0;3. Audience assumes the point is valid due to its scientific appearance.
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      - <span style="font-weight: bold;">Example #1:</span>
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      &#xa0;&#xa0;- Scenario: &quot;The amotivational syndrome is sustained by peer group pressure except where achievement orientation forms a dominant aspect of the educational and social milieu.&quot;
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      &#xa0;&#xa0;- Explanation: This statement uses complex terminology to assert that people are influenced by their friends unless they have personal goals. The jargon intimidates the audience into accepting the statement without questioning its validity.
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      - <span style="font-weight: bold;">Example #2:</span>
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      &#xa0;&#xa0;- Scenario: &quot;The transportational flow charts for the period following the postmeridian peak reveal a pattern of decantation of concentrated passenger units in cluster formations surrounding the central area.&quot;
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      &#xa0;&#xa0;- Explanation: This statement uses complicated language to describe people gathering in the city center after work. The technical jargon obscures the simple reality, making it seem more profound and scientifically grounded than it is.
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      - <span style="font-weight: bold;">Variation:</span>
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      &#xa0;&#xa0;- Scenario: &quot;The small, domesticated carnivorous quadruped positioned itself in sedentary mode in superior relationship to the coarse-textured rushwoven horizontal surface fabric.&quot;
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      &#xa0;&#xa0;- Explanation: This overly complex description of a cat sitting on a mat serves no purpose other than to confuse the reader and obscure the simplicity of the observation.
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      - <span style="font-weight: bold;">Tip: </span>To avoid being blinded by science, focus on understanding the core message. Ask for clarification in simpler terms if the language seems needlessly complex. Evaluate the argument based on evidence rather than the sophistication of the terminology used.
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      - <span style="font-weight: bold;">Exception: </span>This fallacy is not committed if the use of technical language is necessary due to the complexity of the subject and if the audience is expected to understand the terminology.
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      - <span style="font-weight: bold;">Fun Fact: </span>The term &quot;blinding with science&quot; captures the dazzling effect of overly complex language, much like how bright lights can obscure vision. This tactic is often employed in pseudo-sciences and disciplines trying to gain unwarranted credibility by mimicking the language of genuine scientific inquiry.
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="DETAILS">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (Also known as: Obscurantism, Technobabble)
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Thatcher’s blame" ID="ID_44825494" CREATED="1642361648053" MODIFIED="1722512066577"><richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      - <span style="font-weight: bold;">Description</span>: The fallacy of Thatcher’s Blame occurs when blame is assigned regardless of the outcome, illustrating a form of criticism where the target is faulted no matter what happens. It is named after the tendency to blame Margaret Thatcher for any and all issues during her tenure as Prime Minister, regardless of the specific circumstances.
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      - <span style="font-weight: bold;">Logical Form:</span>
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      &#xa0;&#xa0;1. A person or policy is criticized or blamed.
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      &#xa0;&#xa0;2. The blame persists regardless of the outcome or evidence.
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      &#xa0;&#xa0;3. The criticism is applied universally to all possible outcomes.
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      - <span style="font-weight: bold;">Example #1:</span>
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      &#xa0;&#xa0;- Scenario: &quot;If a new policy is introduced in Scotland before England, the Scots are being used as guinea pigs. If it’s introduced in England first, the Scots are being left out. If it’s introduced simultaneously, it shows a lack of understanding of regional differences.&quot;
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      &#xa0;&#xa0;- Explanation: No matter how the policy is introduced, the blame shifts but remains constant, illustrating that the criticism is not about the policy itself but about the inevitable fault-finding.
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      - <span style="font-weight: bold;">Example #2:</span>
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      &#xa0;&#xa0;- Scenario: &quot;If a celebrity takes a public stand, they are criticized for seeking attention. If they remain silent, they are accused of being irrelevant or aloof.&quot;
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      &#xa0;&#xa0;- Explanation: The celebrity is blamed regardless of their actions, showing that the criticism is predetermined and not based on the actual merits or shortcomings of their behavior.
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      - <span style="font-weight: bold;">Variation:</span>
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      &#xa0;&#xa0;- Scenario: &quot;In parliament, if the government acts quickly, they are accused of rushing through decisions recklessly. If they delay, they are criticized for intolerable procrastination.&quot;
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      &#xa0;&#xa0;- Explanation: The government faces criticism no matter how they handle the situation, demonstrating that the fault-finding is inherent rather than based on the specific actions or results.
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      - <span style="font-weight: bold;">Tip</span>: To use Thatcher’s Blame effectively, predict multiple negative outcomes for any proposed action or decision. This allows you to cover every possible scenario with a predetermined negative judgment, making it appear that any outcome is flawed.
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      - <span style="font-weight: bold;">Exception:</span>&#xa0;This fallacy does not apply if the criticism is based on substantive evidence related to the specific outcome or context of the action, rather than an overarching predetermined judgment.
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      - <span style="font-weight: bold;">Fun Fact:</span>&#xa0;The term “Thatcher’s Blame” reflects a specific historical context where political opponents frequently criticized Margaret Thatcher’s policies regardless of their outcomes, illustrating how political figures can become symbols for generalized criticism.
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="DETAILS">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (Also known as: Omnipresent Blame)
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Unaccepted enthyrnemes" ID="ID_1418095432" CREATED="1642362203743" MODIFIED="1722511956380"><richcontent TYPE="DETAILS">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <span style="font-family: Arial;">(Also known as: Missing Premise Fallacy)</span>
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <span style="font-family: Arial;">- </span><span style="font-family: Arial; font-weight: bold;">Description:</span><span style="font-family: Arial;">&#xa0;An enthymeme is an argument where one premise is implied rather than stated explicitly. The fallacy of unaccepted enthymemes occurs when the unstated premise is not accepted by the listener, leading to an argument that lacks proper support. </span>
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      <span style="font-family: Arial;">- </span><span style="font-family: Arial; font-weight: bold;">Logical Form:</span>
-    </p>
-    <p>
-      <span style="font-family: Arial;">&#xa0;&#xa0;1. Argument is presented with an implied premise. </span>
-    </p>
-    <p>
-      <span style="font-family: Arial;">&#xa0;&#xa0;2. The implicit premise is not accepted or is unknown to the audience. </span>
-    </p>
-    <p>
-      <span style="font-family: Arial;">&#xa0;&#xa0;3. The conclusion drawn is flawed due to the missing or unaccepted premise. </span>
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      <span style="font-family: Arial;">- </span><span style="font-family: Arial; font-weight: bold;">Example #1:</span>
-    </p>
-    <p>
-      <span style="font-family: Arial;">&#xa0;&#xa0;- Scenario: &quot;Bill must be stupid. You have to be stupid to fail a driving test.&quot; </span>
-    </p>
-    <p>
-      <span style="font-family: Arial;">&#xa0;&#xa0;- Explanation: The argument assumes that Bill failed his driving test, which is the unstated premise. If Bill did not fail the test, the argument falls apart because the assumption is not accepted by the listener. </span>
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      <span style="font-family: Arial;">- </span><span style="font-family: Arial; font-weight: bold;">Example #2:</span>
-    </p>
-    <p>
-      <span style="font-family: Arial;">&#xa0;&#xa0;- Scenario: &quot;I hope to repay the bank soon, Mr. Smith. My late aunt said she would leave a reward to everyone who had looked after her.&quot; </span>
-    </p>
-    <p>
-      <span style="font-family: Arial;">&#xa0;&#xa0;- Explanation: The argument implies that the speaker looked after their aunt, which is the missing premise. If this premise is not accepted or is incorrect, the argument lacks support. </span>
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      <span style="font-family: Arial;">- </span><span style="font-family: Arial; font-weight: bold;">Variation:</span>
-    </p>
-    <p>
-      <span style="font-family: Arial;">&#xa0;&#xa0;- Scenario: &quot;Darling, I'm sorry. Busy people tend to forget such things as anniversaries.&quot; </span>
-    </p>
-    <p>
-      <span style="font-family: Arial;">&#xa0;&#xa0;- Explanation: The unstated assumption is that the speaker has been busy and therefore forgot the anniversary. If the listener finds out the speaker has been free, the argument fails due to the unaccepted enthymeme. </span>
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      <span style="font-family: Arial;">- </span><span style="font-family: Arial; font-weight: bold;">Tip:</span><span style="font-family: Arial;">&#xa0;When presenting arguments or excuses, ensure that all relevant premises are either stated or known to your audience. Verify that your listener accepts the implicit assumptions to avoid fallacious reasoning. </span>
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      <span style="font-family: Arial;">- </span><span style="font-family: Arial; font-weight: bold;">Exception:</span><span style="font-family: Arial;">&#xa0;Unaccepted enthymemes do not apply if both parties explicitly agree on the unstated premises. The fallacy arises only when the missing premise is not acknowledged or accepted. </span>
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      <span style="font-family: Arial;">- </span><span style="font-family: Arial; font-weight: bold;">Fun Fact: </span><span style="font-family: Arial;">The term &quot;enthymeme&quot; comes from the Greek &quot;enthymema,&quot; which means &quot;in the mind&quot; or &quot;thought&quot;—a fitting description for arguments that rely on mental gaps rather than stated logic. </span>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Feedback fallacy" ID="ID_768663268" CREATED="1642503760019" MODIFIED="1642503764120"/>
-<node TEXT="Lump of labour fallacy" ID="ID_474751865" CREATED="1642503959726" MODIFIED="1722516385730"><richcontent TYPE="DETAILS">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (Also known as: Lump of Jobs Fallacy, Fallacy of Labour Scarcity, Fixed Pie Fallacy, Zero-Sum Fallacy)
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      ### Lump of Labour Fallacy
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - Name: Lump of Labour Fallacy
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - Also known as: Lump of Jobs Fallacy, Fallacy of Labour Scarcity, Fixed Pie Fallacy, Zero-Sum Fallacy
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - Description: The lump of labour fallacy is the incorrect belief that there is a fixed amount of work available in an economy. According to this fallacy, if some people work fewer hours or if productivity increases, it will lead to a reduction in the number of jobs or increase in unemployment. This misconception suggests that employment is a zero-sum game, where the gain of one worker is the loss of another.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - Logical Form:
-    </p>
-    <p>
-      &#xa0;&#xa0;1. Premise 1: There is a fixed amount of work to be done in the economy.
-    </p>
-    <p>
-      &#xa0;&#xa0;2. Premise 2: Reducing work hours or increasing productivity leads to fewer jobs.
-    </p>
-    <p>
-      &#xa0;&#xa0;3. Conclusion: Measures such as reducing working hours or increasing immigration will decrease employment or increase unemployment.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - Example #1:
-    </p>
-    <p>
-      &#xa0;&#xa0;- Scenario: Advocates argue that increasing the minimum wage will lead to higher unemployment because employers will reduce their workforce to offset the increased labor costs.
-    </p>
-    <p>
-      &#xa0;&#xa0;- Explanation: This argument assumes that the total amount of work is fixed, and that higher wages will lead to fewer jobs. In reality, higher wages can increase worker productivity and demand for goods, potentially creating more jobs.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - Example #2:
-    </p>
-    <p>
-      &#xa0;&#xa0;- Scenario: Some people claim that allowing more immigrants into the workforce will take jobs away from native-born workers.
-    </p>
-    <p>
-      &#xa0;&#xa0;- Explanation: This view is based on the belief that the number of available jobs is fixed. However, immigrants can increase demand for goods and services, which can lead to the creation of new jobs and economic growth.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - Variation: The fallacy can be applied to various contexts, such as debates over working hours, immigration, and technological advancements. It is also known as the &quot;zero-sum fallacy&quot; because it incorrectly assumes that gains in employment for some result in losses for others.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - Tip: To counter the lump of labour fallacy, consider that economic growth and job creation are not zero-sum. Expanding productivity, technological advancement, and increasing the labor pool can lead to a more dynamic job market with new opportunities.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - Exception: Critics argue that the fallacy does not account for all nuances, such as the real administrative and operational costs associated with changing labor policies or the transitional impacts of technological changes. These factors can sometimes lead to temporary disruptions or adjustments in the job market.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - Fun Fact: The term &quot;lump of labour fallacy&quot; was popularized by economist David Frederick Schloss in 1891. His work aimed to debunk the misconception that the amount of work is fixed, highlighting the dynamic nature of labor markets and economic growth.
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Referential fallacy" ID="ID_304305229" CREATED="1642503991878" MODIFIED="1722546532302"><richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      ### Referential Theory of Meaning
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Name**: Referential Theory of Meaning
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Also known as**: Direct Reference Theory, Referential Realism
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Description**: A referential theory of meaning posits that the meaning of a word or expression lies in the real-world object it refers to. For instance, the word &quot;tree&quot; points to an actual tree in the world, making the tree its referent. Critics argue that this view is limited as it assumes all words must refer to real objects and overlooks the nuances of language use and context.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Logical Form**:
-    </p>
-    <p>
-      &#xa0;&#xa0;1. Premise 1: The meaning of a word is determined by the object it refers to.
-    </p>
-    <p>
-      &#xa0;&#xa0;2. Premise 2: Words have meaning only if they point to real-world objects.
-    </p>
-    <p>
-      &#xa0;&#xa0;3. Conclusion: The meaning of words resides within the objects they denote.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Example #1**:
-    </p>
-    <p>
-      &#xa0;&#xa0;- **Scenario**: The word &quot;Pegasus&quot; refers to a mythical flying horse.
-    </p>
-    <p>
-      &#xa0;&#xa0;- **Explanation**: According to the referential theory, &quot;Pegasus&quot; lacks meaning because it does not refer to a real object. However, in practice, &quot;Pegasus&quot; is understood as a concept from mythology, indicating that meaning can exist without a real referent.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Example #2**:
-    </p>
-    <p>
-      &#xa0;&#xa0;- **Scenario**: The phrase &quot;nobody was in the room.&quot;
-    </p>
-    <p>
-      &#xa0;&#xa0;- **Explanation**: The referential theory would struggle with this phrase, as &quot;nobody&quot; does not refer to a specific object. Nevertheless, the phrase is meaningful in indicating an empty room, showing that meaning can arise from usage and context.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Variation**: The theory can be contrasted with mediated reference theory, which suggests that meaning is derived through an intermediary sense or description rather than direct reference.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Tip**: Understand that while referential theory emphasizes the link between words and their real-world counterparts, it is essential to consider the context and use of language, as words can have meaning even without direct referents.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Exception**: The theory falls short in explaining abstract, fictional, or non-existent entities, such as &quot;unicorn&quot; or &quot;justice,&quot; which still hold meaning despite lacking a concrete referent.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Fun Fact**: Philosopher John Stuart Mill, an early advocate of this theory, distinguished between connotation (attributes implied by a term) and denotation (the actual object referred to), contributing significantly to the development of referential theory.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      ### Notable Philosophers
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **John Stuart Mill**: Introduced the distinction between connotation and denotation, arguing that the meaning of terms involves the attributes they imply and the objects they denote.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Bertrand Russell**: Although often associated with mediated reference theory, Russell's views also included elements of direct reference theory, emphasizing the relationship between language and reality.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Saul Kripke**: Defended direct reference theory, particularly for proper names, arguing that names are &quot;rigid designators&quot; that refer to the same object in all possible worlds, regardless of the object's properties or context.
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Appeal to Consequences" ID="ID_1292162886" CREATED="1635717442318" MODIFIED="1722546532322"><richcontent TYPE="DETAILS">
+<node TEXT="Appeal to Consequences" FOLDED="true" ID="ID_1292162886" CREATED="1635717442318" MODIFIED="1722546532322"><richcontent TYPE="DETAILS">
 <html>
   <head>
     
@@ -14903,7 +11319,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Wishful thinking" ID="ID_1420024721" CREATED="1618490241592" MODIFIED="1722546612249">
+<node TEXT="Wishful thinking" ID="ID_1420024721" CREATED="1618490241592" MODIFIED="1767635464429">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_860419904" STARTINCLINATION="748.49998 pt;0 pt;" ENDINCLINATION="723.74998 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1665697231" STARTINCLINATION="197.24999 pt;0 pt;" ENDINCLINATION="197.24999 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="NOTE">
@@ -15174,429 +11590,6 @@
 </node>
 </node>
 </node>
-<node TEXT="Unreasonable Inclusion Fallacy" ID="ID_1241278491" CREATED="1642767324372" MODIFIED="1722511851996"><richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <strong>Description:</strong>&#xa0;Attempting to broaden the criteria for inclusion in an ill-famed group or associated with a negative label to the point where the term's definition is changed substantially to condemn or criminalize a far less malicious or deleterious behavior.
-
-    <p class="Body">
-      <strong>Logical Form:</strong>
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Person A is accused of bad behavior X.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Group Y traditionally does not include individuals with bad behavior X
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Person A is said to be a part of group Y for bad behavior X.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Person A is accused of bad behavior X.
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Label Y traditionally does not include bad behavior X
-    </p>
-    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
-      Person A is given label Y for bad behavior X.
-    </p>
-    <p class="Body">
-      <strong>Example #1: </strong>Tony does not agree that every black person in America should be compensated financially for the history of slavery. Therefore, Tony is a racist.
-    </p>
-    <p class="Body">
-      <strong>Explanation:</strong>&#xa0;The term &quot;racist&quot; is an extremely pejorative term that has traditionally been associated with those holding beliefs of racial supremacy—the belief that one's race is superior to other races. By expanding the definition to include &quot;those who don't agree with policies that benefit another race,&quot; we fallaciously equate the behavior with the label's or the group's far more malicious roots. Not only does this unreasonably characterize the person who is against the policy, but it also waters down the meaning of &quot;racist&quot; to the point where traditional racists are unreasonably seen more favorably because the term &quot;racism&quot; has been expanded to include a spectrum of far less malicious behaviors.
-    </p>
-    <p class="Body">
-      <strong>Example #2:</strong>&#xa0;Suzie and Patty went on a date. Patty told herself and her friends that she was not going to have sex on the first date, but she did anyway because she was caught up in the moment. The next day, Patty said that Suzie was very seductive, and Patty couldn't resist her advances. Patty's friends convince her that she was raped.
-    </p>
-    <p class="Body">
-      <strong>Explanation:&#xa0;</strong>Patty's friends' goal was to show sympathy to Patty. They did this by giving her victim status and criminalizing Suzie's behavior by unreasonably viewing Suzie as a &quot;rapist.&quot; Universally, if Suzie's behavior is accepted as &quot;rape,&quot; the definition has radically changed, which not only demeans victims of &quot;traditional&quot; rape by associating them with those who were seduced by their date but conflates actual rapists with those who are just seductive.
-    </p>
-    <p class="Body">
-      <strong>Example #3: </strong>Ricardo had a hamburger for lunch. Antonio, Ricardo's vegan friend, argues that he is a murderer.
-    </p>
-    <p class="Body">
-      <strong>Explanation: </strong>&quot;Murder&quot; is traditionally defined as the unlawful killing of another human being. A cow isn't a human being, killing a cow isn't unlawful, and Ricardo didn't kill the cow he ate. It is unreasonable to put Ricardo, a guy who at a hamburger, in the same category as Jeffrey Dahmer, a guy who ate his human victims he killed. Antonio is using the term &quot;murderer&quot; in a fallacious attempt to associate a similar level of malice with Ricardo's behavior.
-    </p>
-    <p class="Body">
-      <strong>Exception:&#xa0;</strong>See the <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Definition" target="fallacy" data-toggle="tooltip" title="" data-original-title="Using a dictionary’s limited definition of a term as evidence that term cannot have another meaning, expanded meaning, or even conflicting meaning.">appeal to definition</a></i>. Terms change and evolve as do criteria. What makes this a fallacy is a) the definition is changed substantially and b) for the purpose of condemning or criminalizing a far less malicious or deleterious behavior.&#xa0;
-    </p>
-    <p class="Body">
-      <strong>Fun Fact:</strong>&#xa0;This is not unlike the &quot;everyone gets a trophy&quot; phenomenon where the (implied) definition of &quot;winner&quot; is changed substantially to include all those who lost as well (&quot;you're all winners,&quot; says the coach). This may be good for lifting spirits, but it is antithetical to reason.
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT=" Exception That Proves The Rule" ID="ID_315865631" CREATED="1642853235297" MODIFIED="1722511851139"><richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      - <span style="font-weight: bold;">Description:</span>&#xa0;This fallacy occurs when an exception to a rule is dismissed as somehow proving the validity of that rule. Instead of acknowledging that the exception disproves the rule, it is claimed that the exception actually supports or reinforces the rule.
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      - <span style="font-weight: bold;">Logical Form:</span>
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      &#xa0;&#xa0;1. Rule R is stated.
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      &#xa0;&#xa0;2. An exception E to Rule R is presented.
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      &#xa0;&#xa0;3. E is dismissed as the exception that proves R, thereby claiming the rule is still valid.
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      - <span style="font-weight: bold;">Example #1:</span>
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      &#xa0;&#xa0;- Scenario: &quot;You never find songs written about any towns in Britain apart from London.&quot;
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      &#xa0;&#xa0;- Objection: &quot;What about 'Scarborough Fair'?&quot;
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      &#xa0;&#xa0;- Response: &quot;That’s the exception that proves the rule.&quot;
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      &#xa0;&#xa0;- Explanation: The fallacy lies in dismissing &quot;Scarborough Fair&quot; as an exception that somehow validates the rule that no other British towns are mentioned in songs, rather than acknowledging it as a counter-example that challenges the rule.
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      - <span style="font-weight: bold;">Example #2:</span>
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      &#xa0;&#xa0;- Scenario: &quot;No fictional character ever attracted fan clubs in distant countries like pop stars do.&quot;
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      &#xa0;&#xa0;- Objection: &quot;Sherlock Holmes has fan clubs worldwide.&quot;
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      &#xa0;&#xa0;- Response: &quot;He’s simply the exception that proves the rule.&quot;
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      &#xa0;&#xa0;- Explanation: The fallacy is in claiming that Sherlock Holmes’s global fan clubs support the rule that fictional characters don’t have international fan clubs, ignoring that his existence is a clear counter-example.
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      - V<span style="font-weight: bold;">ariation:</span>
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      &#xa0;&#xa0;- Scenario: &quot;Medical advances are made through meticulous research, not by chance. Penicillin was a fluke, a rare exception.&quot;
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      &#xa0;&#xa0;- Explanation: Here, the exception (penicillin) is used to argue that research, rather than chance, is the rule for medical breakthroughs, even though the exception itself might highlight the validity of chance in some cases.
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      - <span style="font-weight: bold;">Tip:</span>&#xa0;When evaluating rules and exceptions, check if the exception genuinely challenges the rule. If it does, the rule might need re-evaluation rather than the exception being dismissed as supportive.
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      - <span style="font-weight: bold;">Exception:</span>&#xa0;The fallacy does not apply if the rule is stated with the understanding that exceptions might occur. In cases where a rule is not universally applied but generally true, exceptions might still be valid and informative.
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      - <span style="font-weight: bold;">Fun Fact:</span>&#xa0;The term &quot;exception that proves the rule&quot; comes from an older use of the word &quot;prove,&quot; which meant to &quot;test&quot; or &quot;try out.&quot; It does not imply that exceptions confirm the rule but rather that they challenge the rule to prove its robustness.
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Refuting the example" ID="ID_389560209" CREATED="1642858283417" MODIFIED="1642858287027"/>
-<node TEXT="argumentum ad Temperantlam" ID="ID_1839619740" CREATED="1642858533156" MODIFIED="1722511749302"><richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      - <span style="font-weight: bold;">Description</span>: The argumentum ad temperantiam is the fallacy that asserts the moderate or middle position in a debate is always the correct one. It presumes that taking a moderate stance inherently makes a position more valid or reasonable, regardless of the actual merits of the arguments.
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      - <span style="font-weight: bold;">Logical Form: </span>
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      &#xa0;&#xa0;1. Position A is extreme.
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      &#xa0;&#xa0;2. Position B is also extreme.
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      &#xa0;&#xa0;3. Therefore, a compromise or middle position (C) is correct.
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      - <span style="font-weight: bold;">Example #1:</span>
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      &#xa0;&#xa0;- Scenario: &quot;The unions have asked for a 6 percent raise, and the management has offered 2 percent. Couldn’t we agree on 4 percent to avoid a strike?&quot;
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      &#xa0;&#xa0;- Explanation: The fallacy lies in assuming that the middle point (4 percent) is the correct solution simply because it is a compromise between two extreme positions (6 percent and 2 percent), without considering whether 4 percent is justified or beneficial.
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      - <span style="font-weight: bold;">Example #2:</span>
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      &#xa0;&#xa0;- Scenario: &quot;All bureaucrats are meddlesome, and all petty tyrants are meddlesome. Therefore, all bureaucrats are petty tyrants.&quot;
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      &#xa0;&#xa0;- Explanation: Here, the fallacy suggests that because both bureaucrats and petty tyrants share a common trait (meddlesome), they must be the same thing. This ignores the fact that the shared trait does not prove an equivalence or justify a middle ground.
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      - <span style="font-weight: bold;">Variation:</span>
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      &#xa0;&#xa0;- Scenario: &quot;One side supports full privatization, and the other side wants complete government control. We should implement a balanced approach with some privatization and some government control.&quot;
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      &#xa0;&#xa0;- Explanation: This argument assumes that a middle-ground approach is inherently correct without evaluating whether the specific balance is effective or appropriate.
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      - <span style="font-weight: bold;">Tip:</span>&#xa0;Be cautious of arguments that assume moderation automatically means correctness. Evaluate the merits of each position on its own rather than assuming that a compromise is the best solution.
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      - <span style="font-weight: bold;">Exception: </span>The fallacy does not apply if the moderate position is derived from valid reasoning and evidence rather than simply being a middle ground. Moderation can be reasonable if it is supported by arguments and facts.
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      
-    </p>
-    <p http-equiv="content-type" content="text/html; charset=utf-8">
-      - <span style="font-weight: bold;">Fun Fact: </span>The argumentum ad temperantiam is humorously associated with England due to its historical tendency to value moderation and compromise. This is reflected in the British political landscape, where parties often position themselves in the middle to appeal to the largest audience, such as the &quot;Third Way&quot; adopted by New Labour.
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="DETAILS">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (Also known as: The Middle Way Fallacy, The Moderation Fallacy)
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="The Undistributed middle" ID="ID_321217681" CREATED="1642858790714" MODIFIED="1722511636176"><richcontent TYPE="DETAILS">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (Also known as: Undistributed Term Fallacy, Fallacy of the Undistributed Middle Term)
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      - <span style="font-weight: bold;">Description:</span>&#xa0;The undistributed middle fallacy occurs in a syllogistic argument where the middle term is not distributed in either of the premises, leading to an invalid conclusion. The middle term, which is supposed to link the two premises, fails to cover its entire class, allowing for logical gaps in the argument.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Logical Form:</span>
-    </p>
-    <p>
-      &#xa0;&#xa0;1. All A are B.
-    </p>
-    <p>
-      &#xa0;&#xa0;2. Some B are C.
-    </p>
-    <p>
-      &#xa0;&#xa0;3. Therefore, some A are C.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Example #1:</span>
-    </p>
-    <p>
-      &#xa0;&#xa0;- Scenario: &quot;All men are mammals. Some mammals are rabbits, therefore some men are rabbits.&quot;
-    </p>
-    <p>
-      &#xa0;&#xa0;- Explanation: The middle term &quot;mammals&quot; is not distributed in either premise to cover all mammals. Therefore, the argument incorrectly concludes that some men are rabbits without a proper logical basis.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Example #2:</span>
-    </p>
-    <p>
-      &#xa0;&#xa0;- Scenario: &quot;All bureaucrats are meddlesome. All petty tyrants are meddlesome. Therefore, all bureaucrats are petty tyrants.&quot;
-    </p>
-    <p>
-      &#xa0;&#xa0;- Explanation: The middle term &quot;meddlesome&quot; is not distributed to cover all petty tyrants or all bureaucrats. The argument fails because it assumes that the shared characteristic &quot;meddlesome&quot; means that all bureaucrats must be petty tyrants.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Variation:</span>
-    </p>
-    <p>
-      &#xa0;&#xa0;- Scenario: &quot;All nurses are really great people, but some really great people are not properly rewarded. Therefore, some nurses are not properly rewarded.&quot;
-    </p>
-    <p>
-      &#xa0;&#xa0;- Explanation: Here, &quot;really great people&quot; is not distributed as a universal or negative term, leading to a fallacious conclusion about the reward status of nurses.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Tip:</span>&#xa0;Ensure that the middle term in a syllogism is properly distributed at least once across the premises. For a valid conclusion, the middle term should cover the entire class it represents.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Exception:</span>&#xa0;The fallacy of the undistributed middle does not apply if the argument is constructed correctly with the middle term properly distributed and covering the full scope of its class.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - <span style="font-weight: bold;">Fun Fact: </span>The undistributed middle fallacy is a classic example of how logical structures can be manipulated to create seemingly convincing but ultimately flawed arguments. The term &quot;undistributed&quot; refers to the failure of the middle term to adequately cover all its possible instances, leading to the fallacy.
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="fallacia non causae ut causae" ID="ID_784575763" CREATED="1646767757612" MODIFIED="1722547414716"><richcontent TYPE="DETAILS">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (Also known as: Claim Victory Despite Defeat, Fallacy of non causae ut causae, Impudent Triumph)
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      - **Description**: This technique involves asserting that you have won an argument or proved a point, even when the evidence or answers provided do not support your conclusion. It relies on the bold proclamation of victory to convince others, particularly if the opponent is not confident or astute enough to challenge the claim.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Logical Form**:
-    </p>
-    <p>
-      &#xa0;&#xa0;1. Premise 1: Your opponent answers several of your questions, none of which support your desired conclusion.
-    </p>
-    <p>
-      &#xa0;&#xa0;2. Premise 2: You declare the desired conclusion as if it logically follows from the discussion.
-    </p>
-    <p>
-      &#xa0;&#xa0;3. Conclusion: You assert that you have proved your point.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Example #1**:
-    </p>
-    <p>
-      &#xa0;&#xa0;- **Scenario**: In a debate, you ask your opponent multiple questions about economic policies.
-    </p>
-    <p>
-      &#xa0;&#xa0;- **Explanation**: Although the answers do not favor your stance, you boldly claim that the responses clearly demonstrate your position's superiority and announce your conclusion as if it were a logical outcome of the discussion.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Example #2**:
-    </p>
-    <p>
-      &#xa0;&#xa0;- **Scenario**: During a public discussion, you question your opponent about various social issues.
-    </p>
-    <p>
-      &#xa0;&#xa0;- **Explanation**: Despite receiving neutral or unrelated answers, you loudly declare that these answers prove your argument, leveraging your assertiveness to make it seem convincing to the audience.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Variation**: This technique can also involve misrepresenting or exaggerating the significance of minor points in your favor, presenting them as decisive victories.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Tip**: Confidence and assertiveness are key. Speak loudly and with conviction to overshadow any logical inconsistencies and to make your proclamation of victory more believable.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Exception**: This tactic is less effective against well-informed, confident opponents who can easily expose the fallacy. It can also backfire if the audience is discerning and aware of the logical disconnect.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Fun Fact**: This trick is similar to the fallacy of non causae ut causae, which means &quot;non-cause as cause,&quot; where something that is not the cause is incorrectly presented as the cause.
-    </p>
-  </body>
-</html></richcontent>
-</node>
 <node TEXT="Argumentum ad amicitiam" ID="ID_909199054" CREATED="1646767971780" MODIFIED="1722547489143"><richcontent TYPE="DETAILS">
 <html>
   <head>
@@ -15683,14 +11676,14 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Argumentum a simili" ID="ID_1384554836" CREATED="1646768165277" MODIFIED="1722547559386"><richcontent TYPE="DETAILS">
+<node TEXT="argumentum ad vanitatem" ID="ID_1893919859" CREATED="1646769047555" MODIFIED="1722549112276"><richcontent TYPE="DETAILS">
 <html>
   <head>
     
   </head>
   <body>
     <p>
-      (<strong><span style="font-weight: normal;">Also known as</span></strong>: Argument by Similarity)
+      (Also known as: Appeal to vanity)
     </p>
   </body>
 </html></richcontent>
@@ -15701,7 +11694,7 @@
   </head>
   <body>
     <p>
-      - **Description**: This argument draws a conclusion based on the similarity between two or more situations. It posits that because one situation is like another in some respects, the same conclusions can be applied to both.
+      - **Description**: Argumentum ad vanitatem is a fallacy that seeks to win an argument by appealing to the vanity, pride, or self-esteem of the audience or opponent. This strategy involves flattery or praise to make the audience more receptive to the argument being presented.
     </p>
     <p>
       
@@ -15710,117 +11703,13 @@
       - **Logical Form**:
     </p>
     <p>
-      &#xa0;&#xa0;1. Premise 1: Situation A has characteristics X, Y, and Z.
+      &#xa0;&#xa0;1. Compliment the audience or opponent (Proposition A).
     </p>
     <p>
-      &#xa0;&#xa0;2. Premise 2: Situation B has characteristics X, Y, and Z.
+      &#xa0;&#xa0;2. Present an argument (Proposition B).
     </p>
     <p>
-      &#xa0;&#xa0;3. Conclusion: What is true for Situation A is also true for Situation B.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Example #1**:
-    </p>
-    <p>
-      &#xa0;&#xa0;- **Scenario**: A teacher argues that because a previous class benefited from a new teaching method, the current class will benefit from it as well.
-    </p>
-    <p>
-      &#xa0;&#xa0;- **Explanation**: The teacher is assuming that the current class is similar enough to the previous one in relevant aspects (such as learning styles or engagement levels) for the same method to be effective.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Example #2**:
-    </p>
-    <p>
-      &#xa0;&#xa0;- **Scenario**: A lawyer argues that because a court ruled in favor of a similar case, the court should rule the same way in the present case.
-    </p>
-    <p>
-      &#xa0;&#xa0;- **Explanation**: The lawyer is drawing a parallel between the two cases, suggesting that the legal principles applied previously should apply again due to the similarities.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Variation**: Sometimes known as reasoning by analogy, this variation involves drawing parallels between more abstract concepts rather than direct situations. For example, &quot;Just as a gardener must prune a plant for it to grow stronger, a person must face challenges to become resilient.&quot;
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Tip**: To strengthen an argument by similarity, ensure that the situations being compared are similar in all relevant and significant aspects. Be prepared to address potential dissimilarities that could weaken the argument.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Exception**: This type of argument can fail if the similarities are superficial or if there are critical differences between the situations that affect the conclusion. Always scrutinize the depth and relevance of the similarities.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Fun Fact**: Analogical reasoning, which underlies argumentum a simili, is a fundamental aspect of human cognition and is often used in everyday decision-making as well as scientific reasoning.
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="argumentum a fortiori" ID="ID_137731789" CREATED="1646768246602" MODIFIED="1722547666739"><richcontent TYPE="DETAILS">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (<strong><span style="font-weight: normal;">Also known as</span></strong><span style="font-weight: normal;">: </span>Argument from the stronger reason)
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      ### Argumentum a fortiori
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Name**: Argumentum a fortiori
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Also known as**: Argument from the stronger reason
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Description**: Argumentum a fortiori is a form of reasoning that asserts if something is true in a stronger or more significant case, it must also be true in a weaker or less significant case. It draws upon existing confidence in a stronger proposition to argue in favor of a second proposition that is even more certain.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Logical Form**:
-    </p>
-    <p>
-      &#xa0;&#xa0;1. Premise 1: Proposition A is true and is a stronger case.
-    </p>
-    <p>
-      &#xa0;&#xa0;2. Premise 2: Proposition B is a weaker case than Proposition A.
-    </p>
-    <p>
-      &#xa0;&#xa0;3. Conclusion: Therefore, Proposition B is also true.
+      &#xa0;&#xa0;3. Audience or opponent, feeling flattered, is more likely to accept Proposition B.
     </p>
     <p>
       
@@ -15829,120 +11718,10 @@
       - **Example #1**:
     </p>
     <p>
-      &#xa0;&#xa0;- **Scenario**: If driving 10 mph over the speed limit is punishable by a fine of $50, it can be inferred a fortiori that driving 20 mph over the speed limit is also punishable by a fine of at least $50.
+      &#xa0;&#xa0;- **Scenario**: A salesperson says, &quot;You clearly have great taste and an eye for quality. That's why I know you'll appreciate this premium product.&quot;
     </p>
     <p>
-      &#xa0;&#xa0;- **Explanation**: Since the punishment applies to a less severe case (10 mph over), it must logically apply to the more severe case (20 mph over).
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Example #2**:
-    </p>
-    <p>
-      &#xa0;&#xa0;- **Scenario**: If a person is dead, then one can, with equal or greater certainty, argue a fortiori that the person is not breathing.
-    </p>
-    <p>
-      &#xa0;&#xa0;- **Explanation**: Being dead is a stronger condition that implies not breathing, thus confirming the weaker condition (not breathing) through the stronger condition (being dead).
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Tip**: Ensure that the stronger case truly encompasses the weaker case, making the inference logical and undeniable.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Exception**: The argument fails if the stronger and weaker cases do not share a relevant relationship that makes the inference valid. For example, a characteristic true of a larger quantity does not always apply to a smaller quantity if the relationship is not proportional.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Fun Fact**: In Jewish law, a fortiori arguments are regularly used under the name &quot;kal va-chomer&quot; (light and heavy), which infers from a lighter case to a heavier case, highlighting the deep historical roots and cross-cultural relevance of this form of reasoning.
-    </p>
-  </body>
-</html></richcontent>
-<node TEXT="a maiori ad minus" ID="ID_1284738597" CREATED="1646768261225" MODIFIED="1722547682595"><richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      - **Variation**:
-    </p>
-    <p>
-      &#xa0;&#xa0;- **A maiore ad minus**: This describes an inference from a greater to a lesser condition. For example, &quot;If a door is big enough for a person two meters high, then a shorter person may also come through.&quot;
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="a minori ad maius" ID="ID_1911822245" CREATED="1646768272183" MODIFIED="1722547686212"><richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      - **Variation**:
-    </p>
-    <p>
-      &#xa0;&#xa0;- **A minore ad maius**: This less common variation infers from a lesser to a greater condition. For example, &quot;If a rope can tow a car, it can also tow a truck.&quot;
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
-<node TEXT="Argumentum ad exemplum" ID="ID_1562384241" CREATED="1646768985225" MODIFIED="1722548794109"><richcontent TYPE="DETAILS">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (Also known as: Argument from example)
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      - **Description**: Argumentum ad exemplum is a rhetorical strategy where an example is used to illustrate and support a point. This form of argumentation uses specific instances to demonstrate the validity of a general claim or principle.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Logical Form**:
-    </p>
-    <p>
-      &#xa0;&#xa0;1. General Claim: Proposition A is true.
-    </p>
-    <p>
-      &#xa0;&#xa0;2. Example: Specific instance B demonstrates Proposition A.
-    </p>
-    <p>
-      &#xa0;&#xa0;3. Conclusion: Therefore, Proposition A is supported by the example B.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Example #1**:
-    </p>
-    <p>
-      &#xa0;&#xa0;- **Scenario**: To show that exercise improves mental health, one might cite an example of a study where participants who engaged in regular physical activity reported lower levels of stress and anxiety.
-    </p>
-    <p>
-      &#xa0;&#xa0;- **Explanation**: The specific instance of the study provides concrete evidence to support the general claim that exercise benefits mental health.
+      &#xa0;&#xa0;- **Explanation**: The salesperson flatters the customer's sense of taste and quality, making them more inclined to buy the product.
     </p>
     <p>
       
@@ -15951,10 +11730,10 @@
       - **Example #2**:
     </p>
     <p>
-      &#xa0;&#xa0;- **Scenario**: To argue that renewable energy sources can effectively power a city, one might reference the case of a city that successfully implemented wind and solar power to meet its energy needs.
+      &#xa0;&#xa0;- **Scenario**: During a team meeting, a manager says, &quot;You're one of the most dedicated and hardworking members of our team, so I know you'll agree with my proposal to work extra hours this week.&quot;
     </p>
     <p>
-      &#xa0;&#xa0;- **Explanation**: The example of the city serves as a real-world illustration that strengthens the argument for the viability of renewable energy.
+      &#xa0;&#xa0;- **Explanation**: The manager uses flattery to make the employee more likely to agree to work additional hours, appealing to their sense of dedication and hard work.
     </p>
     <p>
       
@@ -15963,28 +11742,28 @@
       - **Variation**:
     </p>
     <p>
-      &#xa0;&#xa0;- **Analogical Argument**: Uses examples that draw parallels between similar cases to argue that what is true for one case is likely true for another.
+      &#xa0;&#xa0;- **Appeal to Flattery**: Directly complimenting someone's intelligence, skills, or attributes to win them over.
     </p>
     <p>
-      &#xa0;&#xa0;- **Illustrative Example**: Uses an example purely to clarify a point rather than to prove it.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Tip**: Choose examples that are highly relevant and representative of the general claim. Ensure that the examples are accurate and verifiable to maintain the argument’s credibility.
+      &#xa0;&#xa0;- **Appeal to Ego**: Highlighting someone's status or achievements to gain their support.
     </p>
     <p>
       
     </p>
     <p>
-      - **Exception**: This argument can be weak if the example used is an outlier or not representative of the general claim. Avoid using exceptional cases that might not generalize well.
+      - **Tip**: Recognize when flattery is being used to manipulate your decision-making process. Focus on the merits of the argument rather than how it makes you feel about yourself.
     </p>
     <p>
       
     </p>
     <p>
-      - **Fun Fact**: The use of examples is a common teaching technique in various disciplines, as it helps in concretizing abstract concepts and principles, making them easier to understand and remember.
+      - **Exception**: Compliments or praise that are genuine and relevant to the discussion can enhance rapport and cooperation without necessarily being manipulative.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Fun Fact**: The term &quot;vanitatem&quot; is derived from the Latin word for vanity or emptiness, emphasizing the superficial nature of this type of appeal.
     </p>
   </body>
 </html></richcontent>
@@ -16082,14 +11861,106 @@
 </html></richcontent>
 <node TEXT="" ID="ID_1898841090" CREATED="1646769036743" MODIFIED="1646769036743"/>
 </node>
-<node TEXT="argumentum ad vanitatem" ID="ID_1893919859" CREATED="1646769047555" MODIFIED="1722549112276"><richcontent TYPE="DETAILS">
+<node TEXT="Argumentum ad quietem" ID="ID_274828949" CREATED="1646769248115" MODIFIED="1722585637621"><richcontent TYPE="NOTE">
 <html>
   <head>
     
   </head>
   <body>
     <p>
-      (Also known as: Appeal to vanity)
+      - **Description**: Argumentum ad quietem is a fallacy where an argument is accepted or promoted not based on its merits but because it leads to peace, quiet, or an end to conflict. This fallacy exploits the desire for harmony and avoidance of confrontation, suggesting that agreeing to the argument will result in a more peaceful or agreeable outcome, regardless of its truthfulness or logical soundness.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Logical Form**:
+    </p>
+    <p>
+      &#xa0;&#xa0;1. Proposition A is controversial or causing conflict.
+    </p>
+    <p>
+      &#xa0;&#xa0;2. Accepting Proposition A will lead to peace or an end to conflict.
+    </p>
+    <p>
+      &#xa0;&#xa0;3. Therefore, Proposition A should be accepted.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Example #1**:
+    </p>
+    <p>
+      &#xa0;&#xa0;- **Scenario**: &quot;Let's just agree that the Earth is flat so we can stop arguing and get along.&quot;
+    </p>
+    <p>
+      &#xa0;&#xa0;- **Explanation**: This argument suggests accepting the false claim that the Earth is flat solely to end the argument and achieve peace, without regard for the overwhelming evidence that the Earth is round.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Example #2**:
+    </p>
+    <p>
+      &#xa0;&#xa0;- **Scenario**: &quot;We should agree with the new policy change even if it's flawed because it will stop the ongoing disputes among the team.&quot;
+    </p>
+    <p>
+      &#xa0;&#xa0;- **Explanation**: Here, the argument advocates for accepting a potentially flawed policy to end team disputes, rather than addressing the policy's merits or flaws directly.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Variation**:
+    </p>
+    <p>
+      &#xa0;&#xa0;- **Appeal to Avoidance**: Suggesting that accepting an argument is better because it avoids confrontation or uncomfortable discussions.
+    </p>
+    <p>
+      &#xa0;&#xa0;- **Appeal to Conformity**: Promoting an argument because conforming to it will result in social harmony.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Tip**: Evaluate arguments based on their evidence and logical reasoning rather than the desire to avoid conflict or maintain peace. Striving for truth and correctness is essential even if it temporarily leads to disagreement.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Exception**: In certain contexts, such as mediation or diplomacy, finding common ground to achieve peace might take precedence over debating the absolute truth. However, this should be recognized as a pragmatic choice rather than a logical conclusion about the argument's validity.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Fun Fact**: The term &quot;Argumentum ad Quietem&quot; is less commonly discussed in formal logic compared to other fallacies, but it is often encountered in everyday life when people prioritize harmony over rigorous debate or truth-seeking.
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (Also known as: Appeal to Peace, Appeal to Tranquility)
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="argumentum ad socordiam" ID="ID_1755638534" CREATED="1646769167452" MODIFIED="1722584898518"><richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (Also known as: Appeal to Laziness)
     </p>
   </body>
 </html></richcontent>
@@ -16100,7 +11971,7 @@
   </head>
   <body>
     <p>
-      - **Description**: Argumentum ad vanitatem is a fallacy that seeks to win an argument by appealing to the vanity, pride, or self-esteem of the audience or opponent. This strategy involves flattery or praise to make the audience more receptive to the argument being presented.
+      - **Description**: Argumentum ad socordiam is a fallacy in which one argues for a conclusion based on the avoidance of effort, work, or complexity. This fallacy exploits the tendency to prefer easier, lazier options, even if they are less valid or effective.
     </p>
     <p>
       
@@ -16109,13 +11980,13 @@
       - **Logical Form**:
     </p>
     <p>
-      &#xa0;&#xa0;1. Compliment the audience or opponent (Proposition A).
+      &#xa0;&#xa0;1. Present a situation requiring effort (Proposition A).
     </p>
     <p>
-      &#xa0;&#xa0;2. Present an argument (Proposition B).
+      &#xa0;&#xa0;2. Suggest an easier alternative (Proposition B).
     </p>
     <p>
-      &#xa0;&#xa0;3. Audience or opponent, feeling flattered, is more likely to accept Proposition B.
+      &#xa0;&#xa0;3. Argue that Proposition B is preferable because it requires less effort.
     </p>
     <p>
       
@@ -16124,10 +11995,10 @@
       - **Example #1**:
     </p>
     <p>
-      &#xa0;&#xa0;- **Scenario**: A salesperson says, &quot;You clearly have great taste and an eye for quality. That's why I know you'll appreciate this premium product.&quot;
+      &#xa0;&#xa0;- **Scenario**: &quot;Why bother reading the whole book when you can just read the summary online?&quot;
     </p>
     <p>
-      &#xa0;&#xa0;- **Explanation**: The salesperson flatters the customer's sense of taste and quality, making them more inclined to buy the product.
+      &#xa0;&#xa0;- **Explanation**: This argument suggests that reading a summary is better simply because it requires less effort, ignoring the depth and understanding gained from reading the full book.
     </p>
     <p>
       
@@ -16136,10 +12007,10 @@
       - **Example #2**:
     </p>
     <p>
-      &#xa0;&#xa0;- **Scenario**: During a team meeting, a manager says, &quot;You're one of the most dedicated and hardworking members of our team, so I know you'll agree with my proposal to work extra hours this week.&quot;
+      &#xa0;&#xa0;- **Scenario**: &quot;We don't need to implement a new software system; the old one works well enough and changing it would be too much trouble.&quot;
     </p>
     <p>
-      &#xa0;&#xa0;- **Explanation**: The manager uses flattery to make the employee more likely to agree to work additional hours, appealing to their sense of dedication and hard work.
+      &#xa0;&#xa0;- **Explanation**: Here, the argument favors maintaining the status quo due to the effort involved in change, regardless of the potential benefits of the new system.
     </p>
     <p>
       
@@ -16148,28 +12019,467 @@
       - **Variation**:
     </p>
     <p>
-      &#xa0;&#xa0;- **Appeal to Flattery**: Directly complimenting someone's intelligence, skills, or attributes to win them over.
+      &#xa0;&#xa0;- **Appeal to Convenience**: Arguing that a decision is better because it is more convenient, even if it is not the best option.
     </p>
     <p>
-      &#xa0;&#xa0;- **Appeal to Ego**: Highlighting someone's status or achievements to gain their support.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Tip**: Recognize when flattery is being used to manipulate your decision-making process. Focus on the merits of the argument rather than how it makes you feel about yourself.
+      &#xa0;&#xa0;- **Appeal to Simplicity**: Preferring simpler solutions purely because they are easier to understand or implement, not because they are more effective.
     </p>
     <p>
       
     </p>
     <p>
-      - **Exception**: Compliments or praise that are genuine and relevant to the discussion can enhance rapport and cooperation without necessarily being manipulative.
+      - **Tip**: Recognize when laziness or convenience is being used to justify decisions and consider whether the easier option truly serves the best interest or just avoids effort.
     </p>
     <p>
       
     </p>
     <p>
-      - **Fun Fact**: The term &quot;vanitatem&quot; is derived from the Latin word for vanity or emptiness, emphasizing the superficial nature of this type of appeal.
+      - **Exception**: There are instances where the simpler or easier option might genuinely be the best choice due to other valid factors such as cost, time, or resource constraints.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Fun Fact**: The phrase &quot;lazy reasoning&quot; can be used to describe arguments that rely on the avoidance of effort or complexity, similar to the concept of &quot;lazy thinking,&quot; where minimal mental effort is applied.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Righteousness Fallacy" FOLDED="true" ID="ID_42938614" CREATED="1637153272372" MODIFIED="1642755452573"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description:</strong>&nbsp;Assuming that just because a person's intentions are good, they have the truth or facts on their side. Also see <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Self-Righteousness-Fallacy" target="fallacy" data-toggle="tooltip" title="" data-original-title="Assuming that just because your intentions are good, you have the truth or facts on your side. Also see righteousness fallacy.">self-righteousness fallacy</a></i>.
+
+    <p class="Body">
+      <strong>Logical Form:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Person 1 made claim X.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Person 1 has good intentions.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Therefore, X is true.
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Ricki: Do you think aborted fetuses have feelings?
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Jenni: I follow the lead of my grandmother who is the most honorable and kind person I know. She says they do have feelings.
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;Jenni's grandmother might be the queen of honor with kindness oozing from her orthopedic shoes, but these qualities are independent of one's ability to know facts or come to an accurate conclusion based on available data.
+    </p>
+    <p class="Body">
+      <strong>Example #2:</strong>
+    </p>
+    <p class="Body uk-margin-remove uk-text-primary" style="display: block; padding-left: 20px; font-style: italic">
+      The president wants to bomb that country because he thinks they are preparing to launch a nuclear attack against us. I know the president wants to do the right thing for the good of the American people, so if he says there have nukes, they have nukes!
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;The good intentions of the president are separate from the president's ability to get solid intelligence on foreign affairs. If we are convinced of the president's good intentions, the best we can do is claim that we believe that the president believes he is doing the right thing.
+    </p>
+    <p class="Body">
+      <strong>Exception:</strong>&nbsp;This relates to facts, not subjective truth. We can use the idea of righteousness to conclude how we feel about a person.
+    </p>
+    <p class="Body">
+      <strong>Fun Fact:</strong>&nbsp;This is related to the cognitive bias, the <em>halo effect</em>.
+    </p>
+  </body>
+</html></richcontent>
+<node TEXT="Self-righteousness Fallacy" ID="ID_1638121446" CREATED="1637153328539" MODIFIED="1642755731411"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description:</strong>&nbsp;Assuming that just because your intentions are good, you have the truth or facts on your side. Also see <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Righteousness-Fallacy" target="fallacy" data-toggle="tooltip" title="" data-original-title="Assuming that just because a person's intentions are good, they have the truth or facts on their side. Also see self-righteousness fallacy.">righteousness fallacy</a></i>.
+
+    <p class="Body">
+      <strong>Logical Form:</strong>
+    </p>
+    <p style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>You make claim X.</em></font>
+    </p>
+    <p style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>You have good intentions.</em></font>
+    </p>
+    <p style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>Therefore, X is true.</em></font>
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>Ricki: Do you think aborted fetuses have feelings?</em></font><br/><font color="rgb(52, 73, 94)"><em>Jenni: Any honorable and kind person would have to say they do have feelings. So yes.</em></font>
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;Jenni might be the queen of honor with kindness oozing from her puppy-dog eyes, but these qualities are independent of one&#x2019;s ability to know facts or come to an accurate conclusion based on available data.
+    </p>
+    <p class="Body">
+      <strong>Example #2:</strong>
+    </p>
+    <p style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>Jenni: Is a fetus a human being?</em></font><br/><font color="rgb(52, 73, 94)"><em>Ricki: No, because I am not a monster and would never suggest killing an unwanted human being is okay.</em></font>
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;Ricki is making a claim about a fetus and using the fact that she is &#x201c;not a monster&#x201d; to support the claim, which is independent of her intentions.
+    </p>
+    <p class="Body">
+      <strong>Exception:</strong>&nbsp;This relates to facts, not subjective truth. We can use the idea of righteousness to conclude how we feel about something or someone. For example,
+    </p>
+    <p class="Body" style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>Jenni: Do you consider a fetus to be as valuable as a human being?</em></font><br/><font color="rgb(52, 73, 94)"><em>Ricki: No, because I am not a monster and would never suggest killing an unwanted human being is okay.</em></font>
+    </p>
+    <p class="Body">
+      <strong>Fun Fact: </strong><em>Self-righteous</em>&nbsp;is defined as having or characterized by a certainty, especially an unfounded one, that one is totally correct or morally superior. The <em>self-righteousness fallacy</em>&nbsp;follows a more generic definition of being correct because of &#x201c;good intentions.&#x201d;
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node TEXT="Inflation of Conflict" ID="ID_1249289444" CREATED="1637061274395" MODIFIED="1642700099573"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description:</strong>&nbsp;Reasoning that because authorities cannot agree precisely on an issue, no conclusions can be reached at all, and minimizing the credibility of the authorities, as a result.&nbsp;&nbsp;This is a form of black and white thinking -- either we know the exact truth, or we know nothing at all.&nbsp;
+
+    <p class="Body">
+      <strong>Logical Form:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Authority A disagrees with authority B on issue X.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Therefore, we can say nothing meaningful about issue X.
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      My mom says that I should study for at least 2 hours each night, and my dad says just a half hour should be fine.&nbsp;&nbsp;Neither one of them knows what they are talking about, so I should just skip studying altogether.
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;A disagreement among experts does not mean that both are wrong, the answer is a compromise, or that there is no answer to be known; it simply means that there is disagreement -- that is all we can infer.
+    </p>
+    <p class="Body">
+      <strong>Example #2:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Scientists cannot agree on the age of the universe.&nbsp;&nbsp;Some say it is 13.7 billion years old, some say it is only about 13 billion years old.&nbsp;&nbsp;That&#x2019;s a difference of almost a billion years!&nbsp;&nbsp;It should be clear that because there is so much disagreement, then the 6000-year-old universe should be carefully considered, as well.
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;Scientists who &#x201c;disagree&#x201d; with the estimated age of the universe do so primarily on slightly different interpretations of the same objectively valid dating methods.&nbsp;&nbsp;The difference is fairly minute in terms of percentage.&nbsp;&nbsp;Suggesting 6000 years is valid is one thing, but doing so based on the difference in interpretation from mainstream science is completely fallacious.&nbsp;&nbsp;The differences have no bearing on the truth claim of the argument (the actual age).
+    </p>
+    <p class="Body">
+      <strong>Exception:</strong>&nbsp;When the difference in professional disagreement is critical, it should be carefully examined. For example, if two doctors were debating on what medicine to give a patient, and both were claiming that the other medicine would kill the patient.
+    </p>
+    <p class="Body">
+      <strong>Fun Fact:</strong>&nbsp;When experts have very different views on scientific issues, it is very often the case that one or more of them are sharing views outside their realm of professional expertise.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Thatcher’s blame" ID="ID_44825494" CREATED="1642361648053" MODIFIED="1722512066577"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      - <span style="font-weight: bold;">Description</span>: The fallacy of Thatcher’s Blame occurs when blame is assigned regardless of the outcome, illustrating a form of criticism where the target is faulted no matter what happens. It is named after the tendency to blame Margaret Thatcher for any and all issues during her tenure as Prime Minister, regardless of the specific circumstances.
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      - <span style="font-weight: bold;">Logical Form:</span>
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      &#xa0;&#xa0;1. A person or policy is criticized or blamed.
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      &#xa0;&#xa0;2. The blame persists regardless of the outcome or evidence.
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      &#xa0;&#xa0;3. The criticism is applied universally to all possible outcomes.
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      - <span style="font-weight: bold;">Example #1:</span>
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      &#xa0;&#xa0;- Scenario: &quot;If a new policy is introduced in Scotland before England, the Scots are being used as guinea pigs. If it’s introduced in England first, the Scots are being left out. If it’s introduced simultaneously, it shows a lack of understanding of regional differences.&quot;
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      &#xa0;&#xa0;- Explanation: No matter how the policy is introduced, the blame shifts but remains constant, illustrating that the criticism is not about the policy itself but about the inevitable fault-finding.
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      - <span style="font-weight: bold;">Example #2:</span>
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      &#xa0;&#xa0;- Scenario: &quot;If a celebrity takes a public stand, they are criticized for seeking attention. If they remain silent, they are accused of being irrelevant or aloof.&quot;
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      &#xa0;&#xa0;- Explanation: The celebrity is blamed regardless of their actions, showing that the criticism is predetermined and not based on the actual merits or shortcomings of their behavior.
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      - <span style="font-weight: bold;">Variation:</span>
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      &#xa0;&#xa0;- Scenario: &quot;In parliament, if the government acts quickly, they are accused of rushing through decisions recklessly. If they delay, they are criticized for intolerable procrastination.&quot;
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      &#xa0;&#xa0;- Explanation: The government faces criticism no matter how they handle the situation, demonstrating that the fault-finding is inherent rather than based on the specific actions or results.
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      - <span style="font-weight: bold;">Tip</span>: To use Thatcher’s Blame effectively, predict multiple negative outcomes for any proposed action or decision. This allows you to cover every possible scenario with a predetermined negative judgment, making it appear that any outcome is flawed.
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      - <span style="font-weight: bold;">Exception:</span>&#xa0;This fallacy does not apply if the criticism is based on substantive evidence related to the specific outcome or context of the action, rather than an overarching predetermined judgment.
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      - <span style="font-weight: bold;">Fun Fact:</span>&#xa0;The term “Thatcher’s Blame” reflects a specific historical context where political opponents frequently criticized Margaret Thatcher’s policies regardless of their outcomes, illustrating how political figures can become symbols for generalized criticism.
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (Also known as: Omnipresent Blame)
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Statement of Conversion" ID="ID_1026140123" CREATED="1637156489843" MODIFIED="1642756361483"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description:</strong>&nbsp;&nbsp;Accepting the truth of a claim based on a conversion story without considering any evidence for the truth of the claim.
+
+    <p class="Body">
+      <strong>Logical Form:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      I used to believe in X.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Therefore, X is wrong.
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      I used to be a Christian, now I know better.
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;All this tells us is that the arguer changed his mind.&nbsp;&nbsp;We don&#x2019;t know why. Accepting this as evidence against Christianity would be fallacious reasoning.
+    </p>
+    <p class="Body">
+      <strong>Example #2:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      There used to be a time when I didn&#x2019;t believe, now I see the light and have accepted Jesus as my savior!
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;All this tells us is that the arguer changed his mind.&nbsp;&nbsp;We don&#x2019;t know why.&nbsp;&nbsp;Accepting this as evidence for Christianity would be fallacious reasoning.
+    </p>
+    <p class="Body">
+      <strong>Exception: </strong>It might be the case where the person with the conversion story has some expertise or direct experience related to the claim, so their conversion story is reasonable evidence for the truth of the claim.<strong><br/></strong>
+    </p>
+    <p class="Body" style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>I used to think that the earth was flat, then Elon Musk took me to the space station in one of his ships. I am no longer a flat-earther, and I can&#x2019;t believe what an idiot I was listening to YouTube videos of 40-year-old guys living in their parent&#x2019;s basement over NASA.</em></font><strong><br/></strong>
+    </p>
+    <p class="Body">
+      <strong>Tip: </strong>Remember not to confuse people&#x2019;s interpretations of their experiences as actual experiences. People who were unbelievers in aliens visiting earth and changed their mind based on &#x201c;aliens visiting them in their dreams&#x201d; are almost certainly misinterpreting their experiences.
+    </p>
+    <strong>References:</strong>
+
+    <div class="small" style="padding-left: 22px; text-indent: -22px">
+      <p>
+        
+      </p>
+      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
+        <div class="csl-entry">
+          MAC, M. J. T., PhD, CSAC. (2006). <i>Critical Thinking for Addiction Professionals</i>. Springer Publishing Company.
+        </div>
+      </div>
+    </div>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Sunday school answer" ID="ID_1125992925" CREATED="1635773662258" MODIFIED="1722514071178"><richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (Also known as: Trite Answer, Simplistic Answer)
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      - <span style="font-weight: bold;">Description:</span>&#xa0;The term &quot;Sunday school answer&quot; is a pejorative expression used primarily in Evangelical Christianity to describe a simplistic or overly obvious response to a complex question. It refers to answers that are commonly expected in a Sunday school setting, regardless of the specific question being asked. Such answers often include concepts like Jesus, sin, and the cross.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Logical Form:</span>
+    </p>
+    <p>
+      &#xa0;&#xa0;1. A complex or specific question is posed.
+    </p>
+    <p>
+      &#xa0;&#xa0;2. An overly simplistic or generic answer is given (often a religious reference).
+    </p>
+    <p>
+      &#xa0;&#xa0;3. The answer fails to adequately address the question, leading to criticism.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Example #1:</span>
+    </p>
+    <p>
+      &#xa0;&#xa0;- Scenario: A Sunday school teacher asks, &quot;What is brown and furry and collects nuts for the winter?&quot;
+    </p>
+    <p>
+      &#xa0;&#xa0;- Response: A student answers, &quot;It sounds like a squirrel, but is it Jesus?&quot;
+    </p>
+    <p>
+      &#xa0;&#xa0;- Explanation: The answer is inappropriate because it does not address the question and relies on a common religious reference rather than a thoughtful response.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Example #2:</span>
+    </p>
+    <p>
+      &#xa0;&#xa0;- Scenario: During a discussion about personal struggles, someone asks, &quot;What should we do when we face difficult times?&quot;
+    </p>
+    <p>
+      &#xa0;&#xa0;- Response: Someone replies, &quot;We should just pray and trust in God.&quot;
+    </p>
+    <p>
+      &#xa0;&#xa0;- Explanation: This response is seen as a &quot;Sunday school answer&quot; because it is a simplistic solution to a complex issue, lacking depth and consideration for the nuances of the situation.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Variation:</span>
+    </p>
+    <p>
+      &#xa0;&#xa0;- In Mormonism: The term is similarly used within the culture of the Church of Jesus Christ of Latter-day Saints (LDS Church) to refer to trite answers that are commonly given in Sunday School classes. Examples include &quot;reading the scriptures,&quot; &quot;praying daily,&quot; and &quot;serving others.&quot; Such responses can be seen as inadequate if they do not genuinely engage with the challenges being discussed.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Tip:</span>&#xa0;To avoid providing a &quot;Sunday school answer,&quot; consider the context of the question and provide a more nuanced, thoughtful response that addresses the complexities involved rather than resorting to cliché or overly simplistic answers.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Exception: </span>Not all answers that might be labeled as &quot;Sunday school answers&quot; are invalid. In some cases, simple truths can be effective and appropriate, especially when they resonate with the audience or offer genuine encouragement.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Fun Fact:</span>&#xa0;Despite its pejorative connotation, some argue that answers dismissed as &quot;Sunday school answers&quot; are often the most fundamental and truthful solutions to life’s challenges, highlighting the tension between simplicity and depth in addressing complex issues.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Alternative Advance" ID="ID_138403003" CREATED="1637054212539" MODIFIED="1642679964669"><richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (also known as: lose-lose situation)
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description:</strong>&nbsp;When one is presented with just two choices, both of which are essentially the same, just worded differently.&nbsp;&nbsp;This technique is often used in sales.&nbsp;&nbsp;Fallacious reasoning would be committed by the person accepting the options as the only options, which would most likely be on a subconscious level since virtually anyone&#x2014;if they thought about it&#x2014;would recognize other options exist.
+
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Max: If you&#x2019;re not a witch, you have nothing to fear.&nbsp;&nbsp;If you&#x2019;re not a witch, you are not made of wood; therefore, you will sink and drown after we tie you up and throw you in the well.&nbsp;&nbsp;If you do float, then you are made of wood, you are a witch, and we will hang you.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Glinda: Wait, how is it I have nothing to worry about if I am not a witch?
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;The argument is created so that any woman accused of being a witch will die, which is certainly a lose-lose situation.
+    </p>
+    <p class="Body">
+      <strong>Example #2:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Guy working a booth in the mall: Excuse me, but you look like you can use a vacation!&nbsp;&nbsp;Do you have a few minutes to chat about vacation destinations, or would you prefer I just send you some information by e-mail?
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;Of course, other options include just ignoring the guy and keep walking; telling the guy, &#x201c;no thank you,&#x201d; and keep walking; or respond, &#x201c;I have some time to chat. My rate is $10 per minute. Do you prefer to pay me by cash or check?&#x201d;
+    </p>
+    <p class="Body">
+      <strong>Exception:</strong>&nbsp;If you engage your critical thinking and realize other options exist and still choose one of the given options, you would not be guilty of fallacious reasoning.
+    </p>
+    <p class="Body">
+      <strong>Tip:</strong>&nbsp;Whenever you are presented with options, carefully consider the possibility of other options not mentioned, and propose them.
     </p>
   </body>
 </html></richcontent>
@@ -16250,199 +12560,10 @@
       &#xa0;&#xa0;- **Appeal to Omens**: Using signs or omens to justify decisions (e.g., seeing a black cat as a sign to avoid a certain action).
     </p>
   </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="argumentum ad socordiam" ID="ID_1755638534" CREATED="1646769167452" MODIFIED="1722584898518"><richcontent TYPE="DETAILS">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (Also known as: Appeal to Laziness)
-    </p>
-  </body>
-</html>
-</richcontent>
-<richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      - **Description**: Argumentum ad socordiam is a fallacy in which one argues for a conclusion based on the avoidance of effort, work, or complexity. This fallacy exploits the tendency to prefer easier, lazier options, even if they are less valid or effective.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Logical Form**:
-    </p>
-    <p>
-      &#xa0;&#xa0;1. Present a situation requiring effort (Proposition A).
-    </p>
-    <p>
-      &#xa0;&#xa0;2. Suggest an easier alternative (Proposition B).
-    </p>
-    <p>
-      &#xa0;&#xa0;3. Argue that Proposition B is preferable because it requires less effort.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Example #1**:
-    </p>
-    <p>
-      &#xa0;&#xa0;- **Scenario**: &quot;Why bother reading the whole book when you can just read the summary online?&quot;
-    </p>
-    <p>
-      &#xa0;&#xa0;- **Explanation**: This argument suggests that reading a summary is better simply because it requires less effort, ignoring the depth and understanding gained from reading the full book.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Example #2**:
-    </p>
-    <p>
-      &#xa0;&#xa0;- **Scenario**: &quot;We don't need to implement a new software system; the old one works well enough and changing it would be too much trouble.&quot;
-    </p>
-    <p>
-      &#xa0;&#xa0;- **Explanation**: Here, the argument favors maintaining the status quo due to the effort involved in change, regardless of the potential benefits of the new system.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Variation**:
-    </p>
-    <p>
-      &#xa0;&#xa0;- **Appeal to Convenience**: Arguing that a decision is better because it is more convenient, even if it is not the best option.
-    </p>
-    <p>
-      &#xa0;&#xa0;- **Appeal to Simplicity**: Preferring simpler solutions purely because they are easier to understand or implement, not because they are more effective.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Tip**: Recognize when laziness or convenience is being used to justify decisions and consider whether the easier option truly serves the best interest or just avoids effort.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Exception**: There are instances where the simpler or easier option might genuinely be the best choice due to other valid factors such as cost, time, or resource constraints.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Fun Fact**: The phrase &quot;lazy reasoning&quot; can be used to describe arguments that rely on the avoidance of effort or complexity, similar to the concept of &quot;lazy thinking,&quot; where minimal mental effort is applied.
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="Argumentum ad quietem" ID="ID_274828949" CREATED="1646769248115" MODIFIED="1722585637621"><richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      - **Description**: Argumentum ad quietem is a fallacy where an argument is accepted or promoted not based on its merits but because it leads to peace, quiet, or an end to conflict. This fallacy exploits the desire for harmony and avoidance of confrontation, suggesting that agreeing to the argument will result in a more peaceful or agreeable outcome, regardless of its truthfulness or logical soundness.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Logical Form**:
-    </p>
-    <p>
-      &#xa0;&#xa0;1. Proposition A is controversial or causing conflict.
-    </p>
-    <p>
-      &#xa0;&#xa0;2. Accepting Proposition A will lead to peace or an end to conflict.
-    </p>
-    <p>
-      &#xa0;&#xa0;3. Therefore, Proposition A should be accepted.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Example #1**:
-    </p>
-    <p>
-      &#xa0;&#xa0;- **Scenario**: &quot;Let's just agree that the Earth is flat so we can stop arguing and get along.&quot;
-    </p>
-    <p>
-      &#xa0;&#xa0;- **Explanation**: This argument suggests accepting the false claim that the Earth is flat solely to end the argument and achieve peace, without regard for the overwhelming evidence that the Earth is round.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Example #2**:
-    </p>
-    <p>
-      &#xa0;&#xa0;- **Scenario**: &quot;We should agree with the new policy change even if it's flawed because it will stop the ongoing disputes among the team.&quot;
-    </p>
-    <p>
-      &#xa0;&#xa0;- **Explanation**: Here, the argument advocates for accepting a potentially flawed policy to end team disputes, rather than addressing the policy's merits or flaws directly.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Variation**:
-    </p>
-    <p>
-      &#xa0;&#xa0;- **Appeal to Avoidance**: Suggesting that accepting an argument is better because it avoids confrontation or uncomfortable discussions.
-    </p>
-    <p>
-      &#xa0;&#xa0;- **Appeal to Conformity**: Promoting an argument because conforming to it will result in social harmony.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Tip**: Evaluate arguments based on their evidence and logical reasoning rather than the desire to avoid conflict or maintain peace. Striving for truth and correctness is essential even if it temporarily leads to disagreement.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Exception**: In certain contexts, such as mediation or diplomacy, finding common ground to achieve peace might take precedence over debating the absolute truth. However, this should be recognized as a pragmatic choice rather than a logical conclusion about the argument's validity.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - **Fun Fact**: The term &quot;Argumentum ad Quietem&quot; is less commonly discussed in formal logic compared to other fallacies, but it is often encountered in everyday life when people prioritize harmony over rigorous debate or truth-seeking.
-    </p>
-  </body>
-</html>
-</richcontent>
-<richcontent TYPE="DETAILS">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (Also known as: Appeal to Peace, Appeal to Tranquility)
-    </p>
-  </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node TEXT="Faulty generalization/Inductive fallacies" POSITION="bottom_or_right" ID="ID_841086237" CREATED="1618489401273" MODIFIED="1635776483188">
+<node TEXT="Faulty generalization/Inductive fallacies" FOLDED="true" POSITION="bottom_or_right" ID="ID_841086237" CREATED="1618489401273" MODIFIED="1635776483188">
 <font BOLD="true"/>
 <node TEXT="Argument from Hearsay" ID="ID_1576374097" CREATED="1618489423817" MODIFIED="1642688049819"><richcontent TYPE="DETAILS">
 <html>
@@ -16738,8 +12859,7 @@
       (Also known as: News Management, Information Control)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
 <html>
   <head>
@@ -16819,8 +12939,7 @@
       - **Fun Fact**: The term &quot;news dump&quot; is colloquially used to describe the practice of releasing bad news at a time when it is less likely to attract attention, such as late on a Friday or during a major event.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -17701,8 +13820,7 @@
       - **Fun Fact**: The term &quot;red herring&quot; originates from the practice of dragging a smoked herring across the ground to distract hunting dogs from the scent they were following, illustrating how labeling can distract from the core argument.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Ex-post-facto Statistics" ID="ID_76495693" CREATED="1642351863523" MODIFIED="1722511500144"><richcontent TYPE="NOTE">
@@ -17859,11 +13977,10 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Thought-terminating cliché" ID="ID_349827019" CREATED="1618499854696" MODIFIED="1722586995119">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1706945405" STARTINCLINATION="570.74998 pt;-9.75 pt;" ENDINCLINATION="572.24998 pt;-9.75 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1706945405" STARTINCLINATION="570.74998 pt;-9 pt;" ENDINCLINATION="572.24998 pt;-9 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
 <html>
   <head>
@@ -17874,8 +13991,7 @@
       (Also known as: Semantic Stop-Sign, Thought-Stopper, Bumper Sticker Logic, Cliché Thinking)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
 <html>
   <head>
@@ -17967,8 +14083,7 @@
       - **Fun Fact**: The term was popularized by Robert Jay Lifton in his 1961 book &quot;Thought Reform and the Psychology of Totalism,&quot; where he described it as &quot;the language of non-thought.&quot;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Appeal to probability" ID="ID_918797613" CREATED="1635776906904" MODIFIED="1722601307932">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_480276856" STARTINCLINATION="1582.49995 pt;0 pt;" ENDINCLINATION="1605.74995 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
@@ -18121,8 +14236,7 @@
       <strong>Tip:</strong>&#xa0;Remember the <em>principle of charity</em>. If you are not confident that the sharer is implying that the event they are sharing is far more common than reality dictates, ask, “what is the reason you are sharing this?”
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Blind men and an elephant" ID="ID_1509226144" CREATED="1635776963619" MODIFIED="1722592937331"><richcontent TYPE="NOTE">
 <html>
@@ -18233,8 +14347,7 @@
       - **Fun Fact**: The story of the blind men and the elephant originated in ancient India and has been used in various philosophical and religious texts, including Jain, Buddhist, and Hindu traditions, to illustrate the limitations of human perception and the importance of holistic understanding.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Confirmation bias" ID="ID_256508385" CREATED="1635777062321" MODIFIED="1722593026562"><richcontent TYPE="DETAILS">
 <html>
@@ -18246,8 +14359,7 @@
       (Also known as: Myside Bias)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
 <html>
   <head>
@@ -18333,8 +14445,7 @@
       - **Fun Fact**: The term &quot;confirmation bias&quot; was coined by English psychologist Peter Wason in his 1960 paper &quot;On the failure to eliminate hypotheses in a conceptual task.&quot; His experiments demonstrated that people tend to seek confirmatory evidence for their hypotheses rather than attempting to falsify them, which is a more robust method of testing validity.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Motivated reasoning" ID="ID_986464652" CREATED="1635777607098" MODIFIED="1722593184443"><richcontent TYPE="NOTE">
 <html>
   <head>
@@ -18420,8 +14531,7 @@
       - **Fun Fact**: Motivational reasoning bias is not limited to personal desires; it can also occur in group settings where the collective goals or interests of a group influence the way its members process information. For instance, fans of a sports team might irrationally dismiss evidence of the team's poor performance as they strongly desire the team to win.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="DETAILS">
 <html>
   <head>
@@ -18432,8 +14542,7 @@
       (Also known as: Desire-Driven Reasoning)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Counterinduction" ID="ID_539362352" CREATED="1635777072147" MODIFIED="1722593267172"><richcontent TYPE="NOTE">
@@ -18521,8 +14630,7 @@
       - **Fun Fact**: The term &quot;counterinduction&quot; is not as commonly used in everyday language as &quot;counterexample,&quot; but both concepts are integral to critical thinking and evaluating the strength of inductive arguments in various fields, including science and philosophy.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="DETAILS">
 <html>
   <head>
@@ -18533,8 +14641,7 @@
       (Also known as: Inductive Counterargument)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Group attribution error" ID="ID_622079211" CREATED="1635777153109" MODIFIED="1722593320141"><richcontent TYPE="DETAILS">
 <html>
@@ -18546,8 +14653,7 @@
       (Also known as: Aggregation Bias, Group Fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
 <html>
   <head>
@@ -18633,8 +14739,7 @@
       - **Fun Fact**: Group attribution error is a common bias in social psychology and can contribute to various forms of prejudice and discrimination. Recognizing this bias helps in fostering more accurate and fair assessments of individuals within any group.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Idola" ID="ID_1297883859" CREATED="1635777332803" MODIFIED="1635777334784">
 <node TEXT="Idola tribus" ID="ID_873703157" CREATED="1635777266088" MODIFIED="1635777266616"/>
@@ -18871,6 +14976,481 @@
   </body>
 </html></richcontent>
 </node>
+<node TEXT="Junkyard tornado" ID="ID_1544337902" CREATED="1635762414825" MODIFIED="1722515228065"><richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (Also known as: Hoyle's Fallacy)
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      - <span style="font-weight: bold;">Description: </span>The junkyard tornado is an argument against abiogenesis, comparing the probability of life arising by chance to the likelihood of a tornado assembling a Boeing 747 from junkyard debris. Originally posited by English astronomer Fred Hoyle, it argues that the formation of complex life is so improbable that it couldn't happen by random chance alone. This analogy is often used by those rejecting evolutionary theory, despite its flawed assumptions.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Logical Form:</span>
+    </p>
+    <p>
+      &#xa0;&#xa0;1. Define the complexity of life (e.g., the formation of enzymes or proteins).
+    </p>
+    <p>
+      &#xa0;&#xa0;2. Calculate the probability of this complexity arising by random chance.
+    </p>
+    <p>
+      &#xa0;&#xa0;3. Conclude that the probability is exceedingly low, suggesting the need for an alternative explanation.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Example #1:</span>
+    </p>
+    <p>
+      &#xa0;&#xa0;- Scenario: Formation of Enzymes
+    </p>
+    <p>
+      &#xa0;&#xa0;- Explanation: Hoyle calculated the probability of obtaining all of life's approximate 2000 enzymes in a random trial to be one in 10^40,000, arguing that such a low probability implies that life couldn't have arisen by chance.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - E<span style="font-weight: bold;">xample #2:</span>
+    </p>
+    <p>
+      &#xa0;&#xa0;- Scenario: Cellular Biochemistry
+    </p>
+    <p>
+      &#xa0;&#xa0;- Explanation: The argument suggests that the probability of a protein molecule achieving a functional sequence of amino acids by chance is too low to be realistic, likening it to the improbable scenario of blind men solving Rubik's Cubes simultaneously.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Variation: </span>The argument is sometimes extended to cellular biochemistry, claiming that the formation of functional proteins by chance alone is akin to the junkyard tornado analogy.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Tip:</span>&#xa0;When assessing arguments against evolution, consider the role of natural selection and gradual processes over time. Evolutionary theory explains complexity through numerous small, cumulative changes rather than one improbable event.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Exception</span>: The junkyard tornado argument ignores natural selection, which significantly increases the probability of complex structures evolving through intermediate stages.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Fun Fact: </span>Despite Hoyle himself being an atheist, his argument has been adopted by religious groups to support creationism and intelligent design.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="False-Uniqueness Effect" ID="ID_109625509" CREATED="1635774210693" MODIFIED="1722516015576"><richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (Also known as: Uniqueness bias, Illusion of Uniqueness)
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      - <span style="font-weight: bold;">Description: </span>The false-uniqueness effect is a cognitive bias where individuals perceive their qualities, traits, and behaviors as more unique and exceptional compared to others, even though these attributes are actually quite common. This bias often arises in the context of positive traits or behaviors.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Logical Form:</span>
+    </p>
+    <p>
+      &#xa0;&#xa0;1. Individuals rate their own traits or behaviors as unique or better than average.
+    </p>
+    <p>
+      &#xa0;&#xa0;2. They assume that fewer people share these traits or behaviors than is actually the case.
+    </p>
+    <p>
+      &#xa0;&#xa0;3. This overestimation of uniqueness helps maintain or enhance self-esteem.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Example #1:</span>
+    </p>
+    <p>
+      &#xa0;&#xa0;- Scenario: A person believes they are an exceptionally safe driver compared to others.
+    </p>
+    <p>
+      &#xa0;&#xa0;- Explanation: Despite statistics showing that most drivers consider themselves safe, this individual thinks their driving habits are more cautious and unique. This belief may enhance their self-esteem, making them feel superior.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Example #2:</span>
+    </p>
+    <p>
+      &#xa0;&#xa0;- Scenario: A student thinks they are more diligent in group projects than their peers.
+    </p>
+    <p>
+      &#xa0;&#xa0;- Explanation: The student believes their work ethic is exceptional compared to the average student, even though many others might exhibit similar levels of diligence. This perception helps the student feel better about their contributions.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Variation:</span>&#xa0;The false-uniqueness effect can be contrasted with the false-consensus effect, where individuals overestimate the extent to which their attitudes and behaviors are typical and shared by others. The false-consensus effect typically applies to negative traits or behaviors, while the false-uniqueness effect applies to positive traits.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Tip: </span>Be aware of this bias when assessing your own attributes and behaviors. Try to consider a wider perspective and use objective benchmarks to evaluate how common your traits truly are.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Exception:</span>&#xa0;The false-uniqueness effect may be less pronounced when individuals are aware of broad statistics and actual prevalence rates of traits or behaviors. Accurate self-assessment often requires considering empirical data rather than personal perception alone.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Fun Fact:&#xa0;</span>The term “false-uniqueness effect” was formally introduced by psychologists Suls and Wan in 1987, building on earlier concepts like the “illusion of uniqueness” described by Snyder and Shneckel in 1975.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Least Plausible Hypothesis" ID="ID_363222673" CREATED="1637061455562" MODIFIED="1642701553365"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description:</strong>&nbsp;Choosing more unreasonable explanations for phenomena over more defensible ones.&nbsp;&nbsp;In judging the validity of hypotheses or conclusions from observation, the scientific method relies upon the <i>Principle of Parsimony</i>, also known as <i>Occam&#x2019;s Razor</i>, which states, <i>all things being equal, the simplest explanation of a phenomenon that requires the fewest assumptions is the preferred explanation until it can be disproved.&nbsp; </i>
+
+    <p class="Body">
+      This is very similar to the <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Far-Fetched-Hypothesis" target="fallacy" data-toggle="tooltip" title="" data-original-title="Offering a bizarre (far-fetched) hypothesis as the correct explanation without first ruling out more mundane explanations.">far-fetched hypothesis</a></i>, but the hypotheses are generally more within reason (i.e., no leprechauns involved).
+    </p>
+    <p class="Body">
+      <strong>Logical Form:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Hypothesis X is used to explain Y, but hypothesis X is the least plausible.
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Here is why I think my date never showed up: her father had a heart-attack, and she had to rush him to the hospital.&nbsp;&nbsp;In her state of panic, she forgot her cell phone and while at the hospital she was too concerned about her dad to worry about standing me up.
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;While possible, it is not <i>probable</i>.&nbsp;&nbsp;It is much more probable that his date just forgot or has purposely stood him up.&nbsp;&nbsp;People tend to believe in the least probable hypotheses out of desire, emotion, or faith -- not out of reason.
+    </p>
+    <p class="Body">
+      <strong>Example #2:</strong>&nbsp;Creationists have written volumes of books explaining how, given some divine intervention, a few broken natural laws, and accepting the <i>inconsistency</i>&nbsp;of nature, it could be possible that the universe is only 6000 years old.&nbsp;&nbsp;Accepting these theories would require the abandonment or radical reformation of virtually every science we have, as well us a new understanding of the term, &#x201c;fact&#x201d;.&nbsp;&nbsp;So either all of that is true, or, the Biblical creation story, like hundreds of others in cultures all around the world, are simply mythology.
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;Given the incomprehensible number and severity of the assumptions that would need to be made for creationism to be true, the explanation that the creation story is mythology, by far, is the most economical explanation.
+    </p>
+    <p class="Body">
+      <strong>Exception:</strong>&nbsp;This isn't about what might be possible; <i>Occam&#x2019;s Razor</i>&nbsp;is all about probabilities.
+    </p>
+    <p class="Body">
+      <strong>Fun Fact:</strong>&nbsp;&#x201c;Plausibility&#x201d; technically means &#x201c;believability,&#x201d; which is highly subjective. A Flat-earther would find the flat-earth theory more plausible than the spherical earth. Clearly, who is making the claim of plausibility, matters.&nbsp;
+    </p>
+    <strong>References:</strong>
+
+    <div class="small" style="padding-left: 22px; text-indent: -22px">
+      <p>
+        
+      </p>
+      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
+        <div class="csl-entry">
+          Wormeli, R. (2001). <i>Meet Me in the Middle: Becoming an Accomplished Middle-level Teacher</i>. Stenhouse Publishers.
+        </div>
+      </div>
+      <p class="Body">
+        
+      </p>
+    </div>
+    <p>
+      
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Unreasonable Inclusion Fallacy" ID="ID_1241278491" CREATED="1642767324372" MODIFIED="1722511851996"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description:</strong>&#xa0;Attempting to broaden the criteria for inclusion in an ill-famed group or associated with a negative label to the point where the term's definition is changed substantially to condemn or criminalize a far less malicious or deleterious behavior.
+
+    <p class="Body">
+      <strong>Logical Form:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Person A is accused of bad behavior X.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Group Y traditionally does not include individuals with bad behavior X
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Person A is said to be a part of group Y for bad behavior X.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Person A is accused of bad behavior X.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Label Y traditionally does not include bad behavior X
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Person A is given label Y for bad behavior X.
+    </p>
+    <p class="Body">
+      <strong>Example #1: </strong>Tony does not agree that every black person in America should be compensated financially for the history of slavery. Therefore, Tony is a racist.
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&#xa0;The term &quot;racist&quot; is an extremely pejorative term that has traditionally been associated with those holding beliefs of racial supremacy—the belief that one's race is superior to other races. By expanding the definition to include &quot;those who don't agree with policies that benefit another race,&quot; we fallaciously equate the behavior with the label's or the group's far more malicious roots. Not only does this unreasonably characterize the person who is against the policy, but it also waters down the meaning of &quot;racist&quot; to the point where traditional racists are unreasonably seen more favorably because the term &quot;racism&quot; has been expanded to include a spectrum of far less malicious behaviors.
+    </p>
+    <p class="Body">
+      <strong>Example #2:</strong>&#xa0;Suzie and Patty went on a date. Patty told herself and her friends that she was not going to have sex on the first date, but she did anyway because she was caught up in the moment. The next day, Patty said that Suzie was very seductive, and Patty couldn't resist her advances. Patty's friends convince her that she was raped.
+    </p>
+    <p class="Body">
+      <strong>Explanation:&#xa0;</strong>Patty's friends' goal was to show sympathy to Patty. They did this by giving her victim status and criminalizing Suzie's behavior by unreasonably viewing Suzie as a &quot;rapist.&quot; Universally, if Suzie's behavior is accepted as &quot;rape,&quot; the definition has radically changed, which not only demeans victims of &quot;traditional&quot; rape by associating them with those who were seduced by their date but conflates actual rapists with those who are just seductive.
+    </p>
+    <p class="Body">
+      <strong>Example #3: </strong>Ricardo had a hamburger for lunch. Antonio, Ricardo's vegan friend, argues that he is a murderer.
+    </p>
+    <p class="Body">
+      <strong>Explanation: </strong>&quot;Murder&quot; is traditionally defined as the unlawful killing of another human being. A cow isn't a human being, killing a cow isn't unlawful, and Ricardo didn't kill the cow he ate. It is unreasonable to put Ricardo, a guy who at a hamburger, in the same category as Jeffrey Dahmer, a guy who ate his human victims he killed. Antonio is using the term &quot;murderer&quot; in a fallacious attempt to associate a similar level of malice with Ricardo's behavior.
+    </p>
+    <p class="Body">
+      <strong>Exception:&#xa0;</strong>See the <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Definition" target="fallacy" data-toggle="tooltip" title="" data-original-title="Using a dictionary’s limited definition of a term as evidence that term cannot have another meaning, expanded meaning, or even conflicting meaning.">appeal to definition</a></i>. Terms change and evolve as do criteria. What makes this a fallacy is a) the definition is changed substantially and b) for the purpose of condemning or criminalizing a far less malicious or deleterious behavior.&#xa0;
+    </p>
+    <p class="Body">
+      <strong>Fun Fact:</strong>&#xa0;This is not unlike the &quot;everyone gets a trophy&quot; phenomenon where the (implied) definition of &quot;winner&quot; is changed substantially to include all those who lost as well (&quot;you're all winners,&quot; says the coach). This may be good for lifting spirits, but it is antithetical to reason.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT=" Exception That Proves The Rule" ID="ID_315865631" CREATED="1642853235297" MODIFIED="1722511851139"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      - <span style="font-weight: bold;">Description:</span>&#xa0;This fallacy occurs when an exception to a rule is dismissed as somehow proving the validity of that rule. Instead of acknowledging that the exception disproves the rule, it is claimed that the exception actually supports or reinforces the rule.
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      - <span style="font-weight: bold;">Logical Form:</span>
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      &#xa0;&#xa0;1. Rule R is stated.
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      &#xa0;&#xa0;2. An exception E to Rule R is presented.
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      &#xa0;&#xa0;3. E is dismissed as the exception that proves R, thereby claiming the rule is still valid.
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      - <span style="font-weight: bold;">Example #1:</span>
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      &#xa0;&#xa0;- Scenario: &quot;You never find songs written about any towns in Britain apart from London.&quot;
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      &#xa0;&#xa0;- Objection: &quot;What about 'Scarborough Fair'?&quot;
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      &#xa0;&#xa0;- Response: &quot;That’s the exception that proves the rule.&quot;
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      &#xa0;&#xa0;- Explanation: The fallacy lies in dismissing &quot;Scarborough Fair&quot; as an exception that somehow validates the rule that no other British towns are mentioned in songs, rather than acknowledging it as a counter-example that challenges the rule.
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      - <span style="font-weight: bold;">Example #2:</span>
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      &#xa0;&#xa0;- Scenario: &quot;No fictional character ever attracted fan clubs in distant countries like pop stars do.&quot;
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      &#xa0;&#xa0;- Objection: &quot;Sherlock Holmes has fan clubs worldwide.&quot;
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      &#xa0;&#xa0;- Response: &quot;He’s simply the exception that proves the rule.&quot;
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      &#xa0;&#xa0;- Explanation: The fallacy is in claiming that Sherlock Holmes’s global fan clubs support the rule that fictional characters don’t have international fan clubs, ignoring that his existence is a clear counter-example.
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      - V<span style="font-weight: bold;">ariation:</span>
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      &#xa0;&#xa0;- Scenario: &quot;Medical advances are made through meticulous research, not by chance. Penicillin was a fluke, a rare exception.&quot;
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      &#xa0;&#xa0;- Explanation: Here, the exception (penicillin) is used to argue that research, rather than chance, is the rule for medical breakthroughs, even though the exception itself might highlight the validity of chance in some cases.
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      - <span style="font-weight: bold;">Tip:</span>&#xa0;When evaluating rules and exceptions, check if the exception genuinely challenges the rule. If it does, the rule might need re-evaluation rather than the exception being dismissed as supportive.
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      - <span style="font-weight: bold;">Exception:</span>&#xa0;The fallacy does not apply if the rule is stated with the understanding that exceptions might occur. In cases where a rule is not universally applied but generally true, exceptions might still be valid and informative.
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      - <span style="font-weight: bold;">Fun Fact:</span>&#xa0;The term &quot;exception that proves the rule&quot; comes from an older use of the word &quot;prove,&quot; which meant to &quot;test&quot; or &quot;try out.&quot; It does not imply that exceptions confirm the rule but rather that they challenge the rule to prove its robustness.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="argumentum ad Temperantlam" ID="ID_1839619740" CREATED="1642858533156" MODIFIED="1722511749302"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      - <span style="font-weight: bold;">Description</span>: The argumentum ad temperantiam is the fallacy that asserts the moderate or middle position in a debate is always the correct one. It presumes that taking a moderate stance inherently makes a position more valid or reasonable, regardless of the actual merits of the arguments.
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      - <span style="font-weight: bold;">Logical Form: </span>
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      &#xa0;&#xa0;1. Position A is extreme.
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      &#xa0;&#xa0;2. Position B is also extreme.
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      &#xa0;&#xa0;3. Therefore, a compromise or middle position (C) is correct.
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      - <span style="font-weight: bold;">Example #1:</span>
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      &#xa0;&#xa0;- Scenario: &quot;The unions have asked for a 6 percent raise, and the management has offered 2 percent. Couldn’t we agree on 4 percent to avoid a strike?&quot;
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      &#xa0;&#xa0;- Explanation: The fallacy lies in assuming that the middle point (4 percent) is the correct solution simply because it is a compromise between two extreme positions (6 percent and 2 percent), without considering whether 4 percent is justified or beneficial.
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      - <span style="font-weight: bold;">Example #2:</span>
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      &#xa0;&#xa0;- Scenario: &quot;All bureaucrats are meddlesome, and all petty tyrants are meddlesome. Therefore, all bureaucrats are petty tyrants.&quot;
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      &#xa0;&#xa0;- Explanation: Here, the fallacy suggests that because both bureaucrats and petty tyrants share a common trait (meddlesome), they must be the same thing. This ignores the fact that the shared trait does not prove an equivalence or justify a middle ground.
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      - <span style="font-weight: bold;">Variation:</span>
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      &#xa0;&#xa0;- Scenario: &quot;One side supports full privatization, and the other side wants complete government control. We should implement a balanced approach with some privatization and some government control.&quot;
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      &#xa0;&#xa0;- Explanation: This argument assumes that a middle-ground approach is inherently correct without evaluating whether the specific balance is effective or appropriate.
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      - <span style="font-weight: bold;">Tip:</span>&#xa0;Be cautious of arguments that assume moderation automatically means correctness. Evaluate the merits of each position on its own rather than assuming that a compromise is the best solution.
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      - <span style="font-weight: bold;">Exception: </span>The fallacy does not apply if the moderate position is derived from valid reasoning and evidence rather than simply being a middle ground. Moderation can be reasonable if it is supported by arguments and facts.
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      - <span style="font-weight: bold;">Fun Fact: </span>The argumentum ad temperantiam is humorously associated with England due to its historical tendency to value moderation and compromise. This is reflected in the British political landscape, where parties often position themselves in the middle to appeal to the largest audience, such as the &quot;Third Way&quot; adopted by New Labour.
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (Also known as: The Middle Way Fallacy, The Moderation Fallacy)
+    </p>
+  </body>
+</html></richcontent>
+</node>
 </node>
 <node TEXT="Accident Fallacy" POSITION="top_or_left" ID="ID_1729055530" CREATED="1618489377661" MODIFIED="1642678460482"><richcontent TYPE="DETAILS">
 <html>
@@ -19017,8 +15597,7 @@
       
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node POSITION="top_or_left" ID="ID_1609643158" CREATED="1618489316813" MODIFIED="1618489319175"><richcontent TYPE="NODE">
@@ -19241,6 +15820,662 @@
   </body>
 </html></richcontent>
 </node>
+<node TEXT="Psychogenetic Fallacy" ID="ID_26746591" CREATED="1637152990680" MODIFIED="1642754314874"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p class="Body">
+      <strong>Description:</strong>&nbsp;Inferring some psychological reason why an argument is made then assuming it is invalid, as a result.
+    </p>
+    <p class="Body">
+      <strong>Logical Form:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Person 1 makes argument X.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Person 1 made argument X because of the psychological reason Y.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Therefore, X is not true.
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      George: Man, those girls are smokin' hot!
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Derek: No, they're not. You're a victim of the cheerleader effect. When girls are together in a group, each girl looks a lot better than if you were to see her without the other girls.
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;Besides the fact that &quot;smokin' hot&quot; is a subjective evaluation, meaning that the girls could be hot to George but not Derek, Derek is assuming George's evaluation is wrong because of the psychological effect known as the <i><a href="https://en.wikipedia.org/wiki/Cheerleader_effect">cheerleader effect</a></i>.
+    </p>
+    <p class="Body">
+      <strong>Example #2:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Lucas: I remember when I was about three years old my mother saved me from almost being eaten by a shark.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Katie: I doubt that. What you are experiencing is what cognitive psychologists refer to as a &quot;false memory.&quot;
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;There are two problems here that make Katie guilty of fallacious reasoning. First, she is assuming Lucas' story is not true because of a false memory. Second, she is phrasing this objection with unwarranted confidence.
+    </p>
+    <p class="Body">
+      <strong>Exception:</strong>&nbsp;The more extraordinary the argument or claim, the more reasonable it is to assume a psychological effect is involved. However, even in the most extraordinary of claims, the effect should only be proposed, not assumed.
+    </p>
+    <p class="Body uk-margin-remove uk-text-primary" style="display: block; padding-left: 20px; font-style: italic">
+      Marge: Last night in bed, aliens visited me. They paralyzed me for about 30 seconds while they stood over me, then they disappeared right in front of my eyes while I regained the ability to move and speak.
+    </p>
+    <p class="Body uk-margin-remove uk-text-primary" style="display: block; padding-left: 20px; font-style: italic">
+      Kristine: That sounds like a classic case of what is called a hypnogogic hallucination with sleep paralysis. It is a dream-like state where you are not quite sleeping or awake. Your brain shuts down your ability to move and talk while you are unconscious during a normal sleep cycle, but in the case of sleep paralysis, you retain consciousness&#x2014;but only for a brief time. So the odds are, you weren't really visited by aliens.
+    </p>
+    <p>
+      <strong>Fun Fact: </strong>As video recorders on cell phones became more ubiquitous, reports of alien encounters have dropped considerably.
+    </p>
+    <strong>References:</strong>
+
+    <div class="small" style="padding-left: 22px; text-indent: -22px">
+      <p>
+        
+      </p>
+      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
+        <div class="csl-entry">
+          Segal, R. A. (1980). The social sciences and the truth of religious belief. <i>Journal of the American Academy of Religion</i>, 403&#x2013;413.
+        </div>
+      </div>
+    </div>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Mind projection fallacy" ID="ID_483314699" CREATED="1635762775842" MODIFIED="1722515335109"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      -<span style="font-weight: bold;">&#xa0;Description:</span>&#xa0;The mind projection fallacy is an informal fallacy first described by physicist and Bayesian philosopher E. T. Jaynes. It occurs when someone projects their subjective perceptions or ignorance onto the external world, mistakenly believing these mental states to be intrinsic properties of reality. This fallacy has two forms: the positive form, where one's subjective judgments are assumed to be inherent properties of objects, and the negative form, where one's lack of knowledge about a phenomenon is taken to mean the phenomenon is inherently unknowable.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Logical Form:</span>
+    </p>
+    <p>
+      &#xa0;&#xa0;1. Observe or imagine a characteristic or property.
+    </p>
+    <p>
+      &#xa0;&#xa0;2. Assume this characteristic or property is a real, inherent aspect of the external world.
+    </p>
+    <p>
+      &#xa0;&#xa0;3. Conclude that others should share the same perception, or assume they are irrational or misinformed if they do not.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Example #1:</span>
+    </p>
+    <p>
+      &#xa0;&#xa0;- Scenario: Imagined Objects
+    </p>
+    <p>
+      &#xa0;&#xa0;- Explanation: Someone sees the world through their subjective lens and assumes their view reflects reality. For example, a person who believes a particular color is ugly might assume it is inherently ugly, rather than understanding that this is a personal preference.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Example #2:</span>
+    </p>
+    <p>
+      &#xa0;&#xa0;- Scenario: Knowledge Assumptions
+    </p>
+    <p>
+      &#xa0;&#xa0;- Explanation: A person might assume that because they do not understand quantum mechanics, the phenomenon itself is inherently indeterminate or unknowable, rather than acknowledging their personal lack of knowledge.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Variation:</span>&#xa0;This fallacy can be extended to any situation where subjective experiences or personal ignorance are wrongly attributed as inherent qualities of the external world.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Tip: </span>Always differentiate between subjective perceptions and objective reality. Recognize that others may have different perspectives and that a lack of personal understanding does not reflect the nature of reality itself.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Exception:</span>&#xa0;The mind projection fallacy is not applicable when subjective experiences are clearly recognized as such and not confused with objective properties.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Fun Fact:</span>&#xa0;E. T. Jaynes used the mind projection fallacy to critique the Copenhagen interpretation of quantum mechanics, arguing that statistical properties often described as inherent to nature are actually reflections of our own ignorance or imagination.
+    </p>
+  </body>
+</html></richcontent>
+<node TEXT="Psychologist&apos;s fallacy" ID="ID_838119592" CREATED="1635766590797" MODIFIED="1722515393734"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      - <span style="font-weight: bold;">Description:</span>&#xa0;The psychologist's fallacy is an informal fallacy that occurs when an observer assumes that their own subjective experience reflects the true nature of an event or mental state. Named by William James, the fallacy involves confusing one's own perspective or reaction with the inherent characteristics of the phenomenon being studied. This error can lead to misinterpretation of the mental states or behaviors of others, based on one's own experience.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Logical Form:</span>
+    </p>
+    <p>
+      &#xa0;&#xa0;1. Observer experiences a mental state or reaction.
+    </p>
+    <p>
+      &#xa0;&#xa0;2. Observer assumes this experience reflects the true nature of the event or mental state being studied.
+    </p>
+    <p>
+      &#xa0;&#xa0;3. Observer incorrectly applies their personal perspective to others.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Example #1:</span>
+    </p>
+    <p>
+      &#xa0;&#xa0;- Scenario: Personal Reaction to Stress
+    </p>
+    <p>
+      &#xa0;&#xa0;- Explanation: A psychologist feels overwhelmed by stress and assumes that all individuals will react to similar stressful situations in the same way. This fallacy leads to the incorrect assumption that their personal experience of stress is universal.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Example #2:</span>
+    </p>
+    <p>
+      &#xa0;&#xa0;- Scenario: Emotional Responses
+    </p>
+    <p>
+      &#xa0;&#xa0;- Explanation: An experimenter who is highly emotional might assume that the participants in their study will have similar emotional responses to stimuli. This may lead to biased conclusions about how different individuals react emotionally.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Variation: </span>The fallacy can also manifest as assuming that others will respond to stimuli or situations in the same way as the observer would, based on personal biases or stereotypes.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Tip: </span>Be aware of the difference between personal experience and universal truths. When studying mental states or behaviors, ensure that findings are based on objective data and not solely on one's subjective experiences.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Exception: </span>The fallacy is less likely to occur when the observer acknowledges and controls for their own biases, using rigorous methods to account for subjective differences.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Fun Fact:</span>&#xa0;William James, who first identified this fallacy, was a pioneering psychologist and philosopher. His work laid foundational concepts in psychology, including the exploration of subjective experience and its impact on understanding mental phenomena.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Historian&apos;s fallacy" ID="ID_1347056827" CREATED="1635760580540" MODIFIED="1722515394952"><richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (also known as: Presentism (literary and historical analysis))
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description:</strong>&#xa0;Judging a person's decision in the light of new information not available at the time.
+
+    <p class="Body">
+      <strong>Logical Form:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Claim X was made in the past.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Those who made the claim did not take into consideration Y, which was not available to them at the time.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Therefore, this was a foolish claim.
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      You should have never taken the back roads to the concert.&#xa0;&#xa0;If you had taken the main roads, you would not have been stuck in all that traffic due to the accident.
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&#xa0;“Thanks for that!” is the usual sarcastic response to this fallacy.&#xa0;&#xa0;Of course, had we known about the accident, the main road would have been the better choice—but nobody could have reasonably predicted that accident.&#xa0;&#xa0;It is fallacious, and somewhat pointless, to suggest that we “should have” taken the other way.
+    </p>
+    <p class="Body">
+      <strong>Example #2:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Judas was an idiot to turn Jesus over to the authorities.&#xa0;&#xa0;After all, he ended up committing suicide out of guilt.
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&#xa0;It is easy for us to blame Judas as people who know the whole story and how it played out.&#xa0;&#xa0;We have information Judas did not have at the time.&#xa0;&#xa0;Besides, if Judas never turned in Jesus, and Jesus was never killed, but died while walking on water as an old man after tripping over a wave, would Christianity exist?
+    </p>
+    <p class="Body">
+      <strong>Exception:</strong>&#xa0;Sometimes, it’s funny to commit this fallacy on purpose at the expense of your friends’ dignity.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Hey, nice going on that decision to buy stock in the company that was shut down a week later by the FBI for the prostitution ring.&#xa0;&#xa0;Do you have any stock tips for me?
+    </p>
+    <p class="Body">
+      <strong>Tip: </strong>Practice forgiveness. We all make mistakes, and most of us learn from our mistakes and become better people. Don’t be so quick to crucify someone for something they did in the past, especially if you are doing so to virtue signal.
+    </p>
+    <strong>References:</strong>
+
+    <div class="small" style="padding-left: 22px; text-indent: -22px">
+      <p>
+        
+      </p>
+      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
+        <div class="csl-entry">
+          Arp, R. (2013). <i>1001 Ideas That Changed the Way We Think</i>. Simon and Schuster.
+        </div>
+      </div>
+    </div>
+  </body>
+</html></richcontent>
+<node TEXT="Baconian fallacy" ID="ID_614600533" CREATED="1642503913726" MODIFIED="1722515568394"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      - <span style="font-weight: bold;">Description</span>: The Baconian fallacy is the erroneous belief that historians can derive the &quot;whole truth&quot; about historical events through induction from individual pieces of evidence. This fallacy assumes that by accumulating and analyzing sufficient individual facts or evidence, one can achieve a complete and comprehensive understanding of history. In reality, historians can only aim to gain a partial understanding of historical events due to the limitations in evidence and interpretation.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Logical Form:</span>
+    </p>
+    <p>
+      &#xa0;&#xa0;1. Historians collect individual pieces of evidence about historical events.
+    </p>
+    <p>
+      &#xa0;&#xa0;2. It is assumed that analyzing this evidence will lead to a complete and accurate understanding of the entire historical context.
+    </p>
+    <p>
+      &#xa0;&#xa0;3. The fallacy lies in the belief that this process will reveal &quot;the whole truth&quot; about history, ignoring the inherent limitations and complexities of historical analysis.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Example #1:</span>
+    </p>
+    <p>
+      &#xa0;&#xa0;- Scenario: Analyzing Ancient Documents
+    </p>
+    <p>
+      &#xa0;&#xa0;- Explanation: A historian studies a collection of ancient documents and concludes that they have uncovered a complete and accurate picture of a particular historical period. This assumption overlooks gaps in the historical record and the possibility of differing interpretations.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Example #2:</span>
+    </p>
+    <p>
+      &#xa0;&#xa0;- Scenario: Compiling Historical Data
+    </p>
+    <p>
+      &#xa0;&#xa0;- Explanation: A historian gathers extensive data on economic conditions from various time periods and concludes that they fully understand the economic history of a region. This overlooks the fact that data may be incomplete and that historical understanding is often limited by factors such as bias, missing evidence, and the complexity of historical phenomena.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Variation: </span>The fallacy may also appear in the form of believing that comprehensive knowledge can be achieved by merely aggregating all available evidence without considering the limitations and potential biases in the evidence.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Tip:</span>&#xa0;Acknowledge the limitations of historical evidence and the interpretative nature of historical analysis. Recognize that while evidence can provide valuable insights, it cannot always deliver a complete or definitive account of historical events.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Exception: </span>The fallacy is less relevant in cases where historians are explicitly aware of and account for the limitations of their evidence and methods, focusing on well-supported interpretations rather than claiming to uncover the absolute truth.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Fun Fact:</span>&#xa0;The term &quot;Baconian fallacy&quot; is named after Sir Francis Bacon, who advocated for the use of induction in scientific inquiry. However, Bacon's approach is sometimes misapplied in historical analysis, leading to the fallacy of assuming that induction can provide a complete historical truth.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Dixiecrat fallacy" ID="ID_1476021934" CREATED="1642868558733" MODIFIED="1722515714517"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      - <span style="font-weight: bold;">Description</span>: The Dixiecrat fallacy is an informal fallacy used to frame political arguments in a way that casts modern Republicans in a positive light while portraying Democrats negatively. This fallacy exploits the historical shifts in party positions on civil rights issues to create a misleading narrative that suggests a fundamental and enduring difference in party ideologies.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Logical Form:</span>
+    </p>
+    <p>
+      &#xa0;&#xa0;1. Present a historical civil rights issue or topic, such as the Fourteenth Amendment or the actions of Martin Luther King, Jr.
+    </p>
+    <p>
+      &#xa0;&#xa0;2. Highlight how the topic was historically supported by Republicans and opposed by Democrats.
+    </p>
+    <p>
+      &#xa0;&#xa0;3. Imply or suggest that this historical alignment reflects the current ideological positions of the parties.
+    </p>
+    <p>
+      &#xa0;&#xa0;4. Draw a conclusion that supports the idea that the Republican Party is the party of civil rights and the Democratic Party is not, ignoring the historical shifts in party ideologies and policies.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Example #1:</span>
+    </p>
+    <p>
+      &#xa0;&#xa0;- Scenario: Discussion of the Civil Rights Act of 1964
+    </p>
+    <p>
+      &#xa0;&#xa0;- Explanation: A modern Republican might argue that the Republican Party has always been the party of civil rights because Republicans were instrumental in passing the Civil Rights Act of 1964. This overlooks the fact that the political alignments and party platforms have shifted over time, and the Democratic Party, once the party of segregation, has since become a strong advocate for civil rights.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Example #2:</span>
+    </p>
+    <p>
+      &#xa0;&#xa0;- Scenario: Mention of the Dixiecrats
+    </p>
+    <p>
+      &#xa0;&#xa0;- Explanation: The fallacy may involve referencing the Dixiecrats, a splinter group of Southern Democrats who opposed civil rights legislation in the 1940s and 1950s, and suggesting that this opposition reflects the views of the Democratic Party as a whole. This ignores the fact that many of these Dixiecrats eventually became Republicans and that party ideologies have evolved significantly since that time.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Variation:</span>&#xa0;The fallacy can also manifest in discussions about historical figures or events that are used selectively to support current partisan arguments, without acknowledging the changes in party platforms or ideologies.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Tip:</span>&#xa0;When evaluating historical claims about political parties, consider the historical context and acknowledge that party platforms and ideologies can change over time. Assess claims critically and avoid drawing overly simplistic or misleading conclusions based on selective historical evidence.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Exception:</span>&#xa0;The fallacy may be less relevant in discussions where both historical and current party positions are accurately represented and analyzed within the context of evolving political landscapes.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Fun Fact:</span>&#xa0;The Dixiecrat fallacy is named after the Dixiecrats, a faction of the Democratic Party that opposed civil rights legislation in the mid-20th century. This term highlights the misleading use of historical facts to serve contemporary political arguments.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node TEXT="Historical fallacy" ID="ID_1439199427" CREATED="1635760586581" MODIFIED="1722515476953"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      - <span style="font-weight: bold;">Description</span>: The historical fallacy is a logical error described by philosopher John Dewey. It occurs when someone assumes that the process used to achieve a result was necessary for that result, leading to the belief that the outcome would not have occurred without the specific process. This fallacy involves misattributing the outcome to the process that brought it about, rather than recognizing that the outcome could have happened through other means or by chance.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Logical Form:</span>
+    </p>
+    <p>
+      &#xa0;&#xa0;1. An outcome is achieved through a specific process.
+    </p>
+    <p>
+      &#xa0;&#xa0;2. The outcome is then assumed to be dependent on the exact process used.
+    </p>
+    <p>
+      &#xa0;&#xa0;3. The process is incorrectly considered essential to the result, ignoring the possibility of other methods achieving the same outcome.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Example #1:</span>
+    </p>
+    <p>
+      &#xa0;&#xa0;- Scenario: Finding a Lost Wallet
+    </p>
+    <p>
+      &#xa0;&#xa0;- Explanation: A man loses his wallet and searches for it in a location he suspects it might be. He finds the wallet there and concludes that his initial suspicion about the location was correct and essential for finding it. He fails to consider that the wallet might have been found through other means or by chance.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - E<span style="font-weight: bold;">xample #2:</span>
+    </p>
+    <p>
+      &#xa0;&#xa0;- Scenario: A Successful Experiment
+    </p>
+    <p>
+      &#xa0;&#xa0;- Explanation: A scientist conducts an experiment using a particular method and achieves a successful result. The scientist then assumes that the success was solely due to the chosen method, disregarding the possibility that other methods might have also led to the same result.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Variation: </span>The fallacy can also manifest as the assumption that the historical context or specific conditions leading to an outcome were crucial, rather than recognizing the possibility of alternative scenarios or methods.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Tip: </span>When evaluating outcomes, consider multiple potential causes or methods, and avoid attributing success solely to the specific process used. Recognize that outcomes may be achieved through various means.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Exception:</span>&#xa0;The historical fallacy may not apply if the process used is unique and cannot be replicated or if it is demonstrated that no other process would have led to the same result.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Fun Fact:</span>&#xa0;John Dewey, who described this fallacy, was a prominent American philosopher and educator known for his work on pragmatism and progressive education. His insights into logical errors like the historical fallacy continue to influence critical thinking and analysis.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Fantasy Projection" ID="ID_1510621991" CREATED="1637059916593" MODIFIED="1642696027182"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description:</strong>&nbsp;Confusing subjective experiences, usually very emotionally charged, with objective reality, then suggesting or demanding that others accept the subjective experience as objective reality.
+
+    <p class="Body">
+      <strong>New Terminology:</strong>&nbsp;In this context, <em>subjective experience</em>&nbsp;&nbsp;is the way one interprets some external stimuli. <em>Objective reality</em>&nbsp;&nbsp;is independent of our interpretations; it is a collection of facts about the world we all share.
+    </p>
+    <p class="Body">
+      <strong>Logical Form:</strong>
+    </p>
+    <p style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>Person 1 has subjective experience X.</em></font><br/><font color="rgb(52, 73, 94)"><em>Person 1 incorrectly believes that experience X represents objective reality.</em></font><br/><font color="rgb(52, 73, 94)"><em>Therefore, person 1 insists that others accept that X represents objective reality.</em></font>
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="display: block; font-style: italic; padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>Freddie: People are mean to me wherever I go. It is clear that we live in a cruel world with people who are mostly nasty. If you don&#x2019;t see that, something is wrong with you!</em></font>
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;Perhaps people are mean to Freddie because Freddie is mean to others, and it&#x2019;s Freddie&#x2019;s behavior that is resulting in the &#x201c;mean&#x201d; behaviors of others (this is known as a <em>self-fulfilling prophecy</em>). Freddie is projecting his experience, which is unique to him, onto the world at large. He is insisting that other people see humanity the way he does. We don&#x2019;t deny that Freddie is experiencing the world in the way he is; we just don&#x2019;t accept that Freddie&#x2019;s experience represents objective reality. To accurately determine if the world is, indeed, made up of &#x201c;people who are mostly nasty,&#x201d; we would need to conduct research using the scientific method.
+    </p>
+    <p class="Body">
+      <strong>Example #2:</strong>
+    </p>
+    <p style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>I feel that we are all surrounded by Narggles. These are spiritual beings who help us through life. We know they exist because they are the ones that give us the confidence to move forward in a decision.</em></font>
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;Ignoring the circular reasoning (how we &quot;know&quot; Narggles exist), one person's fantasy might be their own reality, but not everyone else's.
+    </p>
+    <p class="Body">
+      <strong>Exception:</strong>&nbsp;One can argue that one's subjective experience is part of objective reality as long as they don&#x2019;t insist that you interpret the stimuli the same way they did.
+    </p>
+    <p class="Body" style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>Freddie: It is a fact that this world consists of people who feel like most people they interact with are mean to them.</em></font>
+    </p>
+    <p class="Body">
+      <strong>Fun Fact:</strong>&nbsp;Everyone knows Kerplunkers, not Narggles, are spiritual beings who help us through life.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node TEXT="Virtuality fallacy" ID="ID_172447677" CREATED="1635774267574" MODIFIED="1722516084859"><richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (Also known as: Digital Denial Fallacy)
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      - Description: The virtuality fallacy is an informal fallacy that occurs when it is asserted that things existing in a virtual context, such as cyberspace, are not real or do not have real effects. This fallacy involves dismissing the impact or reality of virtual phenomena based on their digital nature.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Logical Form:
+    </p>
+    <p>
+      &#xa0;&#xa0;1. Premise 1: X exists in cyberspace.
+    </p>
+    <p>
+      &#xa0;&#xa0;2. Premise 2: Cyberspace is virtual.
+    </p>
+    <p>
+      &#xa0;&#xa0;3. Conclusion: X (or the effect of X) is not real.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Example #1:
+    </p>
+    <p>
+      &#xa0;&#xa0;- Scenario: An individual posts harmful or offensive comments online and dismisses concerns by claiming, &quot;It’s just the internet; it doesn’t really matter.&quot;
+    </p>
+    <p>
+      &#xa0;&#xa0;- Explanation: This example illustrates the virtuality fallacy by assuming that because the comments are made in a virtual space, their impact or harm is not real.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Example #2:
+    </p>
+    <p>
+      &#xa0;&#xa0;- Scenario: A person cheats in a video game and justifies their actions by saying, &quot;It’s just a game; it doesn’t have real consequences.&quot;
+    </p>
+    <p>
+      &#xa0;&#xa0;- Explanation: This example reflects the fallacy by downplaying the effects of cheating, such as affecting other players' experiences or the game's integrity, by arguing that the context is virtual and therefore inconsequential.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Variation: The virtuality fallacy is related to the broader category of fallacies where digital or virtual actions are perceived as having no real-world implications, similar to the &quot;it’s just a joke&quot; fallacy where the impact of an action is minimized based on its context.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Tip: Recognize that virtual actions and contexts can have tangible effects on individuals and systems. Just because something occurs in a digital space does not mean it lacks real-world significance.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Exception: The fallacy does not apply in cases where virtual contexts are explicitly understood to have no real-world impact, such as certain fictional scenarios or harmless digital simulations with no real consequences.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Fun Fact: The concept of the virtuality fallacy is increasingly relevant in discussions about the impact of online behavior, particularly as virtual environments and digital interactions become more integral to daily life and societal norms.
+    </p>
+  </body>
+</html></richcontent>
+</node>
 </node>
 <node TEXT="Question-begging fallacies" POSITION="bottom_or_right" ID="ID_92153379" CREATED="1618488932270" MODIFIED="1618488934628">
 <font BOLD="true"/>
@@ -19256,8 +16491,7 @@
       (also known as: circulus in demonstrando, paradoxical thinking, circular argument, circular cause and consequence, reasoning in a circle, vicious circle, tautology, redundancy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
 <html>
   <head>
@@ -19870,8 +17104,7 @@
       (Also known as: Jargon, Catchphrase, Trendy Term)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
 <html>
   <head>
@@ -19945,8 +17178,7 @@
       - **Fun Fact**: The term &quot;buzzword&quot; itself can become a buzzword when overused in discussions about trends or jargon, highlighting its own example of the phenomenon it describes.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Dog whistle (politics)" ID="ID_824475312" CREATED="1636960916087" MODIFIED="1722593478633"><richcontent TYPE="DETAILS">
 <html>
@@ -20032,8 +17264,7 @@
       - **Fun Fact**: The term &quot;dog whistle&quot; comes from the idea that a dog whistle emits a sound that is inaudible to humans but can be heard by dogs. Similarly, dog whistle politics involves messages that are clear to a targeted group but not to the general populace.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Glittering generality" ID="ID_1525277756" CREATED="1636878694619" MODIFIED="1722593588498"><richcontent TYPE="DETAILS">
 <html>
@@ -20045,8 +17276,7 @@
       (Also known as: Vague Praise, Euphemism)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
 <html>
   <head>
@@ -20123,8 +17353,7 @@
       - **Fun Fact**: The term &quot;glittering generality&quot; is often used in discussions about advertising and political rhetoric. It highlights how language can be crafted to influence emotions rather than convey factual information.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="OPROP!" ID="ID_449083028" CREATED="1636878721564" MODIFIED="1722593770579"><richcontent TYPE="NOTE">
 <html>
@@ -20223,8 +17452,7 @@
       - **Fun Fact**: The broken Danish used in the OPROP! leaflet was actually due to the hasty translation of a similar leaflet intended for Norway. The quick adaptation underscores the urgency and ad-hoc nature of wartime propaganda efforts.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Talking point" ID="ID_257109012" CREATED="1636878726457" MODIFIED="1636878726954"/>
 <node TEXT="Weasel word" ID="ID_1574846807" CREATED="1636878731796" MODIFIED="1722594145420"><richcontent TYPE="DETAILS">
@@ -20237,8 +17465,7 @@
       (Also known as: Weasel term)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
 <html>
   <head>
@@ -20318,8 +17545,7 @@
       - **Fun Fact**: The term &quot;weasel word&quot; derives from the idea that a weasel can sneakily remove the contents of an egg without breaking the shell. Similarly, weasel words sneakily avoid making a clear or direct statement.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Dysphemism" ID="ID_777787208" CREATED="1636879161696" MODIFIED="1636879162287"/>
 </node>
@@ -20333,8 +17559,7 @@
       (Also known as: Suggestive Question)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
 <html>
   <head>
@@ -20414,8 +17639,7 @@
       - **Fun Fact**: The concept of leading questions is well-known in legal contexts, where they are often used deliberately to guide witnesses or to reveal particular aspects of a case.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Meaningless Question" ID="ID_411155269" CREATED="1637061574943" MODIFIED="1642750845756"><richcontent TYPE="NOTE">
 <html>
@@ -20544,6 +17768,548 @@
     </p>
     <p>
       <strong>Tip:</strong>&nbsp;Become a human fallacy detector.&nbsp;&nbsp;Look for these kinds of techniques everywhere you go.&nbsp;&nbsp;As a result, your reasonable self will become conditioned to resist taking a back seat to emotional propaganda.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Cartesian circle" ID="ID_1149533291" CREATED="1635720913709" MODIFIED="1722514425085"><richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (Also known as: Arnauld's Circle)
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      - <span style="font-weight: bold;">Description</span>: The Cartesian Circle is a term used to describe the fallacy of circular reasoning attributed to René Descartes. It highlights a logical flaw in Descartes' argument where he uses the existence of a benevolent God to validate the reliability of clear and distinct perceptions, while simultaneously using these clear and distinct perceptions to prove God's existence.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Logical Form:</span>
+    </p>
+    <p>
+      &#xa0;&#xa0;1. Descartes claims that clear and distinct perceptions are reliable because God, a non-deceiver, guarantees them.
+    </p>
+    <p>
+      &#xa0;&#xa0;2. Descartes uses these reliable clear and distinct perceptions to argue for the existence of God.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Example #1:</span>
+    </p>
+    <p>
+      &#xa0;&#xa0;- Scenario: Descartes argues that whatever is perceived clearly and distinctly is true because a benevolent God ensures this.
+    </p>
+    <p>
+      &#xa0;&#xa0;- Explanation: This forms a circular argument because Descartes' proof of God's existence relies on the reliability of clear and distinct perceptions, which in turn is supposed to be guaranteed by God.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Example #2:</span>
+    </p>
+    <p>
+      &#xa0;&#xa0;- Scenario: Descartes claims that his knowledge of being a thinking thing depends on the clear knowledge of an existing God.
+    </p>
+    <p>
+      &#xa0;&#xa0;- Explanation: This argument is circular as it assumes God's existence to validate the clear and distinct perception of oneself as a thinking entity, while simultaneously using this perception to prove God's existence.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Variation:</span>&#xa0;Circular reasoning can occur in various contexts where the conclusion is assumed in one of the premises. For example, using the Bible to prove God's existence while asserting that God's existence makes the Bible true.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Tip:</span>&#xa0;To avoid circular reasoning, ensure that your premises are independently verifiable and do not rely on the conclusion to support them.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Exception:</span>&#xa0;Some philosophers argue that foundational beliefs can be self-evident and do not require external validation, which can make circular reasoning seem less problematic in those contexts.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Fun Fact:</span>&#xa0;The term &quot;Cartesian Circle&quot; was first popularized by Descartes' contemporaries, such as Marin Mersenne and Antoine Arnauld, who critiqued his work for this logical flaw.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <span style="font-weight: bold;">Additional Information</span>
+    </p>
+    <p>
+      - Modern Commentators: Some modern philosophers, like Bernard Williams and Harry Frankfurt, have tried to defend Descartes by suggesting different interpretations of his arguments, such as the idea that his goal was to show the reliability of reason rather than to prove conclusions through syllogistic logic.
+    </p>
+    <p>
+      
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Self-Sealing Argument" ID="ID_1019850810" CREATED="1637153357212" MODIFIED="1642755779851"><richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (also known as: vacuous argument)
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description: </strong>An argument or position is self-sealing if and only if no evidence can be brought against it no matter what.
+
+    <p class="Body">
+      <strong>Logical Form:</strong>
+    </p>
+    <p class="Body" style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>Claim X is made.</em></font><br/><font color="rgb(52, 73, 94)"><em>Reason Y is given for claim X.</em></font><br/><font color="rgb(52, 73, 94)"><em>Reason Y can not possibly be refuted.</em></font>
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>Wherever you go, there you are.</em></font>
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;You can&#x2019;t argue against that position, and as a result, it is <i>vacuous</i>, or meaningless.&nbsp;
+    </p>
+    <p class="Body">
+      <strong>Example #2:</strong>
+    </p>
+    <p style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>Tina: My life is guided by destiny.</em></font>
+    </p>
+    <p style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>Mary: How do you know that?</em></font>
+    </p>
+    <p style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>Tina: Whatever comes my way is what was meant to be.</em></font>
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;We have the same vacuity problem here, except this one is less obvious and protected by a philosophical belief system.&nbsp;&nbsp;There is no possible way we can know what &quot;destiny may have in store for us,&quot; thus no way to argue against it.&nbsp;&nbsp;As a result, it is meaningless -- it is the equivalent of saying everything happens because it happens.
+    </p>
+    <p class="Body">
+      <strong>Exception:</strong>&nbsp;Holding beliefs that are unfalsifiable is not fallacious, especially when stated as beliefs or opinions. This becomes fallacious when an unfalsifiable claim is presented as evidence in argumentation.
+    </p>
+    <p class="Body">
+      <strong>Tip:</strong>&nbsp;Realize that most superstitious beliefs are centered around self-sealing or vacuous arguments, that is why so many people refuse to let go of superstitious beliefs -- because they cannot be proven false.
+    </p>
+    <strong>References:</strong>
+
+    <div class="small" style="padding-left: 22px; text-indent: -22px">
+      <p>
+        
+      </p>
+      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
+        <div class="csl-entry">
+          Blair, J. A. (2011). <i>Groundwork in the Theory of Argumentation: Selected Papers of J. Anthony Blair</i>. Springer Science &amp; Business Media.
+        </div>
+      </div>
+    </div>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Proof Surrogate" ID="ID_1064260554" CREATED="1637152971248" MODIFIED="1642754150068"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description:</strong>&nbsp;A claim masquerading as proof or evidence, when no such proof or evidence is actually being offered.
+
+    <p class="Body">
+      <strong>Logical Form:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Claim X is made.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Claim X is expressed in such a way where no evidence is forthcoming, or no requests for evidence are welcome.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Therefore, X is true.
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Jose writes that &quot;people are mostly good at heart.&quot; The author is simply wrong.
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;The arguer states that the author is &quot;simply wrong&quot; yet offers no reasons. Words and phrases such as &quot;simply,&quot; &quot;obviously,&quot; &quot;without question,&quot; etc., are indicators that no such evidence will be presented.
+    </p>
+    <p class="Body">
+      <strong>Example #2:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Politician X is crooked&#x2014;this is an indisputable fact known by everyone except politician X's supporters.
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;The language &quot;this in an indisputable fact&quot; is a surrogate for the evidence showing that politician X is crooked.
+    </p>
+    <p class="Body">
+      <strong>Exception:</strong>&nbsp;Claims that are universally accepted as self-evident truths don't apply.
+    </p>
+    <p class="Body uk-margin-remove uk-text-primary" style="display: block; padding-left: 20px; font-style: italic">
+      If you put your penis in a wood chipper, it's going to hurt.
+    </p>
+    <p class="Body">
+      <strong>Tip:</strong>&nbsp;If you have a penis, don't put it in a wood chipper.
+    </p>
+    <strong>References:</strong>
+
+    <div class="small" style="padding-left: 22px; text-indent: -22px">
+      <p>
+        
+      </p>
+      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
+        <div class="csl-entry">
+          Dowden. (1993). <i>Logical Reasoning Im</i>. Thomson Learning EMEA, Limited.
+        </div>
+      </div>
+    </div>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Unaccepted enthyrnemes" ID="ID_1418095432" CREATED="1642362203743" MODIFIED="1722511956380"><richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <span style="font-family: Arial;">(Also known as: Missing Premise Fallacy)</span>
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <span style="font-family: Arial;">- </span><span style="font-family: Arial; font-weight: bold;">Description:</span><span style="font-family: Arial;">&#xa0;An enthymeme is an argument where one premise is implied rather than stated explicitly. The fallacy of unaccepted enthymemes occurs when the unstated premise is not accepted by the listener, leading to an argument that lacks proper support. </span>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <span style="font-family: Arial;">- </span><span style="font-family: Arial; font-weight: bold;">Logical Form:</span>
+    </p>
+    <p>
+      <span style="font-family: Arial;">&#xa0;&#xa0;1. Argument is presented with an implied premise. </span>
+    </p>
+    <p>
+      <span style="font-family: Arial;">&#xa0;&#xa0;2. The implicit premise is not accepted or is unknown to the audience. </span>
+    </p>
+    <p>
+      <span style="font-family: Arial;">&#xa0;&#xa0;3. The conclusion drawn is flawed due to the missing or unaccepted premise. </span>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <span style="font-family: Arial;">- </span><span style="font-family: Arial; font-weight: bold;">Example #1:</span>
+    </p>
+    <p>
+      <span style="font-family: Arial;">&#xa0;&#xa0;- Scenario: &quot;Bill must be stupid. You have to be stupid to fail a driving test.&quot; </span>
+    </p>
+    <p>
+      <span style="font-family: Arial;">&#xa0;&#xa0;- Explanation: The argument assumes that Bill failed his driving test, which is the unstated premise. If Bill did not fail the test, the argument falls apart because the assumption is not accepted by the listener. </span>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <span style="font-family: Arial;">- </span><span style="font-family: Arial; font-weight: bold;">Example #2:</span>
+    </p>
+    <p>
+      <span style="font-family: Arial;">&#xa0;&#xa0;- Scenario: &quot;I hope to repay the bank soon, Mr. Smith. My late aunt said she would leave a reward to everyone who had looked after her.&quot; </span>
+    </p>
+    <p>
+      <span style="font-family: Arial;">&#xa0;&#xa0;- Explanation: The argument implies that the speaker looked after their aunt, which is the missing premise. If this premise is not accepted or is incorrect, the argument lacks support. </span>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <span style="font-family: Arial;">- </span><span style="font-family: Arial; font-weight: bold;">Variation:</span>
+    </p>
+    <p>
+      <span style="font-family: Arial;">&#xa0;&#xa0;- Scenario: &quot;Darling, I'm sorry. Busy people tend to forget such things as anniversaries.&quot; </span>
+    </p>
+    <p>
+      <span style="font-family: Arial;">&#xa0;&#xa0;- Explanation: The unstated assumption is that the speaker has been busy and therefore forgot the anniversary. If the listener finds out the speaker has been free, the argument fails due to the unaccepted enthymeme. </span>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <span style="font-family: Arial;">- </span><span style="font-family: Arial; font-weight: bold;">Tip:</span><span style="font-family: Arial;">&#xa0;When presenting arguments or excuses, ensure that all relevant premises are either stated or known to your audience. Verify that your listener accepts the implicit assumptions to avoid fallacious reasoning. </span>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <span style="font-family: Arial;">- </span><span style="font-family: Arial; font-weight: bold;">Exception:</span><span style="font-family: Arial;">&#xa0;Unaccepted enthymemes do not apply if both parties explicitly agree on the unstated premises. The fallacy arises only when the missing premise is not acknowledged or accepted. </span>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <span style="font-family: Arial;">- </span><span style="font-family: Arial; font-weight: bold;">Fun Fact: </span><span style="font-family: Arial;">The term &quot;enthymeme&quot; comes from the Greek &quot;enthymema,&quot; which means &quot;in the mind&quot; or &quot;thought&quot;—a fitting description for arguments that rely on mental gaps rather than stated logic. </span>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Shoehorning" ID="ID_914830255" CREATED="1637155283736" MODIFIED="1642755903275"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description:</strong>&nbsp;The process of force-fitting some current affair into one's personal, political, or religious agenda.&nbsp;&nbsp;Many people aren't aware of how easy it is to make something look like confirmation of a claim after the fact, especially if the source of the confirmation is something in which they already believe, like Biblical prophecies, psychic predictions, astrological horoscopes, fortune cookies, and more.
+
+    <p class="Body">
+      <strong>Logical Form:</strong>
+    </p>
+    <p class="Body" style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>Current event X is said to relate to agenda Y.</em></font><br/><font color="rgb(52, 73, 94)"><em>Agenda Y has no rational connection to current event X.</em></font>
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>&nbsp;This example is taken from the <i>Skeptic&#x2019;s Dictionary</i>&nbsp;(<a href="http://www.skepdic.com/shoehorning.html">http://www.skepdic.com/shoehorning.html</a>).&nbsp;
+    </p>
+    <p style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>After the terrorist attacks on the World Trade Center and the Pentagon on September 11, 2001, fundamentalist Christian evangelists Jerry Falwell and Pat Robertson shoehorned the events to their agenda. They claimed &quot;liberal civil liberties groups, feminists, homosexuals and abortion rights supporters bear partial responsibility...because their actions have turned God's anger against America.&quot; According to Falwell, God allowed &quot;the enemies of America...to give us probably what we deserve.&quot; Robertson agreed. The American Civil Liberties Union has &quot;got to take a lot of blame for this,&quot; said Falwell and Robertson agreed. Federal courts bear part of the blame, too, said Falwell, because they've been &quot;throwing God out of the public square.&quot; Also, &quot;abortionists have got to bear some burden for this because God will not be mocked,&quot; said Falwell and Robertson agreed.</em></font>
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;It should be very clear how these religious leaders attempted to profit from the September 11 attacks by <i>shoehorning</i>.
+    </p>
+    <p class="Body">
+      <strong>Example #2: </strong>For thousands of years people have been rushing to scripture to try to make sense out of a current situation.&nbsp;&nbsp;Without a doubt, the same verses have been used over and over again for centuries as a prophecy of a current event.&nbsp;&nbsp;This is <i>shoehorning</i>.&nbsp;&nbsp;A great example of this is the BP oil spill in April of 2010.&nbsp;&nbsp;It has been suggested that the verses from Revelation 8:8&#x2013;11 predicted this environmental disaster:
+    </p>
+    <p style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>&#x201c;The second angel blew his trumpet, and something like a great mountain, burning with fire, was thrown into the sea. A third of the sea became blood, a third of the living creatures in the sea died, and a third of the ships were destroyed &#x2026; A third of the waters became wormwood, and many died from the water, because it was made bitter.&#x201d;&nbsp;</em></font>
+    </p>
+    <p class="Body">
+      With over 31,000 verses, the probability of NOT finding a verse in the Bible that can be made to fit virtually any modern-day situation is next to zero, but what if you had 2,000 years of history to play with?&nbsp;&nbsp;It&#x2019;s not difficult to see how quickly these &#x201c;fulfilled prophecies&#x201d; can add up.
+    </p>
+    <p class="Body">
+      <strong>Exception:</strong>&nbsp;Explaining events is legitimate when reason is being used -- and sometimes it may actually fit into your ideological agenda.
+    </p>
+    <p class="Body">
+      <strong>Fun Fact:</strong>&nbsp;Did you every notice website with crazy conspiricy theories tend to be horribly designed? <em>Haig&#x2019;s Law</em>&nbsp;states: &#x201c;The awfulness of a website's design is directly proportional to the insanity of its contents and creator.&#x201d;
+    </p>
+    <p class="Body">
+      
+    </p>
+    <strong>References:</strong>
+
+    <div class="small" style="padding-left: 22px; text-indent: -22px">
+      <p>
+        
+      </p>
+      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
+        <div class="csl-entry">
+          shoehorning - The Skeptic&#x2019;s Dictionary - Skepdic.com. (n.d.). Retrieved from http://www.skepdic.com/shoehorning.html
+        </div>
+      </div>
+    </div>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Rights To Ought Fallacy" ID="ID_1402731982" CREATED="1637153287978" MODIFIED="1642755492306"><richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (also known as: constitutional rights fallacy)
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p class="Body">
+      <strong>Description:</strong>&nbsp;When one conflates a reason for one's rights (constitutional or other) with what one <i>should</i>&nbsp;do.&nbsp;&nbsp;This is common among staunch defenders of &quot;rights&quot; who fail to see that rights are not the same as optimal courses of action.&nbsp;&nbsp;It can be a way of attempting to hide the fact that the &quot;should&quot; is based on one's subjective moral values (or at least values that are not shared by the opponent) rather than a more objective law to which virtually everyone acknowledges.
+    </p>
+    <p class="Body">
+      <strong>Logical Form:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Person A should not have done X.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Person A had every right to do X; therefore, person A should have done X.
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Carl: Hi Billy, it is great to meet you! I think you will be happy here at Friendly Manufacturing, Inc.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Billy: Hey, you're Irish!&nbsp;&nbsp;Irish people make great factory workers&#x2014;that is where they are happiest.&nbsp;&nbsp;I am surprised to see you in management.&nbsp;
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Carl: Excuse me??
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Billy: Don't mind me.&nbsp;&nbsp;I am just expressing my constitutional right to freedom of speech.&nbsp;&nbsp;Do you have a problem with our Constitution?&nbsp;&nbsp;Do you hate America?
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;Billy is clearly ignorant when it comes to the realities of cultural differences, and he seriously lacks social skills.&nbsp;&nbsp;He is correct that he has every right to express his opinions, but he does not seem to mind offending and hurting others by making his opinions known.&nbsp;&nbsp;Constitutional rights do not exist in a vacuum&#x2014;they are part of the larger system that includes social conventions such as tact, appropriate behavior, and kindness.
+    </p>
+    <p class="Body">
+      <strong>Example #2:</strong>
+    </p>
+    <p class="Body">
+      A top reality TV superstar from the hit show &quot;Goose Galaxy&quot; recently did an interview with GM magazine (Geese Monthly).&nbsp;&nbsp;In this interview, he told the interviewer that, according to his beliefs, the Galactic Emperor has decreed that all MAC users are &quot;sinful&quot; and MAC use leads to having sex with computers.&nbsp;&nbsp;When many MAC users and non-MAC users alike expressed their outrage at what they felt was an offensive and demonstrably false proposition, defenders of &quot;Goose Galaxy&quot; screamed that the TV superstar had every right to say those things as his speech is protected by the First Amendment.
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;The claim made was that the comments were offensive and demonstrably false (as no research has been able to demonstrate that MAC use leads to having sex with computers), and the reality TV star <i>should not</i>&nbsp;have said those things, yet the &quot;Goose Galaxy&quot; supporters countered with the fact that the reality TV star had the right to say those things; therefore, he <i>should have</i>.&nbsp;&nbsp;Notice that no claim was made about rights&#x2014;this is a <i>strawman</i>.&nbsp;&nbsp;The fallacy extends beyond the strawman because the defenders of &quot;Goose Galaxy&quot; are conflating the reality TV star's constitutional rights with the claim that he <i>should</i>&nbsp;&nbsp;have said those things.
+    </p>
+    <p class="Body">
+      <strong>Exception: </strong>When one's values are in line with the rights, then claiming one &quot;should&quot; exercise his or her rights is not fallacious&#x2014;as long as the reason given does not have to do with rights:<strong><br/></strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      I feel that it is morally wrong to use a MAC; therefore, I <i>should</i>&nbsp;&nbsp;speak out against MAC users; and yes, it is my constitutional right to do so.
+    </p>
+    <p class="Body">
+      <strong>Tip: </strong>Just because you have the right to be a galactic jackass, doesn&#x2019;t mean you should.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Spiritual Fallacy" ID="ID_1467323539" CREATED="1637155408544" MODIFIED="1642756210491"><richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (also known as: spiritual excuse)
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description:</strong>&nbsp;Insisting that something meant to be literal is actually &#x201c;spiritual&#x201d; as an explanation or justification for something that otherwise would not fit in an explanation.
+
+    <p class="Body">
+      <strong>Logical Form:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      X makes no sense; therefore, X was meant in a &#x201c;spiritual&#x201d; sense.
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Of course, the Koran is not a history or science book, but each and every story in it does contain a spiritual truth.
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;Because we cannot define or prove a &#x201c;spiritual truth&#x201d;, anything can be a spiritual truth.
+    </p>
+    <p class="Body">
+      <strong>Example #2:</strong>
+    </p>
+    <p>
+      Harold Camping, the preacher who predicted the rapture in 2011, said that the rapture actually did come, but it was a &quot;spiritual&quot; rapture.&nbsp;&nbsp;Of course, there is no way to demonstrate this.
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;We can&#x2019;t use &#x201c;spiritual&#x201d; as a get-out-of-jail-free card to cover up an apparent contradiction.
+    </p>
+    <p class="Body">
+      <strong>Exception:</strong>&nbsp;It is not a fallacy when it is specifically referred to as &#x201c;spiritual&#x201d;.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      &#x201c;and drank the same spiritual drink; for they drank from the spiritual rock that accompanied them, and that rock was Christ.&#x201d; (1 Cor 10:4)
+    </p>
+    <p>
+      <strong>Tip: </strong>Next time you get pulled over for speeding, tell the cop you were only &#x201c;spiritually&#x201d; speeding. See if that works.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Fact-to-Fiction Fallacy" ID="ID_1614385175" CREATED="1637059104931" MODIFIED="1722513643405"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description:</strong>&#xa0;Attempting to support a narrative or argument with facts that don't support the narrative or argument. The distinguishing characteristic of the fact-to-fiction fallacy is <strong>the accusation that those who reject your conclusion are rejecting the facts.</strong>
+
+    <p class="Body">
+      <strong>Logical Form:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Facts are stated and made clear they are facts.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Therefore, some conclusion is true that is not supported by the facts.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      If you reject the conclusion, you are rejecting the facts.
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      FACT: On average, 150,000 people die every day around the world. It is crazy to panic about a virus that, at its peak, was killing 8,000 people per day. But what else can be expected from a moron like you who rejects facts?
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&#xa0;It is a fact that, on average, 150,000 people die every day around the world. It is also a fact that at its peak in the spring of 2020, the Coronavirus was killing about 8,000 people per day. What hasn't been established is what justifies &quot;panic.&quot; &quot;Panic,&quot; or perhaps more accurately &quot;serious concern,&quot; can be justified in many other ways besides the total number of historical deaths. Given this, it doesn't follow that it is &quot;crazy to panic.&quot; Further, saying or writing &quot;FACT,&quot; followed by an accusation of rejecting the fact, makes this more fallacious than a standard non-sequitur.
+    </p>
+    <p class="Body">
+      <strong>Example #2:</strong>&#xa0;In May of 2020, it was common to hear accusations of &quot;anti-science&quot; hurled at people who wanted the country to reopen after being closed due to the Covid-19 pandemic.
+    </p>
+    <p class="Body">
+      <strong>Explanation: </strong>&quot;Anti-science&quot; is similar to &quot;anti-fact.&quot; There are many facts that point to ways the virus could spread, and reopening the country would unquestionably increase the odds that the virus would spread. Science doesn't make value judgments, however. For example, would an extra X number of deaths per week justify people getting back to work? Science <em>informs</em>&#xa0;political decisions such as these; it doesn't answer them. It can be perfectly consistent to agree with the science (facts) and still reject the argument that we are reopening the country &quot;too soon.&quot;
+    </p>
+    <p class="Body">
+      <strong>Exception:</strong>&#xa0;If there is no accusation of rejecting facts, we might have a non-sequitur, but not a fact-to-fiction fallacy. It is not unreasonable to state a fact such as the 150,000 deaths per day stat, then ask why we are taking the actions we are for just 8000 deaths? These kinds of questions are likely to lead to answers that expose the nuance of the arguments.
+    </p>
+    <p class="Body">
+      <strong>Tip:</strong>&#xa0;Be careful not to read too much into facts. Our minds tend to “connect the dots” in order to support the narratives we already accept.
     </p>
   </body>
 </html></richcontent>
@@ -20900,8 +18666,7 @@
       (Also Known As Motte-and-Bailey Doctrine, Motte-and-Bailey Strategy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
 <html>
   <head>
@@ -20948,8 +18713,7 @@
       - **Fun Fact:** The term &quot;motte-and-bailey&quot; comes from medieval castle architecture. The motte is a fortified tower on a mound, while the bailey is a larger, less defensible area surrounding it. The metaphor captures the tactic of retreating to a well-defended position when the more vulnerable one is under attack.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Accent Fallacy" ID="ID_1767017555" CREATED="1618499585738" MODIFIED="1642680063746">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1844366471" STARTINCLINATION="390.74999 pt;0 pt;" ENDINCLINATION="390.74999 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
@@ -21084,8 +18848,7 @@
       (Also Known As: Ambiguity Fallacy, Fallacy of Ambiguity, Amphiboly Fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
 <html>
   <head>
@@ -21132,8 +18895,7 @@
       - **Fun Fact:** The term &quot;amphiboly&quot; derives from the Greek word &quot;amphibolos,&quot; meaning &quot;ambiguous&quot; or &quot;having double meaning,&quot; reflecting the fallacy's nature of exploiting linguistic ambiguity.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Moral equivalence" ID="ID_1044235182" CREATED="1636963064678" MODIFIED="1636963065477">
 <node TEXT="Fallacy of relative privation" ID="ID_1665074322" CREATED="1618500904827" MODIFIED="1642755310566"><richcontent TYPE="DETAILS">
@@ -21517,8 +19279,7 @@
       - Fun Fact: The fallacy of extensional pruning often appears in advertising and legal contexts, where the fine print or technical details can significantly alter the perceived value or scope of a promise. This technique is particularly prevalent in industries where ambiguity can be strategically used to limit liability.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="DETAILS">
 <html>
   <head>
@@ -21529,8 +19290,7 @@
       (Also known as: Semantic Pruning, Definitional Retreat)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Proof by Intimidation" ID="ID_802899348" CREATED="1642871506911" MODIFIED="1642871509456"/>
 <node TEXT="Deepity" ID="ID_1680851398" CREATED="1642871519798" MODIFIED="1642871523890"/>
@@ -21596,8 +19356,7 @@
       - **Fun Fact:** The term &quot;jingle-jangle fallacy&quot; was coined by psychologist Campbell in the 1950s to describe how misleading terminology can impact psychological research and theory.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="DETAILS">
 <html>
   <head>
@@ -21608,8 +19367,7 @@
       (Also Known As: Jingle-Jangle Effect, Jingle Fallacy, Jangle Fallacy)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Ambiguity fallacy" ID="ID_1844366471" CREATED="1618489766336" MODIFIED="1642680041492">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="255" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1558928662" STARTINCLINATION="4039.49988 pt;0 pt;" ENDINCLINATION="4039.49988 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
@@ -22149,6 +19907,308 @@
   </body>
 </html></richcontent>
 </node>
+<node TEXT="Alphabet Soup" ID="ID_1348052420" CREATED="1637054201338" MODIFIED="1642679927106"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description:</strong>&nbsp;The deliberate and excessive use of acronyms and abbreviations to appear more knowledgeable in the subject or confuse others.
+
+    <p class="Body">
+      <strong>Logical Form:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Person 1 uses acronyms and abbreviations.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Therefore, person 1 knows what he or she is talking about.
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      In programming CGI, a WYSIWYG interface doesn't handle PHP or CSS very well. If you sign up for my personal consulting, I will show you how to program effectively.
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;Simply overusing acronyms is not the problem here; it's the deliberate overuse for the purpose of making people think the speaker is very knowledgeable in this area, or perhaps to use terms the audience is unaware of, making the audience think they need the consulting service more than they thought they did.
+    </p>
+    <p class="Body">
+      <strong>Example #2:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Am I good at public speaking? Let's see. I have a CC, AC-B, AC-S, AC-G, CL, AL-B, AL-S, and a DTM. What do you think?
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;These are all designations from Toastmasters International. In fact, many of them have more to do with leadership than speaking, but the average audience member would never know that. Besides, getting all these awards just means the person did the work needed, not that they are necessarily good at public speaking&#x2014;kind of like certificates given out in fifth-grade gym class to all the kids who do more than six sit-ups.
+    </p>
+    <p class="Body">
+      <strong>Exception:</strong>&nbsp;&quot;Excessive&quot; is subjective. Acronyms and abbreviations are perfectly acceptable in many situations.
+    </p>
+    <p class="Body">
+      <strong>Tip:</strong>&nbsp;Don't be so quick to assume nefarious intentions. Sometimes people simply are unaware that they are overusing this type of language.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Referential fallacy" ID="ID_304305229" CREATED="1642503991878" MODIFIED="1722546532302"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ### Referential Theory of Meaning
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Name**: Referential Theory of Meaning
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Also known as**: Direct Reference Theory, Referential Realism
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Description**: A referential theory of meaning posits that the meaning of a word or expression lies in the real-world object it refers to. For instance, the word &quot;tree&quot; points to an actual tree in the world, making the tree its referent. Critics argue that this view is limited as it assumes all words must refer to real objects and overlooks the nuances of language use and context.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Logical Form**:
+    </p>
+    <p>
+      &#xa0;&#xa0;1. Premise 1: The meaning of a word is determined by the object it refers to.
+    </p>
+    <p>
+      &#xa0;&#xa0;2. Premise 2: Words have meaning only if they point to real-world objects.
+    </p>
+    <p>
+      &#xa0;&#xa0;3. Conclusion: The meaning of words resides within the objects they denote.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Example #1**:
+    </p>
+    <p>
+      &#xa0;&#xa0;- **Scenario**: The word &quot;Pegasus&quot; refers to a mythical flying horse.
+    </p>
+    <p>
+      &#xa0;&#xa0;- **Explanation**: According to the referential theory, &quot;Pegasus&quot; lacks meaning because it does not refer to a real object. However, in practice, &quot;Pegasus&quot; is understood as a concept from mythology, indicating that meaning can exist without a real referent.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Example #2**:
+    </p>
+    <p>
+      &#xa0;&#xa0;- **Scenario**: The phrase &quot;nobody was in the room.&quot;
+    </p>
+    <p>
+      &#xa0;&#xa0;- **Explanation**: The referential theory would struggle with this phrase, as &quot;nobody&quot; does not refer to a specific object. Nevertheless, the phrase is meaningful in indicating an empty room, showing that meaning can arise from usage and context.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Variation**: The theory can be contrasted with mediated reference theory, which suggests that meaning is derived through an intermediary sense or description rather than direct reference.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Tip**: Understand that while referential theory emphasizes the link between words and their real-world counterparts, it is essential to consider the context and use of language, as words can have meaning even without direct referents.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Exception**: The theory falls short in explaining abstract, fictional, or non-existent entities, such as &quot;unicorn&quot; or &quot;justice,&quot; which still hold meaning despite lacking a concrete referent.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Fun Fact**: Philosopher John Stuart Mill, an early advocate of this theory, distinguished between connotation (attributes implied by a term) and denotation (the actual object referred to), contributing significantly to the development of referential theory.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ### Notable Philosophers
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **John Stuart Mill**: Introduced the distinction between connotation and denotation, arguing that the meaning of terms involves the attributes they imply and the objects they denote.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Bertrand Russell**: Although often associated with mediated reference theory, Russell's views also included elements of direct reference theory, emphasizing the relationship between language and reality.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Saul Kripke**: Defended direct reference theory, particularly for proper names, arguing that names are &quot;rigid designators&quot; that refer to the same object in all possible worlds, regardless of the object's properties or context.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Greedy reductionism" ID="ID_1114983696" CREATED="1635760572898" MODIFIED="1722515075554"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      - <span style="font-weight: bold;">Description</span>: Greedy reductionism, identified by Daniel Dennett in his 1995 book *Darwin's Dangerous Idea*, is an erroneous form of reductionism. It occurs when scientists and philosophers, in their eagerness to explain phenomena, underestimate complexities and attempt to skip essential layers or levels of theory. This contrasts with &quot;good&quot; reductionism, which methodically explains phenomena in terms of their parts and interactions.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Logical Form:</span>
+    </p>
+    <p>
+      &#xa0;&#xa0;1. Identify a complex phenomenon.
+    </p>
+    <p>
+      &#xa0;&#xa0;2. Attempt to explain it by reducing it to simpler components.
+    </p>
+    <p>
+      &#xa0;&#xa0;3. Ignore or underestimate intermediate layers of complexity.
+    </p>
+    <p>
+      &#xa0;&#xa0;4. Draw conclusions that may be overly simplistic or incorrect.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - E<span style="font-weight: bold;">xample #1:</span>
+    </p>
+    <p>
+      &#xa0;&#xa0;- Scenario: Behaviorism by B.F. Skinner
+    </p>
+    <p>
+      &#xa0;&#xa0;- Explanation: Skinner's radical behaviorism attempted to explain all mental processes through operant conditioning alone, ignoring the potential contributions of neurological states. He claimed that one fundamental process could account for all mental activity, which oversimplified the complexities of human cognition.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - E<span style="font-weight: bold;">xample #2:</span>
+    </p>
+    <p>
+      &#xa0;&#xa0;- Scenario: Consciousness Explained by Dennett
+    </p>
+    <p>
+      &#xa0;&#xa0;- Explanation: In *Consciousness Explained*, Dennett argued that human consciousness arises from the coordinated activity of many unconscious brain components. Critics accused him of &quot;explaining away&quot; consciousness by not accounting for the full complexity of conscious experience, which led Dennett to later distinguish between good and greedy reductionism.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Variation:</span>&#xa0;Nonreductive physicalism opposes greedy reductionism by arguing that certain phenomena, such as consciousness, cannot be fully explained by reductionist analysis. Nonreductive physicalists claim that some characteristics of conscious systems are emergent properties that require more than just a reductionist approach.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Tip:</span>&#xa0;When employing reductionism, ensure to consider all levels of complexity and avoid skipping essential layers of theory. Recognize that some phenomena may require a multi-layered explanatory approach.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Exception:</span>&#xa0;In some cases, a comprehensive reductionist approach may be infeasible due to the intrinsic complexity of the phenomena. Acknowledging the limits of reductionism can help mitigate the risk of greedy reductionism.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Fun Fact: </span>The term &quot;nothing-buttery&quot; emerged in the 1950s to criticize overly simplistic explanations that reduce complex phenomena to just one aspect. The phrase &quot;nothing-but-ism&quot; was used even earlier, in the 1930s, to describe similar reductionist thinking.
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (Also known as: Nothing-buttery, Nothing-but-ism)
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Confusing an Explanation with an Excuse" ID="ID_78720635" CREATED="1637058578917" MODIFIED="1642689636218"><richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (also known as: confusing and explanation with justification, confusing elucidation with justification)
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Logical Form:</strong>
+
+    <p class="uk-margin-remove uk-text-primary" style="display: block; font-style: italic; padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>Person 1 wants claim X be justified.<br/>Person 2 explains claim X in detail.<br/>Therefore, claim X is justified / true.</em></font>
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p class="Body" style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>Barto: If masks don&#x2019;t work, how do you explain the almost perfect correlation between mask-wearing communities and lower transmission rates?<br/>Tikki: All this means is that in communities where more people where masks, the virus is less-likely to spread. It is not proof that masks are the reason.</em></font>
+    </p>
+    <div class="content clearfix">
+      <strong>Explanation:</strong>&nbsp;Not only did Tikki not answer the question asked, she created an answer based on elucidation of what Barto had said. Tikki explained what a correlation is (i.e., not &#x201c;proof&#x201d;) but came no closer to explaining the reason for the correlation.
+    </div>
+    <div class="content clearfix">
+      
+    </div>
+    <div>
+      <strong>Example #2:<br/><br/></strong>
+    </div>
+    <div style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>Virgil: How do you justify the claim that Bigfoot is the missing link between the great apes and humans?<br/>Marshall: Well, a &quot;missing link&quot; is the intermediary species between the two in the evolutionary process.<br/><br/></em></font>
+    </div>
+    <p>
+      <strong>Explanation:</strong>&nbsp;Marshall simply explained what a missing link is; he did not give a valid reason for why he believes that Bigfoot is the missing link.
+    </p>
+    <p>
+      <strong>Exception:</strong>&nbsp;If it is clear to both parties that no justification attempt is being made, but rather just stating a fact, then this fallacy is not being committed.
+    </p>
+    <p>
+      <strong>Tip:</strong>&nbsp;If you are unsure if someone is trying to make an excuse or simply stating a fact, ask them.&nbsp;&nbsp;Don&#x2019;t assume.
+    </p>
+  </body>
+</html></richcontent>
+</node>
 </node>
 <node POSITION="bottom_or_right" ID="ID_977113259" CREATED="1618489186347" MODIFIED="1618489188293"><richcontent TYPE="NODE">
 
@@ -22665,8 +20725,191 @@
   </body>
 </html></richcontent>
 </node>
+<node TEXT="Multiple Comparisons Fallacy" ID="ID_1710023835" CREATED="1637061647452" MODIFIED="1642751246771"><richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (also known as: multiple comparisons, multiplicity, multiple testing problem, the look-elsewhere effect)
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description:</strong>&nbsp;Claiming that unexpected trends that occur through random chance alone in a data set with a large number of variables are meaningful.
+
+    <p class="Body">
+      In inductive arguments, there is always a chance that the conclusion might be false, despite the truth of the premises. This is often referred to as &#x201c;confidence level.&#x201d; In any given study or poll, there is a confidence level of less than 100%. If a confidence level is 95%, then one out of 20 similar studies will have a false conclusion. If you make multiple comparisons (either in the same study or compare multiple studies), say 20 or more where there is a 95% confidence level, you are likely to get a false conclusion. This becomes a fallacy when that false conclusion is seen as significant rather than a statistical probability.
+    </p>
+    <p class="Body">
+      This fallacy can be overcome by proper testing techniques and procedures that are outside the scope of this book.
+    </p>
+    <p class="Body">
+      <strong>Logical Forms:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Out of N studies, A produced result X and B produced result Y.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Tomorrow&#x2019;s headlines read, &#x201c;Studies show Y&#x201d;.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      The study&#x2019;s significance level was X.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      The study compared multiple variables until some significant result was found.
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      100 independent studies were conducted comparing brain tumor rates of those who use cell phones to those who don&#x2019;t.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      90 of the tests showed no significant difference in the rates.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      5 of the tests showed that cell phone users were more than twice as likely to develop tumors than those who don&#x2019;t use cell phones.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      5 of the tests showed that cell phone users were half as likely to develop tumors than those who don&#x2019;t use cell phones.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      FunTel Mobile&#x2019;s new ad, &#x201c;Studies show: Cell phone users are half as likely to develop brain tumors!&#x201d;
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;Because we did multiple tests, i.e., compared multiple groups, statistically we are likely to get results that fall within the acceptable margin of error.&nbsp;&nbsp;These must be disregarded as anomalies or tested further, but not taken to be meaningful while ignoring the other results.
+    </p>
+    <p class="Body">
+      <strong>Example #2:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      In our study, we looked at 100 individuals who sang right before going to bed, and 100 individuals who did not sing.&nbsp;&nbsp;Here is what we found: Over 90% of the individuals who sang slept on their backs, and just 10% slept on their stomachs or sides.&nbsp;&nbsp;This is compared to 50% of those who did not sing, sleeping on their backs and 50% sleeping on their stomachs or sides.&nbsp;&nbsp;Therefore, singing has something to do with sleeping position.
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;What this study did not report, is that over 500 comparisons were done between the two groups, on everything from quality of sleep to what they ate for breakfast the next day.&nbsp;&nbsp;Out of all the comparisons, most were meaningless, thus were discarded&#x2014;but as expected via the law statistics and probability, there were some anomalies, the sleeping position being the most dramatic.&nbsp;
+    </p>
+    <p>
+      <strong>Exception:</strong>&nbsp;Only proper testing and accurate representation of the results would lead to non-fallacious conclusions.
+    </p>
+    <p>
+      <em>Fun Fact:</em>&nbsp;In a group of 23 random people, it is more likely than not that at least two of the people in the group have the same birthday. This is referred to a the <em>birthday paradox</em>&nbsp;and it is a classic example of the <em>multiple comparisons fallacy</em>.
+    </p>
+    <p class="Body">
+      <strong>References:</strong>
+    </p>
+    <div class="small" style="padding-left: 22px; text-indent: -22px">
+      <p>
+        
+      </p>
+      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
+        <div class="csl-entry">
+          Walsh, J. (1996). <i>True Odds: How Risk Affects Your Everyday Life</i>. Silver Lake Publishing.
+        </div>
+      </div>
+    </div>
+  </body>
+</html></richcontent>
 </node>
-<node TEXT="Formal fallacies" POSITION="top_or_left" ID="ID_480276856" CREATED="1636874263970" MODIFIED="1636874283454">
+<node TEXT="Selective Attention" ID="ID_1682082210" CREATED="1637153339758" MODIFIED="1642755687277"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description:</strong>&nbsp;Focusing your attention on certain aspects of the argument while completely ignoring or missing other parts.&nbsp;&nbsp;This usually results in irrelevant rebuttals, <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Strawman-Fallacy" target="fallacy" data-toggle="tooltip" title="" data-original-title="Substituting a person&#x2019;s actual position or argument with a distorted, exaggerated, or misrepresented version of the position of the argument.">strawman fallacy</a></i>, and unnecessarily drawn-out arguments.
+
+    <p class="Body">
+      <strong>Logical Form:</strong>
+    </p>
+    <p class="Body" style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>Information is presented.</em></font><br/><font color="rgb(52, 73, 94)"><em>Response addresses only some of the information, completely ignoring the rest.</em></font>
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>News Anchor on TV: The Dow Jones was up 200 points today, NASDAQ closed up 120 points, unemployment is and has been declining steadily, but foreclosures have not budged.<br/>Jimbo: Did you hear that?&nbsp;&nbsp;Our economy is in the crapper!</em></font>
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;While there are many problems with the reasoning of Jimbo, due to his <i>selective attention</i>, and possible pessimism when it comes to the economy, he did not let the good news register and/or did not take that information into consideration before concluding that our economy is still in the &#x201c;crapper&#x201d;, based on that one piece of news on foreclosures.
+    </p>
+    <p class="Body">
+      <strong>Example #2:</strong>&nbsp;Most of us are guilty of <i>selective attention</i>&nbsp;&nbsp;when the information is about us.&nbsp;&nbsp;We tend to embrace the information that makes us feel good and ignore the information that does not.
+    </p>
+    <p class="Body">
+      <strong>Exception:</strong>&nbsp;Ignoring irrelevant information is a good thing when evaluating arguments.&nbsp;&nbsp;The key is to know what is irrelevant.
+    </p>
+    <p class="Body">
+      <strong>Fun Fact:</strong>&nbsp;<em>Selective attention</em>&nbsp;is mostly a cognitive bias in that it happens subconsciously. It becomes a fallacy when it shows up in argumentation.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Limited Scope" ID="ID_1577296639" CREATED="1637061478548" MODIFIED="1642704046487"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description:</strong>&nbsp;The theory doesn't explain anything other than the phenomenon it explains (that one thing), and at best, is likely to be incomplete.&nbsp;&nbsp;This is often done by just redefining a term or phrase rather than explaining it.
+
+    <p class="Body">
+      <strong>Logical Form:</strong>
+    </p>
+    <p class="Body" style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>Theory X is proposed to explain Y.</em></font><br/><font color="rgb(52, 73, 94)"><em>Theory X explains nothing else but Y.</em></font>
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>My car broke down because it is no longer working.</em></font>
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;&#x201c;It isn&#x2019;t working&#x201d; is just another way of saying &#x201c;broke down&#x201d;, and fails to explain <i>why</i>&nbsp;it broke down.
+    </p>
+    <p class="Body">
+      <strong>Example #2:</strong>
+    </p>
+    <p style="padding-left: 40px">
+      <font color="rgb(52, 73, 94)"><em>People often make hasty decisions because they don&#x2019;t take enough time to consider their choices.</em></font>
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;Not taking enough time to consider choices is precisely what a hasty decision is.&nbsp;&nbsp;Again, no explanation is offered, just a definition in place of an explanation.
+    </p>
+    <p class="Body">
+      <strong>Exception:</strong>&nbsp;If &#x201c;because&#x201d; is replaced with a phrase like, &#x201c;in other words&#x201d;, then it is a deliberate clarification and not a fallacy.
+    </p>
+    <p class="Body">
+      <strong>Fun Fact:</strong>&nbsp;<em><i><a href="https://www.logicallyfallacious.com/logicalfallacies/Limited-Depth" target="fallacy" data-toggle="tooltip" title="" data-original-title="Failing to appeal to an underlying cause, and instead simply appealing to membership in a category.  In other words, simply asserting what you are trying to explain without actually explaining anything.">Limited depth</a></i></em>&nbsp;and <em>limited scope</em>&nbsp;&nbsp;fallacies are sometimes known as <em>fallacies of explanation</em>.
+    </p>
+    <strong>References:</strong>
+
+    <div class="small" style="padding-left: 22px; text-indent: -22px">
+      <p>
+        
+      </p>
+      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
+        <div class="csl-entry">
+          Farha, B. (2013). <i>Pseudoscience and Deception: The Smoke and Mirrors of Paranormal Claims</i>. University Press of America.
+        </div>
+      </div>
+    </div>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node TEXT="Formal fallacies" FOLDED="true" POSITION="top_or_left" ID="ID_480276856" CREATED="1636874263970" MODIFIED="1636874283454">
 <node ID="ID_139884014" CREATED="1618488024705" MODIFIED="1642352131926"><richcontent TYPE="NODE">
 
 <html>
@@ -24256,8 +22499,7 @@
       - **Fun Fact:** The concept of anangeon reflects ancient Greek rhetorical techniques, showcasing how historical methods of argumentation still influence contemporary discussions on responsibility and fault.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Argument by Gibberish" ID="ID_1188872469" CREATED="1635720445617" MODIFIED="1642687375246"><richcontent TYPE="DETAILS">
 <html>
@@ -24568,8 +22810,7 @@
       - **Fun Fact:** Vacuous truths often arise in everyday language as idiomatic expressions indicating impossibility, such as &quot;when pigs fly,&quot; where the antecedent (&quot;pigs flying&quot;) is understood as impossible, making any consequent true by default.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Phantom distinction" ID="ID_1558928662" CREATED="1636963355209" MODIFIED="1642690871381">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1558928662" STARTINCLINATION="30 pt;0 pt;" ENDINCLINATION="30 pt;33.75 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
@@ -25083,8 +23324,7 @@
       - **Fun Fact:** This fallacy can sometimes be seen in both criminal defense and other contexts where individuals or groups attempt to discredit evidence by pointing out its general applicability, rather than addressing its relevance to the specific situation at hand.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Denying the antecedent" ID="ID_142075793" CREATED="1636960683543" MODIFIED="1642690698511"><richcontent TYPE="DETAILS">
@@ -25253,8 +23493,452 @@
   </body>
 </html></richcontent>
 </node>
+<node TEXT="Commutation of Conditionals" ID="ID_787966922" CREATED="1637058397768" MODIFIED="1642689396360"><richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (also known as: the fallacy of the consequent, converting a conditional)
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description:</strong>&nbsp;Switching the antecedent and the consequent in a logical argument.
+
+    <p class="Body">
+      <strong>Logical Form:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      If P then Q.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Therefore, if Q then P.
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      If I have a PhD, then I am smart.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Therefore, if I am smart, then I have a PhD.
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;There are many who could, rightly so, disagree with the first premise, but assuming that premise is true, does not guarantee that the conclusion is true.&nbsp;&nbsp;There are many smart people without PhDs.
+    </p>
+    <p class="Body">
+      <strong>Example #2:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      If I have herpes, then I have a strange rash.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Therefore, if I have a strange rash, then I have herpes.
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;I am glad this is not true.&nbsp;&nbsp;One can have non-herpes rashes.
+    </p>
+    <p class="Body">
+      <strong>Exception:</strong>&nbsp;If p=q, then it is necessarily true that q=p.
+    </p>
+    <p class="Body">
+      <strong>Tip:</strong>&nbsp;If you think might herpes, see your doctor.
+    </p>
+    <strong>References:</strong>
+
+    <div class="small" style="padding-left: 22px; text-indent: -22px">
+      <p>
+        
+      </p>
+      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
+        <div class="csl-entry">
+          Pickard, W. A., &amp; Aristotle. (2006). <i>On Sophistical Refutations</i>. ReadHowYouWant.com, Limited.
+        </div>
+      </div>
+    </div>
+  </body>
+</html></richcontent>
 </node>
-<node TEXT="Ad hoc rescue" POSITION="top_or_left" ID="ID_22427007" CREATED="1636979941740" MODIFIED="1642678608300"><richcontent TYPE="DETAILS">
+<node TEXT="The Undistributed middle" ID="ID_321217681" CREATED="1642858790714" MODIFIED="1722511636176"><richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (Also known as: Undistributed Term Fallacy, Fallacy of the Undistributed Middle Term)
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      - <span style="font-weight: bold;">Description:</span>&#xa0;The undistributed middle fallacy occurs in a syllogistic argument where the middle term is not distributed in either of the premises, leading to an invalid conclusion. The middle term, which is supposed to link the two premises, fails to cover its entire class, allowing for logical gaps in the argument.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Logical Form:</span>
+    </p>
+    <p>
+      &#xa0;&#xa0;1. All A are B.
+    </p>
+    <p>
+      &#xa0;&#xa0;2. Some B are C.
+    </p>
+    <p>
+      &#xa0;&#xa0;3. Therefore, some A are C.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Example #1:</span>
+    </p>
+    <p>
+      &#xa0;&#xa0;- Scenario: &quot;All men are mammals. Some mammals are rabbits, therefore some men are rabbits.&quot;
+    </p>
+    <p>
+      &#xa0;&#xa0;- Explanation: The middle term &quot;mammals&quot; is not distributed in either premise to cover all mammals. Therefore, the argument incorrectly concludes that some men are rabbits without a proper logical basis.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Example #2:</span>
+    </p>
+    <p>
+      &#xa0;&#xa0;- Scenario: &quot;All bureaucrats are meddlesome. All petty tyrants are meddlesome. Therefore, all bureaucrats are petty tyrants.&quot;
+    </p>
+    <p>
+      &#xa0;&#xa0;- Explanation: The middle term &quot;meddlesome&quot; is not distributed to cover all petty tyrants or all bureaucrats. The argument fails because it assumes that the shared characteristic &quot;meddlesome&quot; means that all bureaucrats must be petty tyrants.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Variation:</span>
+    </p>
+    <p>
+      &#xa0;&#xa0;- Scenario: &quot;All nurses are really great people, but some really great people are not properly rewarded. Therefore, some nurses are not properly rewarded.&quot;
+    </p>
+    <p>
+      &#xa0;&#xa0;- Explanation: Here, &quot;really great people&quot; is not distributed as a universal or negative term, leading to a fallacious conclusion about the reward status of nurses.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Tip:</span>&#xa0;Ensure that the middle term in a syllogism is properly distributed at least once across the premises. For a valid conclusion, the middle term should cover the entire class it represents.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Exception:</span>&#xa0;The fallacy of the undistributed middle does not apply if the argument is constructed correctly with the middle term properly distributed and covering the full scope of its class.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Fun Fact: </span>The undistributed middle fallacy is a classic example of how logical structures can be manipulated to create seemingly convincing but ultimately flawed arguments. The term &quot;undistributed&quot; refers to the failure of the middle term to adequately cover all its possible instances, leading to the fallacy.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Missing dollar riddle" ID="ID_999307723" CREATED="1635764003955" MODIFIED="1722515864473"><richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (Also known as: Missing Dollar Paradox)
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      - <span style="font-weight: bold;">Description:</span>&#xa0;The missing dollar riddle is a famous puzzle that involves a logical fallacy by presenting a scenario where a dollar seems to be missing after a series of transactions. It plays on the confusion between different categories of money and how they are accounted for.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Logical Form:</span>
+    </p>
+    <p>
+      &#xa0;&#xa0;1. Three guests check into a hotel and pay a total of $30.
+    </p>
+    <p>
+      &#xa0;&#xa0;2. The manager realizes the bill should have been $25 and gives $5 to the bellhop to return to the guests.
+    </p>
+    <p>
+      &#xa0;&#xa0;3. The bellhop decides to keep $2 as a tip and gives $1 back to each guest.
+    </p>
+    <p>
+      &#xa0;&#xa0;4. The guests end up paying $27 ($9 each), and the bellhop keeps $2, which totals $29.
+    </p>
+    <p>
+      &#xa0;&#xa0;5. The riddle asks where the missing $1 is, suggesting a discrepancy in the total amount.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Example #1:</span>
+    </p>
+    <p>
+      &#xa0;&#xa0;- Scenario: Three guests initially pay $30, but the corrected bill is $25. The bellhop returns $3 and keeps $2 as a tip.
+    </p>
+    <p>
+      &#xa0;&#xa0;- Explanation: The confusion arises from adding $27 (what the guests effectively paid) to $2 (kept by the bellhop), which wrongly implies it should total $30. In reality, the $27 includes the $2 tip; the correct breakdown is $25 (hotel) + $3 (returned to guests) + $2 (bellhop tip) = $30.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Example #2:</span>
+    </p>
+    <p>
+      &#xa0;&#xa0;- Scenario: Consider a modified version where the bill is $10. Guests pay $30, the manager gives $20 to the bellhop to return. The bellhop keeps $2 and gives $6 back to each guest.
+    </p>
+    <p>
+      &#xa0;&#xa0;- Explanation: Here, the guests effectively paid $12 ($4 each), and the bellhop kept $2. Adding $12 (paid) and $2 (kept by bellhop) incorrectly leads to $14, whereas the correct sum should be $10 (hotel) + $6 (returned to guests) + $2 (bellhop tip) = $18. This demonstrates that the added amounts are not directly comparable.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Variation: </span>Variants of the riddle may involve different amounts or scenarios, such as using shillings or different numbers of people, but the underlying fallacy remains the same: incorrectly summing amounts that are not directly related.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      -<span style="font-weight: bold;">&#xa0;Tip:</span>&#xa0;To avoid confusion, always account for all categories of money separately. Ensure that any sums of money include all assets and liabilities in the correct context.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Exception: </span>The riddle does not apply if all transactions and amounts are correctly accounted for and reconciled. It specifically targets misunderstandings in the way the total amounts are presented.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Fun Fact: </span>The riddle has appeared in various forms in literature and media, including a 1933 mathematical fallacy by Cecil B. Read and adaptations in pop culture, such as in the BBC comedy series &quot;Help&quot; and in Abbott and Costello routines.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Proving Non-Existence" ID="ID_1973754334" CREATED="1637152981514" MODIFIED="1642754253378"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description:</strong>&nbsp;Demanding that one proves the non-existence of something in place of providing adequate evidence for the existence of that something.&nbsp;&nbsp;Although it may be possible to prove non-existence in special situations, such as showing that a container does not contain certain items, one cannot prove universal or absolute non-existence.
+
+    <p class="Body">
+      <strong>Logical Form:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      I cannot prove that X exists, so you prove that it doesn&#x2019;t.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      If you can&#x2019;t, X exists.
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      God exists.&nbsp;&nbsp;Until you can prove otherwise, I will continue to believe that he does.
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;There are decent reasons to believe in the existence of God, but, &#x201c;because the existence of God cannot be disproven&#x201d;, is not one of them.
+    </p>
+    <p class="Body">
+      <strong>Example #2:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Sheila: I know Elvis&#x2019; ghost is visiting me in my dreams.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Ron: Yeah, I don&#x2019;t think that really is his ghost.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Sheila: Prove that it&#x2019;s not!
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;Once again we are dealing with confusion of probability and possibility.&nbsp;&nbsp;The inability to, &#x201c;prove&#x201d;, in any sense of the word, that the ghost of Elvis is not visiting Sheila in her dreams is an impossible request because there is no test that proves the existence and presence of a ghost, so no way to prove the negative or the non-existence. &nbsp;It is up to Sheila to provide proof of this claim, or at least acknowledge that actually being visited by Elvis&#x2019; ghost is just a <i>possibility</i>, no matter how slim that possibility is.
+    </p>
+    <p class="Body">
+      <strong>Exception:</strong>&nbsp;If Ron were to say, &#x201c;That is impossible&#x201d;, &#x201c;there is no way you are being visited&#x201d;, or make some other claim that rules out any possibility no matter how remote (or crazy), then Sheila would be in the right to ask him for proof -- as long as she is making a point that he cannot know that for certain, and not actually expecting him to produce proof.
+    </p>
+    <p class="Body">
+      <strong>Tip:</strong>&nbsp;If you think you are being visited by aliens, gods, spirits, ghosts, or any other magical beings, just ask them for information that you can verify, specifically with a neutral third-party that would prove their existence.&nbsp;&nbsp;This would be simple for any advanced alien race, any god or heavenly being.&nbsp;&nbsp;Some ideas of things to ask for:
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      future lottery numbers (of course you will give all your winnings to charity)
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      answers to scientific problems that do have scientific answers, but aren&#x2019;t yet known
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      exact details of major future events
+    </p>
+    <p class="Body">
+      But if these beings just tell you things such as:
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      passages / ideas from the Bible
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      whether you should take that new job or not
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      where you left your car keys
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      that they really exist, and others will continue to doubt you
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      that you should never question their existence
+    </p>
+    <p class="Body">
+      ...or anything else which is just as likely to come from your imagination that is untestable and <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Unfalsifiability" target="fallacy" data-toggle="tooltip" title="" data-original-title="Confidently asserting that a theory or hypothesis is true or false even though the theory or hypothesis cannot possibly be contradicted by an observation or the outcome of any physical experiment, usually without strong evidence or good reasons.">unfalsifiable</a></i>&nbsp;, then you might want to reconsider the fact that your being of choice is really paying you visits.
+    </p>
+    <strong>References:</strong>
+
+    <div class="small" style="padding-left: 22px; text-indent: -22px">
+      <p>
+        
+      </p>
+      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
+        <div class="csl-entry">
+          You Can Prove a Negative. (n.d.). Retrieved from http://www.psychologytoday.com/blog/believing-bull/201109/you-can-prove-negative
+        </div>
+      </div>
+    </div>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="argument from the contrary" ID="ID_828012295" CREATED="1635720634101" MODIFIED="1722514579101"><richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (also known as: Argumentum e contrario, Argumentum ex contrario, Appeal from the Contrary)
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      - <span style="font-weight: bold;">Description</span>: In logic and law, an argumentum e contrario is used to argue that a proposition is correct because it is not disproven by a certain case. It contrasts with analogy, where similarity between cases is used to argue for a certain conclusion. In legal contexts, this argument helps address issues not explicitly covered by existing laws by inferring that if the law does not mention something, it is not intended to be included.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Logical Form:</span>
+    </p>
+    <p>
+      &#xa0;&#xa0;1. Law A states that X must do Y.
+    </p>
+    <p>
+      &#xa0;&#xa0;2. It does not state that Z must do Y.
+    </p>
+    <p>
+      &#xa0;&#xa0;3. Therefore, Z does not need to do Y.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Example #1:</span>
+    </p>
+    <p>
+      &#xa0;&#xa0;- Scenario: § 123 of the X-Law says that green cars need to have blue tires.
+    </p>
+    <p>
+      &#xa0;&#xa0;- Argument: Therefore, red cars don't have to have blue tires.
+    </p>
+    <p>
+      &#xa0;&#xa0;- Explanation: The argument is based on the fact that the law specifies green cars but does not mention red cars. Thus, it is inferred that the law does not apply to red cars.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: normal;">Example #2:</span>
+    </p>
+    <p>
+      &#xa0;&#xa0;- Scenario: § 456 of the Y-Law says that it's irrelevant whether a message is sent by letter or by telegraph.
+    </p>
+    <p>
+      &#xa0;&#xa0;- Argument: Therefore, messages cannot be sent by fax machines.
+    </p>
+    <p>
+      &#xa0;&#xa0;- Explanation: This argument incorrectly infers that because the law does not mention faxes, they must be excluded. It misinterprets the law's intent, as fax machines likely did not exist when the law was written.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Variation</span>: Arguments e contrario can vary in their application, especially in legal contexts where the interpretation of the law's intent and the specifics of unmentioned cases can lead to different conclusions. It often contrasts with arguments from analogy.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Tip: </span>When using an argumentum e contrario, consider the law's intent and whether the unmentioned case might reasonably be included if the law were updated. Be cautious of overextending the argument to situations the law did not explicitly intend to exclude.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Exception: </span>Argumentum e contrario is not always a fallacy. In some cases, it is a legitimate interpretative tool in law where it is clear that the law deliberately excludes certain cases. However, if the exclusion is not deliberate or clear, the argument can become fallacious.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - <span style="font-weight: bold;">Fun Fact:</span>&#xa0;The Latin maxim &quot;ubicumque lex voluit dixit, ubi tacuit noluit&quot; translates to &quot;if the legislator wished to say something, he would do that expressly.&quot; This highlights the principle behind argumentum e contrario in legal interpretation.
+    </p>
+    <p>
+      
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node TEXT="Ad hoc rescue" FOLDED="true" POSITION="top_or_left" ID="ID_22427007" CREATED="1636979941740" MODIFIED="1642678608300"><richcontent TYPE="DETAILS">
 <html>
   <head>
     
@@ -25377,8 +24061,7 @@
       - **Fun Fact:** The concept of the escape hatch is frequently employed in debates involving pseudosciences and fringe theories, where proponents often resort to unfalsifiable claims to protect their beliefs from scrutiny.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="God of the gaps" ID="ID_1192998804" CREATED="1636979959592" MODIFIED="1722599559599">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1425407978" STARTINCLINATION="1385.24996 pt;0 pt;" ENDINCLINATION="1385.24996 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
@@ -25428,8 +24111,7 @@
       - **Fun Fact:** The term &quot;God of the gaps&quot; was popularized by theologian and philosopher Karl Barth, who critiqued the use of divine intervention to fill gaps in human understanding.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Handwave" ID="ID_468773821" CREATED="1636979967576" MODIFIED="1722599700730"><richcontent TYPE="NOTE">
 <html>
@@ -25477,8 +24159,7 @@
       - **Fun Fact:** The term &quot;hand-waving&quot; metaphorically relates to the gesture of waving one’s hands to distract or divert attention, much like how stage magicians use hand movements to misdirect their audience from the real tricks being performed. The concept has also been popularized by its use in the Star Wars franchise, where Jedi use hand-waving as a form of mind control.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="PIDOOMA" ID="ID_485698598" CREATED="1636979981244" MODIFIED="1722599788545"><richcontent TYPE="DETAILS">
 <html>
@@ -25490,8 +24171,7 @@
       (also known as:&#xa0;&#xa0;Pulled It Directly Out Of My Ass, argumentum ex culo, Colonic autoextraction methodology, Toilet fishing, Proctolojustification)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE">
 <html>
   <head>
@@ -25538,10 +24218,834 @@
       - **Fun Fact:** The term &quot;PIDOOMA&quot; humorously references the idea of arguments being &quot;pulled directly out of one's ass,&quot; emphasizing the absurdity and lack of credibility of such claims.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Game theory fallacies" ID="ID_1677102716" CREATED="1642876516152" MODIFIED="1642876521563"/>
+<node TEXT="Conspiracy Theory" ID="ID_1685080423" CREATED="1637058688806" MODIFIED="1767637391165"><richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (also known as: canceling hypothesis, canceling hypotheses, coverups)
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description:</strong>&nbsp;Explaining that your claim cannot be proven or verified because the truth is being hidden and/or evidence destroyed by a group of two or more people.&nbsp;&nbsp;When that reason is challenged as not being true or accurate, the challenge is often presented as just another attempt to cover up the truth and presented as further evidence that the original claim is true.
+
+    <p class="Body">
+      <strong>Logical Form:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      A is true.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      B is why the truth cannot be proven.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Therefore, A is true.
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Noah&#x2019;s ark has been found by the Russian government a long time ago, but because of their hate for religion, they have been covering it up ever since.
+    </p>
+    <p class="Body">
+      <strong>Example #2:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Geologists and scientists all over the world are discovering strong evidence for a 6000-year-old earth, yet because of the threat of ruining their reputation, they are suppressing the evidence and keeping quiet.
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;The psychology behind conspiracy theories is quite complex and involves many different cognitive biases and fallacies discussed in this book.&nbsp;&nbsp;In general, people tend to overlook the incredible improbabilities involved in a large-scale conspiracy, as well as the potential risks for all involved in the alleged cover-up.&nbsp;&nbsp;In the above examples, those who stick with a literal interpretation of the Bible often experience <i>cognitive dissonance</i>, or the mental struggle involved when one&#x2019;s beliefs contradict factual claims.&nbsp;&nbsp;This cognitive dissonance causes people to create conspiracy theories, like the ones above, to change facts to match their beliefs, rather than changing their beliefs to match facts.
+    </p>
+    <p class="Body">
+      <strong>Exception:</strong>&nbsp;Sometimes, there really are conspiracies and cover-ups.&nbsp;&nbsp;The more evidence one can present for a cover-up, the better, but we must remember that possibility does not equal probability.
+    </p>
+    <p class="Body">
+      <strong>Tip:</strong>&nbsp;Take time to question any conspiracy theories in which you believe are true.&nbsp;&nbsp;Do the research with an open mind.
+    </p>
+    <strong>References:</strong>
+
+    <div class="small" style="padding-left: 22px; text-indent: -22px">
+      <p>
+        
+      </p>
+      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
+        <div class="csl-entry">
+          Barkun, M. (2006). <i>A Culture of Conspiracy: Apocalyptic Visions in Contemporary America</i>. University of California Press.
+        </div>
+      </div>
+    </div>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Hedging" ID="ID_1548318953" CREATED="1637060778861" MODIFIED="1642698273488"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description:</strong>&nbsp;Refining your claim simply to avoid counter evidence and then acting as if your revised claim is the same as the original.
+
+    <p class="Body">
+      <strong>Logical Form:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Claim X is made.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Claim X is refuted.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Claim Y is then made and is made to be the same as claim X when it is not.
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Freddie: All women are evil, manipulative, man-haters.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Wade: Including your mother and best friend?
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Freddie: Not them, but all the others.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Wade: How can you say that, when you only know maybe a hundred or so women?
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Freddie: Obviously, I am talking about the ones I know.
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;The claim changed quite drastically from about 3.5 billion women to about 100, yet there was no admission by Freddie of this drastic change in his argument.&nbsp;&nbsp;Freddie is guilty of committing this fallacy, and those who see Freddie&#x2019;s initial argument as still valid, are guilty, as well.
+    </p>
+    <p class="Body">
+      <strong>Example #2:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Adam: The story of Noah&#x2019;s ark is very probable, and almost certainly a historical and scientific fact.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Greg: So you think it is very probable that two of each animal came from around the globe, including the animals that cannot survive for very long outside their natural environments?
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Adam: Well, that part did require God&#x2019;s help.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Greg: You think it is very probable even though virtually every geologist and natural scientist today reject the idea of a global flood?
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Adam: Probability exists on many levels.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Greg: Do you really still think this story is, &#x201c;very probable&#x201d;?
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Adam: Yes.
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;Besides the multiple <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Ad-Hoc-Rescue" target="fallacy" data-toggle="tooltip" title="" data-original-title="Very often we desperately want to be right and hold on to certain beliefs, despite any evidence presented to the contrary.  As a result, we begin to make up excuses as to why our belief could still be true, and is still true, despite the fact that we have no real evidence for what we are making up.">ad hoc</a></i>&nbsp;&nbsp;explanations used by Adam to answer the counterclaims, each counterclaim was evidence against the initial claim, specifically the &#x201c;very probable&#x201d; nature of the story.&nbsp;&nbsp;Rather than concede the argument or revise the claim, Adam let his insistence to be right come before logical thought and refused to change his original claim.
+    </p>
+    <p class="Body">
+      <strong>Exception:</strong>&nbsp;If the point of argumentation is really to arrive closer to the truth, then there is no shame in revising claims.&nbsp;&nbsp;If this is done, there is no fallacy.
+    </p>
+    <p class="Body">
+      <strong>Fun Fact:</strong>&nbsp;Every time you acknowledge that you are wrong, you are one step closer to actually being right.
+    </p>
+    References: Dowden, B. (n.d.). Fallacies | Internet Encyclopedia of Philosophy. Retrieved from http://www.iep.utm.edu/fallacy/
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Subverted Support" ID="ID_1850408456" CREATED="1637156576588" MODIFIED="1722513405367"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description:</strong>&#xa0;The attempt to explain some phenomenon that does not actually occur or there is no evidence that it does.&#xa0;&#xa0;It is a form of <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Begging-the-Question" target="fallacy" data-toggle="tooltip" title="" data-original-title="Any form of argument where the conclusion is assumed in one of the premises.  Many people use the phrase “begging the question” incorrectly when they use it to mean, “prompts one to ask the question”.  That is NOT the correct usage. Begging the question is a form of circular reasoning.">begging the question</a></i>.
+
+    <p class="Body">
+      <strong>Logical Form:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      X happens because of Y (when X doesn’t really even happen)
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      The reason billions of children starve to death each year is because we live in a world that does not care.
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&#xa0;Billions of children don’t starve to death each year -- not even close.&#xa0;&#xa0;If it were close, it might be better categorized as an exaggeration, but this would be more of an attempt to get the audience to accept the assertion as a fact while focusing more on the reason rather than the assertion itself.
+    </p>
+    <p class="Body">
+      <strong>Example #2:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      The reason the firmament, a tent-like structure that kept the “waters above” from flooding the earth as described in the Bible, is no longer there today, is because it was destroyed during Noah’s flood.
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&#xa0;The reason the firmament isn’t there today is because it never existed.&#xa0;&#xa0;To attempt to explain it is to get the audience to assume it existed.
+    </p>
+    <p class="Body">
+      <strong>Exception:</strong>&#xa0;If the argument is preceded with a declaration that the phenomenon does occur, then what would be the <i>subverted support </i>is simply a reason given.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      The firmament, a tent-like structure that kept the “waters above” from flooding the earth as described in the Bible, once covered the earth.&#xa0;&#xa0;It is no longer there today because it was destroyed during Noah’s flood.
+    </p>
+    <p>
+      <strong>Tip: </strong>Exaggeration is a risky technique you want to avoid. On the one hand, it can make your argument more compelling (technically, by misrepresenting the truth). On the other hand, if you are called out for your exaggeration, it will damage the credibility of your argument as well as your own credibility.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Shifting of the Burden of Proof" ID="ID_1583295581" CREATED="1637155266086" MODIFIED="1642755855450"><richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (also known as: onus probandi, burden of proof [general concept], burden of proof fallacy, misplaced burden of proof, shifting the burden of proof)
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description:</strong>&nbsp;Making a claim that needs justification, then demanding that the opponent justifies the opposite of the claim. The burden of proof is a legal and philosophical concept with differences in each domain. In everyday debate, the burden of proof typically lies with the person making the claim, but it can also lie with the person denying a well-established fact or theory. Like other non-black and white issues, there are instances where this is clearly fallacious, and those which are not as clear.
+
+    <p class="Body">
+      <strong>Logical Form:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Person 1 is claiming Y, which requires justification.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Person 1 demands that person 2 justify the opposite of Y.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Person 2 refuses or is unable to comply.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Therefore, Y is true.
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Jack: I have tiny, invisible unicorns living in my anus.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Nick: How do you figure?
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Jack: Can you prove that I don't?
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Nick: No.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Jack: Then I do.
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;Jack made a claim that requires justification. Nick asked for the evidence, but Jack shifted the burden of proof to Nick. When Nick was unable to refute Jack's (<i><a href="https://www.logicallyfallacious.com/logicalfallacies/Unfalsifiability" target="fallacy" data-toggle="tooltip" title="" data-original-title="Confidently asserting that a theory or hypothesis is true or false even though the theory or hypothesis cannot possibly be contradicted by an observation or the outcome of any physical experiment, usually without strong evidence or good reasons.">unfalsifiable</a></i>) claim, Jack claimed victory.
+    </p>
+    <p class="Body">
+      <strong>Example #2:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Audrey: I am a human being. I am not a cyborg from the future here to destroy humanity.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Fred: Prove that you are human! Cyborgs don't pass out when they lose a lot of blood. Here's a knife.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Audrey: Get to bed, Freddie. And no more SYFY channel before bed!
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;Audrey is making a claim of common knowledge, perhaps sparked by Fred's suspicions. Fred is asking Audrey to prove the claim when he is the one that should be justifying his objection to the claim of common knowledge.
+    </p>
+    <p class="Body">
+      <strong>Exception:</strong>&nbsp;Again, the question of who has the burden of proof is not always as simple as demonstrated in these examples. Often, this is an argument itself.
+    </p>
+    <p class="Body">
+      <strong>Tip:</strong>&nbsp;If possible, justify your argument with evidence even if you might not have the burden of proof. The only time you might not want to do this is when it gives credibility to an outrageous accusation or claim.
+    </p>
+    <strong>References:</strong>
+
+    <div class="small" style="padding-left: 22px; text-indent: -22px">
+      <p>
+        
+      </p>
+      <div class="csl-bib-body" style="line-height: 2; padding-left: 0; text-indent: 0">
+        <div class="csl-entry">
+          Bunnin, N., &amp; Yu, J. (2008). <i>The Blackwell Dictionary of Western Philosophy</i>. John Wiley &amp; Sons.
+        </div>
+      </div>
+    </div>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Having Your Cake" ID="ID_198662793" CREATED="1637060723102" MODIFIED="1642698214892"><richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (also known as: failure to assert, diminished claim, failure to choose sides)
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <strong>Description:</strong>&nbsp;Making an argument, or responding to one, in such a way that it does not make it at all clear what your position is.&nbsp;&nbsp;This puts you in a position to back out of your claim at any time and go in a new direction without penalty, claiming that you were &#x201c;right&#x201d; all along.&nbsp;
+
+    <p class="Body">
+      <strong>Logical Form:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      I believe X is a strong argument.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Y is also a very strong argument.
+    </p>
+    <p class="Body">
+      <strong>Example #1:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Reporter: Mr. Congressman, where do you stand on the clean water vs. new factory issue?
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Congressman: Of course, I want our state to have the cleanest water possible.&nbsp;&nbsp;I can appreciate the petition against the new factory as I can also appreciate the new jobs introduced in our community as a result of the new factory.
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;This type of &#x201c;non-decision&#x201d; or refusal to choose a side often eludes those looking for an answer but getting more of a non-answer in return.&nbsp;&nbsp;In our example, the congressman can later choose a side based on the outcome, looking like the guy who knew the right answer all along.
+    </p>
+    <p class="Body">
+      <strong>Example #2:</strong>
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Scott: So do you think the earth has only been here for 6-10 thousand years?
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Sam: The evidence for an old earth is very strong, but we cannot discount some of the claims made by the creationists.
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Scott: So what are you saying?
+    </p>
+    <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+      Sam: I am saying that a 4.7 billion-year-old earth makes a lot of sense, but the 6000-year-old theory does, as well.
+    </p>
+    <p class="Body">
+      <strong>Explanation:</strong>&nbsp;We all know and want to shoot people like Sam.&nbsp;&nbsp;Sam is failing to assert his position.&nbsp;&nbsp;If Sam&#x2019;s opinion is respected in this area, no doubt people on both sides will use his statement to their advantage.&nbsp;&nbsp;This ambiguity is not helpful and is misleading.
+    </p>
+    <p class="Body">
+      <strong>Exception:</strong>&nbsp;Wishy-washy statements are sometimes acceptable to demonstrate your uncertainty on a given issue, and if these kinds of statements are followed with admissions of uncertainty or ignorance,&nbsp;&nbsp;then they are not fallacious; they are honest.
+    </p>
+    <p class="Body">
+      <strong>Tip:</strong>&nbsp;If you don&#x2019;t have an opinion, say that you don&#x2019;t have an opinion.&nbsp;&nbsp;If you don&#x2019;t know, say that you don&#x2019;t know.&nbsp;&nbsp;It&#x2019;s that simple.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node TEXT="Epistemic Obfuscation" POSITION="bottom_or_right" ID="ID_992969555" CREATED="1767637658890" MODIFIED="1767637661635">
+<node TEXT="Blinding with science" ID="ID_1514720926" CREATED="1642350717782" MODIFIED="1722514094865"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      - <span style="font-weight: bold;">Description:</span>&#xa0;The fallacy of blinding with science occurs when technical jargon and scientific terminology are used to obscure the true meaning of a statement, giving it an unearned sense of authority and validity. This tactic aims to deceive the audience into believing that the speaker’s assertions are supported by rigorous scientific evidence, even when they are not.
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      - <span style="font-weight: bold;">Logical Form:</span>
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      &#xa0;&#xa0;1. Speaker uses complex scientific language to present a point.
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      &#xa0;&#xa0;2. Audience is unable to understand the jargon.
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      &#xa0;&#xa0;3. Audience assumes the point is valid due to its scientific appearance.
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      - <span style="font-weight: bold;">Example #1:</span>
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      &#xa0;&#xa0;- Scenario: &quot;The amotivational syndrome is sustained by peer group pressure except where achievement orientation forms a dominant aspect of the educational and social milieu.&quot;
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      &#xa0;&#xa0;- Explanation: This statement uses complex terminology to assert that people are influenced by their friends unless they have personal goals. The jargon intimidates the audience into accepting the statement without questioning its validity.
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      - <span style="font-weight: bold;">Example #2:</span>
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      &#xa0;&#xa0;- Scenario: &quot;The transportational flow charts for the period following the postmeridian peak reveal a pattern of decantation of concentrated passenger units in cluster formations surrounding the central area.&quot;
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      &#xa0;&#xa0;- Explanation: This statement uses complicated language to describe people gathering in the city center after work. The technical jargon obscures the simple reality, making it seem more profound and scientifically grounded than it is.
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      - <span style="font-weight: bold;">Variation:</span>
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      &#xa0;&#xa0;- Scenario: &quot;The small, domesticated carnivorous quadruped positioned itself in sedentary mode in superior relationship to the coarse-textured rushwoven horizontal surface fabric.&quot;
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      &#xa0;&#xa0;- Explanation: This overly complex description of a cat sitting on a mat serves no purpose other than to confuse the reader and obscure the simplicity of the observation.
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      - <span style="font-weight: bold;">Tip: </span>To avoid being blinded by science, focus on understanding the core message. Ask for clarification in simpler terms if the language seems needlessly complex. Evaluate the argument based on evidence rather than the sophistication of the terminology used.
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      - <span style="font-weight: bold;">Exception: </span>This fallacy is not committed if the use of technical language is necessary due to the complexity of the subject and if the audience is expected to understand the terminology.
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      
+    </p>
+    <p http-equiv="content-type" content="text/html; charset=utf-8">
+      - <span style="font-weight: bold;">Fun Fact: </span>The term &quot;blinding with science&quot; captures the dazzling effect of overly complex language, much like how bright lights can obscure vision. This tactic is often employed in pseudo-sciences and disciplines trying to gain unwarranted credibility by mimicking the language of genuine scientific inquiry.
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (Also known as: Obscurantism, Technobabble)
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Quantum Physics Fallacy" ID="ID_1267654295" CREATED="1637153096935" MODIFIED="1642754499460"><richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (also known as: appeal to quantum physics)
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <div class="content clearfix">
+      <p class="Body">
+        <strong>Description:</strong>&nbsp;Using quantum physics in an attempt to support your claim, when in no way is your claim related to quantum physics.&nbsp;&nbsp;One can also use the weirdness of the principles of quantum physics to cast doubt on the well-established laws of the macro world.
+      </p>
+      <p class="Body">
+        Perhaps the greatest mind in quantum physics, Richard Feynman, once said, &#x201c;I think I can safely say that nobody understands quantum mechanics,&#x201d; and he is probably right.&nbsp;&nbsp;People recognize that this is perhaps the most bizarre, paradoxical, and incomprehensible area of study, that is also a respectable science.&nbsp;&nbsp;So, if you can manage to connect the truth of your argument to quantum physics, it would be unlikely that there would be many people who know enough about quantum physics to assert that your connection is invalid. Thus your argument gains credibility out of ignorance.
+      </p>
+      <p class="Body">
+        The mysterious nature of quantum physics is a breeding ground for superstition, religious claims, &#x201c;proof&#x201d; of God, universal consciousness, and many other <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Unfalsifiability" target="fallacy" data-toggle="tooltip" title="" data-original-title="Confidently asserting that a theory or hypothesis is true or false even though the theory or hypothesis cannot possibly be contradicted by an observation or the outcome of any physical experiment, usually without strong evidence or good reasons.">unfalsifiable</a></i>&nbsp;claims.&nbsp;
+      </p>
+      <p class="Body">
+        <strong>Logical Form:</strong>
+      </p>
+      <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+        Quantum physics supports the idea that X is Y.
+      </p>
+      <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+        Therefore, X is Y.
+      </p>
+      <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+        (although quantum physics supports no such thing)
+      </p>
+      <p class="Body">
+        <strong>Example #1:</strong>
+      </p>
+      <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+        Depook: Quantum physics provides evidence that a cosmic consciousness exists.
+      </p>
+      <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+        Sam: ???
+      </p>
+      <p class="Body">
+        <strong>Explanation:</strong>&nbsp;Sam knows nothing about quantum physics, so really cannot respond, yet Depook did not establish an argument as to how it provides evidence, he just made the assertion.&nbsp;
+      </p>
+      <p class="Body">
+        <strong>Example #2:</strong>
+      </p>
+      <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+        Depook: Quantum physics is the language of God.&nbsp;&nbsp;It has been shown that quantum particles contain information that can instantly communicate information over any distance, anywhere in or outside the universe.
+      </p>
+      <p class="uk-margin-remove uk-text-primary" style="padding-left: 20px; display: block; font-style: italic">
+        Sam: ???
+      </p>
+      <p class="Body">
+        <strong>Explanation:</strong>&nbsp;Sam knows nothing about quantum physics, so really cannot respond.&nbsp;&nbsp;Depook did expand on his assertion here, relied on the <i><a href="https://www.logicallyfallacious.com/logicalfallacies/Argument-by-Gibberish" target="fallacy" data-toggle="tooltip" title="" data-original-title="When incomprehensible jargon or plain incoherent gibberish is used to give the appearance of a strong argument, in place of evidence or valid reasons to accept the argument.">argument by gibberish</a></i>&nbsp;in order to make what sounded like scientific claims which, in fact, were not.&nbsp;&nbsp;According to everything we know about quantum physics, information cannot travel faster than light -- otherwise, it could create a <i>time travel paradox</i>.
+      </p>
+      <p class="Body">
+        <strong>Exception:</strong>&nbsp;Making a scientific claim about quantum physics, using the scientific method, is not fallacious.
+      </p>
+      <p class="Body">
+        <strong>Tip:</strong>&nbsp;Pick up an introductory book on quantum physics, it is not only a fascinating subject, but you will be well prepared to ask the right questions and expose this fallacy when used.
+      </p>
+    </div>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node TEXT="Metacognitive" POSITION="bottom_or_right" ID="ID_988169359" CREATED="1767637738611" MODIFIED="1767637741915">
+<node TEXT="Misology" ID="ID_1257551988" CREATED="1635762784806" MODIFIED="1635762785233"/>
+</node>
+<node TEXT="Analogical Misuse" POSITION="top_or_left" ID="ID_1658386304" CREATED="1767637890319" MODIFIED="1767637893849">
+<node TEXT="Argumentum a simili" POSITION="bottom_or_right" ID="ID_1384554836" CREATED="1646768165277" MODIFIED="1722547559386"><richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (<strong><span style="font-weight: normal;">Also known as</span></strong>: Argument by Similarity)
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      - **Description**: This argument draws a conclusion based on the similarity between two or more situations. It posits that because one situation is like another in some respects, the same conclusions can be applied to both.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Logical Form**:
+    </p>
+    <p>
+      &#xa0;&#xa0;1. Premise 1: Situation A has characteristics X, Y, and Z.
+    </p>
+    <p>
+      &#xa0;&#xa0;2. Premise 2: Situation B has characteristics X, Y, and Z.
+    </p>
+    <p>
+      &#xa0;&#xa0;3. Conclusion: What is true for Situation A is also true for Situation B.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Example #1**:
+    </p>
+    <p>
+      &#xa0;&#xa0;- **Scenario**: A teacher argues that because a previous class benefited from a new teaching method, the current class will benefit from it as well.
+    </p>
+    <p>
+      &#xa0;&#xa0;- **Explanation**: The teacher is assuming that the current class is similar enough to the previous one in relevant aspects (such as learning styles or engagement levels) for the same method to be effective.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Example #2**:
+    </p>
+    <p>
+      &#xa0;&#xa0;- **Scenario**: A lawyer argues that because a court ruled in favor of a similar case, the court should rule the same way in the present case.
+    </p>
+    <p>
+      &#xa0;&#xa0;- **Explanation**: The lawyer is drawing a parallel between the two cases, suggesting that the legal principles applied previously should apply again due to the similarities.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Variation**: Sometimes known as reasoning by analogy, this variation involves drawing parallels between more abstract concepts rather than direct situations. For example, &quot;Just as a gardener must prune a plant for it to grow stronger, a person must face challenges to become resilient.&quot;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Tip**: To strengthen an argument by similarity, ensure that the situations being compared are similar in all relevant and significant aspects. Be prepared to address potential dissimilarities that could weaken the argument.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Exception**: This type of argument can fail if the similarities are superficial or if there are critical differences between the situations that affect the conclusion. Always scrutinize the depth and relevance of the similarities.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Fun Fact**: Analogical reasoning, which underlies argumentum a simili, is a fundamental aspect of human cognition and is often used in everyday decision-making as well as scientific reasoning.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Argumentum ad exemplum" POSITION="bottom_or_right" ID="ID_1562384241" CREATED="1646768985225" MODIFIED="1722548794109"><richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (Also known as: Argument from example)
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      - **Description**: Argumentum ad exemplum is a rhetorical strategy where an example is used to illustrate and support a point. This form of argumentation uses specific instances to demonstrate the validity of a general claim or principle.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Logical Form**:
+    </p>
+    <p>
+      &#xa0;&#xa0;1. General Claim: Proposition A is true.
+    </p>
+    <p>
+      &#xa0;&#xa0;2. Example: Specific instance B demonstrates Proposition A.
+    </p>
+    <p>
+      &#xa0;&#xa0;3. Conclusion: Therefore, Proposition A is supported by the example B.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Example #1**:
+    </p>
+    <p>
+      &#xa0;&#xa0;- **Scenario**: To show that exercise improves mental health, one might cite an example of a study where participants who engaged in regular physical activity reported lower levels of stress and anxiety.
+    </p>
+    <p>
+      &#xa0;&#xa0;- **Explanation**: The specific instance of the study provides concrete evidence to support the general claim that exercise benefits mental health.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Example #2**:
+    </p>
+    <p>
+      &#xa0;&#xa0;- **Scenario**: To argue that renewable energy sources can effectively power a city, one might reference the case of a city that successfully implemented wind and solar power to meet its energy needs.
+    </p>
+    <p>
+      &#xa0;&#xa0;- **Explanation**: The example of the city serves as a real-world illustration that strengthens the argument for the viability of renewable energy.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Variation**:
+    </p>
+    <p>
+      &#xa0;&#xa0;- **Analogical Argument**: Uses examples that draw parallels between similar cases to argue that what is true for one case is likely true for another.
+    </p>
+    <p>
+      &#xa0;&#xa0;- **Illustrative Example**: Uses an example purely to clarify a point rather than to prove it.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Tip**: Choose examples that are highly relevant and representative of the general claim. Ensure that the examples are accurate and verifiable to maintain the argument’s credibility.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Exception**: This argument can be weak if the example used is an outlier or not representative of the general claim. Avoid using exceptional cases that might not generalize well.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Fun Fact**: The use of examples is a common teaching technique in various disciplines, as it helps in concretizing abstract concepts and principles, making them easier to understand and remember.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="argumentum a fortiori" POSITION="bottom_or_right" ID="ID_137731789" CREATED="1646768246602" MODIFIED="1722547666739"><richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (<strong><span style="font-weight: normal;">Also known as</span></strong><span style="font-weight: normal;">: </span>Argument from the stronger reason)
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ### Argumentum a fortiori
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Name**: Argumentum a fortiori
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Also known as**: Argument from the stronger reason
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Description**: Argumentum a fortiori is a form of reasoning that asserts if something is true in a stronger or more significant case, it must also be true in a weaker or less significant case. It draws upon existing confidence in a stronger proposition to argue in favor of a second proposition that is even more certain.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Logical Form**:
+    </p>
+    <p>
+      &#xa0;&#xa0;1. Premise 1: Proposition A is true and is a stronger case.
+    </p>
+    <p>
+      &#xa0;&#xa0;2. Premise 2: Proposition B is a weaker case than Proposition A.
+    </p>
+    <p>
+      &#xa0;&#xa0;3. Conclusion: Therefore, Proposition B is also true.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Example #1**:
+    </p>
+    <p>
+      &#xa0;&#xa0;- **Scenario**: If driving 10 mph over the speed limit is punishable by a fine of $50, it can be inferred a fortiori that driving 20 mph over the speed limit is also punishable by a fine of at least $50.
+    </p>
+    <p>
+      &#xa0;&#xa0;- **Explanation**: Since the punishment applies to a less severe case (10 mph over), it must logically apply to the more severe case (20 mph over).
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Example #2**:
+    </p>
+    <p>
+      &#xa0;&#xa0;- **Scenario**: If a person is dead, then one can, with equal or greater certainty, argue a fortiori that the person is not breathing.
+    </p>
+    <p>
+      &#xa0;&#xa0;- **Explanation**: Being dead is a stronger condition that implies not breathing, thus confirming the weaker condition (not breathing) through the stronger condition (being dead).
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Tip**: Ensure that the stronger case truly encompasses the weaker case, making the inference logical and undeniable.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Exception**: The argument fails if the stronger and weaker cases do not share a relevant relationship that makes the inference valid. For example, a characteristic true of a larger quantity does not always apply to a smaller quantity if the relationship is not proportional.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - **Fun Fact**: In Jewish law, a fortiori arguments are regularly used under the name &quot;kal va-chomer&quot; (light and heavy), which infers from a lighter case to a heavier case, highlighting the deep historical roots and cross-cultural relevance of this form of reasoning.
+    </p>
+  </body>
+</html></richcontent>
+<node TEXT="a maiori ad minus" ID="ID_1284738597" CREATED="1646768261225" MODIFIED="1722547682595"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      - **Variation**:
+    </p>
+    <p>
+      &#xa0;&#xa0;- **A maiore ad minus**: This describes an inference from a greater to a lesser condition. For example, &quot;If a door is big enough for a person two meters high, then a shorter person may also come through.&quot;
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="a minori ad maius" ID="ID_1911822245" CREATED="1646768272183" MODIFIED="1722547686212"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      - **Variation**:
+    </p>
+    <p>
+      &#xa0;&#xa0;- **A minore ad maius**: This less common variation infers from a lesser to a greater condition. For example, &quot;If a rope can tow a car, it can also tow a truck.&quot;
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
 </node>
 </node>
 </map>
