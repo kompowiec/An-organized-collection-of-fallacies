@@ -31,7 +31,7 @@
   </body>
 </html>
 </richcontent>
-<hook NAME="MapStyle" zoom="0.912">
+<hook NAME="MapStyle">
     <conditional_styles>
         <conditional_style ACTIVE="true" LOCALIZED_STYLE_REF="styles.connection" LAST="false">
             <node_periodic_level_condition PERIOD="2" REMAINDER="1"/>
@@ -46,7 +46,7 @@
             <node_level_condition VALUE="6" COMPARATION_RESULT="0" SUCCEED="true"/>
         </conditional_style>
     </conditional_styles>
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" fit_to_viewport="false" show_icons="BESIDE_NODES" showTagCategories="false" show_tags="UNDER_NODES"/>
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_tags="UNDER_NODES" show_note_icons="true" fit_to_viewport="false" show_icons="BESIDE_NODES" showTagCategories="false"/>
     <tags category_separator="::"/>
 
 <map_styles>
@@ -6699,7 +6699,7 @@
     </div>
   </body>
 </html></richcontent>
-<node TEXT="" ID="ID_1881355032" CREATED="1618500629222" MODIFIED="1722597191276"><richcontent TYPE="NOTE">
+<node TEXT="Argumentum ad Antiquitatis" ID="ID_1881355032" CREATED="1618500629222" MODIFIED="1767639885574"><richcontent TYPE="NOTE">
 <html>
   <head>
     
@@ -6755,6 +6755,17 @@
     </p>
     <p>
       - **Fun Fact:** The term &quot;argumentum ad antiquitatem&quot; comes from Latin, meaning &quot;argument from antiquity,&quot; highlighting how arguments based on age or tradition often ignore the need for rational justification.
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Also Known As: Appeal to Tradition, Appeal to Ancient Wisdom, Argument from Antiquity
     </p>
   </body>
 </html></richcontent>
@@ -11768,7 +11779,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Argumentum ad vertiginem" ID="ID_1746795231" CREATED="1646769012615" MODIFIED="1722549017338"><richcontent TYPE="DETAILS">
+<node TEXT="Argumentum ad vertiginem" ID="ID_1746795231" CREATED="1646769012615" MODIFIED="1767639903628"><richcontent TYPE="DETAILS">
 <html>
   <head>
     
@@ -11859,7 +11870,6 @@
     </p>
   </body>
 </html></richcontent>
-<node TEXT="" ID="ID_1898841090" CREATED="1646769036743" MODIFIED="1646769036743"/>
 </node>
 <node TEXT="Argumentum ad quietem" ID="ID_274828949" CREATED="1646769248115" MODIFIED="1722585637621"><richcontent TYPE="NOTE">
 <html>
@@ -12563,7 +12573,7 @@
 </html></richcontent>
 </node>
 </node>
-<node TEXT="Faulty generalization/Inductive fallacies" FOLDED="true" POSITION="bottom_or_right" ID="ID_841086237" CREATED="1618489401273" MODIFIED="1635776483188">
+<node TEXT="Faulty generalization/Inductive fallacies" POSITION="bottom_or_right" ID="ID_841086237" CREATED="1618489401273" MODIFIED="1635776483188">
 <font BOLD="true"/>
 <node TEXT="Argument from Hearsay" ID="ID_1576374097" CREATED="1618489423817" MODIFIED="1642688049819"><richcontent TYPE="DETAILS">
 <html>
@@ -13980,7 +13990,7 @@
 </html></richcontent>
 </node>
 <node TEXT="Thought-terminating cliché" ID="ID_349827019" CREATED="1618499854696" MODIFIED="1722586995119">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1706945405" STARTINCLINATION="570.74998 pt;-9 pt;" ENDINCLINATION="572.24998 pt;-9 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#ff0000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1706945405" STARTINCLINATION="570.74998 pt;-8.25 pt;" ENDINCLINATION="572.24998 pt;-8.25 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
 <html>
   <head>
@@ -20909,7 +20919,7 @@
 </html></richcontent>
 </node>
 </node>
-<node TEXT="Formal fallacies" FOLDED="true" POSITION="top_or_left" ID="ID_480276856" CREATED="1636874263970" MODIFIED="1636874283454">
+<node TEXT="Formal fallacies" POSITION="top_or_left" ID="ID_480276856" CREATED="1636874263970" MODIFIED="1636874283454">
 <node ID="ID_139884014" CREATED="1618488024705" MODIFIED="1642352131926"><richcontent TYPE="NODE">
 
 <html>
@@ -23938,7 +23948,7 @@
 </html></richcontent>
 </node>
 </node>
-<node TEXT="Ad hoc rescue" FOLDED="true" POSITION="top_or_left" ID="ID_22427007" CREATED="1636979941740" MODIFIED="1642678608300"><richcontent TYPE="DETAILS">
+<node TEXT="Ad hoc rescue" POSITION="top_or_left" ID="ID_22427007" CREATED="1636979941740" MODIFIED="1642678608300"><richcontent TYPE="DETAILS">
 <html>
   <head>
     
